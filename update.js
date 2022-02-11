@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const { analyzeAllBrands } = require('../index');
+const { analyzeAllBrands } = require('./index');
 const fs = require('fs');
 
 analyzeAllBrands()
