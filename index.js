@@ -13,7 +13,7 @@ const client = new TwitterApi({
 });
 
 async function analyzeAllBrands() {
-  const results = await Bluebird.resolve(brands.slice(0, 2))
+  const results = await Bluebird.resolve(brands)
     .map(brand => analyzeBrand({ brand }))
     .reduce((accum, array) => accum.concat(array), [])
     .filter(Boolean);
