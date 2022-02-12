@@ -54,6 +54,7 @@ async function analyzeUserResult({ brand, user }) {
   const timeline = await client.v1.get('statuses/user_timeline.json', {
     user_id: user.id_str,
     count: 5,
+    tweet_mode: 'extended',
   });
   const replies = timeline.filter(tweet => tweet.in_reply_to_status_id_str);
 
@@ -80,10 +81,7 @@ async function analyzeTweet({ brand, user, tweet }) {
       );
 
     if (originalTweetIsForVerifiedUser) {
-      const fullTweet = await client.v1.get('statuses/show.json', {
-        id: tweet.id_str,
-      });
-      return { brand, user, tweet: fullTweet, isScam: true };
+      return { brand, user, tweet, isScam: true };
     } else return { isScam: false };
   } catch (error) {
     if (error.code !== 404)
