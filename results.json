@@ -218,10 +218,22 @@
       "created_at": "Thu Aug 26 13:09:41 +0000 2021",
       "id": 1430880126225600500,
       "id_str": "1430880126225600512",
-      "text": "@Marianisimas Buenos días marianisima, hemos recibido tu reclamo, por favor brindanos tu número de contacto y un op… https://t.co/cUnQDh9km2",
-      "truncated": true,
+      "full_text": "@Marianisimas Buenos días marianisima, hemos recibido tu reclamo, por favor brindanos tu número de contacto y un operador se pondrá en comunicación, saludos. #Despegar_Ar",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        170
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "Despegar_Ar",
+            "indices": [
+              158,
+              170
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -235,17 +247,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/cUnQDh9km2",
-            "expanded_url": "https://twitter.com/i/web/status/1430880126225600512",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1430693164550131700,
@@ -534,10 +536,22 @@
       "created_at": "Thu Aug 26 13:08:21 +0000 2021",
       "id": 1430879790295310300,
       "id_str": "1430879790295310342",
-      "text": "@penecca Buenos días Romina, hemos recibido tu reclamo, por favor brindanos tu número de contacto y un operador se… https://t.co/nEAiGclP3a",
-      "truncated": true,
+      "full_text": "@penecca Buenos días Romina, hemos recibido tu reclamo, por favor brindanos tu número de contacto y un operador se pondrá en comunicación, saludos. #Despegar_Ar",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        160
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "Despegar_Ar",
+            "indices": [
+              148,
+              160
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -551,17 +565,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/nEAiGclP3a",
-            "expanded_url": "https://twitter.com/i/web/status/1430879790295310342",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1430675732984967200,
@@ -850,10 +854,22 @@
       "created_at": "Thu Aug 26 13:07:09 +0000 2021",
       "id": 1430879490520060000,
       "id_str": "1430879490520059918",
-      "text": "@Loli93663207 Buenos días Loli, hemos recibido tu reclamo, seguramente es un error te pedimos que por favor nos bri… https://t.co/xhfhgYIxnl",
-      "truncated": true,
+      "full_text": "@Loli93663207 Buenos días Loli, hemos recibido tu reclamo, seguramente es un error te pedimos que por favor nos brindes tu número de contacto y un operador se pondrá en comunicación, saludos. #Despegar_Ar",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        204
+      ],
       "entities": {
-        "hashtags": [],
+        "hashtags": [
+          {
+            "text": "Despegar_Ar",
+            "indices": [
+              192,
+              204
+            ]
+          }
+        ],
         "symbols": [],
         "user_mentions": [
           {
@@ -867,17 +883,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/xhfhgYIxnl",
-            "expanded_url": "https://twitter.com/i/web/status/1430879490520059918",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1430667162679709700,
@@ -1233,467 +1239,15 @@
       "withheld_in_countries": []
     },
     "tweet": {
-      "created_at": "Tue Jan 11 00:45:07 +0000 2022",
-      "id": 1480702277820113000,
-      "id_str": "1480702277820112896",
-      "text": "@Graciel30734518 @Soledad_Acunia @HSBC_AR @bbva_argentina @BancoGalicia @itauargentina @Santander_Ar @BancoCiudad… https://t.co/ecM1pIb1q9",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "Graciel30734518",
-            "name": "Graciela Beatriz Varela🦊#SoyDel41%",
-            "id": 1120165760696037400,
-            "id_str": "1120165760696037382",
-            "indices": [
-              0,
-              16
-            ]
-          },
-          {
-            "screen_name": "Soledad_Acunia",
-            "name": "María Soledad Acuña",
-            "id": 313577888,
-            "id_str": "313577888",
-            "indices": [
-              17,
-              32
-            ]
-          },
-          {
-            "screen_name": "HSBC_AR",
-            "name": "HSBC Argentina",
-            "id": 2992604147,
-            "id_str": "2992604147",
-            "indices": [
-              33,
-              41
-            ]
-          },
-          {
-            "screen_name": "bbva_argentina",
-            "name": "BBVA en Argentina",
-            "id": 135606245,
-            "id_str": "135606245",
-            "indices": [
-              42,
-              57
-            ]
-          },
-          {
-            "screen_name": "BancoGalicia",
-            "name": "Banco Galicia",
-            "id": 235138018,
-            "id_str": "235138018",
-            "indices": [
-              58,
-              71
-            ]
-          },
-          {
-            "screen_name": "itauargentina",
-            "name": "Itaú Argentina",
-            "id": 1056974738319462400,
-            "id_str": "1056974738319462405",
-            "indices": [
-              72,
-              86
-            ]
-          },
-          {
-            "screen_name": "Santander_Ar",
-            "name": "Santander Argentina",
-            "id": 199358175,
-            "id_str": "199358175",
-            "indices": [
-              87,
-              100
-            ]
-          },
-          {
-            "screen_name": "BancoCiudad",
-            "name": "Banco Ciudad",
-            "id": 151946454,
-            "id_str": "151946454",
-            "indices": [
-              101,
-              113
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/ecM1pIb1q9",
-            "expanded_url": "https://twitter.com/i/web/status/1480702277820112896",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              115,
-              138
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1480700621971808300,
-      "in_reply_to_status_id_str": "1480700621971808259",
-      "in_reply_to_user_id": 1120165760696037400,
-      "in_reply_to_user_id_str": "1120165760696037382",
-      "in_reply_to_screen_name": "Graciel30734518",
-      "user": {
-        "id": 1480295346190258200,
-        "id_str": "1480295346190258179",
-        "name": "Despegar Argentina",
-        "screen_name": "DespegarArgenti",
-        "location": "Buenos Aires, Argentina",
-        "description": "Encontrará ofertas, típs y inspiración para tu próximo viaje ✈️",
-        "url": null,
-        "entities": {
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 0,
-        "friends_count": 10,
-        "listed_count": 0,
-        "created_at": "Sun Jan 09 21:48:18 +0000 2022",
-        "favourites_count": 2,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 8,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1480686651169030146/wpKNSG7Z_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480686651169030146/wpKNSG7Z_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1480295346190258179/1641858216",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "es"
-    },
-    "isScam": true
-  },
-  {
-    "brand": {
-      "name": "Despegar Argentina",
-      "user": {
-        "id": 217897629,
-        "id_str": "217897629",
-        "name": "Despegar Argentina",
-        "screen_name": "DespegarAr",
-        "location": "Argentina",
-        "description": "Encontrá ofertas, tips & inspiración para tu próximo viaje \n✈",
-        "url": "https://t.co/uZytOmfcbH",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/uZytOmfcbH",
-                "expanded_url": "http://www.despegar.com.ar",
-                "display_url": "despegar.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 149707,
-        "friends_count": 54891,
-        "listed_count": 344,
-        "created_at": "Sat Nov 20 21:08:35 +0000 2010",
-        "favourites_count": 1197,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": true,
-        "statuses_count": 49003,
-        "lang": null,
-        "status": {
-          "created_at": "Sat Feb 12 02:14:20 +0000 2022",
-          "id": 1492321139657478100,
-          "id_str": "1492321139657478155",
-          "text": "@Estefi_Peralta Hola, por favor escríbenos de manera interna a fin de evaluar mejor lo ocurrido y brindarte asisten… https://t.co/JavlGUn2yZ",
-          "truncated": true,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "Estefi_Peralta",
-                "name": "EstefiP🕯🤍 #PresencialidadSinRestricciones",
-                "id": 461333452,
-                "id_str": "461333452",
-                "indices": [
-                  0,
-                  15
-                ]
-              }
-            ],
-            "urls": [
-              {
-                "url": "https://t.co/JavlGUn2yZ",
-                "expanded_url": "https://twitter.com/i/web/status/1492321139657478155",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
-          },
-          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
-          "in_reply_to_status_id": 1492320006226342000,
-          "in_reply_to_status_id_str": "1492320006226341890",
-          "in_reply_to_user_id": 461333452,
-          "in_reply_to_user_id_str": "461333452",
-          "in_reply_to_screen_name": "Estefi_Peralta",
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "es"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "20488D",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217897629/1593721152",
-        "profile_link_color": "1B95E0",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": false,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      }
-    },
-    "user": {
-      "id": 1480295346190258200,
-      "id_str": "1480295346190258179",
-      "name": "Despegar Argentina",
-      "screen_name": "DespegarArgenti",
-      "location": "Buenos Aires, Argentina",
-      "description": "Encontrará ofertas, típs y inspiración para tu próximo viaje ✈️",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 0,
-      "friends_count": 10,
-      "listed_count": 0,
-      "created_at": "Sun Jan 09 21:48:18 +0000 2022",
-      "favourites_count": 2,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 8,
-      "lang": null,
-      "status": {
-        "created_at": "Tue Jan 11 00:45:07 +0000 2022",
-        "id": 1480702277820113000,
-        "id_str": "1480702277820112896",
-        "text": "@Graciel30734518 @Soledad_Acunia @HSBC_AR @bbva_argentina @BancoGalicia @itauargentina @Santander_Ar @BancoCiudad… https://t.co/ecM1pIb1q9",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "Graciel30734518",
-              "name": "Graciela Beatriz Varela🦊#SoyDel41%",
-              "id": 1120165760696037400,
-              "id_str": "1120165760696037382",
-              "indices": [
-                0,
-                16
-              ]
-            },
-            {
-              "screen_name": "Soledad_Acunia",
-              "name": "María Soledad Acuña",
-              "id": 313577888,
-              "id_str": "313577888",
-              "indices": [
-                17,
-                32
-              ]
-            },
-            {
-              "screen_name": "HSBC_AR",
-              "name": "HSBC Argentina",
-              "id": 2992604147,
-              "id_str": "2992604147",
-              "indices": [
-                33,
-                41
-              ]
-            },
-            {
-              "screen_name": "bbva_argentina",
-              "name": "BBVA en Argentina",
-              "id": 135606245,
-              "id_str": "135606245",
-              "indices": [
-                42,
-                57
-              ]
-            },
-            {
-              "screen_name": "BancoGalicia",
-              "name": "Banco Galicia",
-              "id": 235138018,
-              "id_str": "235138018",
-              "indices": [
-                58,
-                71
-              ]
-            },
-            {
-              "screen_name": "itauargentina",
-              "name": "Itaú Argentina",
-              "id": 1056974738319462400,
-              "id_str": "1056974738319462405",
-              "indices": [
-                72,
-                86
-              ]
-            },
-            {
-              "screen_name": "Santander_Ar",
-              "name": "Santander Argentina",
-              "id": 199358175,
-              "id_str": "199358175",
-              "indices": [
-                87,
-                100
-              ]
-            },
-            {
-              "screen_name": "BancoCiudad",
-              "name": "Banco Ciudad",
-              "id": 151946454,
-              "id_str": "151946454",
-              "indices": [
-                101,
-                113
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/ecM1pIb1q9",
-              "expanded_url": "https://twitter.com/i/web/status/1480702277820112896",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                115,
-                138
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": 1480700621971808300,
-        "in_reply_to_status_id_str": "1480700621971808259",
-        "in_reply_to_user_id": 1120165760696037400,
-        "in_reply_to_user_id_str": "1120165760696037382",
-        "in_reply_to_screen_name": "Graciel30734518",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "es"
-      },
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1480686651169030146/wpKNSG7Z_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480686651169030146/wpKNSG7Z_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1480295346190258179/1641858216",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "tweet": {
       "created_at": "Tue Jan 11 00:06:58 +0000 2022",
       "id": 1480692673874837500,
       "id_str": "1480692673874837504",
-      "text": "@OhDotol Nos inquieta mucho tu satisfacción y te pedimos mil disculpas por los inconvenientes ocasionados, te pedim… https://t.co/P0gPAmepWv",
-      "truncated": true,
+      "full_text": "@OhDotol Nos inquieta mucho tu satisfacción y te pedimos mil disculpas por los inconvenientes ocasionados, te pedimos que nos brindes tu número telefónico por privado y un operador se comunicará.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        195
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -1709,17 +1263,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/P0gPAmepWv",
-            "expanded_url": "https://twitter.com/i/web/status/1480692673874837504",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1480660829494124500,
@@ -2021,8 +1565,12 @@
       "created_at": "Fri Dec 17 12:29:19 +0000 2021",
       "id": 1471819796203331600,
       "id_str": "1471819796203331585",
-      "text": "@patorodri Buenos dias,\nAtención al cliente de\nBANCO hsbc:\nNos encontramos disponibles para resolver todas sus cons… https://t.co/GsJ2OwXU4n",
-      "truncated": true,
+      "full_text": "@patorodri Buenos dias,\nAtención al cliente de\nBANCO hsbc:\nNos encontramos disponibles para resolver todas sus consultas, para una mejor atención, brindanos tu numero de contacto y un asesor personal tomará la comunicación al instante,\n*Despegar Argentina*",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        256
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2038,17 +1586,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/GsJ2OwXU4n",
-            "expanded_url": "https://twitter.com/i/web/status/1471819796203331585",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1471800431307231200,
@@ -2171,7 +1709,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653261,
+        "followers_count": 653260,
         "friends_count": 316632,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -2180,37 +1718,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1021776,
+        "statuses_count": 1021777,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 12 00:37:17 +0000 2022",
-          "id": 1492296718293123000,
-          "id_str": "1492296718293123073",
-          "text": "@CeciliaFriasOK ¡Hola! Gracias por escribirnos. Te enviamos un DM para ayudarte con ello. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Sat Feb 12 03:19:53 +0000 2022",
+          "id": 1492337634760343600,
+          "id_str": "1492337634760343562",
+          "text": "@Germanrgutierre Buenas noches, podes escribirnos a través del DM  y te estaremos brindando mas información para ve… https://t.co/BZe8fmNm8e",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CeciliaFriasOK",
-                "name": "Cecilia",
-                "id": 333546376,
-                "id_str": "333546376",
+                "screen_name": "Germanrgutierre",
+                "name": "Queso🧀",
+                "id": 1109285560466710500,
+                "id_str": "1109285560466710528",
                 "indices": [
                   0,
-                  15
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/BZe8fmNm8e",
+                "expanded_url": "https://twitter.com/i/web/status/1492337634760343562",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1492296051847487500,
-          "in_reply_to_status_id_str": "1492296051847487489",
-          "in_reply_to_user_id": 333546376,
-          "in_reply_to_user_id_str": "333546376",
-          "in_reply_to_screen_name": "CeciliaFriasOK",
+          "in_reply_to_status_id": 1492337023721431000,
+          "in_reply_to_status_id_str": "1492337023721431045",
+          "in_reply_to_user_id": 1109285560466710500,
+          "in_reply_to_user_id_str": "1109285560466710528",
+          "in_reply_to_screen_name": "Germanrgutierre",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -2339,8 +1887,12 @@
       "created_at": "Thu Feb 05 04:55:17 +0000 2015",
       "id": 563199157704618000,
       "id_str": "563199157704617984",
-      "text": "@Claritajosefina @DiarioOle callate molesto",
+      "full_text": "@Claritajosefina @DiarioOle callate molesto",
       "truncated": false,
+      "display_text_range": [
+        0,
+        43
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2465,7 +2017,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653261,
+        "followers_count": 653260,
         "friends_count": 316632,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -2474,37 +2026,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1021776,
+        "statuses_count": 1021777,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 12 00:37:17 +0000 2022",
-          "id": 1492296718293123000,
-          "id_str": "1492296718293123073",
-          "text": "@CeciliaFriasOK ¡Hola! Gracias por escribirnos. Te enviamos un DM para ayudarte con ello. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Sat Feb 12 03:19:53 +0000 2022",
+          "id": 1492337634760343600,
+          "id_str": "1492337634760343562",
+          "text": "@Germanrgutierre Buenas noches, podes escribirnos a través del DM  y te estaremos brindando mas información para ve… https://t.co/BZe8fmNm8e",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CeciliaFriasOK",
-                "name": "Cecilia",
-                "id": 333546376,
-                "id_str": "333546376",
+                "screen_name": "Germanrgutierre",
+                "name": "Queso🧀",
+                "id": 1109285560466710500,
+                "id_str": "1109285560466710528",
                 "indices": [
                   0,
-                  15
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/BZe8fmNm8e",
+                "expanded_url": "https://twitter.com/i/web/status/1492337634760343562",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1492296051847487500,
-          "in_reply_to_status_id_str": "1492296051847487489",
-          "in_reply_to_user_id": 333546376,
-          "in_reply_to_user_id_str": "333546376",
-          "in_reply_to_screen_name": "CeciliaFriasOK",
+          "in_reply_to_status_id": 1492337023721431000,
+          "in_reply_to_status_id_str": "1492337023721431045",
+          "in_reply_to_user_id": 1109285560466710500,
+          "in_reply_to_user_id_str": "1109285560466710528",
+          "in_reply_to_screen_name": "Germanrgutierre",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -2633,8 +2195,12 @@
       "created_at": "Thu Feb 05 04:48:17 +0000 2015",
       "id": 563197395337756700,
       "id_str": "563197395337756672",
-      "text": "@LalitaParaguaya @laliespos  @LaliMusica  que perra por dios",
+      "full_text": "@LalitaParaguaya @laliespos  @LaliMusica  que perra por dios",
       "truncated": false,
+      "display_text_range": [
+        0,
+        60
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -2769,7 +2335,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653261,
+        "followers_count": 653260,
         "friends_count": 316632,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -2778,37 +2344,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1021776,
+        "statuses_count": 1021777,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 12 00:37:17 +0000 2022",
-          "id": 1492296718293123000,
-          "id_str": "1492296718293123073",
-          "text": "@CeciliaFriasOK ¡Hola! Gracias por escribirnos. Te enviamos un DM para ayudarte con ello. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Sat Feb 12 03:19:53 +0000 2022",
+          "id": 1492337634760343600,
+          "id_str": "1492337634760343562",
+          "text": "@Germanrgutierre Buenas noches, podes escribirnos a través del DM  y te estaremos brindando mas información para ve… https://t.co/BZe8fmNm8e",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CeciliaFriasOK",
-                "name": "Cecilia",
-                "id": 333546376,
-                "id_str": "333546376",
+                "screen_name": "Germanrgutierre",
+                "name": "Queso🧀",
+                "id": 1109285560466710500,
+                "id_str": "1109285560466710528",
                 "indices": [
                   0,
-                  15
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/BZe8fmNm8e",
+                "expanded_url": "https://twitter.com/i/web/status/1492337634760343562",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1492296051847487500,
-          "in_reply_to_status_id_str": "1492296051847487489",
-          "in_reply_to_user_id": 333546376,
-          "in_reply_to_user_id_str": "333546376",
-          "in_reply_to_screen_name": "CeciliaFriasOK",
+          "in_reply_to_status_id": 1492337023721431000,
+          "in_reply_to_status_id_str": "1492337023721431045",
+          "in_reply_to_user_id": 1109285560466710500,
+          "in_reply_to_user_id_str": "1109285560466710528",
+          "in_reply_to_screen_name": "Germanrgutierre",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -2937,8 +2513,12 @@
       "created_at": "Thu Feb 05 04:47:45 +0000 2015",
       "id": 563197263246528500,
       "id_str": "563197263246528512",
-      "text": "@rauly200 no",
+      "full_text": "@rauly200 no",
       "truncated": false,
+      "display_text_range": [
+        0,
+        12
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3063,7 +2643,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653261,
+        "followers_count": 653260,
         "friends_count": 316632,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3072,37 +2652,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1021776,
+        "statuses_count": 1021777,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 12 00:37:17 +0000 2022",
-          "id": 1492296718293123000,
-          "id_str": "1492296718293123073",
-          "text": "@CeciliaFriasOK ¡Hola! Gracias por escribirnos. Te enviamos un DM para ayudarte con ello. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Sat Feb 12 03:19:53 +0000 2022",
+          "id": 1492337634760343600,
+          "id_str": "1492337634760343562",
+          "text": "@Germanrgutierre Buenas noches, podes escribirnos a través del DM  y te estaremos brindando mas información para ve… https://t.co/BZe8fmNm8e",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CeciliaFriasOK",
-                "name": "Cecilia",
-                "id": 333546376,
-                "id_str": "333546376",
+                "screen_name": "Germanrgutierre",
+                "name": "Queso🧀",
+                "id": 1109285560466710500,
+                "id_str": "1109285560466710528",
                 "indices": [
                   0,
-                  15
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/BZe8fmNm8e",
+                "expanded_url": "https://twitter.com/i/web/status/1492337634760343562",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1492296051847487500,
-          "in_reply_to_status_id_str": "1492296051847487489",
-          "in_reply_to_user_id": 333546376,
-          "in_reply_to_user_id_str": "333546376",
-          "in_reply_to_screen_name": "CeciliaFriasOK",
+          "in_reply_to_status_id": 1492337023721431000,
+          "in_reply_to_status_id_str": "1492337023721431045",
+          "in_reply_to_user_id": 1109285560466710500,
+          "in_reply_to_user_id_str": "1109285560466710528",
+          "in_reply_to_screen_name": "Germanrgutierre",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3231,8 +2821,12 @@
       "created_at": "Thu Feb 05 04:46:48 +0000 2015",
       "id": 563197020450881540,
       "id_str": "563197020450881536",
-      "text": "@JohaMurno Deja de quejarte loco",
+      "full_text": "@JohaMurno Deja de quejarte loco",
       "truncated": false,
+      "display_text_range": [
+        0,
+        32
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3357,7 +2951,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653261,
+        "followers_count": 653260,
         "friends_count": 316632,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3366,37 +2960,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1021776,
+        "statuses_count": 1021777,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 12 00:37:17 +0000 2022",
-          "id": 1492296718293123000,
-          "id_str": "1492296718293123073",
-          "text": "@CeciliaFriasOK ¡Hola! Gracias por escribirnos. Te enviamos un DM para ayudarte con ello. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Sat Feb 12 03:19:53 +0000 2022",
+          "id": 1492337634760343600,
+          "id_str": "1492337634760343562",
+          "text": "@Germanrgutierre Buenas noches, podes escribirnos a través del DM  y te estaremos brindando mas información para ve… https://t.co/BZe8fmNm8e",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CeciliaFriasOK",
-                "name": "Cecilia",
-                "id": 333546376,
-                "id_str": "333546376",
+                "screen_name": "Germanrgutierre",
+                "name": "Queso🧀",
+                "id": 1109285560466710500,
+                "id_str": "1109285560466710528",
                 "indices": [
                   0,
-                  15
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/BZe8fmNm8e",
+                "expanded_url": "https://twitter.com/i/web/status/1492337634760343562",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1492296051847487500,
-          "in_reply_to_status_id_str": "1492296051847487489",
-          "in_reply_to_user_id": 333546376,
-          "in_reply_to_user_id_str": "333546376",
-          "in_reply_to_screen_name": "CeciliaFriasOK",
+          "in_reply_to_status_id": 1492337023721431000,
+          "in_reply_to_status_id_str": "1492337023721431045",
+          "in_reply_to_user_id": 1109285560466710500,
+          "in_reply_to_user_id_str": "1109285560466710528",
+          "in_reply_to_screen_name": "Germanrgutierre",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3515,8 +3119,12 @@
       "created_at": "Sat Jan 24 00:47:20 +0000 2015",
       "id": 558788103847280640,
       "id_str": "558788103847280640",
-      "text": "Hermoso el bebe en tu portada @AyelenCarranzaa \n(sarcasmo)",
+      "full_text": "Hermoso el bebe en tu portada @AyelenCarranzaa \n(sarcasmo)",
       "truncated": false,
+      "display_text_range": [
+        0,
+        58
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3642,7 +3250,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653261,
+        "followers_count": 653260,
         "friends_count": 316632,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3651,37 +3259,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1021776,
+        "statuses_count": 1021777,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 12 00:37:17 +0000 2022",
-          "id": 1492296718293123000,
-          "id_str": "1492296718293123073",
-          "text": "@CeciliaFriasOK ¡Hola! Gracias por escribirnos. Te enviamos un DM para ayudarte con ello. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Sat Feb 12 03:19:53 +0000 2022",
+          "id": 1492337634760343600,
+          "id_str": "1492337634760343562",
+          "text": "@Germanrgutierre Buenas noches, podes escribirnos a través del DM  y te estaremos brindando mas información para ve… https://t.co/BZe8fmNm8e",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CeciliaFriasOK",
-                "name": "Cecilia",
-                "id": 333546376,
-                "id_str": "333546376",
+                "screen_name": "Germanrgutierre",
+                "name": "Queso🧀",
+                "id": 1109285560466710500,
+                "id_str": "1109285560466710528",
                 "indices": [
                   0,
-                  15
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/BZe8fmNm8e",
+                "expanded_url": "https://twitter.com/i/web/status/1492337634760343562",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1492296051847487500,
-          "in_reply_to_status_id_str": "1492296051847487489",
-          "in_reply_to_user_id": 333546376,
-          "in_reply_to_user_id_str": "333546376",
-          "in_reply_to_screen_name": "CeciliaFriasOK",
+          "in_reply_to_status_id": 1492337023721431000,
+          "in_reply_to_status_id_str": "1492337023721431045",
+          "in_reply_to_user_id": 1109285560466710500,
+          "in_reply_to_user_id_str": "1109285560466710528",
+          "in_reply_to_screen_name": "Germanrgutierre",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3800,8 +3418,12 @@
       "created_at": "Sat Jan 24 00:43:43 +0000 2015",
       "id": 558787194530586600,
       "id_str": "558787194530586624",
-      "text": "Hola @ferchuy83 a nosotros también nos afectan los días de lluvia, somos humanos, también nos pones tristes :,( Saludos, JB.",
+      "full_text": "Hola @ferchuy83 a nosotros también nos afectan los días de lluvia, somos humanos, también nos pones tristes :,( Saludos, JB.",
       "truncated": false,
+      "display_text_range": [
+        0,
+        124
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -3927,7 +3549,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653261,
+        "followers_count": 653260,
         "friends_count": 316632,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3936,37 +3558,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1021776,
+        "statuses_count": 1021777,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 12 00:37:17 +0000 2022",
-          "id": 1492296718293123000,
-          "id_str": "1492296718293123073",
-          "text": "@CeciliaFriasOK ¡Hola! Gracias por escribirnos. Te enviamos un DM para ayudarte con ello. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Sat Feb 12 03:19:53 +0000 2022",
+          "id": 1492337634760343600,
+          "id_str": "1492337634760343562",
+          "text": "@Germanrgutierre Buenas noches, podes escribirnos a través del DM  y te estaremos brindando mas información para ve… https://t.co/BZe8fmNm8e",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CeciliaFriasOK",
-                "name": "Cecilia",
-                "id": 333546376,
-                "id_str": "333546376",
+                "screen_name": "Germanrgutierre",
+                "name": "Queso🧀",
+                "id": 1109285560466710500,
+                "id_str": "1109285560466710528",
                 "indices": [
                   0,
-                  15
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/BZe8fmNm8e",
+                "expanded_url": "https://twitter.com/i/web/status/1492337634760343562",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1492296051847487500,
-          "in_reply_to_status_id_str": "1492296051847487489",
-          "in_reply_to_user_id": 333546376,
-          "in_reply_to_user_id_str": "333546376",
-          "in_reply_to_screen_name": "CeciliaFriasOK",
+          "in_reply_to_status_id": 1492337023721431000,
+          "in_reply_to_status_id_str": "1492337023721431045",
+          "in_reply_to_user_id": 1109285560466710500,
+          "in_reply_to_user_id_str": "1109285560466710528",
+          "in_reply_to_screen_name": "Germanrgutierre",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4085,8 +3717,12 @@
       "created_at": "Sat Jan 24 00:40:56 +0000 2015",
       "id": 558786494706765800,
       "id_str": "558786494706765824",
-      "text": "Estimado @Fragsman registramos en tu consumo de minutos, un excedente de 140 mins al 4011-4444 FONOGAY, te recomendamos xvideos Saludos, JB.",
+      "full_text": "Estimado @Fragsman registramos en tu consumo de minutos, un excedente de 140 mins al 4011-4444 FONOGAY, te recomendamos xvideos Saludos, JB.",
       "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4202,7 +3838,7 @@
           }
         },
         "protected": false,
-        "followers_count": 594587,
+        "followers_count": 594586,
         "friends_count": 238542,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
@@ -4371,8 +4007,12 @@
       "created_at": "Fri Sep 30 04:44:25 +0000 2016",
       "id": 781716306559168500,
       "id_str": "781716306559168512",
-      "text": "@vayazaber Buenas Noches, desde Personal te mantenemos tu mismo numero, de manera gratuita y sin realizar tramites. + info manda un MD.",
+      "full_text": "@vayazaber Buenas Noches, desde Personal te mantenemos tu mismo numero, de manera gratuita y sin realizar tramites. + info manda un MD.",
       "truncated": false,
+      "display_text_range": [
+        11,
+        135
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4488,7 +4128,7 @@
           }
         },
         "protected": false,
-        "followers_count": 594587,
+        "followers_count": 594586,
         "friends_count": 238542,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
@@ -4667,8 +4307,12 @@
       "created_at": "Thu Sep 07 17:19:07 +0000 2017",
       "id": 905842881734246400,
       "id_str": "905842881734246400",
-      "text": "@mairucha_27 Confesá! Asesinaste a tu abuela y te quedaste con su celular porque sacaba mejores selfies que el tuyo… https://t.co/ylxvXKl8VS",
-      "truncated": true,
+      "full_text": "@mairucha_27 Confesá! Asesinaste a tu abuela y te quedaste con su celular porque sacaba mejores selfies que el tuyo. Decile a tu perro que nos llame.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        149
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -4684,17 +4328,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/ylxvXKl8VS",
-            "expanded_url": "https://twitter.com/i/web/status/905842881734246400",
-            "display_url": "twitter.com/i/web/status/9…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 905831902573199400,
@@ -4996,8 +4630,12 @@
       "created_at": "Thu Dec 16 22:21:01 +0000 2021",
       "id": 1471606314816184300,
       "id_str": "1471606314816184320",
-      "text": "@ddominguez75 Hola👋, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser… https://t.co/JRDGxnK2RS",
-      "truncated": true,
+      "full_text": "@ddominguez75 Hola👋, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés🤔\n\n     ◾Claves\n     ◾Tarjetas\n     ◾Homebanking\n     ◾Cuentas\n\nPara mayor información a su consulta brindanos tu número muchas gracias.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        265
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5013,17 +4651,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/JRDGxnK2RS",
-            "expanded_url": "https://twitter.com/i/web/status/1471606314816184320",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1471521713653305300,
@@ -5338,8 +4966,12 @@
       "created_at": "Thu Dec 16 22:20:41 +0000 2021",
       "id": 1471606231911522300,
       "id_str": "1471606231911522308",
-      "text": "@nachidami Hola👋, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de… https://t.co/qaqM2xHFt9",
-      "truncated": true,
+      "full_text": "@nachidami Hola👋, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés🤔\n\n     ◾Claves\n     ◾Tarjetas\n     ◾Homebanking\n     ◾Cuentas\n\nPara mayor información a su consulta brindanos tu número muchas gracias.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        262
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5355,17 +4987,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/qaqM2xHFt9",
-            "expanded_url": "https://twitter.com/i/web/status/1471606231911522308",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1471507665243181000,
@@ -5656,8 +5278,12 @@
       "created_at": "Fri Feb 11 21:33:26 +0000 2022",
       "id": 1492250449424040000,
       "id_str": "1492250449424039939",
-      "text": "@TodoAutos5 ¡Hola! Buenas tardes. \nPor consultas, dudas y/o reclamos envíanos un mensaje al DM para poder ayudarte.",
+      "full_text": "@TodoAutos5 ¡Hola! Buenas tardes. \nPor consultas, dudas y/o reclamos envíanos un mensaje al DM para poder ayudarte.",
       "truncated": false,
+      "display_text_range": [
+        12,
+        115
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -5984,8 +5610,12 @@
       "created_at": "Tue Jan 11 20:39:45 +0000 2022",
       "id": 1481002917872246800,
       "id_str": "1481002917872246784",
-      "text": "@jlasfdghsad Hola🤗, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser… https://t.co/2Ao35lsiky",
-      "truncated": true,
+      "full_text": "@jlasfdghsad Hola🤗, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés👇\n      1Claves\n      2Tarjetas\n      3Banca Online\n      4Cuentas\nDejanos tu numero de contacto y un ejecutivo de cuenta estará en comunicación muchas gracias.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        288
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6001,17 +5631,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/2Ao35lsiky",
-            "expanded_url": "https://twitter.com/i/web/status/1481002917872246784",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1480985936833908700,
@@ -6346,8 +5966,12 @@
       "created_at": "Tue Jan 11 19:35:33 +0000 2022",
       "id": 1480986760058310700,
       "id_str": "1480986760058310656",
-      "text": "@sambadeorly Hola🤗, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser… https://t.co/biSbY5ht3a",
-      "truncated": true,
+      "full_text": "@sambadeorly Hola🤗, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés👇\n      1Claves\n      2Tarjetas\n      3Banca Online\n      4Cuentas\nDejanos tu numero de contacto y un ejecutivo de cuenta estará en comunicación muchas gracias.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        288
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6363,17 +5987,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/biSbY5ht3a",
-            "expanded_url": "https://twitter.com/i/web/status/1480986760058310656",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1479459841718591500,
@@ -6708,8 +6322,12 @@
       "created_at": "Tue Jan 11 19:34:21 +0000 2022",
       "id": 1480986456516661200,
       "id_str": "1480986456516661255",
-      "text": "@jrncolon Hola🤗, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de… https://t.co/GXaOKk3K7t",
-      "truncated": true,
+      "full_text": "@jrncolon Hola🤗, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés👇\n      1Claves\n      2Tarjetas\n      3Banca Online\n      4Cuentas\nDejanos tu numero de contacto y un ejecutivo de cuenta estará en comunicación muchas gracias.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        285
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -6725,17 +6343,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/GXaOKk3K7t",
-            "expanded_url": "https://twitter.com/i/web/status/1480986456516661255",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1480580728031170600,
@@ -7070,8 +6678,12 @@
       "created_at": "Tue Jan 11 19:32:05 +0000 2022",
       "id": 1480985886175207400,
       "id_str": "1480985886175207440",
-      "text": "@FerchaMartinezG Hola🤗, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden… https://t.co/cWO5uKSMTq",
-      "truncated": true,
+      "full_text": "@FerchaMartinezG Hola🤗, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés👇\n      1Claves\n      2Tarjetas\n      3Banca Online\n      4Cuentas\nDejanos tu numero de contacto y un ejecutivo de cuenta estará en comunicación muchas gracias.",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        292
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7087,17 +6699,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/cWO5uKSMTq",
-            "expanded_url": "https://twitter.com/i/web/status/1480985886175207440",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1480707290973933600,
@@ -7432,8 +7034,12 @@
       "created_at": "Tue Jan 11 19:31:37 +0000 2022",
       "id": 1480985771171590100,
       "id_str": "1480985771171590146",
-      "text": "@barbaralucha Hola🤗, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser… https://t.co/MOl5Xwk6Dv",
-      "truncated": true,
+      "full_text": "@barbaralucha Hola🤗, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés👇\n      1Claves\n      2Tarjetas\n      3Banca Online\n      4Cuentas\nDejanos tu numero de contacto y un ejecutivo de cuenta estará en comunicación muchas gracias.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        289
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7449,17 +7055,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/MOl5Xwk6Dv",
-            "expanded_url": "https://twitter.com/i/web/status/1480985771171590146",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1480894406370676700,
@@ -7772,8 +7368,12 @@
       "created_at": "Tue Feb 08 23:52:37 +0000 2022",
       "id": 1491198313479417900,
       "id_str": "1491198313479417857",
-      "text": "@paulisreload Estimado cliente nos preocupa tu consulta o reclamo, nuestra misión es brindarte la mejor experiencia… https://t.co/Il4qB5sGpu",
-      "truncated": true,
+      "full_text": "@paulisreload Estimado cliente nos preocupa tu consulta o reclamo, nuestra misión es brindarte la mejor experiencia, por favor envianos tu numero de contacto telefónico y un representante se comunicara con ud, para poder ayudarte. Saludos cordiales Vuela JetSMART!",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        264
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -7789,17 +7389,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/Il4qB5sGpu",
-            "expanded_url": "https://twitter.com/i/web/status/1491198313479417857",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491193317115441200,
@@ -7899,7 +7489,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19317,
+        "followers_count": 19316,
         "friends_count": 2935,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -8091,8 +7681,12 @@
       "created_at": "Sat Jan 29 15:21:45 +0000 2022",
       "id": 1487445869171380200,
       "id_str": "1487445869171380225",
-      "text": "@maridiazromero Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre c… https://t.co/7EITDplkc5",
-      "truncated": true,
+      "full_text": "@maridiazromero Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre completo, código de reserva, mail con el que se efectuó la misma, motivo de contacto y resolveremos tu consulta a la brevedad ¡Gracias!",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        249
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -8108,17 +7702,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/7EITDplkc5",
-            "expanded_url": "https://twitter.com/i/web/status/1487445869171380225",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1485979111726071800,
@@ -8231,7 +7815,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19317,
+        "followers_count": 19316,
         "friends_count": 2935,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -8423,8 +8007,12 @@
       "created_at": "Sat Jan 29 15:21:29 +0000 2022",
       "id": 1487445801555038200,
       "id_str": "1487445801555038214",
-      "text": "@chankitro Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre comple… https://t.co/xy7HdIMZkn",
-      "truncated": true,
+      "full_text": "@chankitro Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre completo, código de reserva, mail con el que se efectuó la misma, motivo de contacto y resolveremos tu consulta a la brevedad ¡Gracias!",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        244
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -8440,17 +8028,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/xy7HdIMZkn",
-            "expanded_url": "https://twitter.com/i/web/status/1487445801555038214",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1486029773356761000,
@@ -8563,7 +8141,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19317,
+        "followers_count": 19316,
         "friends_count": 2935,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -8755,8 +8333,12 @@
       "created_at": "Fri May 14 17:54:11 +0000 2021",
       "id": 1393263386234863600,
       "id_str": "1393263386234863620",
-      "text": "@Loozapalooza 👋 Buenas tardes. Soy tu asistente virtual.\nPodemos hablar de alguno de estos temas:\n1. Tarjetas 💳\n2.… https://t.co/0EuuxoDcox",
-      "truncated": true,
+      "full_text": "@Loozapalooza 👋 Buenas tardes. Soy tu asistente virtual.\nPodemos hablar de alguno de estos temas:\n1. Tarjetas 💳\n2. Cuentas 💲\n3. Préstamos 💰\n4. Turnos sucursal 🏦\n5. Gestión de claves 🔓\n6. Entrega de tarjetas 🚚\n7. Cotización Dólar y Euro 🤑\n8. Más temas ➕\nDejanos tu número de contacto",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        282
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -8772,17 +8354,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/0EuuxoDcox",
-            "expanded_url": "https://twitter.com/i/web/status/1393263386234863620",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1393222388997841000,
@@ -8895,7 +8467,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19317,
+        "followers_count": 19316,
         "friends_count": 2935,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -9087,8 +8659,12 @@
       "created_at": "Fri May 14 14:36:26 +0000 2021",
       "id": 1393213622688665600,
       "id_str": "1393213622688665604",
-      "text": "@_ronal 👋 Buenos días. Soy tu asistente virtual.\nPodemos hablar de alguno de estos temas:\n1. Tarjetas 💳\n2. Cuentas… https://t.co/L7BBd5Wx2k",
-      "truncated": true,
+      "full_text": "@_ronal 👋 Buenos días. Soy tu asistente virtual.\nPodemos hablar de alguno de estos temas:\n1. Tarjetas 💳\n2. Cuentas 💲\n3. Préstamos 💰\n4. Turnos sucursal 🏦\n5. Gestión de claves 🔓\n6. Entrega de tarjetas 🚚\n7. Cotización Dólar y Euro 🤑\n8. Más temas ➕\nDejanos tu número de contacto",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        274
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -9104,17 +8680,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/L7BBd5Wx2k",
-            "expanded_url": "https://twitter.com/i/web/status/1393213622688665604",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1393176337884528600,
@@ -9227,7 +8793,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19317,
+        "followers_count": 19316,
         "friends_count": 2935,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -9419,8 +8985,12 @@
       "created_at": "Fri May 14 14:36:06 +0000 2021",
       "id": 1393213535656857600,
       "id_str": "1393213535656857607",
-      "text": "@cla_op 👋 Buenos días. Soy tu asistente virtual.\nPodemos hablar de alguno de estos temas:\n1. Tarjetas 💳\n2. Cuentas… https://t.co/5RLY9ZOU29",
-      "truncated": true,
+      "full_text": "@cla_op 👋 Buenos días. Soy tu asistente virtual.\nPodemos hablar de alguno de estos temas:\n1. Tarjetas 💳\n2. Cuentas 💲\n3. Préstamos 💰\n4. Turnos sucursal 🏦\n5. Gestión de claves 🔓\n6. Entrega de tarjetas 🚚\n7. Cotización Dólar y Euro 🤑\n8. Más temas ➕\nDejanos tu número de contacto",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        274
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -9436,17 +9006,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/5RLY9ZOU29",
-            "expanded_url": "https://twitter.com/i/web/status/1393213535656857607",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1393192902759694300,
@@ -9559,7 +9119,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19317,
+        "followers_count": 19316,
         "friends_count": 2935,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -9751,8 +9311,12 @@
       "created_at": "Tue Feb 08 22:48:54 +0000 2022",
       "id": 1491182276004450300,
       "id_str": "1491182276004450305",
-      "text": "@hoyrompotodo Hola buenas tardes para mayor información a su consulta le solicitamos su número de contactó y el ins… https://t.co/mMo0TAIeoy",
-      "truncated": true,
+      "full_text": "@hoyrompotodo Hola buenas tardes para mayor información a su consulta le solicitamos su número de contactó y el instante un oficial de cuenta se estará comunicando Muchas gracias Banco patagonia.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        195
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -9768,17 +9332,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/mMo0TAIeoy",
-            "expanded_url": "https://twitter.com/i/web/status/1491182276004450305",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491152026884968400,
@@ -9891,7 +9445,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19317,
+        "followers_count": 19316,
         "friends_count": 2935,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -10083,8 +9637,12 @@
       "created_at": "Fri Feb 11 19:15:47 +0000 2022",
       "id": 1492215810059870200,
       "id_str": "1492215810059870216",
-      "text": "@dany_lupe Buenas tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de Banco Patagonia 🇦🇷 Ante cualquier reclamó,… https://t.co/nHQHOGsHkC",
-      "truncated": true,
+      "full_text": "@dany_lupe Buenas tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de Banco Patagonia 🇦🇷 Ante cualquier reclamó, duda o Inconveniente sobre Nuestros Servicios o Productos💳, Déjanos un Número Alternativo de Línea📲 para que un Asesor/a, Tomé la Comunicación",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        258
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -10100,17 +9658,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/nHQHOGsHkC",
-            "expanded_url": "https://twitter.com/i/web/status/1492215810059870216",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491929706718908400,
@@ -10223,7 +9771,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19317,
+        "followers_count": 19316,
         "friends_count": 2935,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -10415,8 +9963,12 @@
       "created_at": "Fri Feb 11 19:14:56 +0000 2022",
       "id": 1492215593155637200,
       "id_str": "1492215593155637252",
-      "text": "@cristianEl_Pibe Buenas tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de Banco Patagonia 🇦🇷 Ante cualquier re… https://t.co/ucDzLu0SXO",
-      "truncated": true,
+      "full_text": "@cristianEl_Pibe Buenas tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de Banco Patagonia 🇦🇷 Ante cualquier reclamó, duda o Inconveniente sobre Nuestros Servicios o Productos💳, Déjanos un Número Alternativo de Línea📲 para que un Asesor/a, Tomé la Comunicación",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        264
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -10432,17 +9984,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/ucDzLu0SXO",
-            "expanded_url": "https://twitter.com/i/web/status/1492215593155637252",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1492065850555129900,
@@ -10565,7 +10107,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157467,
+        "followers_count": 157468,
         "friends_count": 15963,
         "listed_count": 208,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -10777,8 +10319,12 @@
       "created_at": "Thu Jun 24 19:45:53 +0000 2021",
       "id": 1408149397846831000,
       "id_str": "1408149397846831104",
-      "text": "@Lucio_Dixit @BBVAArgentina7 Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones… https://t.co/yqFIAMns5i",
-      "truncated": true,
+      "full_text": "@Lucio_Dixit @BBVAArgentina7 Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés👇\n             1 Claves:\n             2 Tarjetas:\n             3 Banca Online:\n             4 Cuentas:\nDéjanos tu número de contacto📱 muchas gracias 👋 Saludos.",
+      "truncated": false,
+      "display_text_range": [
+        29,
+        303
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -10804,17 +10350,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/yqFIAMns5i",
-            "expanded_url": "https://twitter.com/i/web/status/1408149397846831104",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1405215134759465000,
@@ -10937,7 +10473,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157467,
+        "followers_count": 157468,
         "friends_count": 15963,
         "listed_count": 208,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -11149,8 +10685,12 @@
       "created_at": "Thu Jun 24 19:45:17 +0000 2021",
       "id": 1408149249133617200,
       "id_str": "1408149249133617158",
-      "text": "@micastanon Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser d… https://t.co/Gmbk0fJVkA",
-      "truncated": true,
+      "full_text": "@micastanon Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés👇\n             1 Claves:\n             2 Tarjetas:\n             3 Banca Online:\n             4 Cuentas:\nDéjanos tu número de contacto📱 muchas gracias 👋 Saludos.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        286
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -11166,17 +10706,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/Gmbk0fJVkA",
-            "expanded_url": "https://twitter.com/i/web/status/1408149249133617158",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1405223133926367200,
@@ -11299,7 +10829,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157467,
+        "followers_count": 157468,
         "friends_count": 15963,
         "listed_count": 208,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -11511,8 +11041,12 @@
       "created_at": "Thu Jun 24 19:45:00 +0000 2021",
       "id": 1408149174885945300,
       "id_str": "1408149174885945344",
-      "text": "@gaynor_brian Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser… https://t.co/GUnPUNIFec",
-      "truncated": true,
+      "full_text": "@gaynor_brian Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés👇\n             1 Claves:\n             2 Tarjetas:\n             3 Banca Online:\n             4 Cuentas:\nDéjanos tu número de contacto📱 muchas gracias 👋 Saludos.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        288
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -11528,17 +11062,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/GUnPUNIFec",
-            "expanded_url": "https://twitter.com/i/web/status/1408149174885945344",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1405212123626680300,
@@ -11661,7 +11185,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157467,
+        "followers_count": 157468,
         "friends_count": 15963,
         "listed_count": 208,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -11873,8 +11397,12 @@
       "created_at": "Thu Jun 24 19:44:42 +0000 2021",
       "id": 1408149102106456000,
       "id_str": "1408149102106456068",
-      "text": "@hsoldani Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de… https://t.co/8dsm4K1wfV",
-      "truncated": true,
+      "full_text": "@hsoldani Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés👇\n             1 Claves:\n             2 Tarjetas:\n             3 Banca Online:\n             4 Cuentas:\nDéjanos tu número de contacto📱 muchas gracias 👋 Saludos.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        284
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -11890,17 +11418,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/8dsm4K1wfV",
-            "expanded_url": "https://twitter.com/i/web/status/1408149102106456068",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1405223011771375600,
@@ -12023,7 +11541,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157467,
+        "followers_count": 157468,
         "friends_count": 15963,
         "listed_count": 208,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -12235,8 +11753,12 @@
       "created_at": "Thu Jun 24 19:44:21 +0000 2021",
       "id": 1408149010909696000,
       "id_str": "1408149010909696001",
-      "text": "@tyagohome Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de… https://t.co/vlb0MO03g7",
-      "truncated": true,
+      "full_text": "@tyagohome Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés👇\n             1 Claves:\n             2 Tarjetas:\n             3 Banca Online:\n             4 Cuentas:\nDéjanos tu número de contacto📱 muchas gracias 👋 Saludos.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        285
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -12252,17 +11774,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/vlb0MO03g7",
-            "expanded_url": "https://twitter.com/i/web/status/1408149010909696001",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1405263435491905500,
@@ -12385,7 +11897,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157467,
+        "followers_count": 157468,
         "friends_count": 15963,
         "listed_count": 208,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -12587,8 +12099,12 @@
       "created_at": "Thu Feb 10 18:06:10 +0000 2022",
       "id": 1491835902460670000,
       "id_str": "1491835902460669956",
-      "text": "@raulsebas_ponce Buenas tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de Banco BBVA Francés🇦🇷Ante cualquier r… https://t.co/ncVcuBJqxK",
-      "truncated": true,
+      "full_text": "@raulsebas_ponce Buenas tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de Banco BBVA Francés🇦🇷Ante cualquier reclamó, duda o Inconveniente sobre Nuestros Servicios o Productos💳, Déjanos un Número Alternativo de Línea📲 para que un Asesor/a, Tomé la Comunicación",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        265
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -12604,17 +12120,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/ncVcuBJqxK",
-            "expanded_url": "https://twitter.com/i/web/status/1491835902460669956",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491835210668941300,
@@ -12737,7 +12243,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157467,
+        "followers_count": 157468,
         "friends_count": 15963,
         "listed_count": 208,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -12939,8 +12445,12 @@
       "created_at": "Thu Feb 10 18:01:16 +0000 2022",
       "id": 1491834669180010500,
       "id_str": "1491834669180010498",
-      "text": "@Thevaderswifey Buenas Tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de BBVA FRANCÉS🇦🇷 Ante cualquier reclamó… https://t.co/d1W1X2iAUf",
-      "truncated": true,
+      "full_text": "@Thevaderswifey Buenas Tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de BBVA FRANCÉS🇦🇷 Ante cualquier reclamó, duda o Inconveniente sobre Nuestros Servicios o Productos💳, Déjanos un Número Alternativo de Línea📲 para que un Asesor/a, Tomé la Comunicación",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        259
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -12956,17 +12466,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/d1W1X2iAUf",
-            "expanded_url": "https://twitter.com/i/web/status/1491834669180010498",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491834226966241300,
@@ -13089,7 +12589,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157467,
+        "followers_count": 157468,
         "friends_count": 15963,
         "listed_count": 208,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -13291,8 +12791,12 @@
       "created_at": "Thu Feb 10 18:00:31 +0000 2022",
       "id": 1491834481069674500,
       "id_str": "1491834481069674496",
-      "text": "@DxRufus Buenas Tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de BBVA FRANCÉS🇦🇷 Ante cualquier reclamó, duda… https://t.co/hy5yFUCmd6",
-      "truncated": true,
+      "full_text": "@DxRufus Buenas Tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de BBVA FRANCÉS🇦🇷 Ante cualquier reclamó, duda o Inconveniente sobre Nuestros Servicios o Productos💳, Déjanos un Número Alternativo de Línea📲 para que un Asesor/a, Tomé la Comunicación",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        252
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -13308,17 +12812,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/hy5yFUCmd6",
-            "expanded_url": "https://twitter.com/i/web/status/1491834481069674496",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491796306427216000,
@@ -13623,8 +13117,12 @@
       "created_at": "Mon Jan 31 17:39:09 +0000 2022",
       "id": 1488205222799364000,
       "id_str": "1488205222799364101",
-      "text": "@MarioAFunes Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser… https://t.co/0TKHpDKj4x",
-      "truncated": true,
+      "full_text": "@MarioAFunes Hola😊, ¿En qué te puedo ayudar?\nPodés escribirme tu consulta, o te dejo estas opciones que pueden ser de tu interés👇\n             1Claves\n             2Tarjetas\n             3Banca Online\n             4Cuentas\nDejanos tu numero de contacto y estaremos en comunicación.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        281
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -13640,17 +13138,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/0TKHpDKj4x",
-            "expanded_url": "https://twitter.com/i/web/status/1488205222799364101",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1488155648252682200,
@@ -13955,8 +13443,12 @@
       "created_at": "Sat Jan 29 21:31:35 +0000 2022",
       "id": 1487538940706009000,
       "id_str": "1487538940706009088",
-      "text": "@SestoJulia Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre compl… https://t.co/Iph7uXyLSC",
-      "truncated": true,
+      "full_text": "@SestoJulia Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre completo, código de reserva, mail con el que se efectuó la misma, motivo de contacto y resolveremos tu consulta a la brevedad ¡Gracias!",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        245
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -13972,17 +13464,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/Iph7uXyLSC",
-            "expanded_url": "https://twitter.com/i/web/status/1487538940706009088",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1487090545436541000,
@@ -14287,8 +13769,12 @@
       "created_at": "Sat Jan 29 15:16:24 +0000 2022",
       "id": 1487444521952559000,
       "id_str": "1487444521952559107",
-      "text": "@Mariober8 Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre comple… https://t.co/xAPkp2qQCP",
-      "truncated": true,
+      "full_text": "@Mariober8 Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre completo, código de reserva, mail con el que se efectuó la misma, motivo de contacto y resolveremos tu consulta a la brevedad ¡Gracias!",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        244
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -14304,17 +13790,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/xAPkp2qQCP",
-            "expanded_url": "https://twitter.com/i/web/status/1487444521952559107",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1486453976346214400,
@@ -14619,8 +14095,12 @@
       "created_at": "Sat Jan 29 15:15:55 +0000 2022",
       "id": 1487444401118843000,
       "id_str": "1487444401118842884",
-      "text": "@Leandromelo14 Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre co… https://t.co/TSglBxVOd2",
-      "truncated": true,
+      "full_text": "@Leandromelo14 Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre completo, código de reserva, mail con el que se efectuó la misma, motivo de contacto y resolveremos tu consulta a la brevedad ¡Gracias!",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        248
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -14636,17 +14116,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/TSglBxVOd2",
-            "expanded_url": "https://twitter.com/i/web/status/1487444401118842884",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1486690288781328400,
@@ -14951,8 +14421,12 @@
       "created_at": "Sat Jan 29 15:15:40 +0000 2022",
       "id": 1487444340104327200,
       "id_str": "1487444340104327170",
-      "text": "@CbYamila Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre complet… https://t.co/kyBaxyAh9b",
-      "truncated": true,
+      "full_text": "@CbYamila Hola! Gracias por contactarnos. Por favor envíanos tu número de contacto facilitándonos tu nombre completo, código de reserva, mail con el que se efectuó la misma, motivo de contacto y resolveremos tu consulta a la brevedad ¡Gracias!",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        243
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -14968,17 +14442,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/kyBaxyAh9b",
-            "expanded_url": "https://twitter.com/i/web/status/1487444340104327170",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1486709221559193600,
@@ -15270,8 +14734,12 @@
       "created_at": "Fri Feb 11 20:17:06 +0000 2022",
       "id": 1492231238450561000,
       "id_str": "1492231238450561024",
-      "text": "@saantigalli Hola, para una atención más personalizada te recomendamos que nos brindes un número de contacto y así… https://t.co/VjhQ93CqW7",
-      "truncated": true,
+      "full_text": "@saantigalli Hola, para una atención más personalizada te recomendamos que nos brindes un número de contacto y así poder ayudarte muchas gracias,!saludos¡",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        154
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -15287,17 +14755,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/VjhQ93CqW7",
-            "expanded_url": "https://twitter.com/i/web/status/1492231238450561024",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491769201102626800,
@@ -15576,8 +15034,12 @@
       "created_at": "Fri Feb 11 20:16:32 +0000 2022",
       "id": 1492231095240302600,
       "id_str": "1492231095240302594",
-      "text": "@NicolasVelez1 Hola, para una atención más personalizada te recomendamos que nos brindes un número de contacto y as… https://t.co/LR7Nt7qN7z",
-      "truncated": true,
+      "full_text": "@NicolasVelez1 Hola, para una atención más personalizada te recomendamos que nos brindes un número de contacto y así poder ayudarte muchas gracias,!saludos¡",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        156
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -15593,17 +15055,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/LR7Nt7qN7z",
-            "expanded_url": "https://twitter.com/i/web/status/1492231095240302594",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491426050089259000,
@@ -15882,8 +15334,12 @@
       "created_at": "Fri Feb 11 20:16:09 +0000 2022",
       "id": 1492231000952295400,
       "id_str": "1492231000952295433",
-      "text": "@sansnomdefamile Hola, para una atención más personalizada te recomendamos que nos brindes un número de contacto y… https://t.co/6ipCpf2U7z",
-      "truncated": true,
+      "full_text": "@sansnomdefamile Hola, para una atención más personalizada te recomendamos que nos brindes un número de contacto y así poder ayudarte muchas gracias,!saludos¡",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        158
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -15899,17 +15355,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/6ipCpf2U7z",
-            "expanded_url": "https://twitter.com/i/web/status/1492231000952295433",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491439548236460000,
@@ -16188,8 +15634,12 @@
       "created_at": "Fri Feb 11 20:15:18 +0000 2022",
       "id": 1492230785901998000,
       "id_str": "1492230785901998082",
-      "text": "@FabianSosa59 Hola, para una atención más personalizada te recomendamos que nos brindes un número de contacto y así… https://t.co/bcJI1tabcL",
-      "truncated": true,
+      "full_text": "@FabianSosa59 Hola, para una atención más personalizada te recomendamos que nos brindes un número de contacto y así poder ayudarte muchas gracias,!saludos¡",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        155
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -16205,17 +15655,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/bcJI1tabcL",
-            "expanded_url": "https://twitter.com/i/web/status/1492230785901998082",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491544094232903700,
@@ -16494,8 +15934,12 @@
       "created_at": "Fri Feb 11 20:14:30 +0000 2022",
       "id": 1492230586328666000,
       "id_str": "1492230586328666113",
-      "text": "@mariolariaga24 Hola, para una atención más personalizada te recomendamos que nos brindes un número de contacto y a… https://t.co/cclEzGUkrj",
-      "truncated": true,
+      "full_text": "@mariolariaga24 Hola, para una atención más personalizada te recomendamos que nos brindes un número de contacto y así poder ayudarte muchas gracias,!saludos¡",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        157
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -16511,17 +15955,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/cclEzGUkrj",
-            "expanded_url": "https://twitter.com/i/web/status/1492230586328666113",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491544253071171600,
@@ -16813,8 +16247,12 @@
       "created_at": "Fri Dec 03 21:26:47 +0000 2021",
       "id": 1466881624159703000,
       "id_str": "1466881624159703044",
-      "text": "@jami_cir Hola buenas tardes Estimado Cliente nos comunicamos del centro de atención al cliente de Banco Hipotecari… https://t.co/tKv5RHJCrE",
-      "truncated": true,
+      "full_text": "@jami_cir Hola buenas tardes Estimado Cliente nos comunicamos del centro de atención al cliente de Banco Hipotecario    para  por cualquier reclamó o consulta que tengas te esperamos para poder ayudarte y  mejorar sus servicios dejando tu número de contactó nos pondremos en comunicación .",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        289
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -16830,17 +16268,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/tKv5RHJCrE",
-            "expanded_url": "https://twitter.com/i/web/status/1466881624159703044",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1466813122187038700,
@@ -17145,8 +16573,12 @@
       "created_at": "Fri Dec 03 21:26:08 +0000 2021",
       "id": 1466881460363841500,
       "id_str": "1466881460363841543",
-      "text": "@juliovitaleok Hola buenas tardes Estimado Cliente nos comunicamos del centro de atención al cliente de Banco Hipot… https://t.co/sK73X0XDos",
-      "truncated": true,
+      "full_text": "@juliovitaleok Hola buenas tardes Estimado Cliente nos comunicamos del centro de atención al cliente de Banco Hipotecario    para  por cualquier reclamó o consulta que tengas te esperamos para poder ayudarte y  mejorar sus servicios dejando tu número de contactó nos pondremos en comunicación .",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        294
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -17162,17 +16594,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/sK73X0XDos",
-            "expanded_url": "https://twitter.com/i/web/status/1466881460363841543",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1466858240994517000,
@@ -17477,8 +16899,12 @@
       "created_at": "Fri Dec 03 21:25:47 +0000 2021",
       "id": 1466881371742392300,
       "id_str": "1466881371742392323",
-      "text": "@juliovitaleok Hola buenas tardes Estimado Cliente nos comunicamos del centro de atención al cliente de Banco Hipot… https://t.co/3dwG4ZooB7",
-      "truncated": true,
+      "full_text": "@juliovitaleok Hola buenas tardes Estimado Cliente nos comunicamos del centro de atención al cliente de Banco Hipotecario    para  por cualquier reclamó o consulta que tengas te esperamos para poder ayudarte y  mejorar sus servicios dejando tu número de contactó nos pondremos en comunicación .",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        294
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -17494,17 +16920,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/3dwG4ZooB7",
-            "expanded_url": "https://twitter.com/i/web/status/1466881371742392323",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1466858245436633000,
@@ -17809,8 +17225,12 @@
       "created_at": "Fri Dec 03 21:24:36 +0000 2021",
       "id": 1466881075590873000,
       "id_str": "1466881075590873088",
-      "text": "@Joseargento3 Hola buenas tardes Estimado Cliente nos comunicamos del centro de atención al cliente de Banco Hipote… https://t.co/JW9rHOO3x6",
-      "truncated": true,
+      "full_text": "@Joseargento3 Hola buenas tardes Estimado Cliente nos comunicamos del centro de atención al cliente de Banco Hipotecario    para  por cualquier reclamó o consulta que tengas te esperamos para poder ayudarte y  mejorar sus servicios dejando tu número de contactó nos pondremos en comunicación .",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        293
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -17826,17 +17246,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/JW9rHOO3x6",
-            "expanded_url": "https://twitter.com/i/web/status/1466881075590873088",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1466861840760254500,
@@ -18138,8 +17548,12 @@
       "created_at": "Mon Feb 07 22:09:18 +0000 2022",
       "id": 1490809923235577900,
       "id_str": "1490809923235577856",
-      "text": "@PratsSosa 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲… https://t.co/CIXbx6IF4a",
-      "truncated": true,
+      "full_text": "@PratsSosa 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y un ejecutivo🗣️ de cuentas se comunicará contigo!!!Muchas Gracias.\nAEROLINEAS ARGENTINAS  ✈️",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        208
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -18155,17 +17569,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/CIXbx6IF4a",
-            "expanded_url": "https://twitter.com/i/web/status/1490809923235577856",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1490719795901190100,
@@ -18454,8 +17858,12 @@
       "created_at": "Mon Feb 07 22:09:01 +0000 2022",
       "id": 1490809852087521300,
       "id_str": "1490809852087521281",
-      "text": "@cohentomas 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲… https://t.co/oJIVtbHDzZ",
-      "truncated": true,
+      "full_text": "@cohentomas 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y un ejecutivo🗣️ de cuentas se comunicará contigo!!!Muchas Gracias.\nAEROLINEAS ARGENTINAS  ✈️",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        209
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -18471,17 +17879,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/oJIVtbHDzZ",
-            "expanded_url": "https://twitter.com/i/web/status/1490809852087521281",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1490718221359591400,
@@ -18770,8 +18168,12 @@
       "created_at": "Thu Feb 10 17:37:27 +0000 2022",
       "id": 1491828676610171000,
       "id_str": "1491828676610170883",
-      "text": "@camibaiza 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲… https://t.co/RjIxmk1Wck",
-      "truncated": true,
+      "full_text": "@camibaiza 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y un ejecutivo🗣️ de cuentas se comunicará contigo!!!\nAEROLINEAS ARGENTINAS ✈️",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        192
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -18787,17 +18189,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/RjIxmk1Wck",
-            "expanded_url": "https://twitter.com/i/web/status/1491828676610170883",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491107892636037000,
@@ -19086,8 +18478,12 @@
       "created_at": "Thu Feb 10 17:37:11 +0000 2022",
       "id": 1491828606770815000,
       "id_str": "1491828606770814982",
-      "text": "@JMartFazio 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲… https://t.co/yrZjnZomzB",
-      "truncated": true,
+      "full_text": "@JMartFazio 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y un ejecutivo🗣️ de cuentas se comunicará contigo!!!\nAEROLINEAS ARGENTINAS ✈️",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        193
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -19103,17 +18499,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/yrZjnZomzB",
-            "expanded_url": "https://twitter.com/i/web/status/1491828606770814982",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491202612640698400,
@@ -19402,8 +18788,12 @@
       "created_at": "Thu Feb 10 17:36:52 +0000 2022",
       "id": 1491828528056352800,
       "id_str": "1491828528056352770",
-      "text": "@mariael71849172 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de cont… https://t.co/BeFdi3L7rR",
-      "truncated": true,
+      "full_text": "@mariael71849172 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y un ejecutivo🗣️ de cuentas se comunicará contigo!!!\nAEROLINEAS ARGENTINAS ✈️",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        198
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -19419,17 +18809,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/BeFdi3L7rR",
-            "expanded_url": "https://twitter.com/i/web/status/1491828528056352770",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491082880650715100,
@@ -19718,8 +19098,12 @@
       "created_at": "Thu Feb 10 17:36:32 +0000 2022",
       "id": 1491828442391892000,
       "id_str": "1491828442391891974",
-      "text": "@Nawii_Abdu 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲… https://t.co/2ujAJ1eRrz",
-      "truncated": true,
+      "full_text": "@Nawii_Abdu 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y un ejecutivo🗣️ de cuentas se comunicará contigo!!!\nAEROLINEAS ARGENTINAS ✈️",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        193
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -19735,17 +19119,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/2ujAJ1eRrz",
-            "expanded_url": "https://twitter.com/i/web/status/1491828442391891974",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1491661616110260200,
@@ -20034,8 +19408,12 @@
       "created_at": "Wed Feb 09 17:20:09 +0000 2022",
       "id": 1491461933475586000,
       "id_str": "1491461933475586058",
-      "text": "@hejoave 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y… https://t.co/mrJwVsvdeB",
-      "truncated": true,
+      "full_text": "@hejoave 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y un ejecutivo🗣️ de cuentas se comunicará contigo!!!\nAEROLINEAS ARGENTINAS ✈️",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        190
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -20051,17 +19429,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/mrJwVsvdeB",
-            "expanded_url": "https://twitter.com/i/web/status/1491461933475586058",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1490802559669477400,
@@ -20350,8 +19718,12 @@
       "created_at": "Tue Feb 08 15:47:04 +0000 2022",
       "id": 1491076121856999400,
       "id_str": "1491076121856999425",
-      "text": "@FBloser 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y… https://t.co/mLGUqQ6pok",
-      "truncated": true,
+      "full_text": "@FBloser 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y un ejecutivo🗣️ de cuentas se comunicará contigo!!!\nAEROLINEAS ARGENTINAS",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        187
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -20367,17 +19739,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/mLGUqQ6pok",
-            "expanded_url": "https://twitter.com/i/web/status/1491076121856999425",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1490881771117834200,
@@ -20666,8 +20028,12 @@
       "created_at": "Tue Feb 08 15:34:37 +0000 2022",
       "id": 1491072985826230300,
       "id_str": "1491072985826230282",
-      "text": "@miqiita 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y… https://t.co/tNgaD7Q0td",
-      "truncated": true,
+      "full_text": "@miqiita 🖐️Hola, nos comunicamos por tu consulta pendiente!!! Para poder ayudarte déjanos tu número de contacto📲 y un ejecutivo🗣️ de cuentas se comunicará contigo!!!\nAEROLINEAS ARGENTINAS",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        187
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -20683,17 +20049,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/tNgaD7Q0td",
-            "expanded_url": "https://twitter.com/i/web/status/1491072985826230282",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1490856358333223000,
@@ -20995,8 +20351,12 @@
       "created_at": "Tue Oct 26 21:02:08 +0000 2021",
       "id": 1453104685145985000,
       "id_str": "1453104685145985026",
-      "text": "@Michilvi Buenas tardes,\nAtención Al Ciudadano de\nAerolineas Argentinas: Nos encontramos disponibles para resolver… https://t.co/X381ef3jFM",
-      "truncated": true,
+      "full_text": "@Michilvi Buenas tardes,\nAtención Al Ciudadano de\nAerolineas Argentinas: Nos encontramos disponibles para resolver todas tus consultas, para una mejor atención, brindanos tu! número de contacto y Un Asesor Personal Tomará la Comunicación Al Instante.\nAerolineas Argentinas*\nVía Online...",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        287
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -21012,17 +20372,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/X381ef3jFM",
-            "expanded_url": "https://twitter.com/i/web/status/1453104685145985026",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              116,
-              139
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1452652836731306000,
@@ -21337,8 +20687,12 @@
       "created_at": "Tue Oct 26 21:01:34 +0000 2021",
       "id": 1453104540077609000,
       "id_str": "1453104540077608960",
-      "text": "@HarrySuda Buenas tardes,\nAtención Al Ciudadano de\nAerolineas Argentinas: Nos encontramos disponibles para resolver… https://t.co/as0nv0KFob",
-      "truncated": true,
+      "full_text": "@HarrySuda Buenas tardes,\nAtención Al Ciudadano de\nAerolineas Argentinas: Nos encontramos disponibles para resolver todas tus consultas, para una mejor atención, brindanos tu! número de contacto y Un Asesor Personal Tomará la Comunicación Al Instante.\nAerolineas Argentinas*\nVía Online...",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        288
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -21354,17 +20708,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/as0nv0KFob",
-            "expanded_url": "https://twitter.com/i/web/status/1453104540077608960",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1452717605383458800,
@@ -21679,8 +21023,12 @@
       "created_at": "Tue Oct 26 21:00:16 +0000 2021",
       "id": 1453104214889009200,
       "id_str": "1453104214889009152",
-      "text": "@Patrici02979228 Buenas tardes,\nAtención Al Ciudadano de\nAerolineas Argentinas: Nos encontramos disponibles para re… https://t.co/4jz872EisN",
-      "truncated": true,
+      "full_text": "@Patrici02979228 Buenas tardes,\nAtención Al Ciudadano de\nAerolineas Argentinas: Nos encontramos disponibles para resolver todas tus consultas, para una mejor atención, brindanos tu! número de contacto y Un Asesor Personal Tomará la Comunicación Al Instante.\nAerolineas Argentinas*\nVía Online...",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        294
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -21696,17 +21044,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/4jz872EisN",
-            "expanded_url": "https://twitter.com/i/web/status/1453104214889009152",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1452984049425858600,
@@ -22021,8 +21359,12 @@
       "created_at": "Fri Nov 19 23:03:16 +0000 2021",
       "id": 1461832478134579200,
       "id_str": "1461832478134579200",
-      "text": "@MarioSantiagoC7 🖐 Hola buenastardes!! \nSoy tu asistente Personal.\n\nPodemos conversar sobre los siguientes temas:… https://t.co/3nX4VqzjjA",
-      "truncated": true,
+      "full_text": "@MarioSantiagoC7 🖐 Hola buenastardes!! \nSoy tu asistente Personal.\n\nPodemos conversar sobre los siguientes temas:\n\n_Reprogramaciones \n_Cancelaciones  \n_Reintegro\n📲 Atención al cliente\n_Gestión de Claves\n_Otras\n¿Cual sería su consulta?\ndejanos tu número de contacto al mp.Aerolinias Argentina..",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        293
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -22038,17 +21380,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/3nX4VqzjjA",
-            "expanded_url": "https://twitter.com/i/web/status/1461832478134579200",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              115,
-              138
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1461338083157291000,
@@ -22363,8 +21695,12 @@
       "created_at": "Fri Nov 19 23:02:56 +0000 2021",
       "id": 1461832393011118000,
       "id_str": "1461832393011118084",
-      "text": "@GE0R_14 🖐 Hola buenastardes!! \nSoy tu asistente Personal.\n\nPodemos conversar sobre los siguientes temas:\n\n_Reprogr… https://t.co/f3iUq0dqFG",
-      "truncated": true,
+      "full_text": "@GE0R_14 🖐 Hola buenastardes!! \nSoy tu asistente Personal.\n\nPodemos conversar sobre los siguientes temas:\n\n_Reprogramaciones \n_Cancelaciones  \n_Reintegro\n📲 Atención al cliente\n_Gestión de Claves\n_Otras\n¿Cual sería su consulta?\ndejanos tu número de contacto al mp.Aerolinias Argentina..",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        285
+      ],
       "entities": {
         "hashtags": [],
         "symbols": [],
@@ -22380,17 +21716,7 @@
             ]
           }
         ],
-        "urls": [
-          {
-            "url": "https://t.co/f3iUq0dqFG",
-            "expanded_url": "https://twitter.com/i/web/status/1461832393011118084",
-            "display_url": "twitter.com/i/web/status/1…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
+        "urls": []
       },
       "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
       "in_reply_to_status_id": 1461683675381252000,
