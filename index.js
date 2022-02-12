@@ -2,6 +2,7 @@ const { TwitterApi } = require('twitter-api-v2');
 const { compareTwoStrings } = require('string-similarity');
 const { brands } = require('./brands.json');
 const Bluebird = require('bluebird');
+const differenceInDays = require('date-fns/differenceInDays');
 
 require('util').inspect.defaultOptions.depth = 10;
 
@@ -93,6 +94,52 @@ async function analyzeTweet({ brand, user, tweet }) {
   }
 }
 
+async function postAlerts(results) {
+  const alertedTweetIDs = await getAlreadyAlertedTweetIDs();
+  const candidates = results
+    .filter(({ tweet }) => {
+      const isAlreadyRepliedTo = alertedTweetIDs.has(tweet.id_str);
+      return !isAlreadyRepliedTo;
+    })
+    .filter(({ tweet }) => {
+      const tweetDate = new Date(tweet.created_at);
+      const today = new Date();
+      const isRecent = differenceInDays(today, tweetDate) <= 3;
+      return isRecent;
+    });
+
+  for (const candidate of candidates) {
+    await postAlert(candidate);
+    await Bluebird.delay(2000);
+  }
+}
+
+async function postAlert({ brand, user, tweet }) {
+  const brandMention = `@${brand.user.screen_name}`;
+  const text = `Cuidado, asegurate de estar hablando con la cuenta oficial (${brandMention})`;
+  await client.v1.post('statuses/update.json', {
+    status: text,
+    in_reply_to_status_id: tweet.id_str,
+    auto_populate_reply_metadata: true,
+    exclude_reply_user_ids: user.id_str,
+  });
+}
+
+async function getAlreadyAlertedTweetIDs() {
+  const timeline = await client.v1.get('statuses/user_timeline.json', {
+    screen_name: 'EstafabotOK',
+    count: 200,
+    tweet_mode: 'extended',
+  });
+  const ids = timeline
+    .filter(tweet => tweet.in_reply_to_status_id_str)
+    .reduce((accum, tweet) => {
+      return accum.add(tweet.in_reply_to_status_id_str);
+    }, new Set());
+  return ids;
+}
+
 module.exports = {
   analyzeAllBrands,
+  postAlerts,
 };
