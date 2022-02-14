@@ -52,16 +52,24 @@ async function analyzeUserResult({ brand, user }) {
 
   if (nameSimilarity < 0.65) return;
 
-  const timeline = await client.v1.get('statuses/user_timeline.json', {
-    user_id: user.id_str,
-    count: 5,
-    tweet_mode: 'extended',
-  });
-  const replies = timeline.filter(tweet => tweet.in_reply_to_status_id_str);
+  try {
+    const timeline = await client.v1.get('statuses/user_timeline.json', {
+      user_id: user.id_str,
+      count: 5,
+      tweet_mode: 'extended',
+    });
+    const replies = timeline.filter(tweet => tweet.in_reply_to_status_id_str);
 
-  return await Bluebird.resolve(replies)
-    .map(tweet => analyzeTweet({ brand, user, tweet }))
-    .filter(({ isScam }) => isScam);
+    return await Bluebird.resolve(replies)
+      .map(tweet => analyzeTweet({ brand, user, tweet }))
+      .filter(({ isScam }) => isScam);
+  } catch (error) {
+    const isBlockedError = error.data?.errors?.[0]?.code === 136;
+    if (isBlockedError) {
+      console.error(`${user.screen_name} blocked us`);
+      return [];
+    } else throw error;
+  }
 }
 
 async function analyzeTweet({ brand, user, tweet }) {
