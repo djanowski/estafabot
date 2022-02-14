@@ -1709,8 +1709,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653238,
-        "friends_count": 316621,
+        "followers_count": 653234,
+        "friends_count": 316615,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6302,
@@ -2007,8 +2007,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653238,
-        "friends_count": 316621,
+        "followers_count": 653234,
+        "friends_count": 316615,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6302,
@@ -2315,8 +2315,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653238,
-        "friends_count": 316621,
+        "followers_count": 653234,
+        "friends_count": 316615,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6302,
@@ -2613,8 +2613,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653238,
-        "friends_count": 316621,
+        "followers_count": 653234,
+        "friends_count": 316615,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6302,
@@ -2911,8 +2911,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653238,
-        "friends_count": 316621,
+        "followers_count": 653234,
+        "friends_count": 316615,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6302,
@@ -3200,8 +3200,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653238,
-        "friends_count": 316621,
+        "followers_count": 653234,
+        "friends_count": 316615,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6302,
@@ -3489,8 +3489,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653238,
-        "friends_count": 316621,
+        "followers_count": 653234,
+        "friends_count": 316615,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6302,
@@ -3718,6 +3718,1018 @@
         "profile_use_background_image": false,
         "has_extended_profile": false,
         "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    "isScam": true
+  },
+  {
+    "brand": {
+      "name": "Movistar Argentina",
+      "user": {
+        "id": 19286574,
+        "id_str": "19286574",
+        "name": "Movistar Argentina",
+        "screen_name": "MovistarArg",
+        "location": "Argentina",
+        "description": "Tenemos todo para conectarnos. Ahora Movistar es internet en tu casa, móvil y fijo.",
+        "url": "https://t.co/j5SerQCv5N",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/j5SerQCv5N",
+                "expanded_url": "http://www.movistar.com.ar",
+                "display_url": "movistar.com.ar",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 542912,
+        "friends_count": 215508,
+        "listed_count": 1080,
+        "created_at": "Wed Jan 21 13:11:17 +0000 2009",
+        "favourites_count": 18615,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 2508171,
+        "lang": null,
+        "status": {
+          "created_at": "Mon Feb 14 05:20:18 +0000 2022",
+          "id": 1493092715587899400,
+          "id_str": "1493092715587899399",
+          "text": "@Naty_Carmela Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por DM.… https://t.co/EqMbtBj8P0",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "Naty_Carmela",
+                "name": "💚Naty 💚✨",
+                "id": 873382465095819300,
+                "id_str": "873382465095819264",
+                "indices": [
+                  0,
+                  13
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/EqMbtBj8P0",
+                "expanded_url": "https://twitter.com/i/web/status/1493092715587899399",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
+          "in_reply_to_status_id": 1493089403312345000,
+          "in_reply_to_status_id_str": "1493089403312345090",
+          "in_reply_to_user_id": 873382465095819300,
+          "in_reply_to_user_id_str": "873382465095819264",
+          "in_reply_to_screen_name": "Naty_Carmela",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "5AC5D8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413236019965702145/aw9MEs8K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413236019965702145/aw9MEs8K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19286574/1643123927",
+        "profile_link_color": "0084C6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DCEDF6",
+        "profile_text_color": "515559",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+      }
+    },
+    "user": {
+      "id": 402136931,
+      "id_str": "402136931",
+      "name": "Movistar Argentina",
+      "screen_name": "MovlstarArg",
+      "location": "Argentina",
+      "description": "Este es el canal no oficial de Movistar, operador celular del Grupo Telefónica en el mercado Argentino con mas de 16.7 millones de clientes",
+      "url": "http://t.co/Qlt8NOXaPs",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Qlt8NOXaPs",
+              "expanded_url": "http://www.movistar.com.ar",
+              "display_url": "movistar.com.ar",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 261,
+      "friends_count": 10,
+      "listed_count": 0,
+      "created_at": "Mon Oct 31 16:15:04 +0000 2011",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 21,
+      "lang": null,
+      "status": {
+        "created_at": "Mon Oct 31 17:25:11 +0000 2011",
+        "id": 131059154155601920,
+        "id_str": "131059154155601920",
+        "text": "@CSesia Tener que tratar mejor a tu Sim, es como un tamagochi pero 2.0. Saludos! ^VC",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CSesia",
+              "name": "Crisk Sesia",
+              "id": 702878127362428900,
+              "id_str": "702878127362428928",
+              "indices": [
+                0,
+                7
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1615781921/icono_movistar_twitter_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1615781921/icono_movistar_twitter_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "tweet": {
+      "created_at": "Mon Oct 31 17:19:40 +0000 2011",
+      "id": 131057765845176320,
+      "id_str": "131057765845176320",
+      "full_text": "@Milaagrosdiaz Por supuesto. Saludos! ^VC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        41
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Milaagrosdiaz",
+            "name": "Milagros. †",
+            "id": 157212121,
+            "id_str": "157212121",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 131055664377245700,
+      "in_reply_to_status_id_str": "131055664377245696",
+      "in_reply_to_user_id": 157212121,
+      "in_reply_to_user_id_str": "157212121",
+      "in_reply_to_screen_name": "Milaagrosdiaz",
+      "user": {
+        "id": 402136931,
+        "id_str": "402136931",
+        "name": "Movistar Argentina",
+        "screen_name": "MovlstarArg",
+        "location": "Argentina",
+        "description": "Este es el canal no oficial de Movistar, operador celular del Grupo Telefónica en el mercado Argentino con mas de 16.7 millones de clientes",
+        "url": "http://t.co/Qlt8NOXaPs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Qlt8NOXaPs",
+                "expanded_url": "http://www.movistar.com.ar",
+                "display_url": "movistar.com.ar",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 261,
+        "friends_count": 10,
+        "listed_count": 0,
+        "created_at": "Mon Oct 31 16:15:04 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1615781921/icono_movistar_twitter_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1615781921/icono_movistar_twitter_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    "isScam": true
+  },
+  {
+    "brand": {
+      "name": "Movistar Argentina",
+      "user": {
+        "id": 19286574,
+        "id_str": "19286574",
+        "name": "Movistar Argentina",
+        "screen_name": "MovistarArg",
+        "location": "Argentina",
+        "description": "Tenemos todo para conectarnos. Ahora Movistar es internet en tu casa, móvil y fijo.",
+        "url": "https://t.co/j5SerQCv5N",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/j5SerQCv5N",
+                "expanded_url": "http://www.movistar.com.ar",
+                "display_url": "movistar.com.ar",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 542912,
+        "friends_count": 215508,
+        "listed_count": 1080,
+        "created_at": "Wed Jan 21 13:11:17 +0000 2009",
+        "favourites_count": 18615,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 2508171,
+        "lang": null,
+        "status": {
+          "created_at": "Mon Feb 14 05:20:18 +0000 2022",
+          "id": 1493092715587899400,
+          "id_str": "1493092715587899399",
+          "text": "@Naty_Carmela Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por DM.… https://t.co/EqMbtBj8P0",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "Naty_Carmela",
+                "name": "💚Naty 💚✨",
+                "id": 873382465095819300,
+                "id_str": "873382465095819264",
+                "indices": [
+                  0,
+                  13
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/EqMbtBj8P0",
+                "expanded_url": "https://twitter.com/i/web/status/1493092715587899399",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
+          "in_reply_to_status_id": 1493089403312345000,
+          "in_reply_to_status_id_str": "1493089403312345090",
+          "in_reply_to_user_id": 873382465095819300,
+          "in_reply_to_user_id_str": "873382465095819264",
+          "in_reply_to_screen_name": "Naty_Carmela",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "5AC5D8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413236019965702145/aw9MEs8K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413236019965702145/aw9MEs8K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19286574/1643123927",
+        "profile_link_color": "0084C6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DCEDF6",
+        "profile_text_color": "515559",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+      }
+    },
+    "user": {
+      "id": 402136931,
+      "id_str": "402136931",
+      "name": "Movistar Argentina",
+      "screen_name": "MovlstarArg",
+      "location": "Argentina",
+      "description": "Este es el canal no oficial de Movistar, operador celular del Grupo Telefónica en el mercado Argentino con mas de 16.7 millones de clientes",
+      "url": "http://t.co/Qlt8NOXaPs",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Qlt8NOXaPs",
+              "expanded_url": "http://www.movistar.com.ar",
+              "display_url": "movistar.com.ar",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 261,
+      "friends_count": 10,
+      "listed_count": 0,
+      "created_at": "Mon Oct 31 16:15:04 +0000 2011",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 21,
+      "lang": null,
+      "status": {
+        "created_at": "Mon Oct 31 17:25:11 +0000 2011",
+        "id": 131059154155601920,
+        "id_str": "131059154155601920",
+        "text": "@CSesia Tener que tratar mejor a tu Sim, es como un tamagochi pero 2.0. Saludos! ^VC",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "CSesia",
+              "name": "Crisk Sesia",
+              "id": 702878127362428900,
+              "id_str": "702878127362428928",
+              "indices": [
+                0,
+                7
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1615781921/icono_movistar_twitter_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1615781921/icono_movistar_twitter_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "tweet": {
+      "created_at": "Mon Oct 31 17:19:29 +0000 2011",
+      "id": 131057717451304960,
+      "id_str": "131057717451304960",
+      "full_text": "@MaayHerber Y sí. Saludos! ^VC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        30
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MaayHerber",
+            "name": "MaayHerber",
+            "id": 2650966520,
+            "id_str": "2650966520",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 131057139098726400,
+      "in_reply_to_status_id_str": "131057139098726400",
+      "in_reply_to_user_id": 252857279,
+      "in_reply_to_user_id_str": "252857279",
+      "in_reply_to_screen_name": "MissSilence_",
+      "user": {
+        "id": 402136931,
+        "id_str": "402136931",
+        "name": "Movistar Argentina",
+        "screen_name": "MovlstarArg",
+        "location": "Argentina",
+        "description": "Este es el canal no oficial de Movistar, operador celular del Grupo Telefónica en el mercado Argentino con mas de 16.7 millones de clientes",
+        "url": "http://t.co/Qlt8NOXaPs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Qlt8NOXaPs",
+                "expanded_url": "http://www.movistar.com.ar",
+                "display_url": "movistar.com.ar",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 261,
+        "friends_count": 10,
+        "listed_count": 0,
+        "created_at": "Mon Oct 31 16:15:04 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1615781921/icono_movistar_twitter_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1615781921/icono_movistar_twitter_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    "isScam": true
+  },
+  {
+    "brand": {
+      "name": "Movistar Argentina",
+      "user": {
+        "id": 19286574,
+        "id_str": "19286574",
+        "name": "Movistar Argentina",
+        "screen_name": "MovistarArg",
+        "location": "Argentina",
+        "description": "Tenemos todo para conectarnos. Ahora Movistar es internet en tu casa, móvil y fijo.",
+        "url": "https://t.co/j5SerQCv5N",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/j5SerQCv5N",
+                "expanded_url": "http://www.movistar.com.ar",
+                "display_url": "movistar.com.ar",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 542912,
+        "friends_count": 215508,
+        "listed_count": 1080,
+        "created_at": "Wed Jan 21 13:11:17 +0000 2009",
+        "favourites_count": 18615,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 2508171,
+        "lang": null,
+        "status": {
+          "created_at": "Mon Feb 14 05:20:18 +0000 2022",
+          "id": 1493092715587899400,
+          "id_str": "1493092715587899399",
+          "text": "@Naty_Carmela Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por DM.… https://t.co/EqMbtBj8P0",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "Naty_Carmela",
+                "name": "💚Naty 💚✨",
+                "id": 873382465095819300,
+                "id_str": "873382465095819264",
+                "indices": [
+                  0,
+                  13
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/EqMbtBj8P0",
+                "expanded_url": "https://twitter.com/i/web/status/1493092715587899399",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
+          "in_reply_to_status_id": 1493089403312345000,
+          "in_reply_to_status_id_str": "1493089403312345090",
+          "in_reply_to_user_id": 873382465095819300,
+          "in_reply_to_user_id_str": "873382465095819264",
+          "in_reply_to_screen_name": "Naty_Carmela",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "5AC5D8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413236019965702145/aw9MEs8K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413236019965702145/aw9MEs8K_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19286574/1643123927",
+        "profile_link_color": "0084C6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DCEDF6",
+        "profile_text_color": "515559",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+      }
+    },
+    "user": {
+      "id": 1491276919,
+      "id_str": "1491276919",
+      "name": "Movistar Argentina",
+      "screen_name": "MovistarOk",
+      "location": "Argentina",
+      "description": "Canal Oficial Alternativo de @movistararg. Consultanos lo que quieras desde tu PC en http://t.co/aJ3KTfaB2C \no desde tu celu en http://t.co/P9pWauZz8F",
+      "url": "http://t.co/ENzjaekjY4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ENzjaekjY4",
+              "expanded_url": "http://www.movistar.com.ar",
+              "display_url": "movistar.com.ar",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/aJ3KTfaB2C",
+              "expanded_url": "http://movi.st/twitter",
+              "display_url": "movi.st/twitter",
+              "indices": [
+                85,
+                107
+              ]
+            },
+            {
+              "url": "http://t.co/P9pWauZz8F",
+              "expanded_url": "http://movi.st/twm",
+              "display_url": "movi.st/twm",
+              "indices": [
+                128,
+                150
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 155,
+      "friends_count": 0,
+      "listed_count": 1,
+      "created_at": "Fri Jun 07 20:40:23 +0000 2013",
+      "favourites_count": 15,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 137,
+      "lang": null,
+      "status": {
+        "created_at": "Sat Jan 18 20:34:00 +0000 2014",
+        "id": 424640840846565400,
+        "id_str": "424640840846565376",
+        "text": "@tomybernas Gracias por tus saludos. ^CB",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "tomybernas",
+              "name": "T.Bernas",
+              "id": 214055269,
+              "id_str": "214055269",
+              "indices": [
+                0,
+                11
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 422391287074258940,
+        "in_reply_to_status_id_str": "422391287074258945",
+        "in_reply_to_user_id": 214055269,
+        "in_reply_to_user_id_str": "214055269",
+        "in_reply_to_screen_name": "tomybernas",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3768820683/5c8b5725352b58b87138329fee9a7353_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3768820683/5c8b5725352b58b87138329fee9a7353_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491276919/1388201818",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "tweet": {
+      "created_at": "Sat Jan 18 20:34:00 +0000 2014",
+      "id": 424640840846565400,
+      "id_str": "424640840846565376",
+      "full_text": "@tomybernas Gracias por tus saludos. ^CB",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        40
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tomybernas",
+            "name": "T.Bernas",
+            "id": 214055269,
+            "id_str": "214055269",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 422391287074258940,
+      "in_reply_to_status_id_str": "422391287074258945",
+      "in_reply_to_user_id": 214055269,
+      "in_reply_to_user_id_str": "214055269",
+      "in_reply_to_screen_name": "tomybernas",
+      "user": {
+        "id": 1491276919,
+        "id_str": "1491276919",
+        "name": "Movistar Argentina",
+        "screen_name": "MovistarOk",
+        "location": "Argentina",
+        "description": "Canal Oficial Alternativo de @movistararg. Consultanos lo que quieras desde tu PC en http://t.co/aJ3KTfaB2C \no desde tu celu en http://t.co/P9pWauZz8F",
+        "url": "http://t.co/ENzjaekjY4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/ENzjaekjY4",
+                "expanded_url": "http://www.movistar.com.ar",
+                "display_url": "movistar.com.ar",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/aJ3KTfaB2C",
+                "expanded_url": "http://movi.st/twitter",
+                "display_url": "movi.st/twitter",
+                "indices": [
+                  85,
+                  107
+                ]
+              },
+              {
+                "url": "http://t.co/P9pWauZz8F",
+                "expanded_url": "http://movi.st/twm",
+                "display_url": "movi.st/twm",
+                "indices": [
+                  128,
+                  150
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 155,
+        "friends_count": 0,
+        "listed_count": 1,
+        "created_at": "Fri Jun 07 20:40:23 +0000 2013",
+        "favourites_count": 15,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 137,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3768820683/5c8b5725352b58b87138329fee9a7353_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3768820683/5c8b5725352b58b87138329fee9a7353_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491276919/1388201818",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
         "default_profile_image": false,
         "following": false,
         "follow_request_sent": false,
@@ -16885,7 +17897,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -17205,7 +18217,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -17525,7 +18537,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -17845,7 +18857,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -18165,7 +19177,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -18485,7 +19497,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -18805,7 +19817,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -19125,7 +20137,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -19445,7 +20457,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -19765,7 +20777,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -20085,7 +21097,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -20405,7 +21417,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -20725,7 +21737,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21045,7 +22057,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21365,7 +22377,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21711,7 +22723,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22057,7 +23069,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22403,7 +23415,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22769,7 +23781,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23135,7 +24147,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23501,7 +24513,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23867,7 +24879,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24233,7 +25245,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24599,7 +25611,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24965,7 +25977,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25331,7 +26343,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25697,7 +26709,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26043,7 +27055,7 @@
           }
         },
         "protected": false,
-        "followers_count": 439730,
+        "followers_count": 439731,
         "friends_count": 40,
         "listed_count": 1195,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
