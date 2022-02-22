@@ -29,7 +29,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149757,
+        "followers_count": 149756,
         "friends_count": 54877,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -347,7 +347,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149757,
+        "followers_count": 149756,
         "friends_count": 54877,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -665,7 +665,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149757,
+        "followers_count": 149756,
         "friends_count": 54877,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -983,7 +983,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149757,
+        "followers_count": 149756,
         "friends_count": 54877,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1363,7 +1363,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149757,
+        "followers_count": 149756,
         "friends_count": 54877,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1673,7 +1673,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149757,
+        "followers_count": 149756,
         "friends_count": 54877,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1983,7 +1983,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149757,
+        "followers_count": 149756,
         "friends_count": 54877,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2293,7 +2293,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149757,
+        "followers_count": 149756,
         "friends_count": 54877,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2603,7 +2603,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149757,
+        "followers_count": 149756,
         "friends_count": 54877,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2913,7 +2913,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149757,
+        "followers_count": 149756,
         "friends_count": 54877,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -3268,44 +3268,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022163,
+        "statuses_count": 1022164,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 04:30:25 +0000 2022",
-          "id": 1495979265975849000,
-          "id_str": "1495979265975848961",
-          "text": "@Elekttra estamos contigo al DM :)",
-          "truncated": false,
+          "created_at": "Tue Feb 22 09:11:16 +0000 2022",
+          "id": 1496049944310038500,
+          "id_str": "1496049944310038529",
+          "text": "@iamtomm__ ¡Hola Tom, un gusto saludarte! Nos gustaría saber mas detalles, bríndanos tus datos al DM para un asesor… https://t.co/Co01NTOUEL",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Elekttra",
-                "name": "Nalla",
-                "id": 117827590,
-                "id_str": "117827590",
+                "screen_name": "iamtomm__",
+                "name": "Tom",
+                "id": 304494126,
+                "id_str": "304494126",
                 "indices": [
                   0,
-                  9
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/Co01NTOUEL",
+                "expanded_url": "https://twitter.com/i/web/status/1496049944310038529",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": 117827590,
-          "in_reply_to_user_id_str": "117827590",
-          "in_reply_to_screen_name": "Elekttra",
+          "in_reply_to_status_id": 1496049385020747800,
+          "in_reply_to_status_id_str": "1496049385020747776",
+          "in_reply_to_user_id": 304494126,
+          "in_reply_to_user_id_str": "304494126",
+          "in_reply_to_screen_name": "iamtomm__",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3566,44 +3576,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022163,
+        "statuses_count": 1022164,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 04:30:25 +0000 2022",
-          "id": 1495979265975849000,
-          "id_str": "1495979265975848961",
-          "text": "@Elekttra estamos contigo al DM :)",
-          "truncated": false,
+          "created_at": "Tue Feb 22 09:11:16 +0000 2022",
+          "id": 1496049944310038500,
+          "id_str": "1496049944310038529",
+          "text": "@iamtomm__ ¡Hola Tom, un gusto saludarte! Nos gustaría saber mas detalles, bríndanos tus datos al DM para un asesor… https://t.co/Co01NTOUEL",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Elekttra",
-                "name": "Nalla",
-                "id": 117827590,
-                "id_str": "117827590",
+                "screen_name": "iamtomm__",
+                "name": "Tom",
+                "id": 304494126,
+                "id_str": "304494126",
                 "indices": [
                   0,
-                  9
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/Co01NTOUEL",
+                "expanded_url": "https://twitter.com/i/web/status/1496049944310038529",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": 117827590,
-          "in_reply_to_user_id_str": "117827590",
-          "in_reply_to_screen_name": "Elekttra",
+          "in_reply_to_status_id": 1496049385020747800,
+          "in_reply_to_status_id_str": "1496049385020747776",
+          "in_reply_to_user_id": 304494126,
+          "in_reply_to_user_id_str": "304494126",
+          "in_reply_to_screen_name": "iamtomm__",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3874,44 +3894,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022163,
+        "statuses_count": 1022164,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 04:30:25 +0000 2022",
-          "id": 1495979265975849000,
-          "id_str": "1495979265975848961",
-          "text": "@Elekttra estamos contigo al DM :)",
-          "truncated": false,
+          "created_at": "Tue Feb 22 09:11:16 +0000 2022",
+          "id": 1496049944310038500,
+          "id_str": "1496049944310038529",
+          "text": "@iamtomm__ ¡Hola Tom, un gusto saludarte! Nos gustaría saber mas detalles, bríndanos tus datos al DM para un asesor… https://t.co/Co01NTOUEL",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Elekttra",
-                "name": "Nalla",
-                "id": 117827590,
-                "id_str": "117827590",
+                "screen_name": "iamtomm__",
+                "name": "Tom",
+                "id": 304494126,
+                "id_str": "304494126",
                 "indices": [
                   0,
-                  9
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/Co01NTOUEL",
+                "expanded_url": "https://twitter.com/i/web/status/1496049944310038529",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": 117827590,
-          "in_reply_to_user_id_str": "117827590",
-          "in_reply_to_screen_name": "Elekttra",
+          "in_reply_to_status_id": 1496049385020747800,
+          "in_reply_to_status_id_str": "1496049385020747776",
+          "in_reply_to_user_id": 304494126,
+          "in_reply_to_user_id_str": "304494126",
+          "in_reply_to_screen_name": "iamtomm__",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4172,44 +4202,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022163,
+        "statuses_count": 1022164,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 04:30:25 +0000 2022",
-          "id": 1495979265975849000,
-          "id_str": "1495979265975848961",
-          "text": "@Elekttra estamos contigo al DM :)",
-          "truncated": false,
+          "created_at": "Tue Feb 22 09:11:16 +0000 2022",
+          "id": 1496049944310038500,
+          "id_str": "1496049944310038529",
+          "text": "@iamtomm__ ¡Hola Tom, un gusto saludarte! Nos gustaría saber mas detalles, bríndanos tus datos al DM para un asesor… https://t.co/Co01NTOUEL",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Elekttra",
-                "name": "Nalla",
-                "id": 117827590,
-                "id_str": "117827590",
+                "screen_name": "iamtomm__",
+                "name": "Tom",
+                "id": 304494126,
+                "id_str": "304494126",
                 "indices": [
                   0,
-                  9
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/Co01NTOUEL",
+                "expanded_url": "https://twitter.com/i/web/status/1496049944310038529",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": 117827590,
-          "in_reply_to_user_id_str": "117827590",
-          "in_reply_to_screen_name": "Elekttra",
+          "in_reply_to_status_id": 1496049385020747800,
+          "in_reply_to_status_id_str": "1496049385020747776",
+          "in_reply_to_user_id": 304494126,
+          "in_reply_to_user_id_str": "304494126",
+          "in_reply_to_screen_name": "iamtomm__",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4470,44 +4510,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022163,
+        "statuses_count": 1022164,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 04:30:25 +0000 2022",
-          "id": 1495979265975849000,
-          "id_str": "1495979265975848961",
-          "text": "@Elekttra estamos contigo al DM :)",
-          "truncated": false,
+          "created_at": "Tue Feb 22 09:11:16 +0000 2022",
+          "id": 1496049944310038500,
+          "id_str": "1496049944310038529",
+          "text": "@iamtomm__ ¡Hola Tom, un gusto saludarte! Nos gustaría saber mas detalles, bríndanos tus datos al DM para un asesor… https://t.co/Co01NTOUEL",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Elekttra",
-                "name": "Nalla",
-                "id": 117827590,
-                "id_str": "117827590",
+                "screen_name": "iamtomm__",
+                "name": "Tom",
+                "id": 304494126,
+                "id_str": "304494126",
                 "indices": [
                   0,
-                  9
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/Co01NTOUEL",
+                "expanded_url": "https://twitter.com/i/web/status/1496049944310038529",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": 117827590,
-          "in_reply_to_user_id_str": "117827590",
-          "in_reply_to_screen_name": "Elekttra",
+          "in_reply_to_status_id": 1496049385020747800,
+          "in_reply_to_status_id_str": "1496049385020747776",
+          "in_reply_to_user_id": 304494126,
+          "in_reply_to_user_id_str": "304494126",
+          "in_reply_to_screen_name": "iamtomm__",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4759,44 +4809,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022163,
+        "statuses_count": 1022164,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 04:30:25 +0000 2022",
-          "id": 1495979265975849000,
-          "id_str": "1495979265975848961",
-          "text": "@Elekttra estamos contigo al DM :)",
-          "truncated": false,
+          "created_at": "Tue Feb 22 09:11:16 +0000 2022",
+          "id": 1496049944310038500,
+          "id_str": "1496049944310038529",
+          "text": "@iamtomm__ ¡Hola Tom, un gusto saludarte! Nos gustaría saber mas detalles, bríndanos tus datos al DM para un asesor… https://t.co/Co01NTOUEL",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Elekttra",
-                "name": "Nalla",
-                "id": 117827590,
-                "id_str": "117827590",
+                "screen_name": "iamtomm__",
+                "name": "Tom",
+                "id": 304494126,
+                "id_str": "304494126",
                 "indices": [
                   0,
-                  9
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/Co01NTOUEL",
+                "expanded_url": "https://twitter.com/i/web/status/1496049944310038529",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": 117827590,
-          "in_reply_to_user_id_str": "117827590",
-          "in_reply_to_screen_name": "Elekttra",
+          "in_reply_to_status_id": 1496049385020747800,
+          "in_reply_to_status_id_str": "1496049385020747776",
+          "in_reply_to_user_id": 304494126,
+          "in_reply_to_user_id_str": "304494126",
+          "in_reply_to_screen_name": "iamtomm__",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5048,44 +5108,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022163,
+        "statuses_count": 1022164,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 04:30:25 +0000 2022",
-          "id": 1495979265975849000,
-          "id_str": "1495979265975848961",
-          "text": "@Elekttra estamos contigo al DM :)",
-          "truncated": false,
+          "created_at": "Tue Feb 22 09:11:16 +0000 2022",
+          "id": 1496049944310038500,
+          "id_str": "1496049944310038529",
+          "text": "@iamtomm__ ¡Hola Tom, un gusto saludarte! Nos gustaría saber mas detalles, bríndanos tus datos al DM para un asesor… https://t.co/Co01NTOUEL",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Elekttra",
-                "name": "Nalla",
-                "id": 117827590,
-                "id_str": "117827590",
+                "screen_name": "iamtomm__",
+                "name": "Tom",
+                "id": 304494126,
+                "id_str": "304494126",
                 "indices": [
                   0,
-                  9
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/Co01NTOUEL",
+                "expanded_url": "https://twitter.com/i/web/status/1496049944310038529",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": 117827590,
-          "in_reply_to_user_id_str": "117827590",
-          "in_reply_to_screen_name": "Elekttra",
+          "in_reply_to_status_id": 1496049385020747800,
+          "in_reply_to_status_id_str": "1496049385020747776",
+          "in_reply_to_user_id": 304494126,
+          "in_reply_to_user_id_str": "304494126",
+          "in_reply_to_screen_name": "iamtomm__",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5318,8 +5388,8 @@
           }
         },
         "protected": false,
-        "followers_count": 543438,
-        "friends_count": 215446,
+        "followers_count": 543437,
+        "friends_count": 215447,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18613,
@@ -5327,37 +5397,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2510098,
+        "statuses_count": 2510100,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 09:00:37 +0000 2022",
-          "id": 1496047264183341000,
-          "id_str": "1496047264183341057",
-          "text": "@twmarcxxix Hola , es un gusto saludarte. Envianos un mensaje privado y con gusto te ayudaremos en tu consulta. Te aguardo.^EDL",
+          "created_at": "Tue Feb 22 10:02:17 +0000 2022",
+          "id": 1496062781677875200,
+          "id_str": "1496062781677875201",
+          "text": "@KELLYOCAMPOP Hola, Kelly, le hemos respondido por privado.",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "twmarcxxix",
-                "name": "fleur de lis ⚜",
-                "id": 1215325036233613300,
-                "id_str": "1215325036233613314",
+                "screen_name": "KELLYOCAMPOP",
+                "name": "KELLY OCAMPO PUERTA",
+                "id": 142543164,
+                "id_str": "142543164",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
-          "in_reply_to_status_id": 1495997395997544400,
-          "in_reply_to_status_id_str": "1495997395997544455",
-          "in_reply_to_user_id": 1215325036233613300,
-          "in_reply_to_user_id_str": "1215325036233613314",
-          "in_reply_to_screen_name": "twmarcxxix",
+          "in_reply_to_status_id": 1496062409681019000,
+          "in_reply_to_status_id_str": "1496062409681018884",
+          "in_reply_to_user_id": 142543164,
+          "in_reply_to_user_id_str": "142543164",
+          "in_reply_to_screen_name": "KELLYOCAMPOP",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5632,8 +5702,8 @@
           }
         },
         "protected": false,
-        "followers_count": 543438,
-        "friends_count": 215446,
+        "followers_count": 543437,
+        "friends_count": 215447,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18613,
@@ -5641,37 +5711,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2510098,
+        "statuses_count": 2510100,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 09:00:37 +0000 2022",
-          "id": 1496047264183341000,
-          "id_str": "1496047264183341057",
-          "text": "@twmarcxxix Hola , es un gusto saludarte. Envianos un mensaje privado y con gusto te ayudaremos en tu consulta. Te aguardo.^EDL",
+          "created_at": "Tue Feb 22 10:02:17 +0000 2022",
+          "id": 1496062781677875200,
+          "id_str": "1496062781677875201",
+          "text": "@KELLYOCAMPOP Hola, Kelly, le hemos respondido por privado.",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "twmarcxxix",
-                "name": "fleur de lis ⚜",
-                "id": 1215325036233613300,
-                "id_str": "1215325036233613314",
+                "screen_name": "KELLYOCAMPOP",
+                "name": "KELLY OCAMPO PUERTA",
+                "id": 142543164,
+                "id_str": "142543164",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
-          "in_reply_to_status_id": 1495997395997544400,
-          "in_reply_to_status_id_str": "1495997395997544455",
-          "in_reply_to_user_id": 1215325036233613300,
-          "in_reply_to_user_id_str": "1215325036233613314",
-          "in_reply_to_screen_name": "twmarcxxix",
+          "in_reply_to_status_id": 1496062409681019000,
+          "in_reply_to_status_id_str": "1496062409681018884",
+          "in_reply_to_user_id": 142543164,
+          "in_reply_to_user_id_str": "142543164",
+          "in_reply_to_screen_name": "KELLYOCAMPOP",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5946,8 +6016,8 @@
           }
         },
         "protected": false,
-        "followers_count": 543438,
-        "friends_count": 215446,
+        "followers_count": 543437,
+        "friends_count": 215447,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18613,
@@ -5955,37 +6025,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2510098,
+        "statuses_count": 2510100,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 09:00:37 +0000 2022",
-          "id": 1496047264183341000,
-          "id_str": "1496047264183341057",
-          "text": "@twmarcxxix Hola , es un gusto saludarte. Envianos un mensaje privado y con gusto te ayudaremos en tu consulta. Te aguardo.^EDL",
+          "created_at": "Tue Feb 22 10:02:17 +0000 2022",
+          "id": 1496062781677875200,
+          "id_str": "1496062781677875201",
+          "text": "@KELLYOCAMPOP Hola, Kelly, le hemos respondido por privado.",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "twmarcxxix",
-                "name": "fleur de lis ⚜",
-                "id": 1215325036233613300,
-                "id_str": "1215325036233613314",
+                "screen_name": "KELLYOCAMPOP",
+                "name": "KELLY OCAMPO PUERTA",
+                "id": 142543164,
+                "id_str": "142543164",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
-          "in_reply_to_status_id": 1495997395997544400,
-          "in_reply_to_status_id_str": "1495997395997544455",
-          "in_reply_to_user_id": 1215325036233613300,
-          "in_reply_to_user_id_str": "1215325036233613314",
-          "in_reply_to_screen_name": "twmarcxxix",
+          "in_reply_to_status_id": 1496062409681019000,
+          "in_reply_to_status_id_str": "1496062409681018884",
+          "in_reply_to_user_id": 142543164,
+          "in_reply_to_user_id_str": "142543164",
+          "in_reply_to_screen_name": "KELLYOCAMPOP",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6300,8 +6370,8 @@
           }
         },
         "protected": false,
-        "followers_count": 595080,
-        "friends_count": 239832,
+        "followers_count": 595081,
+        "friends_count": 239833,
         "listed_count": 795,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1560,
@@ -6309,37 +6379,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2061496,
+        "statuses_count": 2061501,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 02:42:25 +0000 2022",
-          "id": 1495952087691239400,
-          "id_str": "1495952087691239425",
-          "text": "@LleytonAg Hola LleytonAg, te pido que nos sigas asi podemos contactarte por privado y gestionar  tu pedido 😊",
+          "created_at": "Tue Feb 22 10:00:05 +0000 2022",
+          "id": 1496062226872082400,
+          "id_str": "1496062226872082435",
+          "text": "@GCongourbano Buen dia! Por favor te pido que te contactes por privado a https://t.co/SZKvI9m5hz para poder ayudarte. \nGracias!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LleytonAg",
-                "name": "Lleyton Ag",
-                "id": 2854028092,
-                "id_str": "2854028092",
+                "screen_name": "GCongourbano",
+                "name": "Girl from Congourbano",
+                "id": 1272995267596431400,
+                "id_str": "1272995267596431361",
                 "indices": [
                   0,
-                  10
+                  13
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SZKvI9m5hz",
+                "expanded_url": "https://bit.ly/2S9ym5b",
+                "display_url": "bit.ly/2S9ym5b",
+                "indices": [
+                  73,
+                  96
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1495896121981419500,
-          "in_reply_to_status_id_str": "1495896121981419530",
-          "in_reply_to_user_id": 2854028092,
-          "in_reply_to_user_id_str": "2854028092",
-          "in_reply_to_screen_name": "LleytonAg",
+          "in_reply_to_status_id": 1495910588257644500,
+          "in_reply_to_status_id_str": "1495910588257644548",
+          "in_reply_to_user_id": 1272995267596431400,
+          "in_reply_to_user_id_str": "1272995267596431361",
+          "in_reply_to_screen_name": "GCongourbano",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6349,6 +6429,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -6590,8 +6671,8 @@
           }
         },
         "protected": false,
-        "followers_count": 595080,
-        "friends_count": 239832,
+        "followers_count": 595081,
+        "friends_count": 239833,
         "listed_count": 795,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1560,
@@ -6599,37 +6680,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2061496,
+        "statuses_count": 2061501,
         "lang": null,
         "status": {
-          "created_at": "Tue Feb 22 02:42:25 +0000 2022",
-          "id": 1495952087691239400,
-          "id_str": "1495952087691239425",
-          "text": "@LleytonAg Hola LleytonAg, te pido que nos sigas asi podemos contactarte por privado y gestionar  tu pedido 😊",
+          "created_at": "Tue Feb 22 10:00:05 +0000 2022",
+          "id": 1496062226872082400,
+          "id_str": "1496062226872082435",
+          "text": "@GCongourbano Buen dia! Por favor te pido que te contactes por privado a https://t.co/SZKvI9m5hz para poder ayudarte. \nGracias!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LleytonAg",
-                "name": "Lleyton Ag",
-                "id": 2854028092,
-                "id_str": "2854028092",
+                "screen_name": "GCongourbano",
+                "name": "Girl from Congourbano",
+                "id": 1272995267596431400,
+                "id_str": "1272995267596431361",
                 "indices": [
                   0,
-                  10
+                  13
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SZKvI9m5hz",
+                "expanded_url": "https://bit.ly/2S9ym5b",
+                "display_url": "bit.ly/2S9ym5b",
+                "indices": [
+                  73,
+                  96
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1495896121981419500,
-          "in_reply_to_status_id_str": "1495896121981419530",
-          "in_reply_to_user_id": 2854028092,
-          "in_reply_to_user_id_str": "2854028092",
-          "in_reply_to_screen_name": "LleytonAg",
+          "in_reply_to_status_id": 1495910588257644500,
+          "in_reply_to_status_id_str": "1495910588257644548",
+          "in_reply_to_user_id": 1272995267596431400,
+          "in_reply_to_user_id_str": "1272995267596431361",
+          "in_reply_to_screen_name": "GCongourbano",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6639,6 +6730,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -10558,7 +10650,7 @@
           }
         },
         "protected": false,
-        "followers_count": 80265,
+        "followers_count": 80266,
         "friends_count": 12,
         "listed_count": 182,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12884,7 +12976,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145969,
+        "followers_count": 145970,
         "friends_count": 10200,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -13224,7 +13316,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145969,
+        "followers_count": 145970,
         "friends_count": 10200,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -13564,7 +13656,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145969,
+        "followers_count": 145970,
         "friends_count": 10200,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -13904,7 +13996,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145969,
+        "followers_count": 145970,
         "friends_count": 10200,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -14234,7 +14326,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145969,
+        "followers_count": 145970,
         "friends_count": 10200,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -14564,7 +14656,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145969,
+        "followers_count": 145970,
         "friends_count": 10200,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -14910,7 +15002,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145969,
+        "followers_count": 145970,
         "friends_count": 10200,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -15256,7 +15348,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145969,
+        "followers_count": 145970,
         "friends_count": 10200,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -15602,7 +15694,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145969,
+        "followers_count": 145970,
         "friends_count": 10200,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -15948,7 +16040,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145969,
+        "followers_count": 145970,
         "friends_count": 10200,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -23476,7 +23568,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23485,47 +23577,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23796,7 +23878,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23805,47 +23887,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -24116,7 +24188,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24125,47 +24197,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -24436,7 +24498,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24445,47 +24507,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -24756,7 +24808,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24765,47 +24817,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -25076,7 +25118,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25085,47 +25127,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -25396,7 +25428,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25405,47 +25437,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -25716,7 +25738,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25725,47 +25747,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -26036,7 +26048,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26045,47 +26057,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -26356,7 +26358,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26365,47 +26367,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -26676,7 +26668,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26685,47 +26677,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -27022,7 +27004,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27031,47 +27013,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -27368,7 +27340,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27377,47 +27349,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -27714,7 +27676,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27723,47 +27685,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28060,7 +28012,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440083,
+        "followers_count": 440086,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -28069,47 +28021,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58442,
+        "statuses_count": 58444,
         "lang": null,
         "status": {
-          "created_at": "Mon Feb 21 23:19:22 +0000 2022",
-          "id": 1495900987399315500,
-          "id_str": "1495900987399315462",
-          "text": "@surnor10 ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo,\n código de r… https://t.co/hQ2eXGawg3",
-          "truncated": true,
+          "created_at": "Tue Feb 22 10:02:02 +0000 2022",
+          "id": 1496062719782445000,
+          "id_str": "1496062719782445056",
+          "text": "@pumitaclausi Hola buen dia. Por favor envianos un DM para poder trabajar sobre tu consulta. Muchas gracias.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "surnor10",
-                "name": "inenicola",
-                "id": 760547797,
-                "id_str": "760547797",
+                "screen_name": "pumitaclausi",
+                "name": "Matias Clausi",
+                "id": 1476257688325603300,
+                "id_str": "1476257688325603334",
                 "indices": [
                   0,
-                  9
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/hQ2eXGawg3",
-                "expanded_url": "https://twitter.com/i/web/status/1495900987399315462",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1495886009791402000,
-          "in_reply_to_status_id_str": "1495886009791401985",
-          "in_reply_to_user_id": 760547797,
-          "in_reply_to_user_id_str": "760547797",
-          "in_reply_to_screen_name": "surnor10",
+          "in_reply_to_status_id": 1495900004547977200,
+          "in_reply_to_status_id_str": "1495900004547977219",
+          "in_reply_to_user_id": 1476257688325603300,
+          "in_reply_to_user_id_str": "1476257688325603334",
+          "in_reply_to_screen_name": "pumitaclausi",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28398,7 +28340,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -28698,7 +28640,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -28998,7 +28940,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -29298,7 +29240,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -29598,7 +29540,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -29898,7 +29840,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -30198,7 +30140,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -30498,7 +30440,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -30798,7 +30740,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -31098,7 +31040,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -31424,7 +31366,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -31722,7 +31664,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -32020,7 +31962,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -32318,7 +32260,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -32616,7 +32558,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -32903,7 +32845,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -33203,7 +33145,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -33503,7 +33445,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
@@ -33803,7 +33745,7 @@
         "protected": false,
         "followers_count": 92288,
         "friends_count": 102,
-        "listed_count": 0,
+        "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
         "favourites_count": 28432,
         "utc_offset": null,
