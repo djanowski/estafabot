@@ -29,7 +29,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149791,
+        "followers_count": 149790,
         "friends_count": 54873,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -347,7 +347,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149791,
+        "followers_count": 149790,
         "friends_count": 54873,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -665,7 +665,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149791,
+        "followers_count": 149790,
         "friends_count": 54873,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -983,7 +983,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149791,
+        "followers_count": 149790,
         "friends_count": 54873,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1363,7 +1363,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149791,
+        "followers_count": 149790,
         "friends_count": 54873,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1673,7 +1673,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149791,
+        "followers_count": 149790,
         "friends_count": 54873,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1983,7 +1983,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149791,
+        "followers_count": 149790,
         "friends_count": 54873,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2293,7 +2293,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149791,
+        "followers_count": 149790,
         "friends_count": 54873,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2603,7 +2603,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149791,
+        "followers_count": 149790,
         "friends_count": 54873,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2913,7 +2913,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149791,
+        "followers_count": 149790,
         "friends_count": 54873,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -3268,44 +3268,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022301,
+        "statuses_count": 1022304,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:38:07 +0000 2022",
-          "id": 1496917370258047000,
-          "id_str": "1496917370258046981",
-          "text": "@GianBaissi mandanos DM y te asesoramos",
-          "truncated": false,
+          "created_at": "Thu Feb 24 19:44:17 +0000 2022",
+          "id": 1496934023028953000,
+          "id_str": "1496934023028953089",
+          "text": "@duernhoefer te podés comunicar con uno de nuestros operadores en el botón CONTACTARNOS de nuestro perfil, para pod… https://t.co/kwZGZYDXZF",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "GianBaissi",
-                "name": "Gian Baissi",
-                "id": 1495789958958825500,
-                "id_str": "1495789958958825475",
+                "screen_name": "duernhoefer",
+                "name": "Andrea",
+                "id": 37683503,
+                "id_str": "37683503",
                 "indices": [
                   0,
-                  11
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/kwZGZYDXZF",
+                "expanded_url": "https://twitter.com/i/web/status/1496934023028953089",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1496916079058292700,
-          "in_reply_to_status_id_str": "1496916079058292741",
-          "in_reply_to_user_id": 1495789958958825500,
-          "in_reply_to_user_id_str": "1495789958958825475",
-          "in_reply_to_screen_name": "GianBaissi",
+          "in_reply_to_status_id": 1496933337201582000,
+          "in_reply_to_status_id_str": "1496933337201582092",
+          "in_reply_to_user_id": 37683503,
+          "in_reply_to_user_id_str": "37683503",
+          "in_reply_to_screen_name": "duernhoefer",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3566,44 +3576,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022301,
+        "statuses_count": 1022304,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:38:07 +0000 2022",
-          "id": 1496917370258047000,
-          "id_str": "1496917370258046981",
-          "text": "@GianBaissi mandanos DM y te asesoramos",
-          "truncated": false,
+          "created_at": "Thu Feb 24 19:44:17 +0000 2022",
+          "id": 1496934023028953000,
+          "id_str": "1496934023028953089",
+          "text": "@duernhoefer te podés comunicar con uno de nuestros operadores en el botón CONTACTARNOS de nuestro perfil, para pod… https://t.co/kwZGZYDXZF",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "GianBaissi",
-                "name": "Gian Baissi",
-                "id": 1495789958958825500,
-                "id_str": "1495789958958825475",
+                "screen_name": "duernhoefer",
+                "name": "Andrea",
+                "id": 37683503,
+                "id_str": "37683503",
                 "indices": [
                   0,
-                  11
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/kwZGZYDXZF",
+                "expanded_url": "https://twitter.com/i/web/status/1496934023028953089",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1496916079058292700,
-          "in_reply_to_status_id_str": "1496916079058292741",
-          "in_reply_to_user_id": 1495789958958825500,
-          "in_reply_to_user_id_str": "1495789958958825475",
-          "in_reply_to_screen_name": "GianBaissi",
+          "in_reply_to_status_id": 1496933337201582000,
+          "in_reply_to_status_id_str": "1496933337201582092",
+          "in_reply_to_user_id": 37683503,
+          "in_reply_to_user_id_str": "37683503",
+          "in_reply_to_screen_name": "duernhoefer",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3874,44 +3894,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022301,
+        "statuses_count": 1022304,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:38:07 +0000 2022",
-          "id": 1496917370258047000,
-          "id_str": "1496917370258046981",
-          "text": "@GianBaissi mandanos DM y te asesoramos",
-          "truncated": false,
+          "created_at": "Thu Feb 24 19:44:17 +0000 2022",
+          "id": 1496934023028953000,
+          "id_str": "1496934023028953089",
+          "text": "@duernhoefer te podés comunicar con uno de nuestros operadores en el botón CONTACTARNOS de nuestro perfil, para pod… https://t.co/kwZGZYDXZF",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "GianBaissi",
-                "name": "Gian Baissi",
-                "id": 1495789958958825500,
-                "id_str": "1495789958958825475",
+                "screen_name": "duernhoefer",
+                "name": "Andrea",
+                "id": 37683503,
+                "id_str": "37683503",
                 "indices": [
                   0,
-                  11
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/kwZGZYDXZF",
+                "expanded_url": "https://twitter.com/i/web/status/1496934023028953089",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1496916079058292700,
-          "in_reply_to_status_id_str": "1496916079058292741",
-          "in_reply_to_user_id": 1495789958958825500,
-          "in_reply_to_user_id_str": "1495789958958825475",
-          "in_reply_to_screen_name": "GianBaissi",
+          "in_reply_to_status_id": 1496933337201582000,
+          "in_reply_to_status_id_str": "1496933337201582092",
+          "in_reply_to_user_id": 37683503,
+          "in_reply_to_user_id_str": "37683503",
+          "in_reply_to_screen_name": "duernhoefer",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4172,44 +4202,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022301,
+        "statuses_count": 1022304,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:38:07 +0000 2022",
-          "id": 1496917370258047000,
-          "id_str": "1496917370258046981",
-          "text": "@GianBaissi mandanos DM y te asesoramos",
-          "truncated": false,
+          "created_at": "Thu Feb 24 19:44:17 +0000 2022",
+          "id": 1496934023028953000,
+          "id_str": "1496934023028953089",
+          "text": "@duernhoefer te podés comunicar con uno de nuestros operadores en el botón CONTACTARNOS de nuestro perfil, para pod… https://t.co/kwZGZYDXZF",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "GianBaissi",
-                "name": "Gian Baissi",
-                "id": 1495789958958825500,
-                "id_str": "1495789958958825475",
+                "screen_name": "duernhoefer",
+                "name": "Andrea",
+                "id": 37683503,
+                "id_str": "37683503",
                 "indices": [
                   0,
-                  11
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/kwZGZYDXZF",
+                "expanded_url": "https://twitter.com/i/web/status/1496934023028953089",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1496916079058292700,
-          "in_reply_to_status_id_str": "1496916079058292741",
-          "in_reply_to_user_id": 1495789958958825500,
-          "in_reply_to_user_id_str": "1495789958958825475",
-          "in_reply_to_screen_name": "GianBaissi",
+          "in_reply_to_status_id": 1496933337201582000,
+          "in_reply_to_status_id_str": "1496933337201582092",
+          "in_reply_to_user_id": 37683503,
+          "in_reply_to_user_id_str": "37683503",
+          "in_reply_to_screen_name": "duernhoefer",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4470,44 +4510,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022301,
+        "statuses_count": 1022304,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:38:07 +0000 2022",
-          "id": 1496917370258047000,
-          "id_str": "1496917370258046981",
-          "text": "@GianBaissi mandanos DM y te asesoramos",
-          "truncated": false,
+          "created_at": "Thu Feb 24 19:44:17 +0000 2022",
+          "id": 1496934023028953000,
+          "id_str": "1496934023028953089",
+          "text": "@duernhoefer te podés comunicar con uno de nuestros operadores en el botón CONTACTARNOS de nuestro perfil, para pod… https://t.co/kwZGZYDXZF",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "GianBaissi",
-                "name": "Gian Baissi",
-                "id": 1495789958958825500,
-                "id_str": "1495789958958825475",
+                "screen_name": "duernhoefer",
+                "name": "Andrea",
+                "id": 37683503,
+                "id_str": "37683503",
                 "indices": [
                   0,
-                  11
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/kwZGZYDXZF",
+                "expanded_url": "https://twitter.com/i/web/status/1496934023028953089",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1496916079058292700,
-          "in_reply_to_status_id_str": "1496916079058292741",
-          "in_reply_to_user_id": 1495789958958825500,
-          "in_reply_to_user_id_str": "1495789958958825475",
-          "in_reply_to_screen_name": "GianBaissi",
+          "in_reply_to_status_id": 1496933337201582000,
+          "in_reply_to_status_id_str": "1496933337201582092",
+          "in_reply_to_user_id": 37683503,
+          "in_reply_to_user_id_str": "37683503",
+          "in_reply_to_screen_name": "duernhoefer",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4759,44 +4809,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022301,
+        "statuses_count": 1022304,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:38:07 +0000 2022",
-          "id": 1496917370258047000,
-          "id_str": "1496917370258046981",
-          "text": "@GianBaissi mandanos DM y te asesoramos",
-          "truncated": false,
+          "created_at": "Thu Feb 24 19:44:17 +0000 2022",
+          "id": 1496934023028953000,
+          "id_str": "1496934023028953089",
+          "text": "@duernhoefer te podés comunicar con uno de nuestros operadores en el botón CONTACTARNOS de nuestro perfil, para pod… https://t.co/kwZGZYDXZF",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "GianBaissi",
-                "name": "Gian Baissi",
-                "id": 1495789958958825500,
-                "id_str": "1495789958958825475",
+                "screen_name": "duernhoefer",
+                "name": "Andrea",
+                "id": 37683503,
+                "id_str": "37683503",
                 "indices": [
                   0,
-                  11
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/kwZGZYDXZF",
+                "expanded_url": "https://twitter.com/i/web/status/1496934023028953089",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1496916079058292700,
-          "in_reply_to_status_id_str": "1496916079058292741",
-          "in_reply_to_user_id": 1495789958958825500,
-          "in_reply_to_user_id_str": "1495789958958825475",
-          "in_reply_to_screen_name": "GianBaissi",
+          "in_reply_to_status_id": 1496933337201582000,
+          "in_reply_to_status_id_str": "1496933337201582092",
+          "in_reply_to_user_id": 37683503,
+          "in_reply_to_user_id_str": "37683503",
+          "in_reply_to_screen_name": "duernhoefer",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5048,44 +5108,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022301,
+        "statuses_count": 1022304,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:38:07 +0000 2022",
-          "id": 1496917370258047000,
-          "id_str": "1496917370258046981",
-          "text": "@GianBaissi mandanos DM y te asesoramos",
-          "truncated": false,
+          "created_at": "Thu Feb 24 19:44:17 +0000 2022",
+          "id": 1496934023028953000,
+          "id_str": "1496934023028953089",
+          "text": "@duernhoefer te podés comunicar con uno de nuestros operadores en el botón CONTACTARNOS de nuestro perfil, para pod… https://t.co/kwZGZYDXZF",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "GianBaissi",
-                "name": "Gian Baissi",
-                "id": 1495789958958825500,
-                "id_str": "1495789958958825475",
+                "screen_name": "duernhoefer",
+                "name": "Andrea",
+                "id": 37683503,
+                "id_str": "37683503",
                 "indices": [
                   0,
-                  11
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/kwZGZYDXZF",
+                "expanded_url": "https://twitter.com/i/web/status/1496934023028953089",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1496916079058292700,
-          "in_reply_to_status_id_str": "1496916079058292741",
-          "in_reply_to_user_id": 1495789958958825500,
-          "in_reply_to_user_id_str": "1495789958958825475",
-          "in_reply_to_screen_name": "GianBaissi",
+          "in_reply_to_status_id": 1496933337201582000,
+          "in_reply_to_status_id_str": "1496933337201582092",
+          "in_reply_to_user_id": 37683503,
+          "in_reply_to_user_id_str": "37683503",
+          "in_reply_to_screen_name": "duernhoefer",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5318,7 +5388,7 @@
           }
         },
         "protected": false,
-        "followers_count": 543635,
+        "followers_count": 543643,
         "friends_count": 215437,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -5327,56 +5397,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2510869,
+        "statuses_count": 2510885,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 19:02:08 +0000 2022",
-          "id": 1496923415881695200,
-          "id_str": "1496923415881695248",
-          "text": "@BeetyBasualdo Hola Beety! Podes registrar tu línea en https://t.co/8tgmFdF7wy y con eso evitas llamadas y mensajes… https://t.co/UGE7QUvcbg",
-          "truncated": true,
+          "created_at": "Thu Feb 24 19:59:49 +0000 2022",
+          "id": 1496937931642134500,
+          "id_str": "1496937931642134530",
+          "text": "@Lucho03__ Hola Lucho, revisaremos las gestiones de tu línea para asistirte y encontrar una solución. ^RNS https://t.co/Bw8DOvQZ5i",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "BeetyBasualdo",
-                "name": "Beeti.-",
-                "id": 580463380,
-                "id_str": "580463380",
+                "screen_name": "Lucho03__",
+                "name": "Lucho",
+                "id": 3753624616,
+                "id_str": "3753624616",
                 "indices": [
                   0,
-                  14
+                  10
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/8tgmFdF7wy",
-                "expanded_url": "https://nollame.aaip.gob.ar",
-                "display_url": "nollame.aaip.gob.ar",
+                "url": "https://t.co/Bw8DOvQZ5i",
+                "expanded_url": "https://twitter.com/messages/compose?recipient_id=19286574&text=",
+                "display_url": "twitter.com/messages/compo…",
                 "indices": [
-                  55,
-                  78
-                ]
-              },
-              {
-                "url": "https://t.co/UGE7QUvcbg",
-                "expanded_url": "https://twitter.com/i/web/status/1496923415881695248",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
+                  107,
+                  130
                 ]
               }
             ]
           },
           "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
-          "in_reply_to_status_id": 1496922671132598300,
-          "in_reply_to_status_id_str": "1496922671132598277",
-          "in_reply_to_user_id": 580463380,
-          "in_reply_to_user_id_str": "580463380",
-          "in_reply_to_screen_name": "BeetyBasualdo",
+          "in_reply_to_status_id": 1496937297584918500,
+          "in_reply_to_status_id_str": "1496937297584918530",
+          "in_reply_to_user_id": 3753624616,
+          "in_reply_to_user_id_str": "3753624616",
+          "in_reply_to_screen_name": "Lucho03__",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5652,7 +5713,7 @@
           }
         },
         "protected": false,
-        "followers_count": 543635,
+        "followers_count": 543643,
         "friends_count": 215437,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -5661,56 +5722,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2510869,
+        "statuses_count": 2510885,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 19:02:08 +0000 2022",
-          "id": 1496923415881695200,
-          "id_str": "1496923415881695248",
-          "text": "@BeetyBasualdo Hola Beety! Podes registrar tu línea en https://t.co/8tgmFdF7wy y con eso evitas llamadas y mensajes… https://t.co/UGE7QUvcbg",
-          "truncated": true,
+          "created_at": "Thu Feb 24 19:59:49 +0000 2022",
+          "id": 1496937931642134500,
+          "id_str": "1496937931642134530",
+          "text": "@Lucho03__ Hola Lucho, revisaremos las gestiones de tu línea para asistirte y encontrar una solución. ^RNS https://t.co/Bw8DOvQZ5i",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "BeetyBasualdo",
-                "name": "Beeti.-",
-                "id": 580463380,
-                "id_str": "580463380",
+                "screen_name": "Lucho03__",
+                "name": "Lucho",
+                "id": 3753624616,
+                "id_str": "3753624616",
                 "indices": [
                   0,
-                  14
+                  10
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/8tgmFdF7wy",
-                "expanded_url": "https://nollame.aaip.gob.ar",
-                "display_url": "nollame.aaip.gob.ar",
+                "url": "https://t.co/Bw8DOvQZ5i",
+                "expanded_url": "https://twitter.com/messages/compose?recipient_id=19286574&text=",
+                "display_url": "twitter.com/messages/compo…",
                 "indices": [
-                  55,
-                  78
-                ]
-              },
-              {
-                "url": "https://t.co/UGE7QUvcbg",
-                "expanded_url": "https://twitter.com/i/web/status/1496923415881695248",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
+                  107,
+                  130
                 ]
               }
             ]
           },
           "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
-          "in_reply_to_status_id": 1496922671132598300,
-          "in_reply_to_status_id_str": "1496922671132598277",
-          "in_reply_to_user_id": 580463380,
-          "in_reply_to_user_id_str": "580463380",
-          "in_reply_to_screen_name": "BeetyBasualdo",
+          "in_reply_to_status_id": 1496937297584918500,
+          "in_reply_to_status_id_str": "1496937297584918530",
+          "in_reply_to_user_id": 3753624616,
+          "in_reply_to_user_id_str": "3753624616",
+          "in_reply_to_screen_name": "Lucho03__",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5986,7 +6038,7 @@
           }
         },
         "protected": false,
-        "followers_count": 543635,
+        "followers_count": 543643,
         "friends_count": 215437,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -5995,56 +6047,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2510869,
+        "statuses_count": 2510885,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 19:02:08 +0000 2022",
-          "id": 1496923415881695200,
-          "id_str": "1496923415881695248",
-          "text": "@BeetyBasualdo Hola Beety! Podes registrar tu línea en https://t.co/8tgmFdF7wy y con eso evitas llamadas y mensajes… https://t.co/UGE7QUvcbg",
-          "truncated": true,
+          "created_at": "Thu Feb 24 19:59:49 +0000 2022",
+          "id": 1496937931642134500,
+          "id_str": "1496937931642134530",
+          "text": "@Lucho03__ Hola Lucho, revisaremos las gestiones de tu línea para asistirte y encontrar una solución. ^RNS https://t.co/Bw8DOvQZ5i",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "BeetyBasualdo",
-                "name": "Beeti.-",
-                "id": 580463380,
-                "id_str": "580463380",
+                "screen_name": "Lucho03__",
+                "name": "Lucho",
+                "id": 3753624616,
+                "id_str": "3753624616",
                 "indices": [
                   0,
-                  14
+                  10
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/8tgmFdF7wy",
-                "expanded_url": "https://nollame.aaip.gob.ar",
-                "display_url": "nollame.aaip.gob.ar",
+                "url": "https://t.co/Bw8DOvQZ5i",
+                "expanded_url": "https://twitter.com/messages/compose?recipient_id=19286574&text=",
+                "display_url": "twitter.com/messages/compo…",
                 "indices": [
-                  55,
-                  78
-                ]
-              },
-              {
-                "url": "https://t.co/UGE7QUvcbg",
-                "expanded_url": "https://twitter.com/i/web/status/1496923415881695248",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
+                  107,
+                  130
                 ]
               }
             ]
           },
           "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
-          "in_reply_to_status_id": 1496922671132598300,
-          "in_reply_to_status_id_str": "1496922671132598277",
-          "in_reply_to_user_id": 580463380,
-          "in_reply_to_user_id_str": "580463380",
-          "in_reply_to_screen_name": "BeetyBasualdo",
+          "in_reply_to_status_id": 1496937297584918500,
+          "in_reply_to_status_id_str": "1496937297584918530",
+          "in_reply_to_user_id": 3753624616,
+          "in_reply_to_user_id_str": "3753624616",
+          "in_reply_to_screen_name": "Lucho03__",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6360,8 +6403,8 @@
           }
         },
         "protected": false,
-        "followers_count": 595321,
-        "friends_count": 240272,
+        "followers_count": 595323,
+        "friends_count": 240283,
         "listed_count": 795,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1560,
@@ -6369,47 +6412,37 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2061980,
+        "statuses_count": 2061993,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:44:45 +0000 2022",
-          "id": 1496919042631819300,
-          "id_str": "1496919042631819268",
-          "text": "@Fabr1_Brav0 Buenas tardes Fabricio mi nombre es Pedro y te voy ayudar con tu consulta, te voy a pedir por favor el… https://t.co/glmvWxGlwu",
-          "truncated": true,
+          "created_at": "Thu Feb 24 19:47:20 +0000 2022",
+          "id": 1496934789512843300,
+          "id_str": "1496934789512843265",
+          "text": "@uamkf_369 Hola 🤍, un gusto.\n\nTe pido por favor que nos sigas y nos envíes un DM para ayudarte desde acá. Te esperamos",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Fabr1_Brav0",
-                "name": "Fabricio Nahuel Bravo",
-                "id": 1168714201818456000,
-                "id_str": "1168714201818456064",
+                "screen_name": "uamkf_369",
+                "name": "🤍",
+                "id": 141391389,
+                "id_str": "141391389",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/glmvWxGlwu",
-                "expanded_url": "https://twitter.com/i/web/status/1496919042631819268",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1496880440635973600,
-          "in_reply_to_status_id_str": "1496880440635973633",
-          "in_reply_to_user_id": 1168714201818456000,
-          "in_reply_to_user_id_str": "1168714201818456064",
-          "in_reply_to_screen_name": "Fabr1_Brav0",
+          "in_reply_to_status_id": 1496914886110154800,
+          "in_reply_to_status_id_str": "1496914886110154760",
+          "in_reply_to_user_id": 141391389,
+          "in_reply_to_user_id_str": "141391389",
+          "in_reply_to_screen_name": "uamkf_369",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6660,8 +6693,8 @@
           }
         },
         "protected": false,
-        "followers_count": 595321,
-        "friends_count": 240272,
+        "followers_count": 595323,
+        "friends_count": 240283,
         "listed_count": 795,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1560,
@@ -6669,47 +6702,37 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2061980,
+        "statuses_count": 2061993,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:44:45 +0000 2022",
-          "id": 1496919042631819300,
-          "id_str": "1496919042631819268",
-          "text": "@Fabr1_Brav0 Buenas tardes Fabricio mi nombre es Pedro y te voy ayudar con tu consulta, te voy a pedir por favor el… https://t.co/glmvWxGlwu",
-          "truncated": true,
+          "created_at": "Thu Feb 24 19:47:20 +0000 2022",
+          "id": 1496934789512843300,
+          "id_str": "1496934789512843265",
+          "text": "@uamkf_369 Hola 🤍, un gusto.\n\nTe pido por favor que nos sigas y nos envíes un DM para ayudarte desde acá. Te esperamos",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Fabr1_Brav0",
-                "name": "Fabricio Nahuel Bravo",
-                "id": 1168714201818456000,
-                "id_str": "1168714201818456064",
+                "screen_name": "uamkf_369",
+                "name": "🤍",
+                "id": 141391389,
+                "id_str": "141391389",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/glmvWxGlwu",
-                "expanded_url": "https://twitter.com/i/web/status/1496919042631819268",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1496880440635973600,
-          "in_reply_to_status_id_str": "1496880440635973633",
-          "in_reply_to_user_id": 1168714201818456000,
-          "in_reply_to_user_id_str": "1168714201818456064",
-          "in_reply_to_screen_name": "Fabr1_Brav0",
+          "in_reply_to_status_id": 1496914886110154800,
+          "in_reply_to_status_id_str": "1496914886110154760",
+          "in_reply_to_user_id": 141391389,
+          "in_reply_to_user_id_str": "141391389",
+          "in_reply_to_screen_name": "uamkf_369",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9854,7 +9877,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50188,
+        "followers_count": 50189,
         "friends_count": 53,
         "listed_count": 63,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -9863,46 +9886,56 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 25501,
+        "statuses_count": 25503,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 14:36:58 +0000 2022",
-          "id": 1496856683318063000,
-          "id_str": "1496856683318063104",
-          "text": "Viví la vida que te prometiste y obtené tranquilidad para tu futuro con nuestro Seguro de Retiro. \nUna herramienta… https://t.co/8UDjSQ0OBG",
+          "created_at": "Thu Feb 24 19:31:03 +0000 2022",
+          "id": 1496930693343068200,
+          "id_str": "1496930693343068165",
+          "text": "@merianpeacock Para información sobre cuenta sueldos podes acceder directamente a la columna CUENTA SUELDO / Hsbc e… https://t.co/SNrVpwugmZ",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [],
+            "user_mentions": [
+              {
+                "screen_name": "merianpeacock",
+                "name": "Merjamin Button",
+                "id": 772869262855864300,
+                "id_str": "772869262855864320",
+                "indices": [
+                  0,
+                  14
+                ]
+              }
+            ],
             "urls": [
               {
-                "url": "https://t.co/8UDjSQ0OBG",
-                "expanded_url": "https://twitter.com/i/web/status/1496856683318063104",
+                "url": "https://t.co/SNrVpwugmZ",
+                "expanded_url": "https://twitter.com/i/web/status/1496930693343068165",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": null,
-          "in_reply_to_user_id_str": null,
-          "in_reply_to_screen_name": null,
+          "in_reply_to_status_id": 1496929962934227000,
+          "in_reply_to_status_id_str": "1496929962934226963",
+          "in_reply_to_user_id": 772869262855864300,
+          "in_reply_to_user_id_str": "772869262855864320",
+          "in_reply_to_screen_name": "merianpeacock",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 1,
-          "favorite_count": 4,
+          "retweet_count": 0,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -10210,7 +10243,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50188,
+        "followers_count": 50189,
         "friends_count": 53,
         "listed_count": 63,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -10219,46 +10252,56 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 25501,
+        "statuses_count": 25503,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 14:36:58 +0000 2022",
-          "id": 1496856683318063000,
-          "id_str": "1496856683318063104",
-          "text": "Viví la vida que te prometiste y obtené tranquilidad para tu futuro con nuestro Seguro de Retiro. \nUna herramienta… https://t.co/8UDjSQ0OBG",
+          "created_at": "Thu Feb 24 19:31:03 +0000 2022",
+          "id": 1496930693343068200,
+          "id_str": "1496930693343068165",
+          "text": "@merianpeacock Para información sobre cuenta sueldos podes acceder directamente a la columna CUENTA SUELDO / Hsbc e… https://t.co/SNrVpwugmZ",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [],
+            "user_mentions": [
+              {
+                "screen_name": "merianpeacock",
+                "name": "Merjamin Button",
+                "id": 772869262855864300,
+                "id_str": "772869262855864320",
+                "indices": [
+                  0,
+                  14
+                ]
+              }
+            ],
             "urls": [
               {
-                "url": "https://t.co/8UDjSQ0OBG",
-                "expanded_url": "https://twitter.com/i/web/status/1496856683318063104",
+                "url": "https://t.co/SNrVpwugmZ",
+                "expanded_url": "https://twitter.com/i/web/status/1496930693343068165",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": null,
-          "in_reply_to_user_id_str": null,
-          "in_reply_to_screen_name": null,
+          "in_reply_to_status_id": 1496929962934227000,
+          "in_reply_to_status_id_str": "1496929962934226963",
+          "in_reply_to_user_id": 772869262855864300,
+          "in_reply_to_user_id_str": "772869262855864320",
+          "in_reply_to_screen_name": "merianpeacock",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 1,
-          "favorite_count": 4,
+          "retweet_count": 0,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -10566,7 +10609,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50188,
+        "followers_count": 50189,
         "friends_count": 53,
         "listed_count": 63,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -10575,46 +10618,56 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 25501,
+        "statuses_count": 25503,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 14:36:58 +0000 2022",
-          "id": 1496856683318063000,
-          "id_str": "1496856683318063104",
-          "text": "Viví la vida que te prometiste y obtené tranquilidad para tu futuro con nuestro Seguro de Retiro. \nUna herramienta… https://t.co/8UDjSQ0OBG",
+          "created_at": "Thu Feb 24 19:31:03 +0000 2022",
+          "id": 1496930693343068200,
+          "id_str": "1496930693343068165",
+          "text": "@merianpeacock Para información sobre cuenta sueldos podes acceder directamente a la columna CUENTA SUELDO / Hsbc e… https://t.co/SNrVpwugmZ",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [],
+            "user_mentions": [
+              {
+                "screen_name": "merianpeacock",
+                "name": "Merjamin Button",
+                "id": 772869262855864300,
+                "id_str": "772869262855864320",
+                "indices": [
+                  0,
+                  14
+                ]
+              }
+            ],
             "urls": [
               {
-                "url": "https://t.co/8UDjSQ0OBG",
-                "expanded_url": "https://twitter.com/i/web/status/1496856683318063104",
+                "url": "https://t.co/SNrVpwugmZ",
+                "expanded_url": "https://twitter.com/i/web/status/1496930693343068165",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": null,
-          "in_reply_to_user_id_str": null,
-          "in_reply_to_screen_name": null,
+          "in_reply_to_status_id": 1496929962934227000,
+          "in_reply_to_status_id_str": "1496929962934226963",
+          "in_reply_to_user_id": 772869262855864300,
+          "in_reply_to_user_id_str": "772869262855864320",
+          "in_reply_to_screen_name": "merianpeacock",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 1,
-          "favorite_count": 4,
+          "retweet_count": 0,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -10922,7 +10975,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50188,
+        "followers_count": 50189,
         "friends_count": 53,
         "listed_count": 63,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -10931,46 +10984,56 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 25501,
+        "statuses_count": 25503,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 14:36:58 +0000 2022",
-          "id": 1496856683318063000,
-          "id_str": "1496856683318063104",
-          "text": "Viví la vida que te prometiste y obtené tranquilidad para tu futuro con nuestro Seguro de Retiro. \nUna herramienta… https://t.co/8UDjSQ0OBG",
+          "created_at": "Thu Feb 24 19:31:03 +0000 2022",
+          "id": 1496930693343068200,
+          "id_str": "1496930693343068165",
+          "text": "@merianpeacock Para información sobre cuenta sueldos podes acceder directamente a la columna CUENTA SUELDO / Hsbc e… https://t.co/SNrVpwugmZ",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [],
+            "user_mentions": [
+              {
+                "screen_name": "merianpeacock",
+                "name": "Merjamin Button",
+                "id": 772869262855864300,
+                "id_str": "772869262855864320",
+                "indices": [
+                  0,
+                  14
+                ]
+              }
+            ],
             "urls": [
               {
-                "url": "https://t.co/8UDjSQ0OBG",
-                "expanded_url": "https://twitter.com/i/web/status/1496856683318063104",
+                "url": "https://t.co/SNrVpwugmZ",
+                "expanded_url": "https://twitter.com/i/web/status/1496930693343068165",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": null,
-          "in_reply_to_user_id_str": null,
-          "in_reply_to_screen_name": null,
+          "in_reply_to_status_id": 1496929962934227000,
+          "in_reply_to_status_id_str": "1496929962934226963",
+          "in_reply_to_user_id": 772869262855864300,
+          "in_reply_to_user_id_str": "772869262855864320",
+          "in_reply_to_screen_name": "merianpeacock",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 1,
-          "favorite_count": 4,
+          "retweet_count": 0,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -11278,7 +11341,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50188,
+        "followers_count": 50189,
         "friends_count": 53,
         "listed_count": 63,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -11287,46 +11350,56 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 25501,
+        "statuses_count": 25503,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 14:36:58 +0000 2022",
-          "id": 1496856683318063000,
-          "id_str": "1496856683318063104",
-          "text": "Viví la vida que te prometiste y obtené tranquilidad para tu futuro con nuestro Seguro de Retiro. \nUna herramienta… https://t.co/8UDjSQ0OBG",
+          "created_at": "Thu Feb 24 19:31:03 +0000 2022",
+          "id": 1496930693343068200,
+          "id_str": "1496930693343068165",
+          "text": "@merianpeacock Para información sobre cuenta sueldos podes acceder directamente a la columna CUENTA SUELDO / Hsbc e… https://t.co/SNrVpwugmZ",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [],
+            "user_mentions": [
+              {
+                "screen_name": "merianpeacock",
+                "name": "Merjamin Button",
+                "id": 772869262855864300,
+                "id_str": "772869262855864320",
+                "indices": [
+                  0,
+                  14
+                ]
+              }
+            ],
             "urls": [
               {
-                "url": "https://t.co/8UDjSQ0OBG",
-                "expanded_url": "https://twitter.com/i/web/status/1496856683318063104",
+                "url": "https://t.co/SNrVpwugmZ",
+                "expanded_url": "https://twitter.com/i/web/status/1496930693343068165",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": null,
-          "in_reply_to_user_id_str": null,
-          "in_reply_to_screen_name": null,
+          "in_reply_to_status_id": 1496929962934227000,
+          "in_reply_to_status_id_str": "1496929962934226963",
+          "in_reply_to_user_id": 772869262855864300,
+          "in_reply_to_user_id_str": "772869262855864320",
+          "in_reply_to_screen_name": "merianpeacock",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 1,
-          "favorite_count": 4,
+          "retweet_count": 0,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -11624,7 +11697,7 @@
           }
         },
         "protected": false,
-        "followers_count": 80299,
+        "followers_count": 80301,
         "friends_count": 12,
         "listed_count": 182,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -13890,7 +13963,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145997,
+        "followers_count": 145998,
         "friends_count": 10199,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -13899,57 +13972,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 66936,
+        "statuses_count": 66939,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:44:30 +0000 2022",
-          "id": 1496918976974180400,
-          "id_str": "1496918976974180356",
-          "text": "@iCarliie @DanuOcampo Hola, @iCarliie Para ayudarte, respecto a la compra con MODO, escribinos por mensaje privado. Roxana.",
-          "truncated": false,
+          "created_at": "Thu Feb 24 19:52:52 +0000 2022",
+          "id": 1496936181770162200,
+          "id_str": "1496936181770162183",
+          "text": "@mcel331 Hola, mcel331. Por favor, escribinos por DM indicándonos tus datos (DNI y nombre completo) para que podamo… https://t.co/HsjkQTKs31",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "iCarliie",
-                "name": "#Carlie",
-                "id": 44781787,
-                "id_str": "44781787",
+                "screen_name": "mcel331",
+                "name": "Robsten33",
+                "id": 2249628510,
+                "id_str": "2249628510",
                 "indices": [
                   0,
-                  9
-                ]
-              },
-              {
-                "screen_name": "DanuOcampo",
-                "name": "Dani Ocampo",
-                "id": 201825633,
-                "id_str": "201825633",
-                "indices": [
-                  10,
-                  21
-                ]
-              },
-              {
-                "screen_name": "iCarliie",
-                "name": "#Carlie",
-                "id": 44781787,
-                "id_str": "44781787",
-                "indices": [
-                  28,
-                  37
+                  8
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/HsjkQTKs31",
+                "expanded_url": "https://twitter.com/i/web/status/1496936181770162183",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1496918054466310100,
-          "in_reply_to_status_id_str": "1496918054466310158",
-          "in_reply_to_user_id": 44781787,
-          "in_reply_to_user_id_str": "44781787",
-          "in_reply_to_screen_name": "iCarliie",
+          "in_reply_to_status_id": 1496935395774320600,
+          "in_reply_to_status_id_str": "1496935395774320654",
+          "in_reply_to_user_id": 2249628510,
+          "in_reply_to_user_id_str": "2249628510",
+          "in_reply_to_screen_name": "mcel331",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -14246,7 +14309,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145997,
+        "followers_count": 145998,
         "friends_count": 10199,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -14255,57 +14318,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 66936,
+        "statuses_count": 66939,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:44:30 +0000 2022",
-          "id": 1496918976974180400,
-          "id_str": "1496918976974180356",
-          "text": "@iCarliie @DanuOcampo Hola, @iCarliie Para ayudarte, respecto a la compra con MODO, escribinos por mensaje privado. Roxana.",
-          "truncated": false,
+          "created_at": "Thu Feb 24 19:52:52 +0000 2022",
+          "id": 1496936181770162200,
+          "id_str": "1496936181770162183",
+          "text": "@mcel331 Hola, mcel331. Por favor, escribinos por DM indicándonos tus datos (DNI y nombre completo) para que podamo… https://t.co/HsjkQTKs31",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "iCarliie",
-                "name": "#Carlie",
-                "id": 44781787,
-                "id_str": "44781787",
+                "screen_name": "mcel331",
+                "name": "Robsten33",
+                "id": 2249628510,
+                "id_str": "2249628510",
                 "indices": [
                   0,
-                  9
-                ]
-              },
-              {
-                "screen_name": "DanuOcampo",
-                "name": "Dani Ocampo",
-                "id": 201825633,
-                "id_str": "201825633",
-                "indices": [
-                  10,
-                  21
-                ]
-              },
-              {
-                "screen_name": "iCarliie",
-                "name": "#Carlie",
-                "id": 44781787,
-                "id_str": "44781787",
-                "indices": [
-                  28,
-                  37
+                  8
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/HsjkQTKs31",
+                "expanded_url": "https://twitter.com/i/web/status/1496936181770162183",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1496918054466310100,
-          "in_reply_to_status_id_str": "1496918054466310158",
-          "in_reply_to_user_id": 44781787,
-          "in_reply_to_user_id_str": "44781787",
-          "in_reply_to_screen_name": "iCarliie",
+          "in_reply_to_status_id": 1496935395774320600,
+          "in_reply_to_status_id_str": "1496935395774320654",
+          "in_reply_to_user_id": 2249628510,
+          "in_reply_to_user_id_str": "2249628510",
+          "in_reply_to_screen_name": "mcel331",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -14602,7 +14655,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145997,
+        "followers_count": 145998,
         "friends_count": 10199,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -14611,57 +14664,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 66936,
+        "statuses_count": 66939,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:44:30 +0000 2022",
-          "id": 1496918976974180400,
-          "id_str": "1496918976974180356",
-          "text": "@iCarliie @DanuOcampo Hola, @iCarliie Para ayudarte, respecto a la compra con MODO, escribinos por mensaje privado. Roxana.",
-          "truncated": false,
+          "created_at": "Thu Feb 24 19:52:52 +0000 2022",
+          "id": 1496936181770162200,
+          "id_str": "1496936181770162183",
+          "text": "@mcel331 Hola, mcel331. Por favor, escribinos por DM indicándonos tus datos (DNI y nombre completo) para que podamo… https://t.co/HsjkQTKs31",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "iCarliie",
-                "name": "#Carlie",
-                "id": 44781787,
-                "id_str": "44781787",
+                "screen_name": "mcel331",
+                "name": "Robsten33",
+                "id": 2249628510,
+                "id_str": "2249628510",
                 "indices": [
                   0,
-                  9
-                ]
-              },
-              {
-                "screen_name": "DanuOcampo",
-                "name": "Dani Ocampo",
-                "id": 201825633,
-                "id_str": "201825633",
-                "indices": [
-                  10,
-                  21
-                ]
-              },
-              {
-                "screen_name": "iCarliie",
-                "name": "#Carlie",
-                "id": 44781787,
-                "id_str": "44781787",
-                "indices": [
-                  28,
-                  37
+                  8
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/HsjkQTKs31",
+                "expanded_url": "https://twitter.com/i/web/status/1496936181770162183",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1496918054466310100,
-          "in_reply_to_status_id_str": "1496918054466310158",
-          "in_reply_to_user_id": 44781787,
-          "in_reply_to_user_id_str": "44781787",
-          "in_reply_to_screen_name": "iCarliie",
+          "in_reply_to_status_id": 1496935395774320600,
+          "in_reply_to_status_id_str": "1496935395774320654",
+          "in_reply_to_user_id": 2249628510,
+          "in_reply_to_user_id_str": "2249628510",
+          "in_reply_to_screen_name": "mcel331",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -14958,7 +15001,7 @@
           }
         },
         "protected": false,
-        "followers_count": 145997,
+        "followers_count": 145998,
         "friends_count": 10199,
         "listed_count": 296,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -14967,57 +15010,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 66936,
+        "statuses_count": 66939,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:44:30 +0000 2022",
-          "id": 1496918976974180400,
-          "id_str": "1496918976974180356",
-          "text": "@iCarliie @DanuOcampo Hola, @iCarliie Para ayudarte, respecto a la compra con MODO, escribinos por mensaje privado. Roxana.",
-          "truncated": false,
+          "created_at": "Thu Feb 24 19:52:52 +0000 2022",
+          "id": 1496936181770162200,
+          "id_str": "1496936181770162183",
+          "text": "@mcel331 Hola, mcel331. Por favor, escribinos por DM indicándonos tus datos (DNI y nombre completo) para que podamo… https://t.co/HsjkQTKs31",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "iCarliie",
-                "name": "#Carlie",
-                "id": 44781787,
-                "id_str": "44781787",
+                "screen_name": "mcel331",
+                "name": "Robsten33",
+                "id": 2249628510,
+                "id_str": "2249628510",
                 "indices": [
                   0,
-                  9
-                ]
-              },
-              {
-                "screen_name": "DanuOcampo",
-                "name": "Dani Ocampo",
-                "id": 201825633,
-                "id_str": "201825633",
-                "indices": [
-                  10,
-                  21
-                ]
-              },
-              {
-                "screen_name": "iCarliie",
-                "name": "#Carlie",
-                "id": 44781787,
-                "id_str": "44781787",
-                "indices": [
-                  28,
-                  37
+                  8
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/HsjkQTKs31",
+                "expanded_url": "https://twitter.com/i/web/status/1496936181770162183",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1496918054466310100,
-          "in_reply_to_status_id_str": "1496918054466310158",
-          "in_reply_to_user_id": 44781787,
-          "in_reply_to_user_id_str": "44781787",
-          "in_reply_to_screen_name": "iCarliie",
+          "in_reply_to_status_id": 1496935395774320600,
+          "in_reply_to_status_id_str": "1496935395774320654",
+          "in_reply_to_user_id": 2249628510,
+          "in_reply_to_user_id_str": "2249628510",
+          "in_reply_to_screen_name": "mcel331",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -15314,8 +15347,8 @@
           }
         },
         "protected": false,
-        "followers_count": 157580,
-        "friends_count": 16011,
+        "followers_count": 157578,
+        "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 606,
@@ -15323,1045 +15356,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 52766,
+        "statuses_count": 52769,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:10:44 +0000 2022",
-          "id": 1496910479012372500,
-          "id_str": "1496910479012372484",
-          "text": "@CarLaMois ¡Hola AllVerso! Te respondimos tu consulta por Mensaje Directo, para cuidar tu privacidad. ¡Saludos!",
+          "created_at": "Thu Feb 24 19:46:52 +0000 2022",
+          "id": 1496934675335504000,
+          "id_str": "1496934675335503873",
+          "text": "@MarianoCabrera Hola, Mariano. Te respondimos por DM. ¡Saludos!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CarLaMois",
-                "name": "AllVerso",
-                "id": 145355526,
-                "id_str": "145355526",
+                "screen_name": "MarianoCabrera",
+                "name": "Mariano Cabrera",
+                "id": 37122027,
+                "id_str": "37122027",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1496887684085784600,
-          "in_reply_to_status_id_str": "1496887684085784577",
-          "in_reply_to_user_id": 145355526,
-          "in_reply_to_user_id_str": "145355526",
-          "in_reply_to_screen_name": "CarLaMois",
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "es"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "FFFFFF",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": true,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1411082452471320577/pAtPhGyJ_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411082452471320577/pAtPhGyJ_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135606245/1633368968",
-        "profile_link_color": "00A3E4",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "F7F7F7",
-        "profile_text_color": "2E2E2E",
-        "profile_use_background_image": false,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      }
-    },
-    "user": {
-      "id": 1491470272477601800,
-      "id_str": "1491470272477601794",
-      "name": "BBVA en Argentina 🇦🇷",
-      "screen_name": "franceschaarg",
-      "location": "Ciudad Autónoma de Buenos Aire",
-      "description": "Avanzamos para que todas las oportunidades estén en tus manos #Bbva\n #OneBbvaenArgentina",
-      "url": "https://t.co/rHnfgkr3YO",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/rHnfgkr3YO",
-              "expanded_url": "http://www.bbvaresponde.com",
-              "display_url": "bbvaresponde.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 0,
-      "friends_count": 0,
-      "listed_count": 0,
-      "created_at": "Wed Feb 09 17:53:28 +0000 2022",
-      "favourites_count": 0,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 187,
-      "lang": null,
-      "status": {
-        "created_at": "Thu Feb 10 18:06:21 +0000 2022",
-        "id": 1491835946408767500,
-        "id_str": "1491835946408767488",
-        "text": "@raulsebas_ponce Buenas tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de Banco BBVA Francés🇦🇷Ante cualquier r… https://t.co/bGcPkLry0m",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "raulsebas_ponce",
-              "name": "sebastian ponce",
-              "id": 506162677,
-              "id_str": "506162677",
-              "indices": [
-                0,
-                16
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/bGcPkLry0m",
-              "expanded_url": "https://twitter.com/i/web/status/1491835946408767488",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": 506162677,
-        "in_reply_to_user_id_str": "506162677",
-        "in_reply_to_screen_name": "raulsebas_ponce",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "es"
-      },
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491470272477601794/1644429589",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "tweet": {
-      "created_at": "Thu Feb 10 18:06:10 +0000 2022",
-      "id": 1491835902460670000,
-      "id_str": "1491835902460669956",
-      "full_text": "@raulsebas_ponce Buenas tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de Banco BBVA Francés🇦🇷Ante cualquier reclamó, duda o Inconveniente sobre Nuestros Servicios o Productos💳, Déjanos un Número Alternativo de Línea📲 para que un Asesor/a, Tomé la Comunicación",
-      "truncated": false,
-      "display_text_range": [
-        17,
-        265
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "raulsebas_ponce",
-            "name": "sebastian ponce",
-            "id": 506162677,
-            "id_str": "506162677",
-            "indices": [
-              0,
-              16
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1491835210668941300,
-      "in_reply_to_status_id_str": "1491835210668941315",
-      "in_reply_to_user_id": 506162677,
-      "in_reply_to_user_id_str": "506162677",
-      "in_reply_to_screen_name": "raulsebas_ponce",
-      "user": {
-        "id": 1491470272477601800,
-        "id_str": "1491470272477601794",
-        "name": "BBVA en Argentina 🇦🇷",
-        "screen_name": "franceschaarg",
-        "location": "Ciudad Autónoma de Buenos Aire",
-        "description": "Avanzamos para que todas las oportunidades estén en tus manos #Bbva\n #OneBbvaenArgentina",
-        "url": "https://t.co/rHnfgkr3YO",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/rHnfgkr3YO",
-                "expanded_url": "http://www.bbvaresponde.com",
-                "display_url": "bbvaresponde.com",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 0,
-        "friends_count": 0,
-        "listed_count": 0,
-        "created_at": "Wed Feb 09 17:53:28 +0000 2022",
-        "favourites_count": 0,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 187,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491470272477601794/1644429589",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "es"
-    },
-    "isScam": true
-  },
-  {
-    "brand": {
-      "name": "BBVA Argentina",
-      "user": {
-        "id": 135606245,
-        "id_str": "135606245",
-        "name": "BBVA en Argentina",
-        "screen_name": "bbva_argentina",
-        "location": "Argentina",
-        "description": "Avanzamos para que todas las oportunidades estén en tus manos. \n#OneBBVA #CreandoOportunidades\nContactanos ➡️ https://t.co/toJqJcDFTB",
-        "url": "https://t.co/Z5cP7pxohp",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/Z5cP7pxohp",
-                "expanded_url": "https://www.bbva.com.ar/",
-                "display_url": "bbva.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": [
-              {
-                "url": "https://t.co/toJqJcDFTB",
-                "expanded_url": "http://bbva.info/formulario",
-                "display_url": "bbva.info/formulario",
-                "indices": [
-                  110,
-                  133
-                ]
-              }
-            ]
-          }
-        },
-        "protected": false,
-        "followers_count": 157580,
-        "friends_count": 16011,
-        "listed_count": 207,
-        "created_at": "Wed Apr 21 19:50:51 +0000 2010",
-        "favourites_count": 606,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": true,
-        "verified": true,
-        "statuses_count": 52766,
-        "lang": null,
-        "status": {
-          "created_at": "Thu Feb 24 18:10:44 +0000 2022",
-          "id": 1496910479012372500,
-          "id_str": "1496910479012372484",
-          "text": "@CarLaMois ¡Hola AllVerso! Te respondimos tu consulta por Mensaje Directo, para cuidar tu privacidad. ¡Saludos!",
-          "truncated": false,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "CarLaMois",
-                "name": "AllVerso",
-                "id": 145355526,
-                "id_str": "145355526",
-                "indices": [
-                  0,
-                  10
-                ]
-              }
-            ],
-            "urls": []
-          },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1496887684085784600,
-          "in_reply_to_status_id_str": "1496887684085784577",
-          "in_reply_to_user_id": 145355526,
-          "in_reply_to_user_id_str": "145355526",
-          "in_reply_to_screen_name": "CarLaMois",
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "es"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "FFFFFF",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": true,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1411082452471320577/pAtPhGyJ_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411082452471320577/pAtPhGyJ_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135606245/1633368968",
-        "profile_link_color": "00A3E4",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "F7F7F7",
-        "profile_text_color": "2E2E2E",
-        "profile_use_background_image": false,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      }
-    },
-    "user": {
-      "id": 1491470272477601800,
-      "id_str": "1491470272477601794",
-      "name": "BBVA en Argentina 🇦🇷",
-      "screen_name": "franceschaarg",
-      "location": "Ciudad Autónoma de Buenos Aire",
-      "description": "Avanzamos para que todas las oportunidades estén en tus manos #Bbva\n #OneBbvaenArgentina",
-      "url": "https://t.co/rHnfgkr3YO",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/rHnfgkr3YO",
-              "expanded_url": "http://www.bbvaresponde.com",
-              "display_url": "bbvaresponde.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 0,
-      "friends_count": 0,
-      "listed_count": 0,
-      "created_at": "Wed Feb 09 17:53:28 +0000 2022",
-      "favourites_count": 0,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 187,
-      "lang": null,
-      "status": {
-        "created_at": "Thu Feb 10 18:06:21 +0000 2022",
-        "id": 1491835946408767500,
-        "id_str": "1491835946408767488",
-        "text": "@raulsebas_ponce Buenas tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de Banco BBVA Francés🇦🇷Ante cualquier r… https://t.co/bGcPkLry0m",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "raulsebas_ponce",
-              "name": "sebastian ponce",
-              "id": 506162677,
-              "id_str": "506162677",
-              "indices": [
-                0,
-                16
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/bGcPkLry0m",
-              "expanded_url": "https://twitter.com/i/web/status/1491835946408767488",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": 506162677,
-        "in_reply_to_user_id_str": "506162677",
-        "in_reply_to_screen_name": "raulsebas_ponce",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "es"
-      },
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491470272477601794/1644429589",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "tweet": {
-      "created_at": "Thu Feb 10 18:01:16 +0000 2022",
-      "id": 1491834669180010500,
-      "id_str": "1491834669180010498",
-      "full_text": "@Thevaderswifey Buenas Tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de BBVA FRANCÉS🇦🇷 Ante cualquier reclamó, duda o Inconveniente sobre Nuestros Servicios o Productos💳, Déjanos un Número Alternativo de Línea📲 para que un Asesor/a, Tomé la Comunicación",
-      "truncated": false,
-      "display_text_range": [
-        16,
-        259
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "Thevaderswifey",
-            "name": "🎃 Spooky Scary Storm 🎃",
-            "id": 331331987,
-            "id_str": "331331987",
-            "indices": [
-              0,
-              15
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1491834226966241300,
-      "in_reply_to_status_id_str": "1491834226966241286",
-      "in_reply_to_user_id": 331331987,
-      "in_reply_to_user_id_str": "331331987",
-      "in_reply_to_screen_name": "Thevaderswifey",
-      "user": {
-        "id": 1491470272477601800,
-        "id_str": "1491470272477601794",
-        "name": "BBVA en Argentina 🇦🇷",
-        "screen_name": "franceschaarg",
-        "location": "Ciudad Autónoma de Buenos Aire",
-        "description": "Avanzamos para que todas las oportunidades estén en tus manos #Bbva\n #OneBbvaenArgentina",
-        "url": "https://t.co/rHnfgkr3YO",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/rHnfgkr3YO",
-                "expanded_url": "http://www.bbvaresponde.com",
-                "display_url": "bbvaresponde.com",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 0,
-        "friends_count": 0,
-        "listed_count": 0,
-        "created_at": "Wed Feb 09 17:53:28 +0000 2022",
-        "favourites_count": 0,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 187,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491470272477601794/1644429589",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "es"
-    },
-    "isScam": true
-  },
-  {
-    "brand": {
-      "name": "BBVA Argentina",
-      "user": {
-        "id": 135606245,
-        "id_str": "135606245",
-        "name": "BBVA en Argentina",
-        "screen_name": "bbva_argentina",
-        "location": "Argentina",
-        "description": "Avanzamos para que todas las oportunidades estén en tus manos. \n#OneBBVA #CreandoOportunidades\nContactanos ➡️ https://t.co/toJqJcDFTB",
-        "url": "https://t.co/Z5cP7pxohp",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/Z5cP7pxohp",
-                "expanded_url": "https://www.bbva.com.ar/",
-                "display_url": "bbva.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": [
-              {
-                "url": "https://t.co/toJqJcDFTB",
-                "expanded_url": "http://bbva.info/formulario",
-                "display_url": "bbva.info/formulario",
-                "indices": [
-                  110,
-                  133
-                ]
-              }
-            ]
-          }
-        },
-        "protected": false,
-        "followers_count": 157580,
-        "friends_count": 16011,
-        "listed_count": 207,
-        "created_at": "Wed Apr 21 19:50:51 +0000 2010",
-        "favourites_count": 606,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": true,
-        "verified": true,
-        "statuses_count": 52766,
-        "lang": null,
-        "status": {
-          "created_at": "Thu Feb 24 18:10:44 +0000 2022",
-          "id": 1496910479012372500,
-          "id_str": "1496910479012372484",
-          "text": "@CarLaMois ¡Hola AllVerso! Te respondimos tu consulta por Mensaje Directo, para cuidar tu privacidad. ¡Saludos!",
-          "truncated": false,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "CarLaMois",
-                "name": "AllVerso",
-                "id": 145355526,
-                "id_str": "145355526",
-                "indices": [
-                  0,
-                  10
-                ]
-              }
-            ],
-            "urls": []
-          },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1496887684085784600,
-          "in_reply_to_status_id_str": "1496887684085784577",
-          "in_reply_to_user_id": 145355526,
-          "in_reply_to_user_id_str": "145355526",
-          "in_reply_to_screen_name": "CarLaMois",
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "es"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "FFFFFF",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": true,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1411082452471320577/pAtPhGyJ_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1411082452471320577/pAtPhGyJ_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135606245/1633368968",
-        "profile_link_color": "00A3E4",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "F7F7F7",
-        "profile_text_color": "2E2E2E",
-        "profile_use_background_image": false,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      }
-    },
-    "user": {
-      "id": 1491470272477601800,
-      "id_str": "1491470272477601794",
-      "name": "BBVA en Argentina 🇦🇷",
-      "screen_name": "franceschaarg",
-      "location": "Ciudad Autónoma de Buenos Aire",
-      "description": "Avanzamos para que todas las oportunidades estén en tus manos #Bbva\n #OneBbvaenArgentina",
-      "url": "https://t.co/rHnfgkr3YO",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/rHnfgkr3YO",
-              "expanded_url": "http://www.bbvaresponde.com",
-              "display_url": "bbvaresponde.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 0,
-      "friends_count": 0,
-      "listed_count": 0,
-      "created_at": "Wed Feb 09 17:53:28 +0000 2022",
-      "favourites_count": 0,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 187,
-      "lang": null,
-      "status": {
-        "created_at": "Thu Feb 10 18:06:21 +0000 2022",
-        "id": 1491835946408767500,
-        "id_str": "1491835946408767488",
-        "text": "@raulsebas_ponce Buenas tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de Banco BBVA Francés🇦🇷Ante cualquier r… https://t.co/bGcPkLry0m",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "raulsebas_ponce",
-              "name": "sebastian ponce",
-              "id": 506162677,
-              "id_str": "506162677",
-              "indices": [
-                0,
-                16
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/bGcPkLry0m",
-              "expanded_url": "https://twitter.com/i/web/status/1491835946408767488",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": 506162677,
-        "in_reply_to_user_id_str": "506162677",
-        "in_reply_to_screen_name": "raulsebas_ponce",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "es"
-      },
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491470272477601794/1644429589",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "tweet": {
-      "created_at": "Thu Feb 10 18:00:31 +0000 2022",
-      "id": 1491834481069674500,
-      "id_str": "1491834481069674496",
-      "full_text": "@DxRufus Buenas Tardes👋 Bienvenidos al Centro de Atención Virtual 📱 de BBVA FRANCÉS🇦🇷 Ante cualquier reclamó, duda o Inconveniente sobre Nuestros Servicios o Productos💳, Déjanos un Número Alternativo de Línea📲 para que un Asesor/a, Tomé la Comunicación",
-      "truncated": false,
-      "display_text_range": [
-        9,
-        252
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "DxRufus",
-            "name": "DxRufus",
-            "id": 1046538021200375800,
-            "id_str": "1046538021200375809",
-            "indices": [
-              0,
-              8
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1491796306427216000,
-      "in_reply_to_status_id_str": "1491796306427215879",
-      "in_reply_to_user_id": 1046538021200375800,
-      "in_reply_to_user_id_str": "1046538021200375809",
-      "in_reply_to_screen_name": "DxRufus",
-      "user": {
-        "id": 1491470272477601800,
-        "id_str": "1491470272477601794",
-        "name": "BBVA en Argentina 🇦🇷",
-        "screen_name": "franceschaarg",
-        "location": "Ciudad Autónoma de Buenos Aire",
-        "description": "Avanzamos para que todas las oportunidades estén en tus manos #Bbva\n #OneBbvaenArgentina",
-        "url": "https://t.co/rHnfgkr3YO",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/rHnfgkr3YO",
-                "expanded_url": "http://www.bbvaresponde.com",
-                "display_url": "bbvaresponde.com",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 0,
-        "friends_count": 0,
-        "listed_count": 0,
-        "created_at": "Wed Feb 09 17:53:28 +0000 2022",
-        "favourites_count": 0,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 187,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491471848558583810/BeAWqQHT_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1491470272477601794/1644429589",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "es"
-    },
-    "isScam": true
-  },
-  {
-    "brand": {
-      "name": "BBVA Argentina",
-      "user": {
-        "id": 135606245,
-        "id_str": "135606245",
-        "name": "BBVA en Argentina",
-        "screen_name": "bbva_argentina",
-        "location": "Argentina",
-        "description": "Avanzamos para que todas las oportunidades estén en tus manos. \n#OneBBVA #CreandoOportunidades\nContactanos ➡️ https://t.co/toJqJcDFTB",
-        "url": "https://t.co/Z5cP7pxohp",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/Z5cP7pxohp",
-                "expanded_url": "https://www.bbva.com.ar/",
-                "display_url": "bbva.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": [
-              {
-                "url": "https://t.co/toJqJcDFTB",
-                "expanded_url": "http://bbva.info/formulario",
-                "display_url": "bbva.info/formulario",
-                "indices": [
-                  110,
-                  133
-                ]
-              }
-            ]
-          }
-        },
-        "protected": false,
-        "followers_count": 157580,
-        "friends_count": 16011,
-        "listed_count": 207,
-        "created_at": "Wed Apr 21 19:50:51 +0000 2010",
-        "favourites_count": 606,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": true,
-        "verified": true,
-        "statuses_count": 52766,
-        "lang": null,
-        "status": {
-          "created_at": "Thu Feb 24 18:10:44 +0000 2022",
-          "id": 1496910479012372500,
-          "id_str": "1496910479012372484",
-          "text": "@CarLaMois ¡Hola AllVerso! Te respondimos tu consulta por Mensaje Directo, para cuidar tu privacidad. ¡Saludos!",
-          "truncated": false,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "CarLaMois",
-                "name": "AllVerso",
-                "id": 145355526,
-                "id_str": "145355526",
-                "indices": [
-                  0,
-                  10
-                ]
-              }
-            ],
-            "urls": []
-          },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1496887684085784600,
-          "in_reply_to_status_id_str": "1496887684085784577",
-          "in_reply_to_user_id": 145355526,
-          "in_reply_to_user_id_str": "145355526",
-          "in_reply_to_screen_name": "CarLaMois",
+          "in_reply_to_status_id": 1496923117188522000,
+          "in_reply_to_status_id_str": "1496923117188521987",
+          "in_reply_to_user_id": 37122027,
+          "in_reply_to_user_id_str": "37122027",
+          "in_reply_to_screen_name": "MarianoCabrera",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -16678,8 +15703,8 @@
           }
         },
         "protected": false,
-        "followers_count": 157580,
-        "friends_count": 16011,
+        "followers_count": 157578,
+        "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 606,
@@ -16687,37 +15712,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 52766,
+        "statuses_count": 52769,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:10:44 +0000 2022",
-          "id": 1496910479012372500,
-          "id_str": "1496910479012372484",
-          "text": "@CarLaMois ¡Hola AllVerso! Te respondimos tu consulta por Mensaje Directo, para cuidar tu privacidad. ¡Saludos!",
+          "created_at": "Thu Feb 24 19:46:52 +0000 2022",
+          "id": 1496934675335504000,
+          "id_str": "1496934675335503873",
+          "text": "@MarianoCabrera Hola, Mariano. Te respondimos por DM. ¡Saludos!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CarLaMois",
-                "name": "AllVerso",
-                "id": 145355526,
-                "id_str": "145355526",
+                "screen_name": "MarianoCabrera",
+                "name": "Mariano Cabrera",
+                "id": 37122027,
+                "id_str": "37122027",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1496887684085784600,
-          "in_reply_to_status_id_str": "1496887684085784577",
-          "in_reply_to_user_id": 145355526,
-          "in_reply_to_user_id_str": "145355526",
-          "in_reply_to_screen_name": "CarLaMois",
+          "in_reply_to_status_id": 1496923117188522000,
+          "in_reply_to_status_id_str": "1496923117188521987",
+          "in_reply_to_user_id": 37122027,
+          "in_reply_to_user_id_str": "37122027",
+          "in_reply_to_screen_name": "MarianoCabrera",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -17024,8 +16049,8 @@
           }
         },
         "protected": false,
-        "followers_count": 157580,
-        "friends_count": 16011,
+        "followers_count": 157578,
+        "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 606,
@@ -17033,37 +16058,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 52766,
+        "statuses_count": 52769,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:10:44 +0000 2022",
-          "id": 1496910479012372500,
-          "id_str": "1496910479012372484",
-          "text": "@CarLaMois ¡Hola AllVerso! Te respondimos tu consulta por Mensaje Directo, para cuidar tu privacidad. ¡Saludos!",
+          "created_at": "Thu Feb 24 19:46:52 +0000 2022",
+          "id": 1496934675335504000,
+          "id_str": "1496934675335503873",
+          "text": "@MarianoCabrera Hola, Mariano. Te respondimos por DM. ¡Saludos!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CarLaMois",
-                "name": "AllVerso",
-                "id": 145355526,
-                "id_str": "145355526",
+                "screen_name": "MarianoCabrera",
+                "name": "Mariano Cabrera",
+                "id": 37122027,
+                "id_str": "37122027",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1496887684085784600,
-          "in_reply_to_status_id_str": "1496887684085784577",
-          "in_reply_to_user_id": 145355526,
-          "in_reply_to_user_id_str": "145355526",
-          "in_reply_to_screen_name": "CarLaMois",
+          "in_reply_to_status_id": 1496923117188522000,
+          "in_reply_to_status_id_str": "1496923117188521987",
+          "in_reply_to_user_id": 37122027,
+          "in_reply_to_user_id_str": "37122027",
+          "in_reply_to_screen_name": "MarianoCabrera",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -17370,8 +16395,8 @@
           }
         },
         "protected": false,
-        "followers_count": 157580,
-        "friends_count": 16011,
+        "followers_count": 157578,
+        "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 606,
@@ -17379,37 +16404,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 52766,
+        "statuses_count": 52769,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:10:44 +0000 2022",
-          "id": 1496910479012372500,
-          "id_str": "1496910479012372484",
-          "text": "@CarLaMois ¡Hola AllVerso! Te respondimos tu consulta por Mensaje Directo, para cuidar tu privacidad. ¡Saludos!",
+          "created_at": "Thu Feb 24 19:46:52 +0000 2022",
+          "id": 1496934675335504000,
+          "id_str": "1496934675335503873",
+          "text": "@MarianoCabrera Hola, Mariano. Te respondimos por DM. ¡Saludos!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CarLaMois",
-                "name": "AllVerso",
-                "id": 145355526,
-                "id_str": "145355526",
+                "screen_name": "MarianoCabrera",
+                "name": "Mariano Cabrera",
+                "id": 37122027,
+                "id_str": "37122027",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1496887684085784600,
-          "in_reply_to_status_id_str": "1496887684085784577",
-          "in_reply_to_user_id": 145355526,
-          "in_reply_to_user_id_str": "145355526",
-          "in_reply_to_screen_name": "CarLaMois",
+          "in_reply_to_status_id": 1496923117188522000,
+          "in_reply_to_status_id_str": "1496923117188521987",
+          "in_reply_to_user_id": 37122027,
+          "in_reply_to_user_id_str": "37122027",
+          "in_reply_to_screen_name": "MarianoCabrera",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -17716,8 +16741,8 @@
           }
         },
         "protected": false,
-        "followers_count": 157580,
-        "friends_count": 16011,
+        "followers_count": 157578,
+        "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 606,
@@ -17725,37 +16750,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 52766,
+        "statuses_count": 52769,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:10:44 +0000 2022",
-          "id": 1496910479012372500,
-          "id_str": "1496910479012372484",
-          "text": "@CarLaMois ¡Hola AllVerso! Te respondimos tu consulta por Mensaje Directo, para cuidar tu privacidad. ¡Saludos!",
+          "created_at": "Thu Feb 24 19:46:52 +0000 2022",
+          "id": 1496934675335504000,
+          "id_str": "1496934675335503873",
+          "text": "@MarianoCabrera Hola, Mariano. Te respondimos por DM. ¡Saludos!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CarLaMois",
-                "name": "AllVerso",
-                "id": 145355526,
-                "id_str": "145355526",
+                "screen_name": "MarianoCabrera",
+                "name": "Mariano Cabrera",
+                "id": 37122027,
+                "id_str": "37122027",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1496887684085784600,
-          "in_reply_to_status_id_str": "1496887684085784577",
-          "in_reply_to_user_id": 145355526,
-          "in_reply_to_user_id_str": "145355526",
-          "in_reply_to_screen_name": "CarLaMois",
+          "in_reply_to_status_id": 1496923117188522000,
+          "in_reply_to_status_id_str": "1496923117188521987",
+          "in_reply_to_user_id": 37122027,
+          "in_reply_to_user_id_str": "37122027",
+          "in_reply_to_screen_name": "MarianoCabrera",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22496,7 +21521,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22542,7 +21567,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -22806,7 +21831,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22852,7 +21877,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -23116,7 +22141,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23162,7 +22187,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -23426,7 +22451,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23472,7 +22497,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -23736,7 +22761,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23782,7 +22807,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -24046,7 +23071,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24092,7 +23117,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -24356,7 +23381,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24402,7 +23427,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -24666,7 +23691,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24712,7 +23737,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -24976,7 +24001,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25022,7 +24047,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -25286,7 +24311,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25332,7 +24357,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -25596,7 +24621,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25642,7 +24667,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -25932,7 +24957,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25978,7 +25003,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -26268,7 +25293,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26314,7 +25339,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -26604,7 +25629,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26650,7 +25675,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -26940,7 +25965,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440207,
+        "followers_count": 440209,
         "friends_count": 41,
         "listed_count": 1198,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26986,7 +26011,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -27275,13 +26300,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -27308,21 +26333,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -27332,7 +26357,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -27595,13 +26620,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -27628,21 +26653,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -27652,7 +26677,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -27915,13 +26940,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -27948,21 +26973,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -27972,7 +26997,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -28235,13 +27260,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -28268,21 +27293,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -28292,7 +27317,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -28555,13 +27580,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -28588,21 +27613,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -28612,7 +27637,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -28875,13 +27900,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -28908,21 +27933,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -28932,7 +27957,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -29195,13 +28220,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -29228,21 +28253,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -29252,7 +28277,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -29515,13 +28540,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -29548,21 +28573,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -29572,7 +28597,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -29835,13 +28860,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -29868,21 +28893,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -29892,7 +28917,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -30155,13 +29180,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -30188,21 +29213,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -30212,7 +29237,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -30473,13 +29498,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -30506,21 +29531,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -30530,7 +29555,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -30791,13 +29816,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -30824,21 +29849,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -30848,7 +29873,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -31109,13 +30134,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -31142,21 +30167,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -31166,7 +30191,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -31427,13 +30452,13 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 31282,
+        "statuses_count": 31284,
         "lang": null,
         "status": {
-          "created_at": "Thu Feb 24 18:27:01 +0000 2022",
-          "id": 1496914579569492000,
-          "id_str": "1496914579569491971",
-          "text": "@FacuSua1 @Flybondiof Hola Facu, cómo estás?\nEse perfil no es nuestro! los únicos y originales somos nosotros @flybondioficial",
+          "created_at": "Thu Feb 24 19:41:04 +0000 2022",
+          "id": 1496933211749892000,
+          "id_str": "1496933211749892108",
+          "text": "@FacuSua1 @Flybondiof @flyoficiall Cuenta denunciada! Ya estamos reportando todas los perfiles que aparecen en las diferentes redes.",
           "truncated": false,
           "entities": {
             "hashtags": [],
@@ -31460,21 +30485,21 @@
                 ]
               },
               {
-                "screen_name": "flybondioficial",
+                "screen_name": "flyoficiall",
                 "name": "flybondi",
-                "id": 789956126636900400,
-                "id_str": "789956126636900354",
+                "id": 1496197084273283000,
+                "id_str": "1496197084273283078",
                 "indices": [
-                  110,
-                  126
+                  22,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-          "in_reply_to_status_id": 1496910317258948600,
-          "in_reply_to_status_id_str": "1496910317258948609",
+          "in_reply_to_status_id": 1496932835160166400,
+          "in_reply_to_status_id_str": "1496932835160166403",
           "in_reply_to_user_id": 4882797819,
           "in_reply_to_user_id_str": "4882797819",
           "in_reply_to_screen_name": "FacuSua1",
@@ -31484,7 +30509,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
