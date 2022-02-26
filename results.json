@@ -29,7 +29,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149801,
+        "followers_count": 149803,
         "friends_count": 54869,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -347,7 +347,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149801,
+        "followers_count": 149803,
         "friends_count": 54869,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -665,7 +665,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149801,
+        "followers_count": 149803,
         "friends_count": 54869,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -983,7 +983,7 @@
           }
         },
         "protected": false,
-        "followers_count": 149801,
+        "followers_count": 149803,
         "friends_count": 54869,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1335,1272 +1335,6 @@
   },
   {
     "brand": {
-      "name": "Despegar Argentina",
-      "user": {
-        "id": 217897629,
-        "id_str": "217897629",
-        "name": "Despegar Argentina",
-        "screen_name": "DespegarAr",
-        "location": "Argentina",
-        "description": "Encontrá ofertas, tips & inspiración para tu próximo viaje \n✈",
-        "url": "https://t.co/uZytOmfcbH",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/uZytOmfcbH",
-                "expanded_url": "http://www.despegar.com.ar",
-                "display_url": "despegar.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 149801,
-        "friends_count": 54869,
-        "listed_count": 346,
-        "created_at": "Sat Nov 20 21:08:35 +0000 2010",
-        "favourites_count": 1197,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": true,
-        "statuses_count": 49059,
-        "lang": null,
-        "status": {
-          "created_at": "Sat Feb 26 13:33:22 +0000 2022",
-          "id": 1497565455304827000,
-          "id_str": "1497565455304826880",
-          "text": "@NikkoNF Nico Fernández, sabemos que no esperabas ese cambio en tu vuelo y te ayudaremos a acomodar todo para tu vi… https://t.co/V6Orc8FXQC",
-          "truncated": true,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "NikkoNF",
-                "name": "Nico Fernández",
-                "id": 533316836,
-                "id_str": "533316836",
-                "indices": [
-                  0,
-                  8
-                ]
-              }
-            ],
-            "urls": [
-              {
-                "url": "https://t.co/V6Orc8FXQC",
-                "expanded_url": "https://twitter.com/i/web/status/1497565455304826880",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
-          },
-          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
-          "in_reply_to_status_id": 1497565435696271400,
-          "in_reply_to_status_id_str": "1497565435696271363",
-          "in_reply_to_user_id": 533316836,
-          "in_reply_to_user_id_str": "533316836",
-          "in_reply_to_screen_name": "NikkoNF",
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "es"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "20488D",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217897629/1593721152",
-        "profile_link_color": "1B95E0",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": false,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      }
-    },
-    "user": {
-      "id": 1493692193705398300,
-      "id_str": "1493692193705398275",
-      "name": "Despegar Argentina",
-      "screen_name": "DespegaArg",
-      "location": "Buenos Aires, Argentina",
-      "description": "Encontrà ofertas, tips & inspiración para tu próximo viaje ✈",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 1,
-      "friends_count": 71,
-      "listed_count": 0,
-      "created_at": "Tue Feb 15 21:02:41 +0000 2022",
-      "favourites_count": 1,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 87,
-      "lang": null,
-      "status": {
-        "created_at": "Sat Feb 26 12:14:11 +0000 2022",
-        "id": 1497545529382760400,
-        "id_str": "1497545529382760449",
-        "text": "@EzequielLoyola9 Hola buenos días,Para una mejor atención brindanos tu numero de contacto.Como nuestros servicios d… https://t.co/fgh8pm1ttS",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "EzequielLoyola9",
-              "name": "Ezequiel Loyola",
-              "id": 1388136829359206400,
-              "id_str": "1388136829359206405",
-              "indices": [
-                0,
-                16
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/fgh8pm1ttS",
-              "expanded_url": "https://twitter.com/i/web/status/1497545529382760449",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": 1497347361831538700,
-        "in_reply_to_status_id_str": "1497347361831538698",
-        "in_reply_to_user_id": 1388136829359206400,
-        "in_reply_to_user_id_str": "1388136829359206405",
-        "in_reply_to_screen_name": "EzequielLoyola9",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "es"
-      },
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493692193705398275/1644959134",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "tweet": {
-      "created_at": "Sat Feb 26 12:14:11 +0000 2022",
-      "id": 1497545529382760400,
-      "id_str": "1497545529382760449",
-      "full_text": "@EzequielLoyola9 Hola buenos días,Para una mejor atención brindanos tu numero de contacto.Como nuestros servicios directos están caídos, recuerden que cualquier duda nos pueden contactar por whatsap mensaje  de Twitter📩",
-      "truncated": false,
-      "display_text_range": [
-        17,
-        219
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "EzequielLoyola9",
-            "name": "Ezequiel Loyola",
-            "id": 1388136829359206400,
-            "id_str": "1388136829359206405",
-            "indices": [
-              0,
-              16
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1497347361831538700,
-      "in_reply_to_status_id_str": "1497347361831538698",
-      "in_reply_to_user_id": 1388136829359206400,
-      "in_reply_to_user_id_str": "1388136829359206405",
-      "in_reply_to_screen_name": "EzequielLoyola9",
-      "user": {
-        "id": 1493692193705398300,
-        "id_str": "1493692193705398275",
-        "name": "Despegar Argentina",
-        "screen_name": "DespegaArg",
-        "location": "Buenos Aires, Argentina",
-        "description": "Encontrà ofertas, tips & inspiración para tu próximo viaje ✈",
-        "url": null,
-        "entities": {
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 1,
-        "friends_count": 71,
-        "listed_count": 0,
-        "created_at": "Tue Feb 15 21:02:41 +0000 2022",
-        "favourites_count": 1,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 87,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493692193705398275/1644959134",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "es"
-    },
-    "isScam": true
-  },
-  {
-    "brand": {
-      "name": "Despegar Argentina",
-      "user": {
-        "id": 217897629,
-        "id_str": "217897629",
-        "name": "Despegar Argentina",
-        "screen_name": "DespegarAr",
-        "location": "Argentina",
-        "description": "Encontrá ofertas, tips & inspiración para tu próximo viaje \n✈",
-        "url": "https://t.co/uZytOmfcbH",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/uZytOmfcbH",
-                "expanded_url": "http://www.despegar.com.ar",
-                "display_url": "despegar.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 149801,
-        "friends_count": 54869,
-        "listed_count": 346,
-        "created_at": "Sat Nov 20 21:08:35 +0000 2010",
-        "favourites_count": 1197,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": true,
-        "statuses_count": 49059,
-        "lang": null,
-        "status": {
-          "created_at": "Sat Feb 26 13:33:22 +0000 2022",
-          "id": 1497565455304827000,
-          "id_str": "1497565455304826880",
-          "text": "@NikkoNF Nico Fernández, sabemos que no esperabas ese cambio en tu vuelo y te ayudaremos a acomodar todo para tu vi… https://t.co/V6Orc8FXQC",
-          "truncated": true,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "NikkoNF",
-                "name": "Nico Fernández",
-                "id": 533316836,
-                "id_str": "533316836",
-                "indices": [
-                  0,
-                  8
-                ]
-              }
-            ],
-            "urls": [
-              {
-                "url": "https://t.co/V6Orc8FXQC",
-                "expanded_url": "https://twitter.com/i/web/status/1497565455304826880",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
-          },
-          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
-          "in_reply_to_status_id": 1497565435696271400,
-          "in_reply_to_status_id_str": "1497565435696271363",
-          "in_reply_to_user_id": 533316836,
-          "in_reply_to_user_id_str": "533316836",
-          "in_reply_to_screen_name": "NikkoNF",
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "es"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "20488D",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217897629/1593721152",
-        "profile_link_color": "1B95E0",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": false,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      }
-    },
-    "user": {
-      "id": 1493692193705398300,
-      "id_str": "1493692193705398275",
-      "name": "Despegar Argentina",
-      "screen_name": "DespegaArg",
-      "location": "Buenos Aires, Argentina",
-      "description": "Encontrà ofertas, tips & inspiración para tu próximo viaje ✈",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 1,
-      "friends_count": 71,
-      "listed_count": 0,
-      "created_at": "Tue Feb 15 21:02:41 +0000 2022",
-      "favourites_count": 1,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 87,
-      "lang": null,
-      "status": {
-        "created_at": "Sat Feb 26 12:14:11 +0000 2022",
-        "id": 1497545529382760400,
-        "id_str": "1497545529382760449",
-        "text": "@EzequielLoyola9 Hola buenos días,Para una mejor atención brindanos tu numero de contacto.Como nuestros servicios d… https://t.co/fgh8pm1ttS",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "EzequielLoyola9",
-              "name": "Ezequiel Loyola",
-              "id": 1388136829359206400,
-              "id_str": "1388136829359206405",
-              "indices": [
-                0,
-                16
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/fgh8pm1ttS",
-              "expanded_url": "https://twitter.com/i/web/status/1497545529382760449",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": 1497347361831538700,
-        "in_reply_to_status_id_str": "1497347361831538698",
-        "in_reply_to_user_id": 1388136829359206400,
-        "in_reply_to_user_id_str": "1388136829359206405",
-        "in_reply_to_screen_name": "EzequielLoyola9",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "es"
-      },
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493692193705398275/1644959134",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "tweet": {
-      "created_at": "Sat Feb 26 12:13:44 +0000 2022",
-      "id": 1497545416346198000,
-      "id_str": "1497545416346198018",
-      "full_text": "@AlitaDPoio2022 Hola buenos días,Para una mejor atención brindanos tu numero de contacto.Como nuestros servicios directos están caídos, recuerden que cualquier duda nos pueden contactar por whatsap mensaje  de Twitter📩",
-      "truncated": false,
-      "display_text_range": [
-        16,
-        218
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "AlitaDPoio2022",
-            "name": "Alejandra",
-            "id": 1494735897824096300,
-            "id_str": "1494735897824096257",
-            "indices": [
-              0,
-              15
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1497408291223183400,
-      "in_reply_to_status_id_str": "1497408291223183364",
-      "in_reply_to_user_id": 1494735897824096300,
-      "in_reply_to_user_id_str": "1494735897824096257",
-      "in_reply_to_screen_name": "AlitaDPoio2022",
-      "user": {
-        "id": 1493692193705398300,
-        "id_str": "1493692193705398275",
-        "name": "Despegar Argentina",
-        "screen_name": "DespegaArg",
-        "location": "Buenos Aires, Argentina",
-        "description": "Encontrà ofertas, tips & inspiración para tu próximo viaje ✈",
-        "url": null,
-        "entities": {
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 1,
-        "friends_count": 71,
-        "listed_count": 0,
-        "created_at": "Tue Feb 15 21:02:41 +0000 2022",
-        "favourites_count": 1,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 87,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493692193705398275/1644959134",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "es"
-    },
-    "isScam": true
-  },
-  {
-    "brand": {
-      "name": "Despegar Argentina",
-      "user": {
-        "id": 217897629,
-        "id_str": "217897629",
-        "name": "Despegar Argentina",
-        "screen_name": "DespegarAr",
-        "location": "Argentina",
-        "description": "Encontrá ofertas, tips & inspiración para tu próximo viaje \n✈",
-        "url": "https://t.co/uZytOmfcbH",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/uZytOmfcbH",
-                "expanded_url": "http://www.despegar.com.ar",
-                "display_url": "despegar.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 149801,
-        "friends_count": 54869,
-        "listed_count": 346,
-        "created_at": "Sat Nov 20 21:08:35 +0000 2010",
-        "favourites_count": 1197,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": true,
-        "statuses_count": 49059,
-        "lang": null,
-        "status": {
-          "created_at": "Sat Feb 26 13:33:22 +0000 2022",
-          "id": 1497565455304827000,
-          "id_str": "1497565455304826880",
-          "text": "@NikkoNF Nico Fernández, sabemos que no esperabas ese cambio en tu vuelo y te ayudaremos a acomodar todo para tu vi… https://t.co/V6Orc8FXQC",
-          "truncated": true,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "NikkoNF",
-                "name": "Nico Fernández",
-                "id": 533316836,
-                "id_str": "533316836",
-                "indices": [
-                  0,
-                  8
-                ]
-              }
-            ],
-            "urls": [
-              {
-                "url": "https://t.co/V6Orc8FXQC",
-                "expanded_url": "https://twitter.com/i/web/status/1497565455304826880",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
-          },
-          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
-          "in_reply_to_status_id": 1497565435696271400,
-          "in_reply_to_status_id_str": "1497565435696271363",
-          "in_reply_to_user_id": 533316836,
-          "in_reply_to_user_id_str": "533316836",
-          "in_reply_to_screen_name": "NikkoNF",
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "es"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "20488D",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217897629/1593721152",
-        "profile_link_color": "1B95E0",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": false,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      }
-    },
-    "user": {
-      "id": 1493692193705398300,
-      "id_str": "1493692193705398275",
-      "name": "Despegar Argentina",
-      "screen_name": "DespegaArg",
-      "location": "Buenos Aires, Argentina",
-      "description": "Encontrà ofertas, tips & inspiración para tu próximo viaje ✈",
-      "url": null,
-      "entities": {
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 1,
-      "friends_count": 71,
-      "listed_count": 0,
-      "created_at": "Tue Feb 15 21:02:41 +0000 2022",
-      "favourites_count": 1,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 87,
-      "lang": null,
-      "status": {
-        "created_at": "Sat Feb 26 12:14:11 +0000 2022",
-        "id": 1497545529382760400,
-        "id_str": "1497545529382760449",
-        "text": "@EzequielLoyola9 Hola buenos días,Para una mejor atención brindanos tu numero de contacto.Como nuestros servicios d… https://t.co/fgh8pm1ttS",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "EzequielLoyola9",
-              "name": "Ezequiel Loyola",
-              "id": 1388136829359206400,
-              "id_str": "1388136829359206405",
-              "indices": [
-                0,
-                16
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/fgh8pm1ttS",
-              "expanded_url": "https://twitter.com/i/web/status/1497545529382760449",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": 1497347361831538700,
-        "in_reply_to_status_id_str": "1497347361831538698",
-        "in_reply_to_user_id": 1388136829359206400,
-        "in_reply_to_user_id_str": "1388136829359206405",
-        "in_reply_to_screen_name": "EzequielLoyola9",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "es"
-      },
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493692193705398275/1644959134",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "tweet": {
-      "created_at": "Fri Feb 25 22:01:24 +0000 2022",
-      "id": 1497330917228126200,
-      "id_str": "1497330917228126209",
-      "full_text": "@Carlaorce81 Hola ,Para una mejor atención brindanos tu numero de contacto.Como nuestros servicios directos están caídos, recuerden que cualquier duda nos pueden contactar por whatsap mensaje  de Twitter📩",
-      "truncated": false,
-      "display_text_range": [
-        13,
-        204
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "Carlaorce81",
-            "name": "Carli 81",
-            "id": 1492111569295229000,
-            "id_str": "1492111569295228928",
-            "indices": [
-              0,
-              12
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1497275159060697000,
-      "in_reply_to_status_id_str": "1497275159060697090",
-      "in_reply_to_user_id": 1492111569295229000,
-      "in_reply_to_user_id_str": "1492111569295228928",
-      "in_reply_to_screen_name": "Carlaorce81",
-      "user": {
-        "id": 1493692193705398300,
-        "id_str": "1493692193705398275",
-        "name": "Despegar Argentina",
-        "screen_name": "DespegaArg",
-        "location": "Buenos Aires, Argentina",
-        "description": "Encontrà ofertas, tips & inspiración para tu próximo viaje ✈",
-        "url": null,
-        "entities": {
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 1,
-        "friends_count": 71,
-        "listed_count": 0,
-        "created_at": "Tue Feb 15 21:02:41 +0000 2022",
-        "favourites_count": 1,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 87,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493693610419638274/xQ-iRolF_normal.png",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493692193705398275/1644959134",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "es"
-    },
-    "isScam": true
-  },
-  {
-    "brand": {
-      "name": "Despegar Argentina",
-      "user": {
-        "id": 217897629,
-        "id_str": "217897629",
-        "name": "Despegar Argentina",
-        "screen_name": "DespegarAr",
-        "location": "Argentina",
-        "description": "Encontrá ofertas, tips & inspiración para tu próximo viaje \n✈",
-        "url": "https://t.co/uZytOmfcbH",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/uZytOmfcbH",
-                "expanded_url": "http://www.despegar.com.ar",
-                "display_url": "despegar.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 149801,
-        "friends_count": 54869,
-        "listed_count": 346,
-        "created_at": "Sat Nov 20 21:08:35 +0000 2010",
-        "favourites_count": 1197,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": true,
-        "statuses_count": 49059,
-        "lang": null,
-        "status": {
-          "created_at": "Sat Feb 26 13:33:22 +0000 2022",
-          "id": 1497565455304827000,
-          "id_str": "1497565455304826880",
-          "text": "@NikkoNF Nico Fernández, sabemos que no esperabas ese cambio en tu vuelo y te ayudaremos a acomodar todo para tu vi… https://t.co/V6Orc8FXQC",
-          "truncated": true,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "NikkoNF",
-                "name": "Nico Fernández",
-                "id": 533316836,
-                "id_str": "533316836",
-                "indices": [
-                  0,
-                  8
-                ]
-              }
-            ],
-            "urls": [
-              {
-                "url": "https://t.co/V6Orc8FXQC",
-                "expanded_url": "https://twitter.com/i/web/status/1497565455304826880",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
-          },
-          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
-          "in_reply_to_status_id": 1497565435696271400,
-          "in_reply_to_status_id_str": "1497565435696271363",
-          "in_reply_to_user_id": 533316836,
-          "in_reply_to_user_id_str": "533316836",
-          "in_reply_to_screen_name": "NikkoNF",
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "es"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "20488D",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217897629/1593721152",
-        "profile_link_color": "1B95E0",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": false,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      }
-    },
-    "user": {
-      "id": 1471816433269104600,
-      "id_str": "1471816433269104644",
-      "name": "Despegar Argentina",
-      "screen_name": "DespegarAr99",
-      "location": "Ciudad Autónoma de Buenos Aire",
-      "description": "Atención al cliente...",
-      "url": "https://t.co/O4Zu0OALSW",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/O4Zu0OALSW",
-              "expanded_url": "http://www.despegarargentina.com",
-              "display_url": "despegarargentina.com",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 9,
-      "friends_count": 71,
-      "listed_count": 0,
-      "created_at": "Fri Dec 17 12:16:07 +0000 2021",
-      "favourites_count": 0,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 3,
-      "lang": null,
-      "status": {
-        "created_at": "Mon Dec 20 20:37:25 +0000 2021",
-        "id": 1473029796993011700,
-        "id_str": "1473029796993011714",
-        "text": "@DespegarAr Buenas Tardes,\nAtención al cliente de\nDespegar: Nos encontramos disponibles para resolver todas sus\nCon… https://t.co/eubUq6mBZ5",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "DespegarAr",
-              "name": "Despegar Argentina",
-              "id": 217897629,
-              "id_str": "217897629",
-              "indices": [
-                0,
-                11
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/eubUq6mBZ5",
-              "expanded_url": "https://twitter.com/i/web/status/1473029796993011714",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": 1472926085176336400,
-        "in_reply_to_status_id_str": "1472926085176336388",
-        "in_reply_to_user_id": 217897629,
-        "in_reply_to_user_id_str": "217897629",
-        "in_reply_to_screen_name": "DespegarAr",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "es"
-      },
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1471819122094841858/xUbzhESH_normal.png",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1471819122094841858/xUbzhESH_normal.png",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471816433269104644/1639744036",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": false,
-      "follow_request_sent": false,
-      "notifications": false,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "tweet": {
-      "created_at": "Fri Dec 17 12:29:19 +0000 2021",
-      "id": 1471819796203331600,
-      "id_str": "1471819796203331585",
-      "full_text": "@patorodri Buenos dias,\nAtención al cliente de\nBANCO hsbc:\nNos encontramos disponibles para resolver todas sus consultas, para una mejor atención, brindanos tu numero de contacto y un asesor personal tomará la comunicación al instante,\n*Despegar Argentina*",
-      "truncated": false,
-      "display_text_range": [
-        11,
-        256
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "patorodri",
-            "name": "Patricia Rodriguez",
-            "id": 474260953,
-            "id_str": "474260953",
-            "indices": [
-              0,
-              10
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1471800431307231200,
-      "in_reply_to_status_id_str": "1471800431307231233",
-      "in_reply_to_user_id": 474260953,
-      "in_reply_to_user_id_str": "474260953",
-      "in_reply_to_screen_name": "patorodri",
-      "user": {
-        "id": 1471816433269104600,
-        "id_str": "1471816433269104644",
-        "name": "Despegar Argentina",
-        "screen_name": "DespegarAr99",
-        "location": "Ciudad Autónoma de Buenos Aire",
-        "description": "Atención al cliente...",
-        "url": "https://t.co/O4Zu0OALSW",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/O4Zu0OALSW",
-                "expanded_url": "http://www.despegarargentina.com",
-                "display_url": "despegarargentina.com",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 9,
-        "friends_count": 71,
-        "listed_count": 0,
-        "created_at": "Fri Dec 17 12:16:07 +0000 2021",
-        "favourites_count": 0,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 3,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1471819122094841858/xUbzhESH_normal.png",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1471819122094841858/xUbzhESH_normal.png",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1471816433269104644/1639744036",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": false,
-        "follow_request_sent": false,
-        "notifications": false,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "es"
-    },
-    "isScam": true
-  },
-  {
-    "brand": {
       "name": "Claro Argentina",
       "user": {
         "id": 130893902,
@@ -2639,7 +1373,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653376,
+        "followers_count": 653378,
         "friends_count": 316537,
         "listed_count": 593,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -2648,37 +1382,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022360,
+        "statuses_count": 1022363,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:04:13 +0000 2022",
-          "id": 1497603417711259600,
-          "id_str": "1497603417711259648",
-          "text": "@Jourawsky_  te enviamos un DM ¡Te esperamos! :)",
-          "truncated": false,
+          "created_at": "Sat Feb 26 16:57:49 +0000 2022",
+          "id": 1497616907725422600,
+          "id_str": "1497616907725422593",
+          "text": "@oscargcervella te invitamos a que te comuniques con nosotros por DM para brindarte toda la información respecto a… https://t.co/6jAfAREwxG",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Jourawsky_",
-                "name": "Juan Manuel",
-                "id": 820620368,
-                "id_str": "820620368",
+                "screen_name": "oscargcervella",
+                "name": "Oscar G. Cervella",
+                "id": 250814595,
+                "id_str": "250814595",
                 "indices": [
                   0,
-                  11
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/6jAfAREwxG",
+                "expanded_url": "https://twitter.com/i/web/status/1497616907725422593",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1497603167625924600,
-          "in_reply_to_status_id_str": "1497603167625924614",
-          "in_reply_to_user_id": 820620368,
-          "in_reply_to_user_id_str": "820620368",
-          "in_reply_to_screen_name": "Jourawsky_",
+          "in_reply_to_status_id": 1497616018713235500,
+          "in_reply_to_status_id_str": "1497616018713235469",
+          "in_reply_to_user_id": 250814595,
+          "in_reply_to_user_id_str": "250814595",
+          "in_reply_to_screen_name": "oscargcervella",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -2937,7 +1681,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653376,
+        "followers_count": 653378,
         "friends_count": 316537,
         "listed_count": 593,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -2946,37 +1690,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022360,
+        "statuses_count": 1022363,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:04:13 +0000 2022",
-          "id": 1497603417711259600,
-          "id_str": "1497603417711259648",
-          "text": "@Jourawsky_  te enviamos un DM ¡Te esperamos! :)",
-          "truncated": false,
+          "created_at": "Sat Feb 26 16:57:49 +0000 2022",
+          "id": 1497616907725422600,
+          "id_str": "1497616907725422593",
+          "text": "@oscargcervella te invitamos a que te comuniques con nosotros por DM para brindarte toda la información respecto a… https://t.co/6jAfAREwxG",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Jourawsky_",
-                "name": "Juan Manuel",
-                "id": 820620368,
-                "id_str": "820620368",
+                "screen_name": "oscargcervella",
+                "name": "Oscar G. Cervella",
+                "id": 250814595,
+                "id_str": "250814595",
                 "indices": [
                   0,
-                  11
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/6jAfAREwxG",
+                "expanded_url": "https://twitter.com/i/web/status/1497616907725422593",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1497603167625924600,
-          "in_reply_to_status_id_str": "1497603167625924614",
-          "in_reply_to_user_id": 820620368,
-          "in_reply_to_user_id_str": "820620368",
-          "in_reply_to_screen_name": "Jourawsky_",
+          "in_reply_to_status_id": 1497616018713235500,
+          "in_reply_to_status_id_str": "1497616018713235469",
+          "in_reply_to_user_id": 250814595,
+          "in_reply_to_user_id_str": "250814595",
+          "in_reply_to_screen_name": "oscargcervella",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3245,7 +1999,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653376,
+        "followers_count": 653378,
         "friends_count": 316537,
         "listed_count": 593,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3254,37 +2008,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022360,
+        "statuses_count": 1022363,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:04:13 +0000 2022",
-          "id": 1497603417711259600,
-          "id_str": "1497603417711259648",
-          "text": "@Jourawsky_  te enviamos un DM ¡Te esperamos! :)",
-          "truncated": false,
+          "created_at": "Sat Feb 26 16:57:49 +0000 2022",
+          "id": 1497616907725422600,
+          "id_str": "1497616907725422593",
+          "text": "@oscargcervella te invitamos a que te comuniques con nosotros por DM para brindarte toda la información respecto a… https://t.co/6jAfAREwxG",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Jourawsky_",
-                "name": "Juan Manuel",
-                "id": 820620368,
-                "id_str": "820620368",
+                "screen_name": "oscargcervella",
+                "name": "Oscar G. Cervella",
+                "id": 250814595,
+                "id_str": "250814595",
                 "indices": [
                   0,
-                  11
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/6jAfAREwxG",
+                "expanded_url": "https://twitter.com/i/web/status/1497616907725422593",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1497603167625924600,
-          "in_reply_to_status_id_str": "1497603167625924614",
-          "in_reply_to_user_id": 820620368,
-          "in_reply_to_user_id_str": "820620368",
-          "in_reply_to_screen_name": "Jourawsky_",
+          "in_reply_to_status_id": 1497616018713235500,
+          "in_reply_to_status_id_str": "1497616018713235469",
+          "in_reply_to_user_id": 250814595,
+          "in_reply_to_user_id_str": "250814595",
+          "in_reply_to_screen_name": "oscargcervella",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3543,7 +2307,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653376,
+        "followers_count": 653378,
         "friends_count": 316537,
         "listed_count": 593,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3552,37 +2316,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022360,
+        "statuses_count": 1022363,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:04:13 +0000 2022",
-          "id": 1497603417711259600,
-          "id_str": "1497603417711259648",
-          "text": "@Jourawsky_  te enviamos un DM ¡Te esperamos! :)",
-          "truncated": false,
+          "created_at": "Sat Feb 26 16:57:49 +0000 2022",
+          "id": 1497616907725422600,
+          "id_str": "1497616907725422593",
+          "text": "@oscargcervella te invitamos a que te comuniques con nosotros por DM para brindarte toda la información respecto a… https://t.co/6jAfAREwxG",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Jourawsky_",
-                "name": "Juan Manuel",
-                "id": 820620368,
-                "id_str": "820620368",
+                "screen_name": "oscargcervella",
+                "name": "Oscar G. Cervella",
+                "id": 250814595,
+                "id_str": "250814595",
                 "indices": [
                   0,
-                  11
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/6jAfAREwxG",
+                "expanded_url": "https://twitter.com/i/web/status/1497616907725422593",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1497603167625924600,
-          "in_reply_to_status_id_str": "1497603167625924614",
-          "in_reply_to_user_id": 820620368,
-          "in_reply_to_user_id_str": "820620368",
-          "in_reply_to_screen_name": "Jourawsky_",
+          "in_reply_to_status_id": 1497616018713235500,
+          "in_reply_to_status_id_str": "1497616018713235469",
+          "in_reply_to_user_id": 250814595,
+          "in_reply_to_user_id_str": "250814595",
+          "in_reply_to_screen_name": "oscargcervella",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3841,7 +2615,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653376,
+        "followers_count": 653378,
         "friends_count": 316537,
         "listed_count": 593,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3850,37 +2624,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022360,
+        "statuses_count": 1022363,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:04:13 +0000 2022",
-          "id": 1497603417711259600,
-          "id_str": "1497603417711259648",
-          "text": "@Jourawsky_  te enviamos un DM ¡Te esperamos! :)",
-          "truncated": false,
+          "created_at": "Sat Feb 26 16:57:49 +0000 2022",
+          "id": 1497616907725422600,
+          "id_str": "1497616907725422593",
+          "text": "@oscargcervella te invitamos a que te comuniques con nosotros por DM para brindarte toda la información respecto a… https://t.co/6jAfAREwxG",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Jourawsky_",
-                "name": "Juan Manuel",
-                "id": 820620368,
-                "id_str": "820620368",
+                "screen_name": "oscargcervella",
+                "name": "Oscar G. Cervella",
+                "id": 250814595,
+                "id_str": "250814595",
                 "indices": [
                   0,
-                  11
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/6jAfAREwxG",
+                "expanded_url": "https://twitter.com/i/web/status/1497616907725422593",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1497603167625924600,
-          "in_reply_to_status_id_str": "1497603167625924614",
-          "in_reply_to_user_id": 820620368,
-          "in_reply_to_user_id_str": "820620368",
-          "in_reply_to_screen_name": "Jourawsky_",
+          "in_reply_to_status_id": 1497616018713235500,
+          "in_reply_to_status_id_str": "1497616018713235469",
+          "in_reply_to_user_id": 250814595,
+          "in_reply_to_user_id_str": "250814595",
+          "in_reply_to_screen_name": "oscargcervella",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3932,7 +2716,7 @@
       },
       "protected": false,
       "followers_count": 132,
-      "friends_count": 585,
+      "friends_count": 584,
       "listed_count": 0,
       "created_at": "Sat Jan 24 00:10:43 +0000 2015",
       "favourites_count": 0,
@@ -4130,7 +2914,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653376,
+        "followers_count": 653378,
         "friends_count": 316537,
         "listed_count": 593,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4139,37 +2923,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022360,
+        "statuses_count": 1022363,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:04:13 +0000 2022",
-          "id": 1497603417711259600,
-          "id_str": "1497603417711259648",
-          "text": "@Jourawsky_  te enviamos un DM ¡Te esperamos! :)",
-          "truncated": false,
+          "created_at": "Sat Feb 26 16:57:49 +0000 2022",
+          "id": 1497616907725422600,
+          "id_str": "1497616907725422593",
+          "text": "@oscargcervella te invitamos a que te comuniques con nosotros por DM para brindarte toda la información respecto a… https://t.co/6jAfAREwxG",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Jourawsky_",
-                "name": "Juan Manuel",
-                "id": 820620368,
-                "id_str": "820620368",
+                "screen_name": "oscargcervella",
+                "name": "Oscar G. Cervella",
+                "id": 250814595,
+                "id_str": "250814595",
                 "indices": [
                   0,
-                  11
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/6jAfAREwxG",
+                "expanded_url": "https://twitter.com/i/web/status/1497616907725422593",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1497603167625924600,
-          "in_reply_to_status_id_str": "1497603167625924614",
-          "in_reply_to_user_id": 820620368,
-          "in_reply_to_user_id_str": "820620368",
-          "in_reply_to_screen_name": "Jourawsky_",
+          "in_reply_to_status_id": 1497616018713235500,
+          "in_reply_to_status_id_str": "1497616018713235469",
+          "in_reply_to_user_id": 250814595,
+          "in_reply_to_user_id_str": "250814595",
+          "in_reply_to_screen_name": "oscargcervella",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4221,7 +3015,7 @@
       },
       "protected": false,
       "followers_count": 132,
-      "friends_count": 585,
+      "friends_count": 584,
       "listed_count": 0,
       "created_at": "Sat Jan 24 00:10:43 +0000 2015",
       "favourites_count": 0,
@@ -4419,7 +3213,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653376,
+        "followers_count": 653378,
         "friends_count": 316537,
         "listed_count": 593,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4428,37 +3222,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1022360,
+        "statuses_count": 1022363,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:04:13 +0000 2022",
-          "id": 1497603417711259600,
-          "id_str": "1497603417711259648",
-          "text": "@Jourawsky_  te enviamos un DM ¡Te esperamos! :)",
-          "truncated": false,
+          "created_at": "Sat Feb 26 16:57:49 +0000 2022",
+          "id": 1497616907725422600,
+          "id_str": "1497616907725422593",
+          "text": "@oscargcervella te invitamos a que te comuniques con nosotros por DM para brindarte toda la información respecto a… https://t.co/6jAfAREwxG",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Jourawsky_",
-                "name": "Juan Manuel",
-                "id": 820620368,
-                "id_str": "820620368",
+                "screen_name": "oscargcervella",
+                "name": "Oscar G. Cervella",
+                "id": 250814595,
+                "id_str": "250814595",
                 "indices": [
                   0,
-                  11
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/6jAfAREwxG",
+                "expanded_url": "https://twitter.com/i/web/status/1497616907725422593",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1497603167625924600,
-          "in_reply_to_status_id_str": "1497603167625924614",
-          "in_reply_to_user_id": 820620368,
-          "in_reply_to_user_id_str": "820620368",
-          "in_reply_to_screen_name": "Jourawsky_",
+          "in_reply_to_status_id": 1497616018713235500,
+          "in_reply_to_status_id_str": "1497616018713235469",
+          "in_reply_to_user_id": 250814595,
+          "in_reply_to_user_id_str": "250814595",
+          "in_reply_to_screen_name": "oscargcervella",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4510,7 +3314,7 @@
       },
       "protected": false,
       "followers_count": 132,
-      "friends_count": 585,
+      "friends_count": 584,
       "listed_count": 0,
       "created_at": "Sat Jan 24 00:10:43 +0000 2015",
       "favourites_count": 0,
@@ -4698,7 +3502,7 @@
           }
         },
         "protected": false,
-        "followers_count": 543726,
+        "followers_count": 543732,
         "friends_count": 215413,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -4707,37 +3511,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2511269,
+        "statuses_count": 2511277,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:02:44 +0000 2022",
-          "id": 1497603042757251000,
-          "id_str": "1497603042757251075",
-          "text": "@tamdiuagain Hola Laurie! Por favor por DM, pasanos el nº de la línea, así vamos chequeando y te asistimos. ^VM",
-          "truncated": false,
+          "created_at": "Sat Feb 26 17:01:57 +0000 2022",
+          "id": 1497617948021776400,
+          "id_str": "1497617948021776391",
+          "text": "@paulita_w Hola Pau! Intentá lo siguiente: desde el celu vas a Configuraciones/Aplicaciones/Mi Movistar/Almacenamie… https://t.co/Vhc3Ohk6mb",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "tamdiuagain",
-                "name": "Laurie #SaveGoodGirls",
-                "id": 1357433125127807000,
-                "id_str": "1357433125127806977",
+                "screen_name": "paulita_w",
+                "name": "Pau 🌈",
+                "id": 181011173,
+                "id_str": "181011173",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/Vhc3Ohk6mb",
+                "expanded_url": "https://twitter.com/i/web/status/1497617948021776391",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
-          "in_reply_to_status_id": 1497597402374672400,
-          "in_reply_to_status_id_str": "1497597402374672385",
-          "in_reply_to_user_id": 1357433125127807000,
-          "in_reply_to_user_id_str": "1357433125127806977",
-          "in_reply_to_screen_name": "tamdiuagain",
+          "in_reply_to_status_id": 1497609705249669000,
+          "in_reply_to_status_id_str": "1497609705249669120",
+          "in_reply_to_user_id": 181011173,
+          "in_reply_to_user_id_str": "181011173",
+          "in_reply_to_screen_name": "paulita_w",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5012,7 +3826,7 @@
           }
         },
         "protected": false,
-        "followers_count": 543726,
+        "followers_count": 543732,
         "friends_count": 215413,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -5021,37 +3835,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2511269,
+        "statuses_count": 2511277,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:02:44 +0000 2022",
-          "id": 1497603042757251000,
-          "id_str": "1497603042757251075",
-          "text": "@tamdiuagain Hola Laurie! Por favor por DM, pasanos el nº de la línea, así vamos chequeando y te asistimos. ^VM",
-          "truncated": false,
+          "created_at": "Sat Feb 26 17:01:57 +0000 2022",
+          "id": 1497617948021776400,
+          "id_str": "1497617948021776391",
+          "text": "@paulita_w Hola Pau! Intentá lo siguiente: desde el celu vas a Configuraciones/Aplicaciones/Mi Movistar/Almacenamie… https://t.co/Vhc3Ohk6mb",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "tamdiuagain",
-                "name": "Laurie #SaveGoodGirls",
-                "id": 1357433125127807000,
-                "id_str": "1357433125127806977",
+                "screen_name": "paulita_w",
+                "name": "Pau 🌈",
+                "id": 181011173,
+                "id_str": "181011173",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/Vhc3Ohk6mb",
+                "expanded_url": "https://twitter.com/i/web/status/1497617948021776391",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
-          "in_reply_to_status_id": 1497597402374672400,
-          "in_reply_to_status_id_str": "1497597402374672385",
-          "in_reply_to_user_id": 1357433125127807000,
-          "in_reply_to_user_id_str": "1357433125127806977",
-          "in_reply_to_screen_name": "tamdiuagain",
+          "in_reply_to_status_id": 1497609705249669000,
+          "in_reply_to_status_id_str": "1497609705249669120",
+          "in_reply_to_user_id": 181011173,
+          "in_reply_to_user_id_str": "181011173",
+          "in_reply_to_screen_name": "paulita_w",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5326,7 +4150,7 @@
           }
         },
         "protected": false,
-        "followers_count": 543726,
+        "followers_count": 543732,
         "friends_count": 215413,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -5335,37 +4159,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2511269,
+        "statuses_count": 2511277,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:02:44 +0000 2022",
-          "id": 1497603042757251000,
-          "id_str": "1497603042757251075",
-          "text": "@tamdiuagain Hola Laurie! Por favor por DM, pasanos el nº de la línea, así vamos chequeando y te asistimos. ^VM",
-          "truncated": false,
+          "created_at": "Sat Feb 26 17:01:57 +0000 2022",
+          "id": 1497617948021776400,
+          "id_str": "1497617948021776391",
+          "text": "@paulita_w Hola Pau! Intentá lo siguiente: desde el celu vas a Configuraciones/Aplicaciones/Mi Movistar/Almacenamie… https://t.co/Vhc3Ohk6mb",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "tamdiuagain",
-                "name": "Laurie #SaveGoodGirls",
-                "id": 1357433125127807000,
-                "id_str": "1357433125127806977",
+                "screen_name": "paulita_w",
+                "name": "Pau 🌈",
+                "id": 181011173,
+                "id_str": "181011173",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/Vhc3Ohk6mb",
+                "expanded_url": "https://twitter.com/i/web/status/1497617948021776391",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.epironomnicanal.com/\" rel=\"nofollow\">EpironMovistar</a>",
-          "in_reply_to_status_id": 1497597402374672400,
-          "in_reply_to_status_id_str": "1497597402374672385",
-          "in_reply_to_user_id": 1357433125127807000,
-          "in_reply_to_user_id_str": "1357433125127806977",
-          "in_reply_to_screen_name": "tamdiuagain",
+          "in_reply_to_status_id": 1497609705249669000,
+          "in_reply_to_status_id_str": "1497609705249669120",
+          "in_reply_to_user_id": 181011173,
+          "in_reply_to_user_id_str": "181011173",
+          "in_reply_to_screen_name": "paulita_w",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5680,8 +4514,8 @@
           }
         },
         "protected": false,
-        "followers_count": 595425,
-        "friends_count": 240518,
+        "followers_count": 595424,
+        "friends_count": 240532,
         "listed_count": 795,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1560,
@@ -5689,37 +4523,37 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2062238,
+        "statuses_count": 2062242,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:02:26 +0000 2022",
-          "id": 1497602970564935700,
-          "id_str": "1497602970564935683",
-          "text": "@cynthia_skinny Cyn, te respondimos por DM. Seguimos por allí. Saludos!",
+          "created_at": "Sat Feb 26 16:58:16 +0000 2022",
+          "id": 1497617018408902700,
+          "id_str": "1497617018408902657",
+          "text": "@xentai Respondimos por MD",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "cynthia_skinny",
-                "name": "Cyn.💞",
-                "id": 939479507488182300,
-                "id_str": "939479507488182272",
+                "screen_name": "xentai",
+                "name": "marcelo javier luna",
+                "id": 147299033,
+                "id_str": "147299033",
                 "indices": [
                   0,
-                  15
+                  7
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1497570772495204400,
-          "in_reply_to_status_id_str": "1497570772495204352",
-          "in_reply_to_user_id": 939479507488182300,
-          "in_reply_to_user_id_str": "939479507488182272",
-          "in_reply_to_screen_name": "cynthia_skinny",
+          "in_reply_to_status_id": 1497615900521816000,
+          "in_reply_to_status_id_str": "1497615900521816065",
+          "in_reply_to_user_id": 147299033,
+          "in_reply_to_user_id_str": "147299033",
+          "in_reply_to_screen_name": "xentai",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5970,8 +4804,8 @@
           }
         },
         "protected": false,
-        "followers_count": 595425,
-        "friends_count": 240518,
+        "followers_count": 595424,
+        "friends_count": 240532,
         "listed_count": 795,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1560,
@@ -5979,37 +4813,37 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2062238,
+        "statuses_count": 2062242,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 16:02:26 +0000 2022",
-          "id": 1497602970564935700,
-          "id_str": "1497602970564935683",
-          "text": "@cynthia_skinny Cyn, te respondimos por DM. Seguimos por allí. Saludos!",
+          "created_at": "Sat Feb 26 16:58:16 +0000 2022",
+          "id": 1497617018408902700,
+          "id_str": "1497617018408902657",
+          "text": "@xentai Respondimos por MD",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "cynthia_skinny",
-                "name": "Cyn.💞",
-                "id": 939479507488182300,
-                "id_str": "939479507488182272",
+                "screen_name": "xentai",
+                "name": "marcelo javier luna",
+                "id": 147299033,
+                "id_str": "147299033",
                 "indices": [
                   0,
-                  15
+                  7
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1497570772495204400,
-          "in_reply_to_status_id_str": "1497570772495204352",
-          "in_reply_to_user_id": 939479507488182300,
-          "in_reply_to_user_id_str": "939479507488182272",
-          "in_reply_to_screen_name": "cynthia_skinny",
+          "in_reply_to_status_id": 1497615900521816000,
+          "in_reply_to_status_id_str": "1497615900521816065",
+          "in_reply_to_user_id": 147299033,
+          "in_reply_to_user_id_str": "147299033",
+          "in_reply_to_screen_name": "xentai",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6380,7 +5214,7 @@
         }
       },
       "protected": false,
-      "followers_count": 1,
+      "followers_count": 0,
       "friends_count": 47,
       "listed_count": 0,
       "created_at": "Fri Feb 18 21:05:00 +0000 2022",
@@ -6512,7 +5346,7 @@
           }
         },
         "protected": false,
-        "followers_count": 1,
+        "followers_count": 0,
         "friends_count": 47,
         "listed_count": 0,
         "created_at": "Fri Feb 18 21:05:00 +0000 2022",
@@ -6700,7 +5534,7 @@
         }
       },
       "protected": false,
-      "followers_count": 1,
+      "followers_count": 0,
       "friends_count": 47,
       "listed_count": 0,
       "created_at": "Fri Feb 18 21:05:00 +0000 2022",
@@ -6832,7 +5666,7 @@
           }
         },
         "protected": false,
-        "followers_count": 1,
+        "followers_count": 0,
         "friends_count": 47,
         "listed_count": 0,
         "created_at": "Fri Feb 18 21:05:00 +0000 2022",
@@ -7020,7 +5854,7 @@
         }
       },
       "protected": false,
-      "followers_count": 1,
+      "followers_count": 0,
       "friends_count": 47,
       "listed_count": 0,
       "created_at": "Fri Feb 18 21:05:00 +0000 2022",
@@ -7152,7 +5986,7 @@
           }
         },
         "protected": false,
-        "followers_count": 1,
+        "followers_count": 0,
         "friends_count": 47,
         "listed_count": 0,
         "created_at": "Fri Feb 18 21:05:00 +0000 2022",
@@ -10439,7 +9273,7 @@
           }
         },
         "protected": false,
-        "followers_count": 80305,
+        "followers_count": 80308,
         "friends_count": 12,
         "listed_count": 182,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -13171,7 +12005,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157577,
+        "followers_count": 157576,
         "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -13525,7 +12359,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157577,
+        "followers_count": 157576,
         "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -13891,7 +12725,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157577,
+        "followers_count": 157576,
         "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -14247,7 +13081,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157577,
+        "followers_count": 157576,
         "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -14603,7 +13437,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157577,
+        "followers_count": 157576,
         "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -14959,7 +13793,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157577,
+        "followers_count": 157576,
         "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -15315,7 +14149,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157577,
+        "followers_count": 157576,
         "friends_count": 16012,
         "listed_count": 207,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -15652,7 +14486,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -15988,7 +14822,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -16324,7 +15158,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -16660,7 +15494,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -16996,7 +15830,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -17332,7 +16166,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -17444,7 +16278,7 @@
         }
       },
       "protected": false,
-      "followers_count": 12,
+      "followers_count": 13,
       "friends_count": 288,
       "listed_count": 0,
       "created_at": "Sat Nov 27 15:47:53 +0000 2021",
@@ -17589,7 +16423,7 @@
           }
         },
         "protected": false,
-        "followers_count": 12,
+        "followers_count": 13,
         "friends_count": 288,
         "listed_count": 0,
         "created_at": "Sat Nov 27 15:47:53 +0000 2021",
@@ -17668,7 +16502,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -17780,7 +16614,7 @@
         }
       },
       "protected": false,
-      "followers_count": 12,
+      "followers_count": 13,
       "friends_count": 288,
       "listed_count": 0,
       "created_at": "Sat Nov 27 15:47:53 +0000 2021",
@@ -17925,7 +16759,7 @@
           }
         },
         "protected": false,
-        "followers_count": 12,
+        "followers_count": 13,
         "friends_count": 288,
         "listed_count": 0,
         "created_at": "Sat Nov 27 15:47:53 +0000 2021",
@@ -18004,7 +16838,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -18116,7 +16950,7 @@
         }
       },
       "protected": false,
-      "followers_count": 12,
+      "followers_count": 13,
       "friends_count": 288,
       "listed_count": 0,
       "created_at": "Sat Nov 27 15:47:53 +0000 2021",
@@ -18261,7 +17095,7 @@
           }
         },
         "protected": false,
-        "followers_count": 12,
+        "followers_count": 13,
         "friends_count": 288,
         "listed_count": 0,
         "created_at": "Sat Nov 27 15:47:53 +0000 2021",
@@ -18340,7 +17174,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -18452,7 +17286,7 @@
         }
       },
       "protected": false,
-      "followers_count": 12,
+      "followers_count": 13,
       "friends_count": 288,
       "listed_count": 0,
       "created_at": "Sat Nov 27 15:47:53 +0000 2021",
@@ -18597,7 +17431,7 @@
           }
         },
         "protected": false,
-        "followers_count": 12,
+        "followers_count": 13,
         "friends_count": 288,
         "listed_count": 0,
         "created_at": "Sat Nov 27 15:47:53 +0000 2021",
@@ -18676,7 +17510,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -18986,7 +17820,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -19296,7 +18130,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -19606,7 +18440,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -19916,7 +18750,7 @@
         },
         "protected": false,
         "followers_count": 28855,
-        "friends_count": 6492,
+        "friends_count": 6491,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 422,
@@ -20235,7 +19069,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -20244,23 +19078,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -20269,8 +19103,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -20280,11 +19114,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20555,7 +19389,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -20564,23 +19398,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -20589,8 +19423,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -20600,11 +19434,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20875,7 +19709,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -20884,23 +19718,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -20909,8 +19743,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -20920,11 +19754,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -21195,7 +20029,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21204,23 +20038,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -21229,8 +20063,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -21240,11 +20074,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -21515,7 +20349,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21524,23 +20358,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -21549,8 +20383,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -21560,11 +20394,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -21835,7 +20669,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21844,23 +20678,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -21869,8 +20703,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -21880,11 +20714,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22155,7 +20989,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22164,23 +20998,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -22189,8 +21023,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -22200,11 +21034,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22475,7 +21309,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22484,23 +21318,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -22509,8 +21343,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -22520,11 +21354,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22795,7 +21629,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22804,23 +21638,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -22829,8 +21663,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -22840,11 +21674,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23141,7 +21975,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23150,23 +21984,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -23175,8 +22009,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -23186,11 +22020,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23487,7 +22321,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23496,23 +22330,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -23521,8 +22355,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -23532,11 +22366,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23833,7 +22667,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23842,23 +22676,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -23867,8 +22701,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -23878,11 +22712,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -24179,7 +23013,7 @@
           }
         },
         "protected": false,
-        "followers_count": 440295,
+        "followers_count": 440302,
         "friends_count": 41,
         "listed_count": 1199,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24188,23 +23022,23 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 58510,
+        "statuses_count": 58512,
         "lang": null,
         "status": {
-          "created_at": "Sat Feb 26 15:09:00 +0000 2022",
-          "id": 1497589521260720000,
-          "id_str": "1497589521260720136",
-          "text": "@quetooll ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de re… https://t.co/NWpN6SAcWx",
+          "created_at": "Sat Feb 26 16:20:01 +0000 2022",
+          "id": 1497607393844334600,
+          "id_str": "1497607393844334599",
+          "text": "@PCaminoa  ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de r… https://t.co/WlWwq4UDOe",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "quetooll",
-                "name": "🦔Alfreedom",
-                "id": 1210199234856837000,
-                "id_str": "1210199234856837120",
+                "screen_name": "PCaminoa",
+                "name": "Patricia Caminoa",
+                "id": 583121820,
+                "id_str": "583121820",
                 "indices": [
                   0,
                   9
@@ -24213,8 +23047,8 @@
             ],
             "urls": [
               {
-                "url": "https://t.co/NWpN6SAcWx",
-                "expanded_url": "https://twitter.com/i/web/status/1497589521260720136",
+                "url": "https://t.co/WlWwq4UDOe",
+                "expanded_url": "https://twitter.com/i/web/status/1497607393844334599",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -24224,11 +23058,11 @@
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1497588139535315000,
-          "in_reply_to_status_id_str": "1497588139535314954",
-          "in_reply_to_user_id": 1210199234856837000,
-          "in_reply_to_user_id_str": "1210199234856837120",
-          "in_reply_to_screen_name": "quetooll",
+          "in_reply_to_status_id": 1497606648550019000,
+          "in_reply_to_status_id_str": "1497606648550019085",
+          "in_reply_to_user_id": 583121820,
+          "in_reply_to_user_id_str": "583121820",
+          "in_reply_to_screen_name": "PCaminoa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -24515,7 +23349,7 @@
           }
         },
         "protected": false,
-        "followers_count": 92399,
+        "followers_count": 92396,
         "friends_count": 102,
         "listed_count": 158,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -24646,7 +23480,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 2,
+          "favorite_count": 3,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -24901,7 +23735,7 @@
           }
         },
         "protected": false,
-        "followers_count": 92399,
+        "followers_count": 92396,
         "friends_count": 102,
         "listed_count": 158,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25032,7 +23866,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 2,
+          "favorite_count": 3,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -25287,7 +24121,7 @@
           }
         },
         "protected": false,
-        "followers_count": 92399,
+        "followers_count": 92396,
         "friends_count": 102,
         "listed_count": 158,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25418,7 +24252,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 2,
+          "favorite_count": 3,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -25673,7 +24507,7 @@
           }
         },
         "protected": false,
-        "followers_count": 92399,
+        "followers_count": 92396,
         "friends_count": 102,
         "listed_count": 158,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25804,7 +24638,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 2,
+          "favorite_count": 3,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -26059,7 +24893,7 @@
           }
         },
         "protected": false,
-        "followers_count": 92399,
+        "followers_count": 92396,
         "friends_count": 102,
         "listed_count": 158,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26190,7 +25024,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 2,
+          "favorite_count": 3,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -26445,7 +25279,7 @@
           }
         },
         "protected": false,
-        "followers_count": 92399,
+        "followers_count": 92396,
         "friends_count": 102,
         "listed_count": 158,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26576,7 +25410,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 2,
+          "favorite_count": 3,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -26829,7 +25663,7 @@
           }
         },
         "protected": false,
-        "followers_count": 92399,
+        "followers_count": 92396,
         "friends_count": 102,
         "listed_count": 158,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26960,7 +25794,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 2,
+          "favorite_count": 3,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -27213,7 +26047,7 @@
           }
         },
         "protected": false,
-        "followers_count": 92399,
+        "followers_count": 92396,
         "friends_count": 102,
         "listed_count": 158,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -27344,7 +26178,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 2,
+          "favorite_count": 3,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -27597,7 +26431,7 @@
           }
         },
         "protected": false,
-        "followers_count": 92399,
+        "followers_count": 92396,
         "friends_count": 102,
         "listed_count": 158,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -27728,7 +26562,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 2,
+          "favorite_count": 3,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -27981,7 +26815,7 @@
           }
         },
         "protected": false,
-        "followers_count": 92399,
+        "followers_count": 92396,
         "friends_count": 102,
         "listed_count": 158,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -28112,7 +26946,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 2,
+          "favorite_count": 3,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
