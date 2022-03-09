@@ -30,11 +30,7 @@ async function analyzeAllBrands() {
 }
 
 async function analyzeBrand({ brand }) {
-  const query = brand.name;
-  const users = await readClient.v1.get('users/search.json', {
-    q: query,
-    count: 30,
-  });
+  const users = await findUsers(brand.name);
   const verifiedUser = users.find(user => user.verified);
 
   brand.user = verifiedUser;
@@ -43,6 +39,24 @@ async function analyzeBrand({ brand }) {
     .map(user => analyzeUserResult({ brand, user }))
     .reduce((accum, array) => accum.concat(array), [])
     .filter(Boolean);
+}
+
+async function findUsers(name) {
+  let users = [];
+
+  for (let i = 1; i <= 3; i++) {
+    const page = await readClient.v1.get('users/search.json', {
+      q: name,
+      count: 20,
+      page: i,
+    });
+
+    users = users.concat(page);
+
+    if (page.length < 20) break;
+  }
+
+  return users;
 }
 
 async function analyzeUserResult({ brand, user }) {
@@ -104,9 +118,12 @@ async function analyzeTweet({ brand, user, tweet }) {
       return { brand, user, tweet, isScam: true };
     } else return { isScam: false };
   } catch (error) {
-    if (error.code && error.code !== 404)
+    const isNotFound = error.code === 404;
+    const isSuspendedAccount = error.data?.errors?.some(e => e.code === 63);
+    if (!(isNotFound || isSuspendedAccount))
       console.error(
-        `Error retrieving tweet https://twitter.com/i/web/status/${tweet.id_str}`
+        `Error retrieving tweet https://twitter.com/i/web/status/${tweet.id_str}`,
+        error
       );
 
     return { isScam: false };

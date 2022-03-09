@@ -8,7 +8,11 @@ describe('Analyze a brand with no official Twitter account', function () {
   before(function () {
     nock('https://api.twitter.com')
       .get('/1.1/users/search.json')
-      .query({ q: 'Banco Supervielle', count: 30 })
+      .query({
+        q: 'Banco Supervielle',
+        count: 20,
+        page: 1,
+      })
       .reply(200, [
         {
           id: 1471593766498627586,
