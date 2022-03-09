@@ -112,6 +112,15 @@ async function analyzeTweet({ brand, user, tweet }) {
 }
 
 async function postAlerts(results) {
+  const candidates = await getCandidatesForAlerts(results);
+
+  for (const candidate of candidates) {
+    await postAlert(candidate);
+    await Bluebird.delay(2000);
+  }
+}
+
+async function getCandidatesForAlerts(results) {
   const alertedTweetIDs = await getAlreadyAlertedTweetIDs();
   const candidates = results
     .filter(({ tweet }) => {
@@ -124,11 +133,7 @@ async function postAlerts(results) {
       const isRecent = differenceInDays(today, tweetDate) <= 3;
       return isRecent;
     });
-
-  for (const candidate of candidates) {
-    await postAlert(candidate);
-    await Bluebird.delay(2000);
-  }
+  return candidates;
 }
 
 async function postAlert({ brand, user, tweet }) {
@@ -171,16 +176,18 @@ async function getAlreadyAlertedTweetIDs() {
     tweet_mode: 'extended',
   });
   const ids = timeline
-    .filter(tweet => tweet.in_reply_to_status_id_str)
-    .reduce((accum, tweet) => {
-      return accum.add(tweet.in_reply_to_status_id_str);
-    }, new Set());
-  return ids;
+    .flatMap(tweet => [
+      tweet.in_reply_to_status_id_str,
+      tweet.quoted_status_id_str,
+    ])
+    .filter(Boolean);
+  return new Set(ids);
 }
 
 module.exports = {
   analyzeAllBrands,
   analyzeBrand,
+  getCandidatesForAlerts,
   postAlerts,
   postAlert,
 };
