@@ -37,11 +37,6 @@ async function analyzeBrand({ brand }) {
   });
   const verifiedUser = users.find(user => user.verified);
 
-  if (!verifiedUser) {
-    console.error(`Cannot find verified profile for ${brand.name}, skipping`);
-    return;
-  }
-
   brand.user = verifiedUser;
 
   return await Bluebird.resolve(users)
@@ -82,6 +77,13 @@ async function analyzeUserResult({ brand, user }) {
 }
 
 async function analyzeTweet({ brand, user, tweet }) {
+  if (brand.noAccount) return { brand, user, tweet, isScam: true };
+
+  if (!brand.user) {
+    console.error(`Cannot find verified profile for ${brand.name}, skipping`);
+    return { isScam: false };
+  }
+
   try {
     // Scammers don't usually mention the brand's official account in their tweets.
     const tweetMentionsBrand = tweet.entities?.user_mentions?.some(
@@ -102,7 +104,7 @@ async function analyzeTweet({ brand, user, tweet }) {
       return { brand, user, tweet, isScam: true };
     } else return { isScam: false };
   } catch (error) {
-    if (error.code !== 404)
+    if (error.code && error.code !== 404)
       console.error(
         `Error retrieving tweet https://twitter.com/i/web/status/${tweet.id_str}`
       );
@@ -148,8 +150,7 @@ async function postAlert({ brand, user, tweet }) {
 }
 
 async function postAlertViaReply({ brand, user, tweet }) {
-  const brandMention = `@${brand.user.screen_name}`;
-  const text = `Cuidado, asegurate de estar hablando con la cuenta oficial (${brandMention})`;
+  const text = getBaseAlertText({ brand });
   await writeClient.v1.post('statuses/update.json', {
     status: text,
     in_reply_to_status_id: tweet.id_str,
@@ -158,15 +159,21 @@ async function postAlertViaReply({ brand, user, tweet }) {
 }
 
 async function postAlertViaQuote({ brand, user, tweet }) {
-  const brandMention = `@${brand.user.screen_name}`;
   const victims = tweet.entities.user_mentions?.map(m => `@${m.screen_name}`);
   const tweetURL = `https://twitter.com/${user.screen_name}/status/${tweet.id_str}`;
-  const text = `${victims.join(
-    ' '
-  )} Cuidado, asegurate de estar hablando con la cuenta oficial (${brandMention}) ${tweetURL}`;
+  const baseText = getBaseAlertText({ brand });
   const result = await writeClient.v1.post('statuses/update.json', {
-    status: text,
+    status: [...victims, baseText, tweetURL].join(' '),
   });
+}
+
+function getBaseAlertText({ brand }) {
+  if (brand.user) {
+    const brandMention = `@${brand.user.screen_name}`;
+    return `Cuidado, asegurate de estar hablando con la cuenta oficial (${brandMention})`;
+  } else {
+    return `Cuidado, ${brand.name} no provee soporte oficial por Twitter`;
+  }
 }
 
 async function getAlreadyAlertedTweetIDs() {
