@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +15,9 @@
     "prettier": "^2.5.1",
     "string-similarity": "^4.0.4",
     "twitter-api-v2": "^1.10.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.1",
+    "nock": "^13.2.4"
   }
 }

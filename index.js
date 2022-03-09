@@ -18,6 +18,7 @@ async function analyzeAllBrands() {
     .map(brand => analyzeBrand({ brand }))
     .reduce((accum, array) => accum.concat(array), [])
     .filter(Boolean);
+
   return results;
 }
 
@@ -60,9 +61,10 @@ async function analyzeUserResult({ brand, user }) {
     });
     const replies = timeline.filter(tweet => tweet.in_reply_to_status_id_str);
 
-    return await Bluebird.resolve(replies)
+    const results = await Bluebird.resolve(replies)
       .map(tweet => analyzeTweet({ brand, user, tweet }))
       .filter(({ isScam }) => isScam);
+    return results;
   } catch (error) {
     const isBlockedError = error.data?.errors?.[0]?.code === 136;
     if (isBlockedError) {
@@ -149,5 +151,6 @@ async function getAlreadyAlertedTweetIDs() {
 
 module.exports = {
   analyzeAllBrands,
+  analyzeBrand,
   postAlerts,
 };
