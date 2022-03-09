@@ -24,3 +24,7 @@ jobs:
           APP_SECRET: ${{ secrets.APP_SECRET }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           ACCESS_SECRET: ${{ secrets.ACCESS_SECRET }}
+          READ_APP_KEY: ${{ secrets.READ_APP_KEY }}
+          READ_APP_SECRET: ${{ secrets.READ_APP_SECRET }}
+          READ_ACCESS_TOKEN: ${{ secrets.READ_ACCESS_TOKEN }}
+          READ_ACCESS_SECRET: ${{ secrets.READ_ACCESS_SECRET }}
