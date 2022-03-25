@@ -2351,7 +2351,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -2649,7 +2649,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -2957,7 +2957,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3255,7 +3255,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3553,7 +3553,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3842,7 +3842,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4131,7 +4131,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4420,7 +4420,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4712,7 +4712,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5007,7 +5007,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5302,7 +5302,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5594,7 +5594,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5889,7 +5889,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653522,
+        "followers_count": 653520,
         "friends_count": 316398,
         "listed_count": 592,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -6174,7 +6174,7 @@
           }
         },
         "protected": false,
-        "followers_count": 544982,
+        "followers_count": 544988,
         "friends_count": 215348,
         "listed_count": 1082,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -6183,37 +6183,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2518260,
+        "statuses_count": 2518264,
         "lang": null,
         "status": {
-          "created_at": "Fri Mar 25 02:45:40 +0000 2022",
-          "id": 1507186929103683600,
-          "id_str": "1507186929103683591",
-          "text": "@scichelli1 Hola Sebastian, por favor escribinos al Dm con los datos de tu servicio para que podamos corroborar lo que sucede ^LF",
-          "truncated": false,
+          "created_at": "Fri Mar 25 04:02:09 +0000 2022",
+          "id": 1507206176462848000,
+          "id_str": "1507206176462848003",
+          "text": "@trollperoncho Hola! Si se presentan fallas en el servicio, no dudes en avisarnos para que lo revisemos. Detallanos… https://t.co/BT4LknEyCx",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "scichelli1",
-                "name": "Sebastián Cicchelli",
-                "id": 2700894347,
-                "id_str": "2700894347",
+                "screen_name": "trollperoncho",
+                "name": "🇷🇺tr☀llper☀️nch☀️",
+                "id": 1123028807332581400,
+                "id_str": "1123028807332581376",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/BT4LknEyCx",
+                "expanded_url": "https://twitter.com/i/web/status/1507206176462848003",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1507186415918063600,
-          "in_reply_to_status_id_str": "1507186415918063620",
-          "in_reply_to_user_id": 2700894347,
-          "in_reply_to_user_id_str": "2700894347",
-          "in_reply_to_screen_name": "scichelli1",
+          "in_reply_to_status_id": 1507205610957328400,
+          "in_reply_to_status_id_str": "1507205610957328384",
+          "in_reply_to_user_id": 1123028807332581400,
+          "in_reply_to_user_id_str": "1123028807332581376",
+          "in_reply_to_screen_name": "trollperoncho",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6488,7 +6498,7 @@
           }
         },
         "protected": false,
-        "followers_count": 544982,
+        "followers_count": 544988,
         "friends_count": 215348,
         "listed_count": 1082,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -6497,37 +6507,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2518260,
+        "statuses_count": 2518264,
         "lang": null,
         "status": {
-          "created_at": "Fri Mar 25 02:45:40 +0000 2022",
-          "id": 1507186929103683600,
-          "id_str": "1507186929103683591",
-          "text": "@scichelli1 Hola Sebastian, por favor escribinos al Dm con los datos de tu servicio para que podamos corroborar lo que sucede ^LF",
-          "truncated": false,
+          "created_at": "Fri Mar 25 04:02:09 +0000 2022",
+          "id": 1507206176462848000,
+          "id_str": "1507206176462848003",
+          "text": "@trollperoncho Hola! Si se presentan fallas en el servicio, no dudes en avisarnos para que lo revisemos. Detallanos… https://t.co/BT4LknEyCx",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "scichelli1",
-                "name": "Sebastián Cicchelli",
-                "id": 2700894347,
-                "id_str": "2700894347",
+                "screen_name": "trollperoncho",
+                "name": "🇷🇺tr☀llper☀️nch☀️",
+                "id": 1123028807332581400,
+                "id_str": "1123028807332581376",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/BT4LknEyCx",
+                "expanded_url": "https://twitter.com/i/web/status/1507206176462848003",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1507186415918063600,
-          "in_reply_to_status_id_str": "1507186415918063620",
-          "in_reply_to_user_id": 2700894347,
-          "in_reply_to_user_id_str": "2700894347",
-          "in_reply_to_screen_name": "scichelli1",
+          "in_reply_to_status_id": 1507205610957328400,
+          "in_reply_to_status_id_str": "1507205610957328384",
+          "in_reply_to_user_id": 1123028807332581400,
+          "in_reply_to_user_id_str": "1123028807332581376",
+          "in_reply_to_screen_name": "trollperoncho",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6802,7 +6822,7 @@
           }
         },
         "protected": false,
-        "followers_count": 544982,
+        "followers_count": 544988,
         "friends_count": 215348,
         "listed_count": 1082,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -6811,37 +6831,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2518260,
+        "statuses_count": 2518264,
         "lang": null,
         "status": {
-          "created_at": "Fri Mar 25 02:45:40 +0000 2022",
-          "id": 1507186929103683600,
-          "id_str": "1507186929103683591",
-          "text": "@scichelli1 Hola Sebastian, por favor escribinos al Dm con los datos de tu servicio para que podamos corroborar lo que sucede ^LF",
-          "truncated": false,
+          "created_at": "Fri Mar 25 04:02:09 +0000 2022",
+          "id": 1507206176462848000,
+          "id_str": "1507206176462848003",
+          "text": "@trollperoncho Hola! Si se presentan fallas en el servicio, no dudes en avisarnos para que lo revisemos. Detallanos… https://t.co/BT4LknEyCx",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "scichelli1",
-                "name": "Sebastián Cicchelli",
-                "id": 2700894347,
-                "id_str": "2700894347",
+                "screen_name": "trollperoncho",
+                "name": "🇷🇺tr☀llper☀️nch☀️",
+                "id": 1123028807332581400,
+                "id_str": "1123028807332581376",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/BT4LknEyCx",
+                "expanded_url": "https://twitter.com/i/web/status/1507206176462848003",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1507186415918063600,
-          "in_reply_to_status_id_str": "1507186415918063620",
-          "in_reply_to_user_id": 2700894347,
-          "in_reply_to_user_id_str": "2700894347",
-          "in_reply_to_screen_name": "scichelli1",
+          "in_reply_to_status_id": 1507205610957328400,
+          "in_reply_to_status_id_str": "1507205610957328384",
+          "in_reply_to_user_id": 1123028807332581400,
+          "in_reply_to_user_id_str": "1123028807332581376",
+          "in_reply_to_screen_name": "trollperoncho",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7156,8 +7186,8 @@
           }
         },
         "protected": false,
-        "followers_count": 597356,
-        "friends_count": 244940,
+        "followers_count": 597357,
+        "friends_count": 244941,
         "listed_count": 795,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -7446,8 +7476,8 @@
           }
         },
         "protected": false,
-        "followers_count": 597356,
-        "friends_count": 244940,
+        "followers_count": 597357,
+        "friends_count": 244941,
         "listed_count": 795,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -17324,7 +17354,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157928,
+        "followers_count": 157929,
         "friends_count": 16112,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -17680,7 +17710,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157928,
+        "followers_count": 157929,
         "friends_count": 16112,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -18026,7 +18056,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157928,
+        "followers_count": 157929,
         "friends_count": 16112,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -18372,7 +18402,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157928,
+        "followers_count": 157929,
         "friends_count": 16112,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -18718,7 +18748,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157928,
+        "followers_count": 157929,
         "friends_count": 16112,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -19064,7 +19094,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157928,
+        "followers_count": 157929,
         "friends_count": 16112,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -19420,7 +19450,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157928,
+        "followers_count": 157929,
         "friends_count": 16112,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -19776,7 +19806,7 @@
           }
         },
         "protected": false,
-        "followers_count": 157928,
+        "followers_count": 157929,
         "friends_count": 16112,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -32960,7 +32990,7 @@
           }
         },
         "protected": false,
-        "followers_count": 441216,
+        "followers_count": 441218,
         "friends_count": 41,
         "listed_count": 1201,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -33280,7 +33310,7 @@
           }
         },
         "protected": false,
-        "followers_count": 441216,
+        "followers_count": 441218,
         "friends_count": 41,
         "listed_count": 1201,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -33600,7 +33630,7 @@
           }
         },
         "protected": false,
-        "followers_count": 441216,
+        "followers_count": 441218,
         "friends_count": 41,
         "listed_count": 1201,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -33920,7 +33950,7 @@
           }
         },
         "protected": false,
-        "followers_count": 441216,
+        "followers_count": 441218,
         "friends_count": 41,
         "listed_count": 1201,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -34240,7 +34270,7 @@
           }
         },
         "protected": false,
-        "followers_count": 441216,
+        "followers_count": 441218,
         "friends_count": 41,
         "listed_count": 1201,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -34560,7 +34590,7 @@
           }
         },
         "protected": false,
-        "followers_count": 441216,
+        "followers_count": 441218,
         "friends_count": 41,
         "listed_count": 1201,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -34906,7 +34936,7 @@
           }
         },
         "protected": false,
-        "followers_count": 441216,
+        "followers_count": 441218,
         "friends_count": 41,
         "listed_count": 1201,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -35252,7 +35282,7 @@
           }
         },
         "protected": false,
-        "followers_count": 441216,
+        "followers_count": 441218,
         "friends_count": 41,
         "listed_count": 1201,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -35598,7 +35628,7 @@
           }
         },
         "protected": false,
-        "followers_count": 441216,
+        "followers_count": 441218,
         "friends_count": 41,
         "listed_count": 1201,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -35918,7 +35948,7 @@
           }
         },
         "protected": false,
-        "followers_count": 441216,
+        "followers_count": 441218,
         "friends_count": 41,
         "listed_count": 1201,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -36238,7 +36268,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148627,
+        "followers_count": 148623,
         "friends_count": 14,
         "listed_count": 214,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -36247,33 +36277,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 162871,
+        "statuses_count": 162874,
         "lang": null,
         "status": {
-          "created_at": "Fri Mar 25 01:24:58 +0000 2022",
-          "id": 1507166619449049000,
-          "id_str": "1507166619449049091",
-          "text": "@kari_4374 Hemos analizado tu consulta 165761753 respecto al retiro de tu dinero y nos comunicamos contigo hoy, al… https://t.co/W3w3Uxufbj",
+          "created_at": "Fri Mar 25 03:50:28 +0000 2022",
+          "id": 1507203235819446300,
+          "id_str": "1507203235819446275",
+          "text": "@palmeros_victor Muchas gracias por la información. Para revisar lo sucedido con tu cuenta, enviamos tu consulta a… https://t.co/JlQ5b2Cmol",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "kari_4374",
-                "name": "kari_herrera",
-                "id": 560007879,
-                "id_str": "560007879",
+                "screen_name": "palmeros_victor",
+                "name": "Victor Palmeros",
+                "id": 1226215189898551300,
+                "id_str": "1226215189898551296",
                 "indices": [
                   0,
-                  10
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/W3w3Uxufbj",
-                "expanded_url": "https://twitter.com/i/web/status/1507166619449049091",
+                "url": "https://t.co/JlQ5b2Cmol",
+                "expanded_url": "https://twitter.com/i/web/status/1507203235819446275",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   116,
@@ -36283,11 +36313,11 @@
             ]
           },
           "source": "<a href=\"https://www.mercadolibre.com\" rel=\"nofollow\">CxSocial</a>",
-          "in_reply_to_status_id": 1507164586713116700,
-          "in_reply_to_status_id_str": "1507164586713116672",
-          "in_reply_to_user_id": 560007879,
-          "in_reply_to_user_id_str": "560007879",
-          "in_reply_to_screen_name": "kari_4374",
+          "in_reply_to_status_id": 1507199173464051700,
+          "in_reply_to_status_id_str": "1507199173464051715",
+          "in_reply_to_user_id": 1226215189898551300,
+          "in_reply_to_user_id_str": "1226215189898551296",
+          "in_reply_to_screen_name": "palmeros_victor",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -36559,7 +36589,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148627,
+        "followers_count": 148623,
         "friends_count": 14,
         "listed_count": 214,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -36568,33 +36598,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 162871,
+        "statuses_count": 162874,
         "lang": null,
         "status": {
-          "created_at": "Fri Mar 25 01:24:58 +0000 2022",
-          "id": 1507166619449049000,
-          "id_str": "1507166619449049091",
-          "text": "@kari_4374 Hemos analizado tu consulta 165761753 respecto al retiro de tu dinero y nos comunicamos contigo hoy, al… https://t.co/W3w3Uxufbj",
+          "created_at": "Fri Mar 25 03:50:28 +0000 2022",
+          "id": 1507203235819446300,
+          "id_str": "1507203235819446275",
+          "text": "@palmeros_victor Muchas gracias por la información. Para revisar lo sucedido con tu cuenta, enviamos tu consulta a… https://t.co/JlQ5b2Cmol",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "kari_4374",
-                "name": "kari_herrera",
-                "id": 560007879,
-                "id_str": "560007879",
+                "screen_name": "palmeros_victor",
+                "name": "Victor Palmeros",
+                "id": 1226215189898551300,
+                "id_str": "1226215189898551296",
                 "indices": [
                   0,
-                  10
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/W3w3Uxufbj",
-                "expanded_url": "https://twitter.com/i/web/status/1507166619449049091",
+                "url": "https://t.co/JlQ5b2Cmol",
+                "expanded_url": "https://twitter.com/i/web/status/1507203235819446275",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   116,
@@ -36604,11 +36634,11 @@
             ]
           },
           "source": "<a href=\"https://www.mercadolibre.com\" rel=\"nofollow\">CxSocial</a>",
-          "in_reply_to_status_id": 1507164586713116700,
-          "in_reply_to_status_id_str": "1507164586713116672",
-          "in_reply_to_user_id": 560007879,
-          "in_reply_to_user_id_str": "560007879",
-          "in_reply_to_screen_name": "kari_4374",
+          "in_reply_to_status_id": 1507199173464051700,
+          "in_reply_to_status_id_str": "1507199173464051715",
+          "in_reply_to_user_id": 1226215189898551300,
+          "in_reply_to_user_id_str": "1226215189898551296",
+          "in_reply_to_screen_name": "palmeros_victor",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -36880,7 +36910,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148627,
+        "followers_count": 148623,
         "friends_count": 14,
         "listed_count": 214,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -36889,33 +36919,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 162871,
+        "statuses_count": 162874,
         "lang": null,
         "status": {
-          "created_at": "Fri Mar 25 01:24:58 +0000 2022",
-          "id": 1507166619449049000,
-          "id_str": "1507166619449049091",
-          "text": "@kari_4374 Hemos analizado tu consulta 165761753 respecto al retiro de tu dinero y nos comunicamos contigo hoy, al… https://t.co/W3w3Uxufbj",
+          "created_at": "Fri Mar 25 03:50:28 +0000 2022",
+          "id": 1507203235819446300,
+          "id_str": "1507203235819446275",
+          "text": "@palmeros_victor Muchas gracias por la información. Para revisar lo sucedido con tu cuenta, enviamos tu consulta a… https://t.co/JlQ5b2Cmol",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "kari_4374",
-                "name": "kari_herrera",
-                "id": 560007879,
-                "id_str": "560007879",
+                "screen_name": "palmeros_victor",
+                "name": "Victor Palmeros",
+                "id": 1226215189898551300,
+                "id_str": "1226215189898551296",
                 "indices": [
                   0,
-                  10
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/W3w3Uxufbj",
-                "expanded_url": "https://twitter.com/i/web/status/1507166619449049091",
+                "url": "https://t.co/JlQ5b2Cmol",
+                "expanded_url": "https://twitter.com/i/web/status/1507203235819446275",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   116,
@@ -36925,11 +36955,11 @@
             ]
           },
           "source": "<a href=\"https://www.mercadolibre.com\" rel=\"nofollow\">CxSocial</a>",
-          "in_reply_to_status_id": 1507164586713116700,
-          "in_reply_to_status_id_str": "1507164586713116672",
-          "in_reply_to_user_id": 560007879,
-          "in_reply_to_user_id_str": "560007879",
-          "in_reply_to_screen_name": "kari_4374",
+          "in_reply_to_status_id": 1507199173464051700,
+          "in_reply_to_status_id_str": "1507199173464051715",
+          "in_reply_to_user_id": 1226215189898551300,
+          "in_reply_to_user_id_str": "1226215189898551296",
+          "in_reply_to_screen_name": "palmeros_victor",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -37201,7 +37231,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148627,
+        "followers_count": 148623,
         "friends_count": 14,
         "listed_count": 214,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -37210,33 +37240,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 162871,
+        "statuses_count": 162874,
         "lang": null,
         "status": {
-          "created_at": "Fri Mar 25 01:24:58 +0000 2022",
-          "id": 1507166619449049000,
-          "id_str": "1507166619449049091",
-          "text": "@kari_4374 Hemos analizado tu consulta 165761753 respecto al retiro de tu dinero y nos comunicamos contigo hoy, al… https://t.co/W3w3Uxufbj",
+          "created_at": "Fri Mar 25 03:50:28 +0000 2022",
+          "id": 1507203235819446300,
+          "id_str": "1507203235819446275",
+          "text": "@palmeros_victor Muchas gracias por la información. Para revisar lo sucedido con tu cuenta, enviamos tu consulta a… https://t.co/JlQ5b2Cmol",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "kari_4374",
-                "name": "kari_herrera",
-                "id": 560007879,
-                "id_str": "560007879",
+                "screen_name": "palmeros_victor",
+                "name": "Victor Palmeros",
+                "id": 1226215189898551300,
+                "id_str": "1226215189898551296",
                 "indices": [
                   0,
-                  10
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/W3w3Uxufbj",
-                "expanded_url": "https://twitter.com/i/web/status/1507166619449049091",
+                "url": "https://t.co/JlQ5b2Cmol",
+                "expanded_url": "https://twitter.com/i/web/status/1507203235819446275",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   116,
@@ -37246,11 +37276,11 @@
             ]
           },
           "source": "<a href=\"https://www.mercadolibre.com\" rel=\"nofollow\">CxSocial</a>",
-          "in_reply_to_status_id": 1507164586713116700,
-          "in_reply_to_status_id_str": "1507164586713116672",
-          "in_reply_to_user_id": 560007879,
-          "in_reply_to_user_id_str": "560007879",
-          "in_reply_to_screen_name": "kari_4374",
+          "in_reply_to_status_id": 1507199173464051700,
+          "in_reply_to_status_id_str": "1507199173464051715",
+          "in_reply_to_user_id": 1226215189898551300,
+          "in_reply_to_user_id_str": "1226215189898551296",
+          "in_reply_to_screen_name": "palmeros_victor",
           "geo": null,
           "coordinates": null,
           "place": null,
