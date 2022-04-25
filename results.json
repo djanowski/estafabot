@@ -29,7 +29,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150302,
+        "followers_count": 150300,
         "friends_count": 54803,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -347,7 +347,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150302,
+        "followers_count": 150300,
         "friends_count": 54803,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -665,7 +665,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150302,
+        "followers_count": 150300,
         "friends_count": 54803,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -983,7 +983,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150302,
+        "followers_count": 150300,
         "friends_count": 54803,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1293,7 +1293,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150302,
+        "followers_count": 150300,
         "friends_count": 54803,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1603,7 +1603,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150302,
+        "followers_count": 150300,
         "friends_count": 54803,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1913,7 +1913,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150302,
+        "followers_count": 150300,
         "friends_count": 54803,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2223,7 +2223,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150302,
+        "followers_count": 150300,
         "friends_count": 54803,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2533,7 +2533,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150302,
+        "followers_count": 150300,
         "friends_count": 54803,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2923,8 +2923,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -2932,37 +2932,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3221,8 +3231,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -3230,37 +3240,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3529,8 +3549,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -3538,37 +3558,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3827,8 +3857,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -3836,37 +3866,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4125,8 +4165,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -4134,37 +4174,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4414,8 +4464,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -4423,37 +4473,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4703,8 +4763,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -4712,37 +4772,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4992,8 +5062,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -5001,37 +5071,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5281,8 +5361,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -5290,37 +5370,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5570,8 +5660,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -5579,37 +5669,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5859,8 +5959,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -5868,37 +5968,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6151,8 +6261,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -6160,37 +6270,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6446,8 +6566,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -6455,37 +6575,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6741,8 +6871,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -6750,37 +6880,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7030,8 +7170,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -7039,37 +7179,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7319,8 +7469,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -7328,37 +7478,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7608,8 +7768,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -7617,37 +7777,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7900,8 +8070,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -7909,37 +8079,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8195,8 +8375,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653967,
-        "friends_count": 316206,
+        "followers_count": 653971,
+        "friends_count": 316207,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6287,
@@ -8204,37 +8384,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024778,
+        "statuses_count": 1024779,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 09:04:28 +0000 2022",
-          "id": 1518516279732285400,
-          "id_str": "1518516279732285441",
-          "text": "@jeastman19 Te confirmamos que recibimos tu mensaje y que vamos a estar en contacto para ver este problema.",
-          "truncated": false,
+          "created_at": "Mon Apr 25 09:47:45 +0000 2022",
+          "id": 1518527173677699000,
+          "id_str": "1518527173677699072",
+          "text": "@Gerardobrussino Buen día, Queremos solucionar tu inconveniente y mejorar nuestro servicio. Envíanos por  MP tu núm… https://t.co/qk6v7OE2WY",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "jeastman19",
-                "name": "Jorge Eastman",
-                "id": 185088842,
-                "id_str": "185088842",
+                "screen_name": "Gerardobrussino",
+                "name": "Gerardo Brussino",
+                "id": 702341984,
+                "id_str": "702341984",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/qk6v7OE2WY",
+                "expanded_url": "https://twitter.com/i/web/status/1518527173677699072",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1518460318799773700,
-          "in_reply_to_status_id_str": "1518460318799773697",
-          "in_reply_to_user_id": 185088842,
-          "in_reply_to_user_id_str": "185088842",
-          "in_reply_to_screen_name": "jeastman19",
+          "in_reply_to_status_id": 1518526658457788400,
+          "in_reply_to_status_id_str": "1518526658457788416",
+          "in_reply_to_user_id": 702341984,
+          "in_reply_to_user_id_str": "702341984",
+          "in_reply_to_screen_name": "Gerardobrussino",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8480,8 +8670,8 @@
           }
         },
         "protected": false,
-        "followers_count": 546456,
-        "friends_count": 215250,
+        "followers_count": 546455,
+        "friends_count": 215251,
         "listed_count": 1079,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18599,
@@ -8489,47 +8679,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2524491,
+        "statuses_count": 2524492,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 07:50:52 +0000 2022",
-          "id": 1518497759992684500,
-          "id_str": "1518497759992684548",
-          "text": "@killy1980 Hola Cristian. Por este medio estamos para ayudarte, verificaremos tu mensaje por DM así damos continuid… https://t.co/lEPsRLalGE",
-          "truncated": true,
+          "created_at": "Mon Apr 25 09:31:13 +0000 2022",
+          "id": 1518523011397259300,
+          "id_str": "1518523011397259264",
+          "text": "@SilvinaGaitano Buen día Silvina, indicános por DM el nº de línea y la situación para que podamos abordarlo ^OES",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "killy1980",
-                "name": "cristian gonzalez",
-                "id": 247981214,
-                "id_str": "247981214",
+                "screen_name": "SilvinaGaitano",
+                "name": "Silvina",
+                "id": 896499007,
+                "id_str": "896499007",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/lEPsRLalGE",
-                "expanded_url": "https://twitter.com/i/web/status/1518497759992684548",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1518487542567301000,
-          "in_reply_to_status_id_str": "1518487542567301120",
-          "in_reply_to_user_id": 247981214,
-          "in_reply_to_user_id_str": "247981214",
-          "in_reply_to_screen_name": "killy1980",
+          "in_reply_to_status_id": 1518522075450945500,
+          "in_reply_to_status_id_str": "1518522075450945536",
+          "in_reply_to_user_id": 896499007,
+          "in_reply_to_user_id_str": "896499007",
+          "in_reply_to_screen_name": "SilvinaGaitano",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8804,8 +8984,8 @@
           }
         },
         "protected": false,
-        "followers_count": 546456,
-        "friends_count": 215250,
+        "followers_count": 546455,
+        "friends_count": 215251,
         "listed_count": 1079,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18599,
@@ -8813,47 +8993,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2524491,
+        "statuses_count": 2524492,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 07:50:52 +0000 2022",
-          "id": 1518497759992684500,
-          "id_str": "1518497759992684548",
-          "text": "@killy1980 Hola Cristian. Por este medio estamos para ayudarte, verificaremos tu mensaje por DM así damos continuid… https://t.co/lEPsRLalGE",
-          "truncated": true,
+          "created_at": "Mon Apr 25 09:31:13 +0000 2022",
+          "id": 1518523011397259300,
+          "id_str": "1518523011397259264",
+          "text": "@SilvinaGaitano Buen día Silvina, indicános por DM el nº de línea y la situación para que podamos abordarlo ^OES",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "killy1980",
-                "name": "cristian gonzalez",
-                "id": 247981214,
-                "id_str": "247981214",
+                "screen_name": "SilvinaGaitano",
+                "name": "Silvina",
+                "id": 896499007,
+                "id_str": "896499007",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/lEPsRLalGE",
-                "expanded_url": "https://twitter.com/i/web/status/1518497759992684548",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1518487542567301000,
-          "in_reply_to_status_id_str": "1518487542567301120",
-          "in_reply_to_user_id": 247981214,
-          "in_reply_to_user_id_str": "247981214",
-          "in_reply_to_screen_name": "killy1980",
+          "in_reply_to_status_id": 1518522075450945500,
+          "in_reply_to_status_id_str": "1518522075450945536",
+          "in_reply_to_user_id": 896499007,
+          "in_reply_to_user_id_str": "896499007",
+          "in_reply_to_screen_name": "SilvinaGaitano",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9128,8 +9298,8 @@
           }
         },
         "protected": false,
-        "followers_count": 546456,
-        "friends_count": 215250,
+        "followers_count": 546455,
+        "friends_count": 215251,
         "listed_count": 1079,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18599,
@@ -9137,47 +9307,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2524491,
+        "statuses_count": 2524492,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 07:50:52 +0000 2022",
-          "id": 1518497759992684500,
-          "id_str": "1518497759992684548",
-          "text": "@killy1980 Hola Cristian. Por este medio estamos para ayudarte, verificaremos tu mensaje por DM así damos continuid… https://t.co/lEPsRLalGE",
-          "truncated": true,
+          "created_at": "Mon Apr 25 09:31:13 +0000 2022",
+          "id": 1518523011397259300,
+          "id_str": "1518523011397259264",
+          "text": "@SilvinaGaitano Buen día Silvina, indicános por DM el nº de línea y la situación para que podamos abordarlo ^OES",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "killy1980",
-                "name": "cristian gonzalez",
-                "id": 247981214,
-                "id_str": "247981214",
+                "screen_name": "SilvinaGaitano",
+                "name": "Silvina",
+                "id": 896499007,
+                "id_str": "896499007",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/lEPsRLalGE",
-                "expanded_url": "https://twitter.com/i/web/status/1518497759992684548",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1518487542567301000,
-          "in_reply_to_status_id_str": "1518487542567301120",
-          "in_reply_to_user_id": 247981214,
-          "in_reply_to_user_id_str": "247981214",
-          "in_reply_to_screen_name": "killy1980",
+          "in_reply_to_status_id": 1518522075450945500,
+          "in_reply_to_status_id_str": "1518522075450945536",
+          "in_reply_to_user_id": 896499007,
+          "in_reply_to_user_id_str": "896499007",
+          "in_reply_to_screen_name": "SilvinaGaitano",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9492,8 +9652,8 @@
           }
         },
         "protected": false,
-        "followers_count": 599956,
-        "friends_count": 249343,
+        "followers_count": 599962,
+        "friends_count": 249344,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -9501,37 +9661,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2072188,
+        "statuses_count": 2072192,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 02:31:03 +0000 2022",
-          "id": 1518417273718988800,
-          "id_str": "1518417273718988800",
-          "text": "@estefipierro Te respondí por DM. 😉",
+          "created_at": "Mon Apr 25 09:59:57 +0000 2022",
+          "id": 1518530244067709000,
+          "id_str": "1518530244067708928",
+          "text": "@LukitaRiver35 Hola @LukitaRiver35 te respondí tu consulta por DM. Saludos.- 😊",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "estefipierro",
-                "name": "Estefania Pierro💚💚💚💚💚💚",
-                "id": 175148006,
-                "id_str": "175148006",
+                "screen_name": "LukitaRiver35",
+                "name": "Lukita Jimenez Carp",
+                "id": 2294480942,
+                "id_str": "2294480942",
                 "indices": [
                   0,
-                  13
+                  14
+                ]
+              },
+              {
+                "screen_name": "LukitaRiver35",
+                "name": "Lukita Jimenez Carp",
+                "id": 2294480942,
+                "id_str": "2294480942",
+                "indices": [
+                  20,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1518415430573912000,
-          "in_reply_to_status_id_str": "1518415430573912065",
-          "in_reply_to_user_id": 175148006,
-          "in_reply_to_user_id_str": "175148006",
-          "in_reply_to_screen_name": "estefipierro",
+          "in_reply_to_status_id": 1518515156497715200,
+          "in_reply_to_status_id_str": "1518515156497715200",
+          "in_reply_to_user_id": 2294480942,
+          "in_reply_to_user_id_str": "2294480942",
+          "in_reply_to_screen_name": "LukitaRiver35",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9782,8 +9952,8 @@
           }
         },
         "protected": false,
-        "followers_count": 599956,
-        "friends_count": 249343,
+        "followers_count": 599962,
+        "friends_count": 249344,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -9791,37 +9961,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2072188,
+        "statuses_count": 2072192,
         "lang": null,
         "status": {
-          "created_at": "Mon Apr 25 02:31:03 +0000 2022",
-          "id": 1518417273718988800,
-          "id_str": "1518417273718988800",
-          "text": "@estefipierro Te respondí por DM. 😉",
+          "created_at": "Mon Apr 25 09:59:57 +0000 2022",
+          "id": 1518530244067709000,
+          "id_str": "1518530244067708928",
+          "text": "@LukitaRiver35 Hola @LukitaRiver35 te respondí tu consulta por DM. Saludos.- 😊",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "estefipierro",
-                "name": "Estefania Pierro💚💚💚💚💚💚",
-                "id": 175148006,
-                "id_str": "175148006",
+                "screen_name": "LukitaRiver35",
+                "name": "Lukita Jimenez Carp",
+                "id": 2294480942,
+                "id_str": "2294480942",
                 "indices": [
                   0,
-                  13
+                  14
+                ]
+              },
+              {
+                "screen_name": "LukitaRiver35",
+                "name": "Lukita Jimenez Carp",
+                "id": 2294480942,
+                "id_str": "2294480942",
+                "indices": [
+                  20,
+                  34
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1518415430573912000,
-          "in_reply_to_status_id_str": "1518415430573912065",
-          "in_reply_to_user_id": 175148006,
-          "in_reply_to_user_id_str": "175148006",
-          "in_reply_to_screen_name": "estefipierro",
+          "in_reply_to_status_id": 1518515156497715200,
+          "in_reply_to_status_id_str": "1518515156497715200",
+          "in_reply_to_user_id": 2294480942,
+          "in_reply_to_user_id_str": "2294480942",
+          "in_reply_to_screen_name": "LukitaRiver35",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -16744,7 +16924,7 @@
           }
         },
         "protected": false,
-        "followers_count": 146858,
+        "followers_count": 146857,
         "friends_count": 10187,
         "listed_count": 298,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -17090,7 +17270,7 @@
           }
         },
         "protected": false,
-        "followers_count": 146858,
+        "followers_count": 146857,
         "friends_count": 10187,
         "listed_count": 298,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -17436,7 +17616,7 @@
           }
         },
         "protected": false,
-        "followers_count": 146858,
+        "followers_count": 146857,
         "friends_count": 10187,
         "listed_count": 298,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -17782,7 +17962,7 @@
           }
         },
         "protected": false,
-        "followers_count": 146858,
+        "followers_count": 146857,
         "friends_count": 10187,
         "listed_count": 298,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -18128,7 +18308,7 @@
           }
         },
         "protected": false,
-        "followers_count": 146858,
+        "followers_count": 146857,
         "friends_count": 10187,
         "listed_count": 298,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -29272,7 +29452,7 @@
           }
         },
         "protected": false,
-        "followers_count": 442997,
+        "followers_count": 442995,
         "friends_count": 37,
         "listed_count": 1202,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -29592,7 +29772,7 @@
           }
         },
         "protected": false,
-        "followers_count": 442997,
+        "followers_count": 442995,
         "friends_count": 37,
         "listed_count": 1202,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -29912,7 +30092,7 @@
           }
         },
         "protected": false,
-        "followers_count": 442997,
+        "followers_count": 442995,
         "friends_count": 37,
         "listed_count": 1202,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -33302,7 +33482,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150062,
+        "followers_count": 150059,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -33633,7 +33813,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150062,
+        "followers_count": 150059,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -33964,7 +34144,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150062,
+        "followers_count": 150059,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -34295,7 +34475,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150062,
+        "followers_count": 150059,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -34626,7 +34806,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150062,
+        "followers_count": 150059,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -34956,7 +35136,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150062,
+        "followers_count": 150059,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -35286,7 +35466,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150062,
+        "followers_count": 150059,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -35616,7 +35796,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183107,
+        "followers_count": 183108,
         "friends_count": 233,
         "listed_count": 109,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -35661,7 +35841,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 1,
-          "favorite_count": 8,
+          "favorite_count": 9,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -35916,7 +36096,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -36262,7 +36442,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -36598,7 +36778,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -36934,7 +37114,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -37270,7 +37450,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -37606,7 +37786,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -37942,7 +38122,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -38278,7 +38458,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -38614,7 +38794,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -38950,7 +39130,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -39276,7 +39456,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -39602,7 +39782,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -39928,7 +40108,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -40264,7 +40444,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14798,
+        "followers_count": 14797,
         "friends_count": 744,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
