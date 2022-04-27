@@ -30,7 +30,7 @@
         },
         "protected": false,
         "followers_count": 150307,
-        "friends_count": 54797,
+        "friends_count": 54798,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -348,7 +348,7 @@
         },
         "protected": false,
         "followers_count": 150307,
-        "friends_count": 54797,
+        "friends_count": 54798,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -666,7 +666,7 @@
         },
         "protected": false,
         "followers_count": 150307,
-        "friends_count": 54797,
+        "friends_count": 54798,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -984,7 +984,7 @@
         },
         "protected": false,
         "followers_count": 150307,
-        "friends_count": 54797,
+        "friends_count": 54798,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1294,7 +1294,7 @@
         },
         "protected": false,
         "followers_count": 150307,
-        "friends_count": 54797,
+        "friends_count": 54798,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1604,7 +1604,7 @@
         },
         "protected": false,
         "followers_count": 150307,
-        "friends_count": 54797,
+        "friends_count": 54798,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1914,7 +1914,7 @@
         },
         "protected": false,
         "followers_count": 150307,
-        "friends_count": 54797,
+        "friends_count": 54798,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -2224,7 +2224,7 @@
         },
         "protected": false,
         "followers_count": 150307,
-        "friends_count": 54797,
+        "friends_count": 54798,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -2534,7 +2534,7 @@
         },
         "protected": false,
         "followers_count": 150307,
-        "friends_count": 54797,
+        "friends_count": 54798,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -2923,46 +2923,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -2972,6 +2991,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -3221,46 +3241,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3270,6 +3309,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -3529,46 +3569,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3578,6 +3637,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -3827,46 +3887,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3876,6 +3955,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -4125,46 +4205,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4174,6 +4273,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -4414,46 +4514,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4463,6 +4582,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -4703,46 +4823,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4752,6 +4891,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -4992,46 +5132,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5041,6 +5200,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -5281,46 +5441,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5330,6 +5509,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -5570,46 +5750,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5619,6 +5818,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -5859,46 +6059,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5908,6 +6127,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -6151,46 +6371,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6200,6 +6439,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -6446,46 +6686,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6495,6 +6754,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -6741,46 +7001,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6790,6 +7069,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -7030,46 +7310,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7079,6 +7378,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -7319,46 +7619,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7368,6 +7687,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -7608,46 +7928,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7657,6 +7996,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -7900,46 +8240,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7949,6 +8308,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -8195,46 +8555,65 @@
           }
         },
         "protected": false,
-        "followers_count": 654006,
-        "friends_count": 316191,
-        "listed_count": 593,
+        "followers_count": 654003,
+        "friends_count": 316192,
+        "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6288,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1024879,
+        "statuses_count": 1024880,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:05:35 +0000 2022",
-          "id": 1519105440562520000,
-          "id_str": "1519105440562520067",
-          "text": "@CelDanon te envié un DM. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:48:10 +0000 2022",
+          "id": 1519116158439510000,
+          "id_str": "1519116158439510016",
+          "text": "@fercastro23 Te invito ingreses a nuestra web https://t.co/eWvKxA7DDL desde allí mismo elegís un plan y ya cargas t… https://t.co/2xYzWptUmt",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "CelDanon",
-                "name": "Celeste Danón",
-                "id": 153394766,
-                "id_str": "153394766",
+                "screen_name": "fercastro23",
+                "name": "Fernando Castro",
+                "id": 130717920,
+                "id_str": "130717920",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/eWvKxA7DDL",
+                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
+                "display_url": "claro.com.ar/personas/porta…",
+                "indices": [
+                  46,
+                  69
+                ]
+              },
+              {
+                "url": "https://t.co/2xYzWptUmt",
+                "expanded_url": "https://twitter.com/i/web/status/1519116158439510016",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1519100833916461000,
-          "in_reply_to_status_id_str": "1519100833916461058",
-          "in_reply_to_user_id": 153394766,
-          "in_reply_to_user_id_str": "153394766",
-          "in_reply_to_screen_name": "CelDanon",
+          "in_reply_to_status_id": 1519115413635977200,
+          "in_reply_to_status_id_str": "1519115413635977217",
+          "in_reply_to_user_id": 130717920,
+          "in_reply_to_user_id_str": "130717920",
+          "in_reply_to_screen_name": "fercastro23",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8244,6 +8623,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -8480,8 +8860,8 @@
           }
         },
         "protected": false,
-        "followers_count": 546626,
-        "friends_count": 215244,
+        "followers_count": 546624,
+        "friends_count": 215245,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18599,
@@ -8489,47 +8869,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2524951,
+        "statuses_count": 2524966,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:13:38 +0000 2022",
-          "id": 1519107465576599600,
-          "id_str": "1519107465576599557",
-          "text": "@Romi_dgre Hola, Romi! Por favor, envíanos un mensaje directo para revisar lo que nos mencionás. Queremos ayudarte… https://t.co/7cHU7Ay42I",
-          "truncated": true,
+          "created_at": "Wed Apr 27 01:18:10 +0000 2022",
+          "id": 1519123707154866200,
+          "id_str": "1519123707154866176",
+          "text": "@FakuTou Faku te respondimos por ese medio. ¡Saludos!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Romi_dgre",
-                "name": "Romi",
-                "id": 906941827433017300,
-                "id_str": "906941827433017344",
+                "screen_name": "FakuTou",
+                "name": "iFaku",
+                "id": 129661341,
+                "id_str": "129661341",
                 "indices": [
                   0,
-                  10
+                  8
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/7cHU7Ay42I",
-                "expanded_url": "https://twitter.com/i/web/status/1519107465576599557",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1519106615819272200,
-          "in_reply_to_status_id_str": "1519106615819272197",
-          "in_reply_to_user_id": 906941827433017300,
-          "in_reply_to_user_id_str": "906941827433017344",
-          "in_reply_to_screen_name": "Romi_dgre",
+          "in_reply_to_status_id": 1519119736109338600,
+          "in_reply_to_status_id_str": "1519119736109338624",
+          "in_reply_to_user_id": 129661341,
+          "in_reply_to_user_id_str": "129661341",
+          "in_reply_to_screen_name": "FakuTou",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8804,8 +9174,8 @@
           }
         },
         "protected": false,
-        "followers_count": 546626,
-        "friends_count": 215244,
+        "followers_count": 546624,
+        "friends_count": 215245,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18599,
@@ -8813,47 +9183,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2524951,
+        "statuses_count": 2524966,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:13:38 +0000 2022",
-          "id": 1519107465576599600,
-          "id_str": "1519107465576599557",
-          "text": "@Romi_dgre Hola, Romi! Por favor, envíanos un mensaje directo para revisar lo que nos mencionás. Queremos ayudarte… https://t.co/7cHU7Ay42I",
-          "truncated": true,
+          "created_at": "Wed Apr 27 01:18:10 +0000 2022",
+          "id": 1519123707154866200,
+          "id_str": "1519123707154866176",
+          "text": "@FakuTou Faku te respondimos por ese medio. ¡Saludos!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Romi_dgre",
-                "name": "Romi",
-                "id": 906941827433017300,
-                "id_str": "906941827433017344",
+                "screen_name": "FakuTou",
+                "name": "iFaku",
+                "id": 129661341,
+                "id_str": "129661341",
                 "indices": [
                   0,
-                  10
+                  8
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/7cHU7Ay42I",
-                "expanded_url": "https://twitter.com/i/web/status/1519107465576599557",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1519106615819272200,
-          "in_reply_to_status_id_str": "1519106615819272197",
-          "in_reply_to_user_id": 906941827433017300,
-          "in_reply_to_user_id_str": "906941827433017344",
-          "in_reply_to_screen_name": "Romi_dgre",
+          "in_reply_to_status_id": 1519119736109338600,
+          "in_reply_to_status_id_str": "1519119736109338624",
+          "in_reply_to_user_id": 129661341,
+          "in_reply_to_user_id_str": "129661341",
+          "in_reply_to_screen_name": "FakuTou",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9128,8 +9488,8 @@
           }
         },
         "protected": false,
-        "followers_count": 546626,
-        "friends_count": 215244,
+        "followers_count": 546624,
+        "friends_count": 215245,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18599,
@@ -9137,47 +9497,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2524951,
+        "statuses_count": 2524966,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:13:38 +0000 2022",
-          "id": 1519107465576599600,
-          "id_str": "1519107465576599557",
-          "text": "@Romi_dgre Hola, Romi! Por favor, envíanos un mensaje directo para revisar lo que nos mencionás. Queremos ayudarte… https://t.co/7cHU7Ay42I",
-          "truncated": true,
+          "created_at": "Wed Apr 27 01:18:10 +0000 2022",
+          "id": 1519123707154866200,
+          "id_str": "1519123707154866176",
+          "text": "@FakuTou Faku te respondimos por ese medio. ¡Saludos!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Romi_dgre",
-                "name": "Romi",
-                "id": 906941827433017300,
-                "id_str": "906941827433017344",
+                "screen_name": "FakuTou",
+                "name": "iFaku",
+                "id": 129661341,
+                "id_str": "129661341",
                 "indices": [
                   0,
-                  10
+                  8
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/7cHU7Ay42I",
-                "expanded_url": "https://twitter.com/i/web/status/1519107465576599557",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1519106615819272200,
-          "in_reply_to_status_id_str": "1519106615819272197",
-          "in_reply_to_user_id": 906941827433017300,
-          "in_reply_to_user_id_str": "906941827433017344",
-          "in_reply_to_screen_name": "Romi_dgre",
+          "in_reply_to_status_id": 1519119736109338600,
+          "in_reply_to_status_id_str": "1519119736109338624",
+          "in_reply_to_user_id": 129661341,
+          "in_reply_to_user_id_str": "129661341",
+          "in_reply_to_screen_name": "FakuTou",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9492,8 +9842,8 @@
           }
         },
         "protected": false,
-        "followers_count": 600179,
-        "friends_count": 249665,
+        "followers_count": 600187,
+        "friends_count": 249682,
         "listed_count": 795,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -9501,37 +9851,37 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2072606,
+        "statuses_count": 2072620,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:14:47 +0000 2022",
-          "id": 1519107755495329800,
-          "id_str": "1519107755495329792",
-          "text": "@vhbenitez_a Hola, ¡te respondí por DM! Lo seguimos por ahí. Saludos",
+          "created_at": "Wed Apr 27 01:24:48 +0000 2022",
+          "id": 1519125375040823300,
+          "id_str": "1519125375040823296",
+          "text": "@myylumeedina ¡Buenas noches! Mi nombre es Lara y es un gusto atenderte. Te espero por privado,",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "vhbenitez_a",
-                "name": "Víctor Hugo Benítez Angelone",
-                "id": 145033341,
-                "id_str": "145033341",
+                "screen_name": "myylumeedina",
+                "name": "Eve Medina⭐❤🖤",
+                "id": 2478815900,
+                "id_str": "2478815900",
                 "indices": [
                   0,
-                  12
+                  13
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1519107422832504800,
-          "in_reply_to_status_id_str": "1519107422832504837",
-          "in_reply_to_user_id": 145033341,
-          "in_reply_to_user_id_str": "145033341",
-          "in_reply_to_screen_name": "vhbenitez_a",
+          "in_reply_to_status_id": 1519120353095729200,
+          "in_reply_to_status_id_str": "1519120353095729155",
+          "in_reply_to_user_id": 2478815900,
+          "in_reply_to_user_id_str": "2478815900",
+          "in_reply_to_screen_name": "myylumeedina",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9782,8 +10132,8 @@
           }
         },
         "protected": false,
-        "followers_count": 600179,
-        "friends_count": 249665,
+        "followers_count": 600187,
+        "friends_count": 249682,
         "listed_count": 795,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -9791,37 +10141,37 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2072606,
+        "statuses_count": 2072620,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:14:47 +0000 2022",
-          "id": 1519107755495329800,
-          "id_str": "1519107755495329792",
-          "text": "@vhbenitez_a Hola, ¡te respondí por DM! Lo seguimos por ahí. Saludos",
+          "created_at": "Wed Apr 27 01:24:48 +0000 2022",
+          "id": 1519125375040823300,
+          "id_str": "1519125375040823296",
+          "text": "@myylumeedina ¡Buenas noches! Mi nombre es Lara y es un gusto atenderte. Te espero por privado,",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "vhbenitez_a",
-                "name": "Víctor Hugo Benítez Angelone",
-                "id": 145033341,
-                "id_str": "145033341",
+                "screen_name": "myylumeedina",
+                "name": "Eve Medina⭐❤🖤",
+                "id": 2478815900,
+                "id_str": "2478815900",
                 "indices": [
                   0,
-                  12
+                  13
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1519107422832504800,
-          "in_reply_to_status_id_str": "1519107422832504837",
-          "in_reply_to_user_id": 145033341,
-          "in_reply_to_user_id_str": "145033341",
-          "in_reply_to_screen_name": "vhbenitez_a",
+          "in_reply_to_status_id": 1519120353095729200,
+          "in_reply_to_status_id_str": "1519120353095729155",
+          "in_reply_to_user_id": 2478815900,
+          "in_reply_to_user_id_str": "2478815900",
+          "in_reply_to_screen_name": "myylumeedina",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -10784,7 +11134,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50436,
+        "followers_count": 50438,
         "friends_count": 52,
         "listed_count": 63,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -11150,7 +11500,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50436,
+        "followers_count": 50438,
         "friends_count": 52,
         "listed_count": 63,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -11516,7 +11866,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50436,
+        "followers_count": 50438,
         "friends_count": 52,
         "listed_count": 63,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -11882,7 +12232,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50436,
+        "followers_count": 50438,
         "friends_count": 52,
         "listed_count": 63,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -16365,47 +16715,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 69365,
+        "statuses_count": 69366,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:17:00 +0000 2022",
-          "id": 1519108313144832000,
-          "id_str": "1519108313144832000",
-          "text": "@Beto44411770 Hola, @Beto44411770. Te respondimos por DM.",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:28:41 +0000 2022",
+          "id": 1519111255906300000,
+          "id_str": "1519111255906299904",
+          "text": "@Camilo Hola, @Camilo. Te escribimos por privado para continuar con tu consulta. Aprovechamos para recordarte que p… https://t.co/wOofMwIP5M",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Beto44411770",
-                "name": "Beto",
-                "id": 1477795174537433000,
-                "id_str": "1477795174537433089",
+                "screen_name": "Camilo",
+                "name": "Cristian Camilo",
+                "id": 97805005,
+                "id_str": "97805005",
                 "indices": [
                   0,
-                  13
+                  7
                 ]
               },
               {
-                "screen_name": "Beto44411770",
-                "name": "Beto",
-                "id": 1477795174537433000,
-                "id_str": "1477795174537433089",
+                "screen_name": "Camilo",
+                "name": "Cristian Camilo",
+                "id": 97805005,
+                "id_str": "97805005",
                 "indices": [
-                  20,
-                  33
+                  14,
+                  21
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/wOofMwIP5M",
+                "expanded_url": "https://twitter.com/i/web/status/1519111255906299904",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1519107258101158000,
-          "in_reply_to_status_id_str": "1519107258101157889",
-          "in_reply_to_user_id": 1477795174537433000,
-          "in_reply_to_user_id_str": "1477795174537433089",
-          "in_reply_to_screen_name": "Beto44411770",
+          "in_reply_to_status_id": 1519110823775543300,
+          "in_reply_to_status_id_str": "1519110823775543296",
+          "in_reply_to_user_id": 97805005,
+          "in_reply_to_user_id_str": "97805005",
+          "in_reply_to_screen_name": "Camilo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -16731,47 +17091,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 69365,
+        "statuses_count": 69366,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:17:00 +0000 2022",
-          "id": 1519108313144832000,
-          "id_str": "1519108313144832000",
-          "text": "@Beto44411770 Hola, @Beto44411770. Te respondimos por DM.",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:28:41 +0000 2022",
+          "id": 1519111255906300000,
+          "id_str": "1519111255906299904",
+          "text": "@Camilo Hola, @Camilo. Te escribimos por privado para continuar con tu consulta. Aprovechamos para recordarte que p… https://t.co/wOofMwIP5M",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Beto44411770",
-                "name": "Beto",
-                "id": 1477795174537433000,
-                "id_str": "1477795174537433089",
+                "screen_name": "Camilo",
+                "name": "Cristian Camilo",
+                "id": 97805005,
+                "id_str": "97805005",
                 "indices": [
                   0,
-                  13
+                  7
                 ]
               },
               {
-                "screen_name": "Beto44411770",
-                "name": "Beto",
-                "id": 1477795174537433000,
-                "id_str": "1477795174537433089",
+                "screen_name": "Camilo",
+                "name": "Cristian Camilo",
+                "id": 97805005,
+                "id_str": "97805005",
                 "indices": [
-                  20,
-                  33
+                  14,
+                  21
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/wOofMwIP5M",
+                "expanded_url": "https://twitter.com/i/web/status/1519111255906299904",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1519107258101158000,
-          "in_reply_to_status_id_str": "1519107258101157889",
-          "in_reply_to_user_id": 1477795174537433000,
-          "in_reply_to_user_id_str": "1477795174537433089",
-          "in_reply_to_screen_name": "Beto44411770",
+          "in_reply_to_status_id": 1519110823775543300,
+          "in_reply_to_status_id_str": "1519110823775543296",
+          "in_reply_to_user_id": 97805005,
+          "in_reply_to_user_id_str": "97805005",
+          "in_reply_to_screen_name": "Camilo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -17097,47 +17467,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 69365,
+        "statuses_count": 69366,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:17:00 +0000 2022",
-          "id": 1519108313144832000,
-          "id_str": "1519108313144832000",
-          "text": "@Beto44411770 Hola, @Beto44411770. Te respondimos por DM.",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:28:41 +0000 2022",
+          "id": 1519111255906300000,
+          "id_str": "1519111255906299904",
+          "text": "@Camilo Hola, @Camilo. Te escribimos por privado para continuar con tu consulta. Aprovechamos para recordarte que p… https://t.co/wOofMwIP5M",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Beto44411770",
-                "name": "Beto",
-                "id": 1477795174537433000,
-                "id_str": "1477795174537433089",
+                "screen_name": "Camilo",
+                "name": "Cristian Camilo",
+                "id": 97805005,
+                "id_str": "97805005",
                 "indices": [
                   0,
-                  13
+                  7
                 ]
               },
               {
-                "screen_name": "Beto44411770",
-                "name": "Beto",
-                "id": 1477795174537433000,
-                "id_str": "1477795174537433089",
+                "screen_name": "Camilo",
+                "name": "Cristian Camilo",
+                "id": 97805005,
+                "id_str": "97805005",
                 "indices": [
-                  20,
-                  33
+                  14,
+                  21
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/wOofMwIP5M",
+                "expanded_url": "https://twitter.com/i/web/status/1519111255906299904",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1519107258101158000,
-          "in_reply_to_status_id_str": "1519107258101157889",
-          "in_reply_to_user_id": 1477795174537433000,
-          "in_reply_to_user_id_str": "1477795174537433089",
-          "in_reply_to_screen_name": "Beto44411770",
+          "in_reply_to_status_id": 1519110823775543300,
+          "in_reply_to_status_id_str": "1519110823775543296",
+          "in_reply_to_user_id": 97805005,
+          "in_reply_to_user_id_str": "97805005",
+          "in_reply_to_screen_name": "Camilo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -17463,47 +17843,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 69365,
+        "statuses_count": 69366,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:17:00 +0000 2022",
-          "id": 1519108313144832000,
-          "id_str": "1519108313144832000",
-          "text": "@Beto44411770 Hola, @Beto44411770. Te respondimos por DM.",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:28:41 +0000 2022",
+          "id": 1519111255906300000,
+          "id_str": "1519111255906299904",
+          "text": "@Camilo Hola, @Camilo. Te escribimos por privado para continuar con tu consulta. Aprovechamos para recordarte que p… https://t.co/wOofMwIP5M",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Beto44411770",
-                "name": "Beto",
-                "id": 1477795174537433000,
-                "id_str": "1477795174537433089",
+                "screen_name": "Camilo",
+                "name": "Cristian Camilo",
+                "id": 97805005,
+                "id_str": "97805005",
                 "indices": [
                   0,
-                  13
+                  7
                 ]
               },
               {
-                "screen_name": "Beto44411770",
-                "name": "Beto",
-                "id": 1477795174537433000,
-                "id_str": "1477795174537433089",
+                "screen_name": "Camilo",
+                "name": "Cristian Camilo",
+                "id": 97805005,
+                "id_str": "97805005",
                 "indices": [
-                  20,
-                  33
+                  14,
+                  21
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/wOofMwIP5M",
+                "expanded_url": "https://twitter.com/i/web/status/1519111255906299904",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1519107258101158000,
-          "in_reply_to_status_id_str": "1519107258101157889",
-          "in_reply_to_user_id": 1477795174537433000,
-          "in_reply_to_user_id_str": "1477795174537433089",
-          "in_reply_to_screen_name": "Beto44411770",
+          "in_reply_to_status_id": 1519110823775543300,
+          "in_reply_to_status_id_str": "1519110823775543296",
+          "in_reply_to_user_id": 97805005,
+          "in_reply_to_user_id_str": "97805005",
+          "in_reply_to_screen_name": "Camilo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -17829,47 +18219,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 69365,
+        "statuses_count": 69366,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:17:00 +0000 2022",
-          "id": 1519108313144832000,
-          "id_str": "1519108313144832000",
-          "text": "@Beto44411770 Hola, @Beto44411770. Te respondimos por DM.",
-          "truncated": false,
+          "created_at": "Wed Apr 27 00:28:41 +0000 2022",
+          "id": 1519111255906300000,
+          "id_str": "1519111255906299904",
+          "text": "@Camilo Hola, @Camilo. Te escribimos por privado para continuar con tu consulta. Aprovechamos para recordarte que p… https://t.co/wOofMwIP5M",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Beto44411770",
-                "name": "Beto",
-                "id": 1477795174537433000,
-                "id_str": "1477795174537433089",
+                "screen_name": "Camilo",
+                "name": "Cristian Camilo",
+                "id": 97805005,
+                "id_str": "97805005",
                 "indices": [
                   0,
-                  13
+                  7
                 ]
               },
               {
-                "screen_name": "Beto44411770",
-                "name": "Beto",
-                "id": 1477795174537433000,
-                "id_str": "1477795174537433089",
+                "screen_name": "Camilo",
+                "name": "Cristian Camilo",
+                "id": 97805005,
+                "id_str": "97805005",
                 "indices": [
-                  20,
-                  33
+                  14,
+                  21
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/wOofMwIP5M",
+                "expanded_url": "https://twitter.com/i/web/status/1519111255906299904",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1519107258101158000,
-          "in_reply_to_status_id_str": "1519107258101157889",
-          "in_reply_to_user_id": 1477795174537433000,
-          "in_reply_to_user_id_str": "1477795174537433089",
-          "in_reply_to_screen_name": "Beto44411770",
+          "in_reply_to_status_id": 1519110823775543300,
+          "in_reply_to_status_id_str": "1519110823775543296",
+          "in_reply_to_user_id": 97805005,
+          "in_reply_to_user_id_str": "97805005",
+          "in_reply_to_screen_name": "Camilo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -18187,7 +18587,7 @@
         },
         "protected": false,
         "followers_count": 158227,
-        "friends_count": 16184,
+        "friends_count": 16185,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -18543,7 +18943,7 @@
         },
         "protected": false,
         "followers_count": 158227,
-        "friends_count": 16184,
+        "friends_count": 16185,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -18889,7 +19289,7 @@
         },
         "protected": false,
         "followers_count": 158227,
-        "friends_count": 16184,
+        "friends_count": 16185,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -19235,7 +19635,7 @@
         },
         "protected": false,
         "followers_count": 158227,
-        "friends_count": 16184,
+        "friends_count": 16185,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -19581,7 +19981,7 @@
         },
         "protected": false,
         "followers_count": 158227,
-        "friends_count": 16184,
+        "friends_count": 16185,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -29490,9 +29890,9 @@
           }
         },
         "protected": false,
-        "followers_count": 443175,
+        "followers_count": 443186,
         "friends_count": 37,
-        "listed_count": 1205,
+        "listed_count": 1204,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
         "favourites_count": 12520,
         "utc_offset": null,
@@ -29810,9 +30210,9 @@
           }
         },
         "protected": false,
-        "followers_count": 443175,
+        "followers_count": 443186,
         "friends_count": 37,
-        "listed_count": 1205,
+        "listed_count": 1204,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
         "favourites_count": 12520,
         "utc_offset": null,
@@ -30130,9 +30530,9 @@
           }
         },
         "protected": false,
-        "followers_count": 443175,
+        "followers_count": 443186,
         "friends_count": 37,
-        "listed_count": 1205,
+        "listed_count": 1204,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
         "favourites_count": 12520,
         "utc_offset": null,
@@ -30440,7 +30840,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -30747,7 +31147,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -31054,7 +31454,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -31361,7 +31761,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -31668,7 +32068,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -31975,7 +32375,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -32310,7 +32710,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -32645,7 +33045,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -32980,7 +33380,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -33287,7 +33687,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -33594,7 +33994,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -33901,7 +34301,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -34208,7 +34608,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -34515,7 +34915,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -34850,7 +35250,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -35185,7 +35585,7 @@
           }
         },
         "protected": false,
-        "followers_count": 93756,
+        "followers_count": 93760,
         "friends_count": 105,
         "listed_count": 159,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -35530,7 +35930,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150136,
+        "followers_count": 150139,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -35539,43 +35939,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165261,
+        "statuses_count": 165264,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:15:08 +0000 2022",
-          "id": 1519107845647650800,
-          "id_str": "1519107845647650817",
-          "text": "@lauragadea917 @LucioFiorotto Hola.\n\nPara asesorarte con lo que nos decís, te pedimos que nos envíes tu usuario y/o… https://t.co/4VsZJVh4fO",
+          "created_at": "Wed Apr 27 01:11:18 +0000 2022",
+          "id": 1519121977507782700,
+          "id_str": "1519121977507782656",
+          "text": "@ana_m12345 @ML_Argentina Hola, ¿podrías detallarnos a qué te referís con \"pesos percibidos indebidamente\"? Danos m… https://t.co/l2kI7aujem",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lauragadea917",
-                "name": "lau Caí",
-                "id": 1309334837908648000,
-                "id_str": "1309334837908647936",
+                "screen_name": "ana_m12345",
+                "name": "Ana.",
+                "id": 974498616818786300,
+                "id_str": "974498616818786304",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               },
               {
-                "screen_name": "LucioFiorotto",
-                "name": "Lucio Gabriel",
-                "id": 480983868,
-                "id_str": "480983868",
+                "screen_name": "ML_Argentina",
+                "name": "Mercado Libre Argentina",
+                "id": 716757318,
+                "id_str": "716757318",
                 "indices": [
-                  15,
-                  29
+                  12,
+                  25
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/4VsZJVh4fO",
-                "expanded_url": "https://twitter.com/i/web/status/1519107845647650817",
+                "url": "https://t.co/l2kI7aujem",
+                "expanded_url": "https://twitter.com/i/web/status/1519121977507782656",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -35585,11 +35985,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1519107160394842000,
-          "in_reply_to_status_id_str": "1519107160394842114",
-          "in_reply_to_user_id": 1309334837908648000,
-          "in_reply_to_user_id_str": "1309334837908647936",
-          "in_reply_to_screen_name": "lauragadea917",
+          "in_reply_to_status_id": 1519117778912915500,
+          "in_reply_to_status_id_str": "1519117778912915456",
+          "in_reply_to_user_id": 974498616818786300,
+          "in_reply_to_user_id_str": "974498616818786304",
+          "in_reply_to_screen_name": "ana_m12345",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -35861,7 +36261,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150136,
+        "followers_count": 150139,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -35870,43 +36270,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165261,
+        "statuses_count": 165264,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:15:08 +0000 2022",
-          "id": 1519107845647650800,
-          "id_str": "1519107845647650817",
-          "text": "@lauragadea917 @LucioFiorotto Hola.\n\nPara asesorarte con lo que nos decís, te pedimos que nos envíes tu usuario y/o… https://t.co/4VsZJVh4fO",
+          "created_at": "Wed Apr 27 01:11:18 +0000 2022",
+          "id": 1519121977507782700,
+          "id_str": "1519121977507782656",
+          "text": "@ana_m12345 @ML_Argentina Hola, ¿podrías detallarnos a qué te referís con \"pesos percibidos indebidamente\"? Danos m… https://t.co/l2kI7aujem",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lauragadea917",
-                "name": "lau Caí",
-                "id": 1309334837908648000,
-                "id_str": "1309334837908647936",
+                "screen_name": "ana_m12345",
+                "name": "Ana.",
+                "id": 974498616818786300,
+                "id_str": "974498616818786304",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               },
               {
-                "screen_name": "LucioFiorotto",
-                "name": "Lucio Gabriel",
-                "id": 480983868,
-                "id_str": "480983868",
+                "screen_name": "ML_Argentina",
+                "name": "Mercado Libre Argentina",
+                "id": 716757318,
+                "id_str": "716757318",
                 "indices": [
-                  15,
-                  29
+                  12,
+                  25
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/4VsZJVh4fO",
-                "expanded_url": "https://twitter.com/i/web/status/1519107845647650817",
+                "url": "https://t.co/l2kI7aujem",
+                "expanded_url": "https://twitter.com/i/web/status/1519121977507782656",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -35916,11 +36316,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1519107160394842000,
-          "in_reply_to_status_id_str": "1519107160394842114",
-          "in_reply_to_user_id": 1309334837908648000,
-          "in_reply_to_user_id_str": "1309334837908647936",
-          "in_reply_to_screen_name": "lauragadea917",
+          "in_reply_to_status_id": 1519117778912915500,
+          "in_reply_to_status_id_str": "1519117778912915456",
+          "in_reply_to_user_id": 974498616818786300,
+          "in_reply_to_user_id_str": "974498616818786304",
+          "in_reply_to_screen_name": "ana_m12345",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -36192,7 +36592,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150136,
+        "followers_count": 150139,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -36201,43 +36601,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165261,
+        "statuses_count": 165264,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:15:08 +0000 2022",
-          "id": 1519107845647650800,
-          "id_str": "1519107845647650817",
-          "text": "@lauragadea917 @LucioFiorotto Hola.\n\nPara asesorarte con lo que nos decís, te pedimos que nos envíes tu usuario y/o… https://t.co/4VsZJVh4fO",
+          "created_at": "Wed Apr 27 01:11:18 +0000 2022",
+          "id": 1519121977507782700,
+          "id_str": "1519121977507782656",
+          "text": "@ana_m12345 @ML_Argentina Hola, ¿podrías detallarnos a qué te referís con \"pesos percibidos indebidamente\"? Danos m… https://t.co/l2kI7aujem",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lauragadea917",
-                "name": "lau Caí",
-                "id": 1309334837908648000,
-                "id_str": "1309334837908647936",
+                "screen_name": "ana_m12345",
+                "name": "Ana.",
+                "id": 974498616818786300,
+                "id_str": "974498616818786304",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               },
               {
-                "screen_name": "LucioFiorotto",
-                "name": "Lucio Gabriel",
-                "id": 480983868,
-                "id_str": "480983868",
+                "screen_name": "ML_Argentina",
+                "name": "Mercado Libre Argentina",
+                "id": 716757318,
+                "id_str": "716757318",
                 "indices": [
-                  15,
-                  29
+                  12,
+                  25
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/4VsZJVh4fO",
-                "expanded_url": "https://twitter.com/i/web/status/1519107845647650817",
+                "url": "https://t.co/l2kI7aujem",
+                "expanded_url": "https://twitter.com/i/web/status/1519121977507782656",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -36247,11 +36647,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1519107160394842000,
-          "in_reply_to_status_id_str": "1519107160394842114",
-          "in_reply_to_user_id": 1309334837908648000,
-          "in_reply_to_user_id_str": "1309334837908647936",
-          "in_reply_to_screen_name": "lauragadea917",
+          "in_reply_to_status_id": 1519117778912915500,
+          "in_reply_to_status_id_str": "1519117778912915456",
+          "in_reply_to_user_id": 974498616818786300,
+          "in_reply_to_user_id_str": "974498616818786304",
+          "in_reply_to_screen_name": "ana_m12345",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -36523,7 +36923,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150136,
+        "followers_count": 150139,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -36532,43 +36932,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165261,
+        "statuses_count": 165264,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:15:08 +0000 2022",
-          "id": 1519107845647650800,
-          "id_str": "1519107845647650817",
-          "text": "@lauragadea917 @LucioFiorotto Hola.\n\nPara asesorarte con lo que nos decís, te pedimos que nos envíes tu usuario y/o… https://t.co/4VsZJVh4fO",
+          "created_at": "Wed Apr 27 01:11:18 +0000 2022",
+          "id": 1519121977507782700,
+          "id_str": "1519121977507782656",
+          "text": "@ana_m12345 @ML_Argentina Hola, ¿podrías detallarnos a qué te referís con \"pesos percibidos indebidamente\"? Danos m… https://t.co/l2kI7aujem",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lauragadea917",
-                "name": "lau Caí",
-                "id": 1309334837908648000,
-                "id_str": "1309334837908647936",
+                "screen_name": "ana_m12345",
+                "name": "Ana.",
+                "id": 974498616818786300,
+                "id_str": "974498616818786304",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               },
               {
-                "screen_name": "LucioFiorotto",
-                "name": "Lucio Gabriel",
-                "id": 480983868,
-                "id_str": "480983868",
+                "screen_name": "ML_Argentina",
+                "name": "Mercado Libre Argentina",
+                "id": 716757318,
+                "id_str": "716757318",
                 "indices": [
-                  15,
-                  29
+                  12,
+                  25
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/4VsZJVh4fO",
-                "expanded_url": "https://twitter.com/i/web/status/1519107845647650817",
+                "url": "https://t.co/l2kI7aujem",
+                "expanded_url": "https://twitter.com/i/web/status/1519121977507782656",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -36578,11 +36978,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1519107160394842000,
-          "in_reply_to_status_id_str": "1519107160394842114",
-          "in_reply_to_user_id": 1309334837908648000,
-          "in_reply_to_user_id_str": "1309334837908647936",
-          "in_reply_to_screen_name": "lauragadea917",
+          "in_reply_to_status_id": 1519117778912915500,
+          "in_reply_to_status_id_str": "1519117778912915456",
+          "in_reply_to_user_id": 974498616818786300,
+          "in_reply_to_user_id_str": "974498616818786304",
+          "in_reply_to_screen_name": "ana_m12345",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -36854,7 +37254,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150136,
+        "followers_count": 150139,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -36863,43 +37263,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165261,
+        "statuses_count": 165264,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:15:08 +0000 2022",
-          "id": 1519107845647650800,
-          "id_str": "1519107845647650817",
-          "text": "@lauragadea917 @LucioFiorotto Hola.\n\nPara asesorarte con lo que nos decís, te pedimos que nos envíes tu usuario y/o… https://t.co/4VsZJVh4fO",
+          "created_at": "Wed Apr 27 01:11:18 +0000 2022",
+          "id": 1519121977507782700,
+          "id_str": "1519121977507782656",
+          "text": "@ana_m12345 @ML_Argentina Hola, ¿podrías detallarnos a qué te referís con \"pesos percibidos indebidamente\"? Danos m… https://t.co/l2kI7aujem",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lauragadea917",
-                "name": "lau Caí",
-                "id": 1309334837908648000,
-                "id_str": "1309334837908647936",
+                "screen_name": "ana_m12345",
+                "name": "Ana.",
+                "id": 974498616818786300,
+                "id_str": "974498616818786304",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               },
               {
-                "screen_name": "LucioFiorotto",
-                "name": "Lucio Gabriel",
-                "id": 480983868,
-                "id_str": "480983868",
+                "screen_name": "ML_Argentina",
+                "name": "Mercado Libre Argentina",
+                "id": 716757318,
+                "id_str": "716757318",
                 "indices": [
-                  15,
-                  29
+                  12,
+                  25
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/4VsZJVh4fO",
-                "expanded_url": "https://twitter.com/i/web/status/1519107845647650817",
+                "url": "https://t.co/l2kI7aujem",
+                "expanded_url": "https://twitter.com/i/web/status/1519121977507782656",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -36909,11 +37309,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1519107160394842000,
-          "in_reply_to_status_id_str": "1519107160394842114",
-          "in_reply_to_user_id": 1309334837908648000,
-          "in_reply_to_user_id_str": "1309334837908647936",
-          "in_reply_to_screen_name": "lauragadea917",
+          "in_reply_to_status_id": 1519117778912915500,
+          "in_reply_to_status_id_str": "1519117778912915456",
+          "in_reply_to_user_id": 974498616818786300,
+          "in_reply_to_user_id_str": "974498616818786304",
+          "in_reply_to_screen_name": "ana_m12345",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -37184,7 +37584,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150136,
+        "followers_count": 150139,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -37193,43 +37593,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165261,
+        "statuses_count": 165264,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:15:08 +0000 2022",
-          "id": 1519107845647650800,
-          "id_str": "1519107845647650817",
-          "text": "@lauragadea917 @LucioFiorotto Hola.\n\nPara asesorarte con lo que nos decís, te pedimos que nos envíes tu usuario y/o… https://t.co/4VsZJVh4fO",
+          "created_at": "Wed Apr 27 01:11:18 +0000 2022",
+          "id": 1519121977507782700,
+          "id_str": "1519121977507782656",
+          "text": "@ana_m12345 @ML_Argentina Hola, ¿podrías detallarnos a qué te referís con \"pesos percibidos indebidamente\"? Danos m… https://t.co/l2kI7aujem",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lauragadea917",
-                "name": "lau Caí",
-                "id": 1309334837908648000,
-                "id_str": "1309334837908647936",
+                "screen_name": "ana_m12345",
+                "name": "Ana.",
+                "id": 974498616818786300,
+                "id_str": "974498616818786304",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               },
               {
-                "screen_name": "LucioFiorotto",
-                "name": "Lucio Gabriel",
-                "id": 480983868,
-                "id_str": "480983868",
+                "screen_name": "ML_Argentina",
+                "name": "Mercado Libre Argentina",
+                "id": 716757318,
+                "id_str": "716757318",
                 "indices": [
-                  15,
-                  29
+                  12,
+                  25
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/4VsZJVh4fO",
-                "expanded_url": "https://twitter.com/i/web/status/1519107845647650817",
+                "url": "https://t.co/l2kI7aujem",
+                "expanded_url": "https://twitter.com/i/web/status/1519121977507782656",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -37239,11 +37639,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1519107160394842000,
-          "in_reply_to_status_id_str": "1519107160394842114",
-          "in_reply_to_user_id": 1309334837908648000,
-          "in_reply_to_user_id_str": "1309334837908647936",
-          "in_reply_to_screen_name": "lauragadea917",
+          "in_reply_to_status_id": 1519117778912915500,
+          "in_reply_to_status_id_str": "1519117778912915456",
+          "in_reply_to_user_id": 974498616818786300,
+          "in_reply_to_user_id_str": "974498616818786304",
+          "in_reply_to_screen_name": "ana_m12345",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -37514,7 +37914,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150136,
+        "followers_count": 150139,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -37523,43 +37923,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165261,
+        "statuses_count": 165264,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:15:08 +0000 2022",
-          "id": 1519107845647650800,
-          "id_str": "1519107845647650817",
-          "text": "@lauragadea917 @LucioFiorotto Hola.\n\nPara asesorarte con lo que nos decís, te pedimos que nos envíes tu usuario y/o… https://t.co/4VsZJVh4fO",
+          "created_at": "Wed Apr 27 01:11:18 +0000 2022",
+          "id": 1519121977507782700,
+          "id_str": "1519121977507782656",
+          "text": "@ana_m12345 @ML_Argentina Hola, ¿podrías detallarnos a qué te referís con \"pesos percibidos indebidamente\"? Danos m… https://t.co/l2kI7aujem",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lauragadea917",
-                "name": "lau Caí",
-                "id": 1309334837908648000,
-                "id_str": "1309334837908647936",
+                "screen_name": "ana_m12345",
+                "name": "Ana.",
+                "id": 974498616818786300,
+                "id_str": "974498616818786304",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               },
               {
-                "screen_name": "LucioFiorotto",
-                "name": "Lucio Gabriel",
-                "id": 480983868,
-                "id_str": "480983868",
+                "screen_name": "ML_Argentina",
+                "name": "Mercado Libre Argentina",
+                "id": 716757318,
+                "id_str": "716757318",
                 "indices": [
-                  15,
-                  29
+                  12,
+                  25
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/4VsZJVh4fO",
-                "expanded_url": "https://twitter.com/i/web/status/1519107845647650817",
+                "url": "https://t.co/l2kI7aujem",
+                "expanded_url": "https://twitter.com/i/web/status/1519121977507782656",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -37569,11 +37969,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1519107160394842000,
-          "in_reply_to_status_id_str": "1519107160394842114",
-          "in_reply_to_user_id": 1309334837908648000,
-          "in_reply_to_user_id_str": "1309334837908647936",
-          "in_reply_to_screen_name": "lauragadea917",
+          "in_reply_to_status_id": 1519117778912915500,
+          "in_reply_to_status_id_str": "1519117778912915456",
+          "in_reply_to_user_id": 974498616818786300,
+          "in_reply_to_user_id_str": "974498616818786304",
+          "in_reply_to_screen_name": "ana_m12345",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -37844,42 +38244,42 @@
           }
         },
         "protected": false,
-        "followers_count": 183223,
+        "followers_count": 183233,
         "friends_count": 232,
         "listed_count": 109,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
-        "favourites_count": 15262,
+        "favourites_count": 15263,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 70869,
+        "statuses_count": 70872,
         "lang": null,
         "status": {
-          "created_at": "Wed Apr 27 00:02:45 +0000 2022",
-          "id": 1519104727316893700,
-          "id_str": "1519104727316893696",
-          "text": "@TheFackunator ¡Hola! Nos encanta que quieras sumarte al equipo! Para enviar tu CV te pedimos que, por favor, ingre… https://t.co/MHtTyQ5X3f",
+          "created_at": "Wed Apr 27 01:20:18 +0000 2022",
+          "id": 1519124243644092400,
+          "id_str": "1519124243644092418",
+          "text": "@nooe9133 ¡Hola! Lamentamos lo sucedido, ¡no te preocupes! Vamos a ayudarte. 😊 Te escribimos por privado para denun… https://t.co/xdEPl6H4ek",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "TheFackunator",
-                "name": "Facu memelord is THE FIST OF VENGEANCE",
-                "id": 1198788674,
-                "id_str": "1198788674",
+                "screen_name": "nooe9133",
+                "name": "Noemí",
+                "id": 1299443502846275600,
+                "id_str": "1299443502846275588",
                 "indices": [
                   0,
-                  14
+                  9
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/MHtTyQ5X3f",
-                "expanded_url": "https://twitter.com/i/web/status/1519104727316893696",
+                "url": "https://t.co/xdEPl6H4ek",
+                "expanded_url": "https://twitter.com/i/web/status/1519124243644092418",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -37889,18 +38289,18 @@
             ]
           },
           "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
-          "in_reply_to_status_id": 1519102811388227600,
-          "in_reply_to_status_id_str": "1519102811388227584",
-          "in_reply_to_user_id": 1198788674,
-          "in_reply_to_user_id_str": "1198788674",
-          "in_reply_to_screen_name": "TheFackunator",
+          "in_reply_to_status_id": 1519110314918236200,
+          "in_reply_to_status_id_str": "1519110314918236160",
+          "in_reply_to_user_id": 1299443502846275600,
+          "in_reply_to_user_id_str": "1299443502846275588",
+          "in_reply_to_screen_name": "nooe9133",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
