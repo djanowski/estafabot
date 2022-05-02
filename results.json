@@ -29,7 +29,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150354,
+        "followers_count": 150353,
         "friends_count": 54794,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -347,7 +347,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150354,
+        "followers_count": 150353,
         "friends_count": 54794,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -665,7 +665,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150354,
+        "followers_count": 150353,
         "friends_count": 54794,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -983,7 +983,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150354,
+        "followers_count": 150353,
         "friends_count": 54794,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1293,7 +1293,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150354,
+        "followers_count": 150353,
         "friends_count": 54794,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1603,7 +1603,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150354,
+        "followers_count": 150353,
         "friends_count": 54794,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1913,7 +1913,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150354,
+        "followers_count": 150353,
         "friends_count": 54794,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2223,7 +2223,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150354,
+        "followers_count": 150353,
         "friends_count": 54794,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -8100,8 +8100,8 @@
           }
         },
         "protected": false,
-        "followers_count": 546956,
-        "friends_count": 215219,
+        "followers_count": 546952,
+        "friends_count": 215220,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18599,
@@ -8109,33 +8109,22 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2525965,
+        "statuses_count": 2525967,
         "lang": null,
         "status": {
-          "created_at": "Mon May 02 07:44:49 +0000 2022",
-          "id": 1521032950120435700,
-          "id_str": "1521032950120435717",
-          "text": "@aguslovek09 Hola Agustín! Envianos por favor un DM así podemos asesorarte correctamente y respondemos todas tus du… https://t.co/L9UGQj9lcz",
+          "created_at": "Mon May 02 08:46:32 +0000 2022",
+          "id": 1521048482722861000,
+          "id_str": "1521048482722861057",
+          "text": "Hola, para poder realizar las verificaciones correspondiente, es necesario que nos escribas por DM. Continuamos por… https://t.co/3luyj8sz44",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "aguslovek09",
-                "name": "Agustin Nicolas",
-                "id": 1490181895493193700,
-                "id_str": "1490181895493193728",
-                "indices": [
-                  0,
-                  12
-                ]
-              }
-            ],
+            "user_mentions": [],
             "urls": [
               {
-                "url": "https://t.co/L9UGQj9lcz",
-                "expanded_url": "https://twitter.com/i/web/status/1521032950120435717",
+                "url": "https://t.co/3luyj8sz44",
+                "expanded_url": "https://twitter.com/i/web/status/1521048482722861057",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -8145,16 +8134,18 @@
             ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1521031412631195600,
-          "in_reply_to_status_id_str": "1521031412631195652",
-          "in_reply_to_user_id": 1490181895493193700,
-          "in_reply_to_user_id_str": "1490181895493193728",
-          "in_reply_to_screen_name": "aguslovek09",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
-          "is_quote_status": false,
+          "is_quote_status": true,
+          "quoted_status_id": 1521045699915362300,
+          "quoted_status_id_str": "1521045699915362308",
           "retweet_count": 0,
           "favorite_count": 0,
           "favorited": false,
@@ -8425,8 +8416,8 @@
           }
         },
         "protected": false,
-        "followers_count": 546956,
-        "friends_count": 215219,
+        "followers_count": 546952,
+        "friends_count": 215220,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18599,
@@ -8434,33 +8425,22 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2525965,
+        "statuses_count": 2525967,
         "lang": null,
         "status": {
-          "created_at": "Mon May 02 07:44:49 +0000 2022",
-          "id": 1521032950120435700,
-          "id_str": "1521032950120435717",
-          "text": "@aguslovek09 Hola Agustín! Envianos por favor un DM así podemos asesorarte correctamente y respondemos todas tus du… https://t.co/L9UGQj9lcz",
+          "created_at": "Mon May 02 08:46:32 +0000 2022",
+          "id": 1521048482722861000,
+          "id_str": "1521048482722861057",
+          "text": "Hola, para poder realizar las verificaciones correspondiente, es necesario que nos escribas por DM. Continuamos por… https://t.co/3luyj8sz44",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "aguslovek09",
-                "name": "Agustin Nicolas",
-                "id": 1490181895493193700,
-                "id_str": "1490181895493193728",
-                "indices": [
-                  0,
-                  12
-                ]
-              }
-            ],
+            "user_mentions": [],
             "urls": [
               {
-                "url": "https://t.co/L9UGQj9lcz",
-                "expanded_url": "https://twitter.com/i/web/status/1521032950120435717",
+                "url": "https://t.co/3luyj8sz44",
+                "expanded_url": "https://twitter.com/i/web/status/1521048482722861057",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -8470,16 +8450,18 @@
             ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1521031412631195600,
-          "in_reply_to_status_id_str": "1521031412631195652",
-          "in_reply_to_user_id": 1490181895493193700,
-          "in_reply_to_user_id_str": "1490181895493193728",
-          "in_reply_to_screen_name": "aguslovek09",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
-          "is_quote_status": false,
+          "is_quote_status": true,
+          "quoted_status_id": 1521045699915362300,
+          "quoted_status_id_str": "1521045699915362308",
           "retweet_count": 0,
           "favorite_count": 0,
           "favorited": false,
@@ -8750,8 +8732,8 @@
           }
         },
         "protected": false,
-        "followers_count": 546956,
-        "friends_count": 215219,
+        "followers_count": 546952,
+        "friends_count": 215220,
         "listed_count": 1080,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18599,
@@ -8759,33 +8741,22 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2525965,
+        "statuses_count": 2525967,
         "lang": null,
         "status": {
-          "created_at": "Mon May 02 07:44:49 +0000 2022",
-          "id": 1521032950120435700,
-          "id_str": "1521032950120435717",
-          "text": "@aguslovek09 Hola Agustín! Envianos por favor un DM así podemos asesorarte correctamente y respondemos todas tus du… https://t.co/L9UGQj9lcz",
+          "created_at": "Mon May 02 08:46:32 +0000 2022",
+          "id": 1521048482722861000,
+          "id_str": "1521048482722861057",
+          "text": "Hola, para poder realizar las verificaciones correspondiente, es necesario que nos escribas por DM. Continuamos por… https://t.co/3luyj8sz44",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "aguslovek09",
-                "name": "Agustin Nicolas",
-                "id": 1490181895493193700,
-                "id_str": "1490181895493193728",
-                "indices": [
-                  0,
-                  12
-                ]
-              }
-            ],
+            "user_mentions": [],
             "urls": [
               {
-                "url": "https://t.co/L9UGQj9lcz",
-                "expanded_url": "https://twitter.com/i/web/status/1521032950120435717",
+                "url": "https://t.co/3luyj8sz44",
+                "expanded_url": "https://twitter.com/i/web/status/1521048482722861057",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -8795,16 +8766,18 @@
             ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1521031412631195600,
-          "in_reply_to_status_id_str": "1521031412631195652",
-          "in_reply_to_user_id": 1490181895493193700,
-          "in_reply_to_user_id_str": "1490181895493193728",
-          "in_reply_to_screen_name": "aguslovek09",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
-          "is_quote_status": false,
+          "is_quote_status": true,
+          "quoted_status_id": 1521045699915362300,
+          "quoted_status_id_str": "1521045699915362308",
           "retweet_count": 0,
           "favorite_count": 0,
           "favorited": false,
@@ -9115,8 +9088,8 @@
           }
         },
         "protected": false,
-        "followers_count": 600639,
-        "friends_count": 250362,
+        "followers_count": 600637,
+        "friends_count": 250363,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -9415,8 +9388,8 @@
           }
         },
         "protected": false,
-        "followers_count": 600639,
-        "friends_count": 250362,
+        "followers_count": 600637,
+        "friends_count": 250363,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -11841,7 +11814,7 @@
           }
         },
         "protected": false,
-        "followers_count": 80987,
+        "followers_count": 80986,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12161,7 +12134,7 @@
           }
         },
         "protected": false,
-        "followers_count": 80987,
+        "followers_count": 80986,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12481,7 +12454,7 @@
           }
         },
         "protected": false,
-        "followers_count": 80987,
+        "followers_count": 80986,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12801,7 +12774,7 @@
           }
         },
         "protected": false,
-        "followers_count": 80987,
+        "followers_count": 80986,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -13121,7 +13094,7 @@
           }
         },
         "protected": false,
-        "followers_count": 80987,
+        "followers_count": 80986,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -13457,7 +13430,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19529,
+        "followers_count": 19528,
         "friends_count": 2927,
         "listed_count": 0,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -13783,7 +13756,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19529,
+        "followers_count": 19528,
         "friends_count": 2927,
         "listed_count": 0,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -14109,7 +14082,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19529,
+        "followers_count": 19528,
         "friends_count": 2927,
         "listed_count": 0,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -14435,7 +14408,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19529,
+        "followers_count": 19528,
         "friends_count": 2927,
         "listed_count": 0,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -14735,7 +14708,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19529,
+        "followers_count": 19528,
         "friends_count": 2927,
         "listed_count": 0,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -15035,7 +15008,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19529,
+        "followers_count": 19528,
         "friends_count": 2927,
         "listed_count": 0,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -15335,7 +15308,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19529,
+        "followers_count": 19528,
         "friends_count": 2927,
         "listed_count": 0,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -15635,7 +15608,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19529,
+        "followers_count": 19528,
         "friends_count": 2927,
         "listed_count": 0,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -15945,7 +15918,7 @@
           }
         },
         "protected": false,
-        "followers_count": 146994,
+        "followers_count": 146993,
         "friends_count": 10185,
         "listed_count": 298,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -16281,7 +16254,7 @@
           }
         },
         "protected": false,
-        "followers_count": 146994,
+        "followers_count": 146993,
         "friends_count": 10185,
         "listed_count": 298,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -16627,7 +16600,7 @@
           }
         },
         "protected": false,
-        "followers_count": 146994,
+        "followers_count": 146993,
         "friends_count": 10185,
         "listed_count": 298,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -16963,7 +16936,7 @@
           }
         },
         "protected": false,
-        "followers_count": 146994,
+        "followers_count": 146993,
         "friends_count": 10185,
         "listed_count": 298,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -17319,7 +17292,7 @@
           }
         },
         "protected": false,
-        "followers_count": 146994,
+        "followers_count": 146993,
         "friends_count": 10185,
         "listed_count": 298,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -32489,7 +32462,7 @@
         }
       },
       "protected": false,
-      "followers_count": 1,
+      "followers_count": 2,
       "friends_count": 121,
       "listed_count": 0,
       "created_at": "Thu Apr 21 18:12:54 +0000 2022",
@@ -32621,7 +32594,7 @@
           }
         },
         "protected": false,
-        "followers_count": 1,
+        "followers_count": 2,
         "friends_count": 121,
         "listed_count": 0,
         "created_at": "Thu Apr 21 18:12:54 +0000 2022",
@@ -32798,7 +32771,7 @@
         }
       },
       "protected": false,
-      "followers_count": 1,
+      "followers_count": 2,
       "friends_count": 121,
       "listed_count": 0,
       "created_at": "Thu Apr 21 18:12:54 +0000 2022",
@@ -32930,7 +32903,7 @@
           }
         },
         "protected": false,
-        "followers_count": 1,
+        "followers_count": 2,
         "friends_count": 121,
         "listed_count": 0,
         "created_at": "Thu Apr 21 18:12:54 +0000 2022",
@@ -38343,7 +38316,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150624,
+        "followers_count": 150625,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -38399,7 +38372,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -38664,7 +38637,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150624,
+        "followers_count": 150625,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -38720,7 +38693,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -38985,7 +38958,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150624,
+        "followers_count": 150625,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -39041,7 +39014,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -39306,7 +39279,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150624,
+        "followers_count": 150625,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -39362,7 +39335,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -39627,7 +39600,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183397,
+        "followers_count": 183396,
         "friends_count": 234,
         "listed_count": 111,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -39740,7 +39713,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 6,
-          "favorite_count": 73,
+          "favorite_count": 74,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -39997,7 +39970,7 @@
         "protected": false,
         "followers_count": 14880,
         "friends_count": 742,
-        "listed_count": 16,
+        "listed_count": 0,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
         "favourites_count": 155,
         "utc_offset": null,
@@ -40333,7 +40306,7 @@
         "protected": false,
         "followers_count": 14880,
         "friends_count": 742,
-        "listed_count": 16,
+        "listed_count": 0,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
         "favourites_count": 155,
         "utc_offset": null,
@@ -40659,7 +40632,7 @@
         "protected": false,
         "followers_count": 14880,
         "friends_count": 742,
-        "listed_count": 16,
+        "listed_count": 0,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
         "favourites_count": 155,
         "utc_offset": null,
@@ -40985,7 +40958,7 @@
         "protected": false,
         "followers_count": 14880,
         "friends_count": 742,
-        "listed_count": 16,
+        "listed_count": 0,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
         "favourites_count": 155,
         "utc_offset": null,
@@ -41311,7 +41284,7 @@
         "protected": false,
         "followers_count": 14880,
         "friends_count": 742,
-        "listed_count": 16,
+        "listed_count": 0,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
         "favourites_count": 155,
         "utc_offset": null,
@@ -41637,7 +41610,7 @@
         "protected": false,
         "followers_count": 14880,
         "friends_count": 742,
-        "listed_count": 16,
+        "listed_count": 0,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
         "favourites_count": 155,
         "utc_offset": null,
@@ -41963,7 +41936,7 @@
         "protected": false,
         "followers_count": 14880,
         "friends_count": 742,
-        "listed_count": 16,
+        "listed_count": 0,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
         "favourites_count": 155,
         "utc_offset": null,
