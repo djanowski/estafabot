@@ -30,7 +30,7 @@
         },
         "protected": false,
         "followers_count": 150382,
-        "friends_count": 54790,
+        "friends_count": 54789,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -348,7 +348,7 @@
         },
         "protected": false,
         "followers_count": 150382,
-        "friends_count": 54790,
+        "friends_count": 54789,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -666,7 +666,7 @@
         },
         "protected": false,
         "followers_count": 150382,
-        "friends_count": 54790,
+        "friends_count": 54789,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -984,7 +984,7 @@
         },
         "protected": false,
         "followers_count": 150382,
-        "friends_count": 54790,
+        "friends_count": 54789,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1294,7 +1294,7 @@
         },
         "protected": false,
         "followers_count": 150382,
-        "friends_count": 54790,
+        "friends_count": 54789,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1604,7 +1604,7 @@
         },
         "protected": false,
         "followers_count": 150382,
-        "friends_count": 54790,
+        "friends_count": 54789,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1914,7 +1914,7 @@
         },
         "protected": false,
         "followers_count": 150382,
-        "friends_count": 54790,
+        "friends_count": 54789,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -2224,7 +2224,7 @@
         },
         "protected": false,
         "followers_count": 150382,
-        "friends_count": 54790,
+        "friends_count": 54789,
         "listed_count": 346,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -2543,7 +2543,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -2552,44 +2552,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -2841,7 +2851,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -2850,44 +2860,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3149,7 +3169,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3158,44 +3178,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3447,7 +3477,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3456,44 +3486,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3745,7 +3785,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3754,44 +3794,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4034,7 +4084,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4043,44 +4093,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4323,7 +4383,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4332,44 +4392,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4612,7 +4682,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4621,44 +4691,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4901,7 +4981,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4910,44 +4990,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5190,7 +5280,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5199,44 +5289,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5479,7 +5579,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5488,44 +5588,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5771,7 +5881,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5780,44 +5890,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6066,7 +6186,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -6075,44 +6195,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6361,7 +6491,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -6370,44 +6500,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6650,7 +6790,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -6659,44 +6799,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6939,7 +7089,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -6948,44 +7098,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -7228,7 +7388,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -7237,44 +7397,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -7520,7 +7690,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -7529,44 +7699,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -7815,7 +7995,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654024,
+        "followers_count": 654026,
         "friends_count": 316044,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -7824,44 +8004,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025180,
+        "statuses_count": 1025181,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:22:55 +0000 2022",
-          "id": 1522537388014280700,
-          "id_str": "1522537388014280705",
-          "text": "@LucasGyEJ comunícate con nosotros al DM así lo verificamos. ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri May 06 12:45:59 +0000 2022",
+          "id": 1522558294195327000,
+          "id_str": "1522558294195326978",
+          "text": "@Sinbrujula_net Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información sobre la po… https://t.co/XUEsJVljGi",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "LucasGyEJ",
-                "name": "Lucas",
-                "id": 181999583,
-                "id_str": "181999583",
+                "screen_name": "Sinbrujula_net",
+                "name": "Sin Brújula Travel",
+                "id": 695995333785055200,
+                "id_str": "695995333785055232",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/XUEsJVljGi",
+                "expanded_url": "https://twitter.com/i/web/status/1522558294195326978",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522537202223362000,
-          "in_reply_to_status_id_str": "1522537202223362048",
-          "in_reply_to_user_id": 181999583,
-          "in_reply_to_user_id_str": "181999583",
-          "in_reply_to_screen_name": "LucasGyEJ",
+          "in_reply_to_status_id": 1522557324346511400,
+          "in_reply_to_status_id_str": "1522557324346511360",
+          "in_reply_to_user_id": 695995333785055200,
+          "in_reply_to_user_id_str": "695995333785055232",
+          "in_reply_to_screen_name": "Sinbrujula_net",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -8100,7 +8290,7 @@
           }
         },
         "protected": false,
-        "followers_count": 547163,
+        "followers_count": 547166,
         "friends_count": 215144,
         "listed_count": 1081,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -8109,47 +8299,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2526766,
+        "statuses_count": 2526779,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 12:04:03 +0000 2022",
-          "id": 1522547741557244000,
-          "id_str": "1522547741557243909",
-          "text": "@Gonza_Alarcon Hola Gonzalo! vamos a revisarlo, escribínos por DM y estaremos con vos ^OES https://t.co/IF6i7c2Jjs",
+          "created_at": "Fri May 06 12:57:25 +0000 2022",
+          "id": 1522561169780789200,
+          "id_str": "1522561169780789248",
+          "text": "@labailarinabb Hola Sarita! Envíanos un DM con tus datos así verificamos tu línea y continuaremos por esa vía para ayudarte. ^VB",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gonza_Alarcon",
-                "name": "Gonzalo Alarcon",
-                "id": 154658216,
-                "id_str": "154658216",
+                "screen_name": "labailarinabb",
+                "name": "Sarita",
+                "id": 249231148,
+                "id_str": "249231148",
                 "indices": [
                   0,
                   14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/IF6i7c2Jjs",
-                "expanded_url": "http://mov.is/ddmm",
-                "display_url": "mov.is/ddmm",
-                "indices": [
-                  91,
-                  114
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1522547526817132500,
-          "in_reply_to_status_id_str": "1522547526817132544",
-          "in_reply_to_user_id": 154658216,
-          "in_reply_to_user_id_str": "154658216",
-          "in_reply_to_screen_name": "Gonza_Alarcon",
+          "in_reply_to_status_id": 1522560926498517000,
+          "in_reply_to_status_id_str": "1522560926498516992",
+          "in_reply_to_user_id": 249231148,
+          "in_reply_to_user_id_str": "249231148",
+          "in_reply_to_screen_name": "labailarinabb",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8159,7 +8339,6 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -8425,7 +8604,7 @@
           }
         },
         "protected": false,
-        "followers_count": 547163,
+        "followers_count": 547166,
         "friends_count": 215144,
         "listed_count": 1081,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -8434,47 +8613,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2526766,
+        "statuses_count": 2526779,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 12:04:03 +0000 2022",
-          "id": 1522547741557244000,
-          "id_str": "1522547741557243909",
-          "text": "@Gonza_Alarcon Hola Gonzalo! vamos a revisarlo, escribínos por DM y estaremos con vos ^OES https://t.co/IF6i7c2Jjs",
+          "created_at": "Fri May 06 12:57:25 +0000 2022",
+          "id": 1522561169780789200,
+          "id_str": "1522561169780789248",
+          "text": "@labailarinabb Hola Sarita! Envíanos un DM con tus datos así verificamos tu línea y continuaremos por esa vía para ayudarte. ^VB",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gonza_Alarcon",
-                "name": "Gonzalo Alarcon",
-                "id": 154658216,
-                "id_str": "154658216",
+                "screen_name": "labailarinabb",
+                "name": "Sarita",
+                "id": 249231148,
+                "id_str": "249231148",
                 "indices": [
                   0,
                   14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/IF6i7c2Jjs",
-                "expanded_url": "http://mov.is/ddmm",
-                "display_url": "mov.is/ddmm",
-                "indices": [
-                  91,
-                  114
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1522547526817132500,
-          "in_reply_to_status_id_str": "1522547526817132544",
-          "in_reply_to_user_id": 154658216,
-          "in_reply_to_user_id_str": "154658216",
-          "in_reply_to_screen_name": "Gonza_Alarcon",
+          "in_reply_to_status_id": 1522560926498517000,
+          "in_reply_to_status_id_str": "1522560926498516992",
+          "in_reply_to_user_id": 249231148,
+          "in_reply_to_user_id_str": "249231148",
+          "in_reply_to_screen_name": "labailarinabb",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8484,7 +8653,6 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -8750,7 +8918,7 @@
           }
         },
         "protected": false,
-        "followers_count": 547163,
+        "followers_count": 547166,
         "friends_count": 215144,
         "listed_count": 1081,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -8759,47 +8927,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2526766,
+        "statuses_count": 2526779,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 12:04:03 +0000 2022",
-          "id": 1522547741557244000,
-          "id_str": "1522547741557243909",
-          "text": "@Gonza_Alarcon Hola Gonzalo! vamos a revisarlo, escribínos por DM y estaremos con vos ^OES https://t.co/IF6i7c2Jjs",
+          "created_at": "Fri May 06 12:57:25 +0000 2022",
+          "id": 1522561169780789200,
+          "id_str": "1522561169780789248",
+          "text": "@labailarinabb Hola Sarita! Envíanos un DM con tus datos así verificamos tu línea y continuaremos por esa vía para ayudarte. ^VB",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gonza_Alarcon",
-                "name": "Gonzalo Alarcon",
-                "id": 154658216,
-                "id_str": "154658216",
+                "screen_name": "labailarinabb",
+                "name": "Sarita",
+                "id": 249231148,
+                "id_str": "249231148",
                 "indices": [
                   0,
                   14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/IF6i7c2Jjs",
-                "expanded_url": "http://mov.is/ddmm",
-                "display_url": "mov.is/ddmm",
-                "indices": [
-                  91,
-                  114
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1522547526817132500,
-          "in_reply_to_status_id_str": "1522547526817132544",
-          "in_reply_to_user_id": 154658216,
-          "in_reply_to_user_id_str": "154658216",
-          "in_reply_to_screen_name": "Gonza_Alarcon",
+          "in_reply_to_status_id": 1522560926498517000,
+          "in_reply_to_status_id_str": "1522560926498516992",
+          "in_reply_to_user_id": 249231148,
+          "in_reply_to_user_id_str": "249231148",
+          "in_reply_to_screen_name": "labailarinabb",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8809,7 +8967,6 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -9115,8 +9272,8 @@
           }
         },
         "protected": false,
-        "followers_count": 601001,
-        "friends_count": 250891,
+        "followers_count": 601006,
+        "friends_count": 250903,
         "listed_count": 793,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -9124,47 +9281,37 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2074343,
+        "statuses_count": 2074359,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 12:05:57 +0000 2022",
-          "id": 1522548219842113500,
-          "id_str": "1522548219842113538",
-          "text": "@RaulRojas98 @RaulRojas98 por favor nos sigues en nuestra cuenta y continuamos por DM.",
+          "created_at": "Fri May 06 13:07:01 +0000 2022",
+          "id": 1522563587293819000,
+          "id_str": "1522563587293818880",
+          "text": "@RossanaTana Hola Rossana! Te respondimos por DM. Seguimos por ese canal. =) \nMarie V",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "RaulRojas98",
-                "name": "Raul Rojas 💎🏆🥇",
-                "id": 1656012379,
-                "id_str": "1656012379",
+                "screen_name": "RossanaTana",
+                "name": "Rossana P💙",
+                "id": 1583222196,
+                "id_str": "1583222196",
                 "indices": [
                   0,
                   12
-                ]
-              },
-              {
-                "screen_name": "RaulRojas98",
-                "name": "Raul Rojas 💎🏆🥇",
-                "id": 1656012379,
-                "id_str": "1656012379",
-                "indices": [
-                  13,
-                  25
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1522547425042481200,
-          "in_reply_to_status_id_str": "1522547425042481154",
-          "in_reply_to_user_id": 1656012379,
-          "in_reply_to_user_id_str": "1656012379",
-          "in_reply_to_screen_name": "RaulRojas98",
+          "in_reply_to_status_id": 1522556671876345900,
+          "in_reply_to_status_id_str": "1522556671876345856",
+          "in_reply_to_user_id": 1583222196,
+          "in_reply_to_user_id_str": "1583222196",
+          "in_reply_to_screen_name": "RossanaTana",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9415,8 +9562,8 @@
           }
         },
         "protected": false,
-        "followers_count": 601001,
-        "friends_count": 250891,
+        "followers_count": 601006,
+        "friends_count": 250903,
         "listed_count": 793,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -9424,47 +9571,37 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2074343,
+        "statuses_count": 2074359,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 12:05:57 +0000 2022",
-          "id": 1522548219842113500,
-          "id_str": "1522548219842113538",
-          "text": "@RaulRojas98 @RaulRojas98 por favor nos sigues en nuestra cuenta y continuamos por DM.",
+          "created_at": "Fri May 06 13:07:01 +0000 2022",
+          "id": 1522563587293819000,
+          "id_str": "1522563587293818880",
+          "text": "@RossanaTana Hola Rossana! Te respondimos por DM. Seguimos por ese canal. =) \nMarie V",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "RaulRojas98",
-                "name": "Raul Rojas 💎🏆🥇",
-                "id": 1656012379,
-                "id_str": "1656012379",
+                "screen_name": "RossanaTana",
+                "name": "Rossana P💙",
+                "id": 1583222196,
+                "id_str": "1583222196",
                 "indices": [
                   0,
                   12
-                ]
-              },
-              {
-                "screen_name": "RaulRojas98",
-                "name": "Raul Rojas 💎🏆🥇",
-                "id": 1656012379,
-                "id_str": "1656012379",
-                "indices": [
-                  13,
-                  25
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1522547425042481200,
-          "in_reply_to_status_id_str": "1522547425042481154",
-          "in_reply_to_user_id": 1656012379,
-          "in_reply_to_user_id_str": "1656012379",
-          "in_reply_to_screen_name": "RaulRojas98",
+          "in_reply_to_status_id": 1522556671876345900,
+          "in_reply_to_status_id_str": "1522556671876345856",
+          "in_reply_to_user_id": 1583222196,
+          "in_reply_to_user_id_str": "1583222196",
+          "in_reply_to_screen_name": "RossanaTana",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9725,42 +9862,42 @@
           }
         },
         "protected": false,
-        "followers_count": 42077,
+        "followers_count": 42078,
         "friends_count": 56,
-        "listed_count": 0,
+        "listed_count": 70,
         "created_at": "Thu Sep 23 18:48:27 +0000 2010",
         "favourites_count": 584,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 15541,
+        "statuses_count": 15543,
         "lang": null,
         "status": {
-          "created_at": "Thu May 05 20:01:51 +0000 2022",
-          "id": 1522305594958487600,
-          "id_str": "1522305594958487553",
-          "text": "@Guadaflorr \n¡Hola Florcis! Gracias por escribirnos. Para cuidar tu seguridad decidimos recibir y responder mensaje… https://t.co/qKNn0hC8Vz",
+          "created_at": "Fri May 06 12:59:12 +0000 2022",
+          "id": 1522561617107595300,
+          "id_str": "1522561617107595265",
+          "text": "@CesarDemarco72 \n¡Hola! Gracias por escribirnos. Para cuidar tu seguridad decidimos recibir y responder mensajes po… https://t.co/JdYwJOhQ3s",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Guadaflorr",
-                "name": "Florcis",
-                "id": 313701745,
-                "id_str": "313701745",
+                "screen_name": "CesarDemarco72",
+                "name": "Ce  by  mirlo",
+                "id": 2377486256,
+                "id_str": "2377486256",
                 "indices": [
                   0,
-                  11
+                  15
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/qKNn0hC8Vz",
-                "expanded_url": "https://twitter.com/i/web/status/1522305594958487553",
+                "url": "https://t.co/JdYwJOhQ3s",
+                "expanded_url": "https://twitter.com/i/web/status/1522561617107595265",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -9770,11 +9907,11 @@
             ]
           },
           "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
-          "in_reply_to_status_id": 1522301910820311000,
-          "in_reply_to_status_id_str": "1522301910820311040",
-          "in_reply_to_user_id": 313701745,
-          "in_reply_to_user_id_str": "313701745",
-          "in_reply_to_screen_name": "Guadaflorr",
+          "in_reply_to_status_id": 1522347825274704000,
+          "in_reply_to_status_id_str": "1522347825274703872",
+          "in_reply_to_user_id": 2377486256,
+          "in_reply_to_user_id_str": "2377486256",
+          "in_reply_to_screen_name": "CesarDemarco72",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -10061,42 +10198,42 @@
           }
         },
         "protected": false,
-        "followers_count": 42077,
+        "followers_count": 42078,
         "friends_count": 56,
-        "listed_count": 0,
+        "listed_count": 70,
         "created_at": "Thu Sep 23 18:48:27 +0000 2010",
         "favourites_count": 584,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 15541,
+        "statuses_count": 15543,
         "lang": null,
         "status": {
-          "created_at": "Thu May 05 20:01:51 +0000 2022",
-          "id": 1522305594958487600,
-          "id_str": "1522305594958487553",
-          "text": "@Guadaflorr \n¡Hola Florcis! Gracias por escribirnos. Para cuidar tu seguridad decidimos recibir y responder mensaje… https://t.co/qKNn0hC8Vz",
+          "created_at": "Fri May 06 12:59:12 +0000 2022",
+          "id": 1522561617107595300,
+          "id_str": "1522561617107595265",
+          "text": "@CesarDemarco72 \n¡Hola! Gracias por escribirnos. Para cuidar tu seguridad decidimos recibir y responder mensajes po… https://t.co/JdYwJOhQ3s",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Guadaflorr",
-                "name": "Florcis",
-                "id": 313701745,
-                "id_str": "313701745",
+                "screen_name": "CesarDemarco72",
+                "name": "Ce  by  mirlo",
+                "id": 2377486256,
+                "id_str": "2377486256",
                 "indices": [
                   0,
-                  11
+                  15
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/qKNn0hC8Vz",
-                "expanded_url": "https://twitter.com/i/web/status/1522305594958487553",
+                "url": "https://t.co/JdYwJOhQ3s",
+                "expanded_url": "https://twitter.com/i/web/status/1522561617107595265",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -10106,11 +10243,11 @@
             ]
           },
           "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
-          "in_reply_to_status_id": 1522301910820311000,
-          "in_reply_to_status_id_str": "1522301910820311040",
-          "in_reply_to_user_id": 313701745,
-          "in_reply_to_user_id_str": "313701745",
-          "in_reply_to_screen_name": "Guadaflorr",
+          "in_reply_to_status_id": 1522347825274704000,
+          "in_reply_to_status_id_str": "1522347825274703872",
+          "in_reply_to_user_id": 2377486256,
+          "in_reply_to_user_id_str": "2377486256",
+          "in_reply_to_screen_name": "CesarDemarco72",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -11821,7 +11958,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81049,
+        "followers_count": 81052,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -11830,47 +11967,67 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 7841,
+        "statuses_count": 7842,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:41:49 +0000 2022",
-          "id": 1522542145219043300,
-          "id_str": "1522542145219043331",
-          "text": "@MarceloBergm Hola, escribinos por privado y empezá la consulta con nuestro asistente virtual. Si necesitás, podés… https://t.co/u2yZb1AELU",
+          "created_at": "Fri May 06 12:08:39 +0000 2022",
+          "id": 1522548899713540000,
+          "id_str": "1522548899713540096",
+          "text": "@jrpampa @bciudadresponde Por seguridad, unificamos nuestra atención en @bancociudad.\nRespondimos tu consulta vía m… https://t.co/xHeE0X13ja",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "MarceloBergm",
-                "name": "Marcelo Bergm",
-                "id": 201048671,
-                "id_str": "201048671",
+                "screen_name": "jrpampa",
+                "name": "juan enrique 🇦🇷🇺🇾",
+                "id": 434453014,
+                "id_str": "434453014",
                 "indices": [
                   0,
-                  13
+                  8
+                ]
+              },
+              {
+                "screen_name": "bciudadresponde",
+                "name": "Banco Ciudad",
+                "id": 226947461,
+                "id_str": "226947461",
+                "indices": [
+                  9,
+                  25
+                ]
+              },
+              {
+                "screen_name": "BancoCiudad",
+                "name": "Banco Ciudad",
+                "id": 151946454,
+                "id_str": "151946454",
+                "indices": [
+                  72,
+                  84
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/u2yZb1AELU",
-                "expanded_url": "https://twitter.com/i/web/status/1522542145219043331",
+                "url": "https://t.co/xHeE0X13ja",
+                "expanded_url": "https://twitter.com/i/web/status/1522548899713540096",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
-          "source": "<a href=\"https://production.com\" rel=\"nofollow\"> productionChatVirg</a>",
-          "in_reply_to_status_id": 1522541873184845800,
-          "in_reply_to_status_id_str": "1522541873184845825",
-          "in_reply_to_user_id": 201048671,
-          "in_reply_to_user_id_str": "201048671",
-          "in_reply_to_screen_name": "MarceloBergm",
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": 1522545300040159200,
+          "in_reply_to_status_id_str": "1522545300040159233",
+          "in_reply_to_user_id": 434453014,
+          "in_reply_to_user_id_str": "434453014",
+          "in_reply_to_screen_name": "jrpampa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -11922,7 +12079,7 @@
       },
       "protected": false,
       "followers_count": 2,
-      "friends_count": 36,
+      "friends_count": 37,
       "listed_count": 0,
       "created_at": "Tue Apr 26 14:53:22 +0000 2022",
       "favourites_count": 1,
@@ -12054,7 +12211,7 @@
         },
         "protected": false,
         "followers_count": 2,
-        "friends_count": 36,
+        "friends_count": 37,
         "listed_count": 0,
         "created_at": "Tue Apr 26 14:53:22 +0000 2022",
         "favourites_count": 1,
@@ -12131,7 +12288,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81049,
+        "followers_count": 81052,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12140,47 +12297,67 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 7841,
+        "statuses_count": 7842,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:41:49 +0000 2022",
-          "id": 1522542145219043300,
-          "id_str": "1522542145219043331",
-          "text": "@MarceloBergm Hola, escribinos por privado y empezá la consulta con nuestro asistente virtual. Si necesitás, podés… https://t.co/u2yZb1AELU",
+          "created_at": "Fri May 06 12:08:39 +0000 2022",
+          "id": 1522548899713540000,
+          "id_str": "1522548899713540096",
+          "text": "@jrpampa @bciudadresponde Por seguridad, unificamos nuestra atención en @bancociudad.\nRespondimos tu consulta vía m… https://t.co/xHeE0X13ja",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "MarceloBergm",
-                "name": "Marcelo Bergm",
-                "id": 201048671,
-                "id_str": "201048671",
+                "screen_name": "jrpampa",
+                "name": "juan enrique 🇦🇷🇺🇾",
+                "id": 434453014,
+                "id_str": "434453014",
                 "indices": [
                   0,
-                  13
+                  8
+                ]
+              },
+              {
+                "screen_name": "bciudadresponde",
+                "name": "Banco Ciudad",
+                "id": 226947461,
+                "id_str": "226947461",
+                "indices": [
+                  9,
+                  25
+                ]
+              },
+              {
+                "screen_name": "BancoCiudad",
+                "name": "Banco Ciudad",
+                "id": 151946454,
+                "id_str": "151946454",
+                "indices": [
+                  72,
+                  84
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/u2yZb1AELU",
-                "expanded_url": "https://twitter.com/i/web/status/1522542145219043331",
+                "url": "https://t.co/xHeE0X13ja",
+                "expanded_url": "https://twitter.com/i/web/status/1522548899713540096",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
-          "source": "<a href=\"https://production.com\" rel=\"nofollow\"> productionChatVirg</a>",
-          "in_reply_to_status_id": 1522541873184845800,
-          "in_reply_to_status_id_str": "1522541873184845825",
-          "in_reply_to_user_id": 201048671,
-          "in_reply_to_user_id_str": "201048671",
-          "in_reply_to_screen_name": "MarceloBergm",
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": 1522545300040159200,
+          "in_reply_to_status_id_str": "1522545300040159233",
+          "in_reply_to_user_id": 434453014,
+          "in_reply_to_user_id_str": "434453014",
+          "in_reply_to_screen_name": "jrpampa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -12232,7 +12409,7 @@
       },
       "protected": false,
       "followers_count": 2,
-      "friends_count": 36,
+      "friends_count": 37,
       "listed_count": 0,
       "created_at": "Tue Apr 26 14:53:22 +0000 2022",
       "favourites_count": 1,
@@ -12364,7 +12541,7 @@
         },
         "protected": false,
         "followers_count": 2,
-        "friends_count": 36,
+        "friends_count": 37,
         "listed_count": 0,
         "created_at": "Tue Apr 26 14:53:22 +0000 2022",
         "favourites_count": 1,
@@ -12441,7 +12618,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81049,
+        "followers_count": 81052,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12450,47 +12627,67 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 7841,
+        "statuses_count": 7842,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:41:49 +0000 2022",
-          "id": 1522542145219043300,
-          "id_str": "1522542145219043331",
-          "text": "@MarceloBergm Hola, escribinos por privado y empezá la consulta con nuestro asistente virtual. Si necesitás, podés… https://t.co/u2yZb1AELU",
+          "created_at": "Fri May 06 12:08:39 +0000 2022",
+          "id": 1522548899713540000,
+          "id_str": "1522548899713540096",
+          "text": "@jrpampa @bciudadresponde Por seguridad, unificamos nuestra atención en @bancociudad.\nRespondimos tu consulta vía m… https://t.co/xHeE0X13ja",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "MarceloBergm",
-                "name": "Marcelo Bergm",
-                "id": 201048671,
-                "id_str": "201048671",
+                "screen_name": "jrpampa",
+                "name": "juan enrique 🇦🇷🇺🇾",
+                "id": 434453014,
+                "id_str": "434453014",
                 "indices": [
                   0,
-                  13
+                  8
+                ]
+              },
+              {
+                "screen_name": "bciudadresponde",
+                "name": "Banco Ciudad",
+                "id": 226947461,
+                "id_str": "226947461",
+                "indices": [
+                  9,
+                  25
+                ]
+              },
+              {
+                "screen_name": "BancoCiudad",
+                "name": "Banco Ciudad",
+                "id": 151946454,
+                "id_str": "151946454",
+                "indices": [
+                  72,
+                  84
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/u2yZb1AELU",
-                "expanded_url": "https://twitter.com/i/web/status/1522542145219043331",
+                "url": "https://t.co/xHeE0X13ja",
+                "expanded_url": "https://twitter.com/i/web/status/1522548899713540096",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
-          "source": "<a href=\"https://production.com\" rel=\"nofollow\"> productionChatVirg</a>",
-          "in_reply_to_status_id": 1522541873184845800,
-          "in_reply_to_status_id_str": "1522541873184845825",
-          "in_reply_to_user_id": 201048671,
-          "in_reply_to_user_id_str": "201048671",
-          "in_reply_to_screen_name": "MarceloBergm",
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": 1522545300040159200,
+          "in_reply_to_status_id_str": "1522545300040159233",
+          "in_reply_to_user_id": 434453014,
+          "in_reply_to_user_id_str": "434453014",
+          "in_reply_to_screen_name": "jrpampa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -12542,7 +12739,7 @@
       },
       "protected": false,
       "followers_count": 2,
-      "friends_count": 36,
+      "friends_count": 37,
       "listed_count": 0,
       "created_at": "Tue Apr 26 14:53:22 +0000 2022",
       "favourites_count": 1,
@@ -12674,7 +12871,7 @@
         },
         "protected": false,
         "followers_count": 2,
-        "friends_count": 36,
+        "friends_count": 37,
         "listed_count": 0,
         "created_at": "Tue Apr 26 14:53:22 +0000 2022",
         "favourites_count": 1,
@@ -12751,7 +12948,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81049,
+        "followers_count": 81052,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12760,47 +12957,67 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 7841,
+        "statuses_count": 7842,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:41:49 +0000 2022",
-          "id": 1522542145219043300,
-          "id_str": "1522542145219043331",
-          "text": "@MarceloBergm Hola, escribinos por privado y empezá la consulta con nuestro asistente virtual. Si necesitás, podés… https://t.co/u2yZb1AELU",
+          "created_at": "Fri May 06 12:08:39 +0000 2022",
+          "id": 1522548899713540000,
+          "id_str": "1522548899713540096",
+          "text": "@jrpampa @bciudadresponde Por seguridad, unificamos nuestra atención en @bancociudad.\nRespondimos tu consulta vía m… https://t.co/xHeE0X13ja",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "MarceloBergm",
-                "name": "Marcelo Bergm",
-                "id": 201048671,
-                "id_str": "201048671",
+                "screen_name": "jrpampa",
+                "name": "juan enrique 🇦🇷🇺🇾",
+                "id": 434453014,
+                "id_str": "434453014",
                 "indices": [
                   0,
-                  13
+                  8
+                ]
+              },
+              {
+                "screen_name": "bciudadresponde",
+                "name": "Banco Ciudad",
+                "id": 226947461,
+                "id_str": "226947461",
+                "indices": [
+                  9,
+                  25
+                ]
+              },
+              {
+                "screen_name": "BancoCiudad",
+                "name": "Banco Ciudad",
+                "id": 151946454,
+                "id_str": "151946454",
+                "indices": [
+                  72,
+                  84
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/u2yZb1AELU",
-                "expanded_url": "https://twitter.com/i/web/status/1522542145219043331",
+                "url": "https://t.co/xHeE0X13ja",
+                "expanded_url": "https://twitter.com/i/web/status/1522548899713540096",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
-          "source": "<a href=\"https://production.com\" rel=\"nofollow\"> productionChatVirg</a>",
-          "in_reply_to_status_id": 1522541873184845800,
-          "in_reply_to_status_id_str": "1522541873184845825",
-          "in_reply_to_user_id": 201048671,
-          "in_reply_to_user_id_str": "201048671",
-          "in_reply_to_screen_name": "MarceloBergm",
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": 1522545300040159200,
+          "in_reply_to_status_id_str": "1522545300040159233",
+          "in_reply_to_user_id": 434453014,
+          "in_reply_to_user_id_str": "434453014",
+          "in_reply_to_screen_name": "jrpampa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -12852,7 +13069,7 @@
       },
       "protected": false,
       "followers_count": 2,
-      "friends_count": 36,
+      "friends_count": 37,
       "listed_count": 0,
       "created_at": "Tue Apr 26 14:53:22 +0000 2022",
       "favourites_count": 1,
@@ -12984,7 +13201,7 @@
         },
         "protected": false,
         "followers_count": 2,
-        "friends_count": 36,
+        "friends_count": 37,
         "listed_count": 0,
         "created_at": "Tue Apr 26 14:53:22 +0000 2022",
         "favourites_count": 1,
@@ -13061,7 +13278,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81049,
+        "followers_count": 81052,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -13070,47 +13287,67 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 7841,
+        "statuses_count": 7842,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:41:49 +0000 2022",
-          "id": 1522542145219043300,
-          "id_str": "1522542145219043331",
-          "text": "@MarceloBergm Hola, escribinos por privado y empezá la consulta con nuestro asistente virtual. Si necesitás, podés… https://t.co/u2yZb1AELU",
+          "created_at": "Fri May 06 12:08:39 +0000 2022",
+          "id": 1522548899713540000,
+          "id_str": "1522548899713540096",
+          "text": "@jrpampa @bciudadresponde Por seguridad, unificamos nuestra atención en @bancociudad.\nRespondimos tu consulta vía m… https://t.co/xHeE0X13ja",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "MarceloBergm",
-                "name": "Marcelo Bergm",
-                "id": 201048671,
-                "id_str": "201048671",
+                "screen_name": "jrpampa",
+                "name": "juan enrique 🇦🇷🇺🇾",
+                "id": 434453014,
+                "id_str": "434453014",
                 "indices": [
                   0,
-                  13
+                  8
+                ]
+              },
+              {
+                "screen_name": "bciudadresponde",
+                "name": "Banco Ciudad",
+                "id": 226947461,
+                "id_str": "226947461",
+                "indices": [
+                  9,
+                  25
+                ]
+              },
+              {
+                "screen_name": "BancoCiudad",
+                "name": "Banco Ciudad",
+                "id": 151946454,
+                "id_str": "151946454",
+                "indices": [
+                  72,
+                  84
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/u2yZb1AELU",
-                "expanded_url": "https://twitter.com/i/web/status/1522542145219043331",
+                "url": "https://t.co/xHeE0X13ja",
+                "expanded_url": "https://twitter.com/i/web/status/1522548899713540096",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
-          "source": "<a href=\"https://production.com\" rel=\"nofollow\"> productionChatVirg</a>",
-          "in_reply_to_status_id": 1522541873184845800,
-          "in_reply_to_status_id_str": "1522541873184845825",
-          "in_reply_to_user_id": 201048671,
-          "in_reply_to_user_id_str": "201048671",
-          "in_reply_to_screen_name": "MarceloBergm",
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": 1522545300040159200,
+          "in_reply_to_status_id_str": "1522545300040159233",
+          "in_reply_to_user_id": 434453014,
+          "in_reply_to_user_id_str": "434453014",
+          "in_reply_to_screen_name": "jrpampa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -13162,7 +13399,7 @@
       },
       "protected": false,
       "followers_count": 2,
-      "friends_count": 36,
+      "friends_count": 37,
       "listed_count": 0,
       "created_at": "Tue Apr 26 14:53:22 +0000 2022",
       "favourites_count": 1,
@@ -13294,7 +13531,7 @@
         },
         "protected": false,
         "followers_count": 2,
-        "friends_count": 36,
+        "friends_count": 37,
         "listed_count": 0,
         "created_at": "Tue Apr 26 14:53:22 +0000 2022",
         "favourites_count": 1,
@@ -13371,7 +13608,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81049,
+        "followers_count": 81052,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -13380,47 +13617,67 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 7841,
+        "statuses_count": 7842,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:41:49 +0000 2022",
-          "id": 1522542145219043300,
-          "id_str": "1522542145219043331",
-          "text": "@MarceloBergm Hola, escribinos por privado y empezá la consulta con nuestro asistente virtual. Si necesitás, podés… https://t.co/u2yZb1AELU",
+          "created_at": "Fri May 06 12:08:39 +0000 2022",
+          "id": 1522548899713540000,
+          "id_str": "1522548899713540096",
+          "text": "@jrpampa @bciudadresponde Por seguridad, unificamos nuestra atención en @bancociudad.\nRespondimos tu consulta vía m… https://t.co/xHeE0X13ja",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "MarceloBergm",
-                "name": "Marcelo Bergm",
-                "id": 201048671,
-                "id_str": "201048671",
+                "screen_name": "jrpampa",
+                "name": "juan enrique 🇦🇷🇺🇾",
+                "id": 434453014,
+                "id_str": "434453014",
                 "indices": [
                   0,
-                  13
+                  8
+                ]
+              },
+              {
+                "screen_name": "bciudadresponde",
+                "name": "Banco Ciudad",
+                "id": 226947461,
+                "id_str": "226947461",
+                "indices": [
+                  9,
+                  25
+                ]
+              },
+              {
+                "screen_name": "BancoCiudad",
+                "name": "Banco Ciudad",
+                "id": 151946454,
+                "id_str": "151946454",
+                "indices": [
+                  72,
+                  84
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/u2yZb1AELU",
-                "expanded_url": "https://twitter.com/i/web/status/1522542145219043331",
+                "url": "https://t.co/xHeE0X13ja",
+                "expanded_url": "https://twitter.com/i/web/status/1522548899713540096",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
-          "source": "<a href=\"https://production.com\" rel=\"nofollow\"> productionChatVirg</a>",
-          "in_reply_to_status_id": 1522541873184845800,
-          "in_reply_to_status_id_str": "1522541873184845825",
-          "in_reply_to_user_id": 201048671,
-          "in_reply_to_user_id_str": "201048671",
-          "in_reply_to_screen_name": "MarceloBergm",
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": 1522545300040159200,
+          "in_reply_to_status_id_str": "1522545300040159233",
+          "in_reply_to_user_id": 434453014,
+          "in_reply_to_user_id_str": "434453014",
+          "in_reply_to_screen_name": "jrpampa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -13681,7 +13938,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81049,
+        "followers_count": 81052,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -13690,47 +13947,67 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 7841,
+        "statuses_count": 7842,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:41:49 +0000 2022",
-          "id": 1522542145219043300,
-          "id_str": "1522542145219043331",
-          "text": "@MarceloBergm Hola, escribinos por privado y empezá la consulta con nuestro asistente virtual. Si necesitás, podés… https://t.co/u2yZb1AELU",
+          "created_at": "Fri May 06 12:08:39 +0000 2022",
+          "id": 1522548899713540000,
+          "id_str": "1522548899713540096",
+          "text": "@jrpampa @bciudadresponde Por seguridad, unificamos nuestra atención en @bancociudad.\nRespondimos tu consulta vía m… https://t.co/xHeE0X13ja",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "MarceloBergm",
-                "name": "Marcelo Bergm",
-                "id": 201048671,
-                "id_str": "201048671",
+                "screen_name": "jrpampa",
+                "name": "juan enrique 🇦🇷🇺🇾",
+                "id": 434453014,
+                "id_str": "434453014",
                 "indices": [
                   0,
-                  13
+                  8
+                ]
+              },
+              {
+                "screen_name": "bciudadresponde",
+                "name": "Banco Ciudad",
+                "id": 226947461,
+                "id_str": "226947461",
+                "indices": [
+                  9,
+                  25
+                ]
+              },
+              {
+                "screen_name": "BancoCiudad",
+                "name": "Banco Ciudad",
+                "id": 151946454,
+                "id_str": "151946454",
+                "indices": [
+                  72,
+                  84
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/u2yZb1AELU",
-                "expanded_url": "https://twitter.com/i/web/status/1522542145219043331",
+                "url": "https://t.co/xHeE0X13ja",
+                "expanded_url": "https://twitter.com/i/web/status/1522548899713540096",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
-          "source": "<a href=\"https://production.com\" rel=\"nofollow\"> productionChatVirg</a>",
-          "in_reply_to_status_id": 1522541873184845800,
-          "in_reply_to_status_id_str": "1522541873184845825",
-          "in_reply_to_user_id": 201048671,
-          "in_reply_to_user_id_str": "201048671",
-          "in_reply_to_screen_name": "MarceloBergm",
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": 1522545300040159200,
+          "in_reply_to_status_id_str": "1522545300040159233",
+          "in_reply_to_user_id": 434453014,
+          "in_reply_to_user_id_str": "434453014",
+          "in_reply_to_screen_name": "jrpampa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -13991,7 +14268,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81049,
+        "followers_count": 81052,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -14000,47 +14277,67 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 7841,
+        "statuses_count": 7842,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:41:49 +0000 2022",
-          "id": 1522542145219043300,
-          "id_str": "1522542145219043331",
-          "text": "@MarceloBergm Hola, escribinos por privado y empezá la consulta con nuestro asistente virtual. Si necesitás, podés… https://t.co/u2yZb1AELU",
+          "created_at": "Fri May 06 12:08:39 +0000 2022",
+          "id": 1522548899713540000,
+          "id_str": "1522548899713540096",
+          "text": "@jrpampa @bciudadresponde Por seguridad, unificamos nuestra atención en @bancociudad.\nRespondimos tu consulta vía m… https://t.co/xHeE0X13ja",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "MarceloBergm",
-                "name": "Marcelo Bergm",
-                "id": 201048671,
-                "id_str": "201048671",
+                "screen_name": "jrpampa",
+                "name": "juan enrique 🇦🇷🇺🇾",
+                "id": 434453014,
+                "id_str": "434453014",
                 "indices": [
                   0,
-                  13
+                  8
+                ]
+              },
+              {
+                "screen_name": "bciudadresponde",
+                "name": "Banco Ciudad",
+                "id": 226947461,
+                "id_str": "226947461",
+                "indices": [
+                  9,
+                  25
+                ]
+              },
+              {
+                "screen_name": "BancoCiudad",
+                "name": "Banco Ciudad",
+                "id": 151946454,
+                "id_str": "151946454",
+                "indices": [
+                  72,
+                  84
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/u2yZb1AELU",
-                "expanded_url": "https://twitter.com/i/web/status/1522542145219043331",
+                "url": "https://t.co/xHeE0X13ja",
+                "expanded_url": "https://twitter.com/i/web/status/1522548899713540096",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
-          "source": "<a href=\"https://production.com\" rel=\"nofollow\"> productionChatVirg</a>",
-          "in_reply_to_status_id": 1522541873184845800,
-          "in_reply_to_status_id_str": "1522541873184845825",
-          "in_reply_to_user_id": 201048671,
-          "in_reply_to_user_id_str": "201048671",
-          "in_reply_to_screen_name": "MarceloBergm",
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": 1522545300040159200,
+          "in_reply_to_status_id_str": "1522545300040159233",
+          "in_reply_to_user_id": 434453014,
+          "in_reply_to_user_id_str": "434453014",
+          "in_reply_to_screen_name": "jrpampa",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -14301,7 +14598,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19557,
+        "followers_count": 19558,
         "friends_count": 2927,
         "listed_count": 83,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -14627,7 +14924,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19557,
+        "followers_count": 19558,
         "friends_count": 2927,
         "listed_count": 83,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -14953,7 +15250,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19557,
+        "followers_count": 19558,
         "friends_count": 2927,
         "listed_count": 83,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -15279,7 +15576,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19557,
+        "followers_count": 19558,
         "friends_count": 2927,
         "listed_count": 83,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -15579,7 +15876,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19557,
+        "followers_count": 19558,
         "friends_count": 2927,
         "listed_count": 83,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -15879,7 +16176,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19557,
+        "followers_count": 19558,
         "friends_count": 2927,
         "listed_count": 83,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -16179,7 +16476,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19557,
+        "followers_count": 19558,
         "friends_count": 2927,
         "listed_count": 83,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -16479,7 +16776,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19557,
+        "followers_count": 19558,
         "friends_count": 2927,
         "listed_count": 83,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -16789,7 +17086,7 @@
           }
         },
         "protected": false,
-        "followers_count": 147283,
+        "followers_count": 147288,
         "friends_count": 10179,
         "listed_count": 299,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -16798,53 +17095,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 69794,
+        "statuses_count": 69802,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:53:01 +0000 2022",
-          "id": 1522544964663746600,
-          "id_str": "1522544964663746567",
-          "text": "@BruBalquinta @BancoSantaFeApp @BruBalquinta , lamentamos por completo las molestias ocasionadas. Por favor, para q… https://t.co/ZhoB7A256K",
+          "created_at": "Fri May 06 13:09:56 +0000 2022",
+          "id": 1522564321561256000,
+          "id_str": "1522564321561255941",
+          "text": "@Cloedita ¡Hola, @Cloedita!\nNuestra única cuenta oficial es esta misma, desde donde te escribimos. Acordate siempre… https://t.co/1F3wNv4Hsn",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "BruBalquinta",
-                "name": "Bru",
-                "id": 1053240354,
-                "id_str": "1053240354",
+                "screen_name": "Cloedita",
+                "name": "La Claudia.",
+                "id": 221622502,
+                "id_str": "221622502",
                 "indices": [
                   0,
-                  13
+                  9
                 ]
               },
               {
-                "screen_name": "BancoSantaFeApp",
-                "name": "Banco Santa Fe",
-                "id": 1517282522815631400,
-                "id_str": "1517282522815631360",
+                "screen_name": "Cloedita",
+                "name": "La Claudia.",
+                "id": 221622502,
+                "id_str": "221622502",
                 "indices": [
-                  14,
-                  30
-                ]
-              },
-              {
-                "screen_name": "BruBalquinta",
-                "name": "Bru",
-                "id": 1053240354,
-                "id_str": "1053240354",
-                "indices": [
-                  31,
-                  44
+                  17,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/ZhoB7A256K",
-                "expanded_url": "https://twitter.com/i/web/status/1522544964663746567",
+                "url": "https://t.co/1F3wNv4Hsn",
+                "expanded_url": "https://twitter.com/i/web/status/1522564321561255941",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -16854,18 +17141,18 @@
             ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1522543797946794000,
-          "in_reply_to_status_id_str": "1522543797946793985",
-          "in_reply_to_user_id": 1053240354,
-          "in_reply_to_user_id_str": "1053240354",
-          "in_reply_to_screen_name": "BruBalquinta",
+          "in_reply_to_status_id": 1522563828466131000,
+          "in_reply_to_status_id_str": "1522563828466130945",
+          "in_reply_to_user_id": 221622502,
+          "in_reply_to_user_id_str": "221622502",
+          "in_reply_to_screen_name": "Cloedita",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -17155,7 +17442,7 @@
           }
         },
         "protected": false,
-        "followers_count": 147283,
+        "followers_count": 147288,
         "friends_count": 10179,
         "listed_count": 299,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -17164,53 +17451,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 69794,
+        "statuses_count": 69802,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:53:01 +0000 2022",
-          "id": 1522544964663746600,
-          "id_str": "1522544964663746567",
-          "text": "@BruBalquinta @BancoSantaFeApp @BruBalquinta , lamentamos por completo las molestias ocasionadas. Por favor, para q… https://t.co/ZhoB7A256K",
+          "created_at": "Fri May 06 13:09:56 +0000 2022",
+          "id": 1522564321561256000,
+          "id_str": "1522564321561255941",
+          "text": "@Cloedita ¡Hola, @Cloedita!\nNuestra única cuenta oficial es esta misma, desde donde te escribimos. Acordate siempre… https://t.co/1F3wNv4Hsn",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "BruBalquinta",
-                "name": "Bru",
-                "id": 1053240354,
-                "id_str": "1053240354",
+                "screen_name": "Cloedita",
+                "name": "La Claudia.",
+                "id": 221622502,
+                "id_str": "221622502",
                 "indices": [
                   0,
-                  13
+                  9
                 ]
               },
               {
-                "screen_name": "BancoSantaFeApp",
-                "name": "Banco Santa Fe",
-                "id": 1517282522815631400,
-                "id_str": "1517282522815631360",
+                "screen_name": "Cloedita",
+                "name": "La Claudia.",
+                "id": 221622502,
+                "id_str": "221622502",
                 "indices": [
-                  14,
-                  30
-                ]
-              },
-              {
-                "screen_name": "BruBalquinta",
-                "name": "Bru",
-                "id": 1053240354,
-                "id_str": "1053240354",
-                "indices": [
-                  31,
-                  44
+                  17,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/ZhoB7A256K",
-                "expanded_url": "https://twitter.com/i/web/status/1522544964663746567",
+                "url": "https://t.co/1F3wNv4Hsn",
+                "expanded_url": "https://twitter.com/i/web/status/1522564321561255941",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -17220,18 +17497,18 @@
             ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1522543797946794000,
-          "in_reply_to_status_id_str": "1522543797946793985",
-          "in_reply_to_user_id": 1053240354,
-          "in_reply_to_user_id_str": "1053240354",
-          "in_reply_to_screen_name": "BruBalquinta",
+          "in_reply_to_status_id": 1522563828466131000,
+          "in_reply_to_status_id_str": "1522563828466130945",
+          "in_reply_to_user_id": 221622502,
+          "in_reply_to_user_id_str": "221622502",
+          "in_reply_to_screen_name": "Cloedita",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -17521,7 +17798,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158325,
+        "followers_count": 158327,
         "friends_count": 16192,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -17887,7 +18164,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158325,
+        "followers_count": 158327,
         "friends_count": 16192,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -18243,7 +18520,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158325,
+        "followers_count": 158327,
         "friends_count": 16192,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -18599,7 +18876,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158325,
+        "followers_count": 158327,
         "friends_count": 16192,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -18955,7 +19232,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158325,
+        "followers_count": 158327,
         "friends_count": 16192,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -19310,33 +19587,33 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 25229,
+        "statuses_count": 25230,
         "lang": null,
         "status": {
-          "created_at": "Thu May 05 17:55:29 +0000 2022",
-          "id": 1522273793124806700,
-          "id_str": "1522273793124806661",
-          "text": "@alejandrabalbi9 Hola! Para poder asesorarte con respecto a tu consulta de forma segura necesitamos que nos escriba… https://t.co/QEX7ZtWOEi",
+          "created_at": "Fri May 06 12:13:48 +0000 2022",
+          "id": 1522550195560628200,
+          "id_str": "1522550195560628224",
+          "text": "@MartinTorrez Hola! Lamento la situación, avisale a tu esposa que me escriba por favor, así puedo ayudarla. La espe… https://t.co/rI7SM71lXU",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "alejandrabalbi9",
-                "name": "BATS - Scribophile Writers Horror Group",
-                "id": 1370144737043361800,
-                "id_str": "1370144737043361792",
+                "screen_name": "MartinTorrez",
+                "name": "Tincho",
+                "id": 142706877,
+                "id_str": "142706877",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/QEX7ZtWOEi",
-                "expanded_url": "https://twitter.com/i/web/status/1522273793124806661",
+                "url": "https://t.co/rI7SM71lXU",
+                "expanded_url": "https://twitter.com/i/web/status/1522550195560628224",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -19346,11 +19623,11 @@
             ]
           },
           "source": "<a href=\"https://www.grupokonecta.com\" rel=\"nofollow\">Epiron3Arg</a>",
-          "in_reply_to_status_id": 1522239600827248600,
-          "in_reply_to_status_id_str": "1522239600827248640",
-          "in_reply_to_user_id": 1370144737043361800,
-          "in_reply_to_user_id_str": "1370144737043361792",
-          "in_reply_to_screen_name": "alejandrabalbi9",
+          "in_reply_to_status_id": 1522318476983124000,
+          "in_reply_to_status_id_str": "1522318476983123970",
+          "in_reply_to_user_id": 142706877,
+          "in_reply_to_user_id_str": "142706877",
+          "in_reply_to_screen_name": "MartinTorrez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -19646,33 +19923,33 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 25229,
+        "statuses_count": 25230,
         "lang": null,
         "status": {
-          "created_at": "Thu May 05 17:55:29 +0000 2022",
-          "id": 1522273793124806700,
-          "id_str": "1522273793124806661",
-          "text": "@alejandrabalbi9 Hola! Para poder asesorarte con respecto a tu consulta de forma segura necesitamos que nos escriba… https://t.co/QEX7ZtWOEi",
+          "created_at": "Fri May 06 12:13:48 +0000 2022",
+          "id": 1522550195560628200,
+          "id_str": "1522550195560628224",
+          "text": "@MartinTorrez Hola! Lamento la situación, avisale a tu esposa que me escriba por favor, así puedo ayudarla. La espe… https://t.co/rI7SM71lXU",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "alejandrabalbi9",
-                "name": "BATS - Scribophile Writers Horror Group",
-                "id": 1370144737043361800,
-                "id_str": "1370144737043361792",
+                "screen_name": "MartinTorrez",
+                "name": "Tincho",
+                "id": 142706877,
+                "id_str": "142706877",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/QEX7ZtWOEi",
-                "expanded_url": "https://twitter.com/i/web/status/1522273793124806661",
+                "url": "https://t.co/rI7SM71lXU",
+                "expanded_url": "https://twitter.com/i/web/status/1522550195560628224",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -19682,11 +19959,11 @@
             ]
           },
           "source": "<a href=\"https://www.grupokonecta.com\" rel=\"nofollow\">Epiron3Arg</a>",
-          "in_reply_to_status_id": 1522239600827248600,
-          "in_reply_to_status_id_str": "1522239600827248640",
-          "in_reply_to_user_id": 1370144737043361800,
-          "in_reply_to_user_id_str": "1370144737043361792",
-          "in_reply_to_screen_name": "alejandrabalbi9",
+          "in_reply_to_status_id": 1522318476983124000,
+          "in_reply_to_status_id_str": "1522318476983123970",
+          "in_reply_to_user_id": 142706877,
+          "in_reply_to_user_id_str": "142706877",
+          "in_reply_to_screen_name": "MartinTorrez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -19982,33 +20259,33 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 25229,
+        "statuses_count": 25230,
         "lang": null,
         "status": {
-          "created_at": "Thu May 05 17:55:29 +0000 2022",
-          "id": 1522273793124806700,
-          "id_str": "1522273793124806661",
-          "text": "@alejandrabalbi9 Hola! Para poder asesorarte con respecto a tu consulta de forma segura necesitamos que nos escriba… https://t.co/QEX7ZtWOEi",
+          "created_at": "Fri May 06 12:13:48 +0000 2022",
+          "id": 1522550195560628200,
+          "id_str": "1522550195560628224",
+          "text": "@MartinTorrez Hola! Lamento la situación, avisale a tu esposa que me escriba por favor, así puedo ayudarla. La espe… https://t.co/rI7SM71lXU",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "alejandrabalbi9",
-                "name": "BATS - Scribophile Writers Horror Group",
-                "id": 1370144737043361800,
-                "id_str": "1370144737043361792",
+                "screen_name": "MartinTorrez",
+                "name": "Tincho",
+                "id": 142706877,
+                "id_str": "142706877",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/QEX7ZtWOEi",
-                "expanded_url": "https://twitter.com/i/web/status/1522273793124806661",
+                "url": "https://t.co/rI7SM71lXU",
+                "expanded_url": "https://twitter.com/i/web/status/1522550195560628224",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -20018,11 +20295,11 @@
             ]
           },
           "source": "<a href=\"https://www.grupokonecta.com\" rel=\"nofollow\">Epiron3Arg</a>",
-          "in_reply_to_status_id": 1522239600827248600,
-          "in_reply_to_status_id_str": "1522239600827248640",
-          "in_reply_to_user_id": 1370144737043361800,
-          "in_reply_to_user_id_str": "1370144737043361792",
-          "in_reply_to_screen_name": "alejandrabalbi9",
+          "in_reply_to_status_id": 1522318476983124000,
+          "in_reply_to_status_id_str": "1522318476983123970",
+          "in_reply_to_user_id": 142706877,
+          "in_reply_to_user_id_str": "142706877",
+          "in_reply_to_screen_name": "MartinTorrez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20318,33 +20595,33 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 25229,
+        "statuses_count": 25230,
         "lang": null,
         "status": {
-          "created_at": "Thu May 05 17:55:29 +0000 2022",
-          "id": 1522273793124806700,
-          "id_str": "1522273793124806661",
-          "text": "@alejandrabalbi9 Hola! Para poder asesorarte con respecto a tu consulta de forma segura necesitamos que nos escriba… https://t.co/QEX7ZtWOEi",
+          "created_at": "Fri May 06 12:13:48 +0000 2022",
+          "id": 1522550195560628200,
+          "id_str": "1522550195560628224",
+          "text": "@MartinTorrez Hola! Lamento la situación, avisale a tu esposa que me escriba por favor, así puedo ayudarla. La espe… https://t.co/rI7SM71lXU",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "alejandrabalbi9",
-                "name": "BATS - Scribophile Writers Horror Group",
-                "id": 1370144737043361800,
-                "id_str": "1370144737043361792",
+                "screen_name": "MartinTorrez",
+                "name": "Tincho",
+                "id": 142706877,
+                "id_str": "142706877",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/QEX7ZtWOEi",
-                "expanded_url": "https://twitter.com/i/web/status/1522273793124806661",
+                "url": "https://t.co/rI7SM71lXU",
+                "expanded_url": "https://twitter.com/i/web/status/1522550195560628224",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -20354,11 +20631,11 @@
             ]
           },
           "source": "<a href=\"https://www.grupokonecta.com\" rel=\"nofollow\">Epiron3Arg</a>",
-          "in_reply_to_status_id": 1522239600827248600,
-          "in_reply_to_status_id_str": "1522239600827248640",
-          "in_reply_to_user_id": 1370144737043361800,
-          "in_reply_to_user_id_str": "1370144737043361792",
-          "in_reply_to_screen_name": "alejandrabalbi9",
+          "in_reply_to_status_id": 1522318476983124000,
+          "in_reply_to_status_id_str": "1522318476983123970",
+          "in_reply_to_user_id": 142706877,
+          "in_reply_to_user_id_str": "142706877",
+          "in_reply_to_screen_name": "MartinTorrez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20654,33 +20931,33 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 25229,
+        "statuses_count": 25230,
         "lang": null,
         "status": {
-          "created_at": "Thu May 05 17:55:29 +0000 2022",
-          "id": 1522273793124806700,
-          "id_str": "1522273793124806661",
-          "text": "@alejandrabalbi9 Hola! Para poder asesorarte con respecto a tu consulta de forma segura necesitamos que nos escriba… https://t.co/QEX7ZtWOEi",
+          "created_at": "Fri May 06 12:13:48 +0000 2022",
+          "id": 1522550195560628200,
+          "id_str": "1522550195560628224",
+          "text": "@MartinTorrez Hola! Lamento la situación, avisale a tu esposa que me escriba por favor, así puedo ayudarla. La espe… https://t.co/rI7SM71lXU",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "alejandrabalbi9",
-                "name": "BATS - Scribophile Writers Horror Group",
-                "id": 1370144737043361800,
-                "id_str": "1370144737043361792",
+                "screen_name": "MartinTorrez",
+                "name": "Tincho",
+                "id": 142706877,
+                "id_str": "142706877",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/QEX7ZtWOEi",
-                "expanded_url": "https://twitter.com/i/web/status/1522273793124806661",
+                "url": "https://t.co/rI7SM71lXU",
+                "expanded_url": "https://twitter.com/i/web/status/1522550195560628224",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -20690,11 +20967,11 @@
             ]
           },
           "source": "<a href=\"https://www.grupokonecta.com\" rel=\"nofollow\">Epiron3Arg</a>",
-          "in_reply_to_status_id": 1522239600827248600,
-          "in_reply_to_status_id_str": "1522239600827248640",
-          "in_reply_to_user_id": 1370144737043361800,
-          "in_reply_to_user_id_str": "1370144737043361792",
-          "in_reply_to_screen_name": "alejandrabalbi9",
+          "in_reply_to_status_id": 1522318476983124000,
+          "in_reply_to_status_id_str": "1522318476983123970",
+          "in_reply_to_user_id": 142706877,
+          "in_reply_to_user_id_str": "142706877",
+          "in_reply_to_screen_name": "MartinTorrez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20990,33 +21267,33 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 25229,
+        "statuses_count": 25230,
         "lang": null,
         "status": {
-          "created_at": "Thu May 05 17:55:29 +0000 2022",
-          "id": 1522273793124806700,
-          "id_str": "1522273793124806661",
-          "text": "@alejandrabalbi9 Hola! Para poder asesorarte con respecto a tu consulta de forma segura necesitamos que nos escriba… https://t.co/QEX7ZtWOEi",
+          "created_at": "Fri May 06 12:13:48 +0000 2022",
+          "id": 1522550195560628200,
+          "id_str": "1522550195560628224",
+          "text": "@MartinTorrez Hola! Lamento la situación, avisale a tu esposa que me escriba por favor, así puedo ayudarla. La espe… https://t.co/rI7SM71lXU",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "alejandrabalbi9",
-                "name": "BATS - Scribophile Writers Horror Group",
-                "id": 1370144737043361800,
-                "id_str": "1370144737043361792",
+                "screen_name": "MartinTorrez",
+                "name": "Tincho",
+                "id": 142706877,
+                "id_str": "142706877",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/QEX7ZtWOEi",
-                "expanded_url": "https://twitter.com/i/web/status/1522273793124806661",
+                "url": "https://t.co/rI7SM71lXU",
+                "expanded_url": "https://twitter.com/i/web/status/1522550195560628224",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -21026,11 +21303,11 @@
             ]
           },
           "source": "<a href=\"https://www.grupokonecta.com\" rel=\"nofollow\">Epiron3Arg</a>",
-          "in_reply_to_status_id": 1522239600827248600,
-          "in_reply_to_status_id_str": "1522239600827248640",
-          "in_reply_to_user_id": 1370144737043361800,
-          "in_reply_to_user_id_str": "1370144737043361792",
-          "in_reply_to_screen_name": "alejandrabalbi9",
+          "in_reply_to_status_id": 1522318476983124000,
+          "in_reply_to_status_id_str": "1522318476983123970",
+          "in_reply_to_user_id": 142706877,
+          "in_reply_to_user_id_str": "142706877",
+          "in_reply_to_screen_name": "MartinTorrez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -21336,33 +21613,33 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 25229,
+        "statuses_count": 25230,
         "lang": null,
         "status": {
-          "created_at": "Thu May 05 17:55:29 +0000 2022",
-          "id": 1522273793124806700,
-          "id_str": "1522273793124806661",
-          "text": "@alejandrabalbi9 Hola! Para poder asesorarte con respecto a tu consulta de forma segura necesitamos que nos escriba… https://t.co/QEX7ZtWOEi",
+          "created_at": "Fri May 06 12:13:48 +0000 2022",
+          "id": 1522550195560628200,
+          "id_str": "1522550195560628224",
+          "text": "@MartinTorrez Hola! Lamento la situación, avisale a tu esposa que me escriba por favor, así puedo ayudarla. La espe… https://t.co/rI7SM71lXU",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "alejandrabalbi9",
-                "name": "BATS - Scribophile Writers Horror Group",
-                "id": 1370144737043361800,
-                "id_str": "1370144737043361792",
+                "screen_name": "MartinTorrez",
+                "name": "Tincho",
+                "id": 142706877,
+                "id_str": "142706877",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/QEX7ZtWOEi",
-                "expanded_url": "https://twitter.com/i/web/status/1522273793124806661",
+                "url": "https://t.co/rI7SM71lXU",
+                "expanded_url": "https://twitter.com/i/web/status/1522550195560628224",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -21372,11 +21649,11 @@
             ]
           },
           "source": "<a href=\"https://www.grupokonecta.com\" rel=\"nofollow\">Epiron3Arg</a>",
-          "in_reply_to_status_id": 1522239600827248600,
-          "in_reply_to_status_id_str": "1522239600827248640",
-          "in_reply_to_user_id": 1370144737043361800,
-          "in_reply_to_user_id_str": "1370144737043361792",
-          "in_reply_to_screen_name": "alejandrabalbi9",
+          "in_reply_to_status_id": 1522318476983124000,
+          "in_reply_to_status_id_str": "1522318476983123970",
+          "in_reply_to_user_id": 142706877,
+          "in_reply_to_user_id_str": "142706877",
+          "in_reply_to_screen_name": "MartinTorrez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -21682,33 +21959,33 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 25229,
+        "statuses_count": 25230,
         "lang": null,
         "status": {
-          "created_at": "Thu May 05 17:55:29 +0000 2022",
-          "id": 1522273793124806700,
-          "id_str": "1522273793124806661",
-          "text": "@alejandrabalbi9 Hola! Para poder asesorarte con respecto a tu consulta de forma segura necesitamos que nos escriba… https://t.co/QEX7ZtWOEi",
+          "created_at": "Fri May 06 12:13:48 +0000 2022",
+          "id": 1522550195560628200,
+          "id_str": "1522550195560628224",
+          "text": "@MartinTorrez Hola! Lamento la situación, avisale a tu esposa que me escriba por favor, así puedo ayudarla. La espe… https://t.co/rI7SM71lXU",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "alejandrabalbi9",
-                "name": "BATS - Scribophile Writers Horror Group",
-                "id": 1370144737043361800,
-                "id_str": "1370144737043361792",
+                "screen_name": "MartinTorrez",
+                "name": "Tincho",
+                "id": 142706877,
+                "id_str": "142706877",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/QEX7ZtWOEi",
-                "expanded_url": "https://twitter.com/i/web/status/1522273793124806661",
+                "url": "https://t.co/rI7SM71lXU",
+                "expanded_url": "https://twitter.com/i/web/status/1522550195560628224",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -21718,11 +21995,11 @@
             ]
           },
           "source": "<a href=\"https://www.grupokonecta.com\" rel=\"nofollow\">Epiron3Arg</a>",
-          "in_reply_to_status_id": 1522239600827248600,
-          "in_reply_to_status_id_str": "1522239600827248640",
-          "in_reply_to_user_id": 1370144737043361800,
-          "in_reply_to_user_id_str": "1370144737043361792",
-          "in_reply_to_screen_name": "alejandrabalbi9",
+          "in_reply_to_status_id": 1522318476983124000,
+          "in_reply_to_status_id_str": "1522318476983123970",
+          "in_reply_to_user_id": 142706877,
+          "in_reply_to_user_id_str": "142706877",
+          "in_reply_to_screen_name": "MartinTorrez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22029,7 +22306,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443928,
+        "followers_count": 443932,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22038,47 +22315,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59213,
+        "statuses_count": 59214,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 10:56:27 +0000 2022",
-          "id": 1522530726113120300,
-          "id_str": "1522530726113120257",
-          "text": "@elioprogre ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/jC4Zbr7Scl",
+          "created_at": "Fri May 06 13:14:01 +0000 2022",
+          "id": 1522565349106987000,
+          "id_str": "1522565349106987008",
+          "text": "@mechimartinengo ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, códig… https://t.co/MMkvCQ33eW",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "elioprogre",
-                "name": "elio",
-                "id": 247435046,
-                "id_str": "247435046",
+                "screen_name": "mechimartinengo",
+                "name": "Mechi Martinengo",
+                "id": 119899569,
+                "id_str": "119899569",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/jC4Zbr7Scl",
-                "expanded_url": "https://twitter.com/i/web/status/1522530726113120257",
+                "url": "https://t.co/MMkvCQ33eW",
+                "expanded_url": "https://twitter.com/i/web/status/1522565349106987008",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1522398398606938000,
-          "in_reply_to_status_id_str": "1522398398606938113",
-          "in_reply_to_user_id": 247435046,
-          "in_reply_to_user_id_str": "247435046",
-          "in_reply_to_screen_name": "elioprogre",
+          "in_reply_to_status_id": 1522564504722227200,
+          "in_reply_to_status_id_str": "1522564504722227200",
+          "in_reply_to_user_id": 119899569,
+          "in_reply_to_user_id_str": "119899569",
+          "in_reply_to_screen_name": "mechimartinengo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22130,10 +22407,10 @@
       },
       "protected": false,
       "followers_count": 0,
-      "friends_count": 74,
+      "friends_count": 0,
       "listed_count": 0,
       "created_at": "Sun May 01 15:48:18 +0000 2022",
-      "favourites_count": 1,
+      "favourites_count": 0,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
@@ -22262,10 +22539,10 @@
         },
         "protected": false,
         "followers_count": 0,
-        "friends_count": 74,
+        "friends_count": 0,
         "listed_count": 0,
         "created_at": "Sun May 01 15:48:18 +0000 2022",
-        "favourites_count": 1,
+        "favourites_count": 0,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
@@ -22349,7 +22626,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443928,
+        "followers_count": 443932,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22358,47 +22635,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59213,
+        "statuses_count": 59214,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 10:56:27 +0000 2022",
-          "id": 1522530726113120300,
-          "id_str": "1522530726113120257",
-          "text": "@elioprogre ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/jC4Zbr7Scl",
+          "created_at": "Fri May 06 13:14:01 +0000 2022",
+          "id": 1522565349106987000,
+          "id_str": "1522565349106987008",
+          "text": "@mechimartinengo ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, códig… https://t.co/MMkvCQ33eW",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "elioprogre",
-                "name": "elio",
-                "id": 247435046,
-                "id_str": "247435046",
+                "screen_name": "mechimartinengo",
+                "name": "Mechi Martinengo",
+                "id": 119899569,
+                "id_str": "119899569",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/jC4Zbr7Scl",
-                "expanded_url": "https://twitter.com/i/web/status/1522530726113120257",
+                "url": "https://t.co/MMkvCQ33eW",
+                "expanded_url": "https://twitter.com/i/web/status/1522565349106987008",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1522398398606938000,
-          "in_reply_to_status_id_str": "1522398398606938113",
-          "in_reply_to_user_id": 247435046,
-          "in_reply_to_user_id_str": "247435046",
-          "in_reply_to_screen_name": "elioprogre",
+          "in_reply_to_status_id": 1522564504722227200,
+          "in_reply_to_status_id_str": "1522564504722227200",
+          "in_reply_to_user_id": 119899569,
+          "in_reply_to_user_id_str": "119899569",
+          "in_reply_to_screen_name": "mechimartinengo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22450,10 +22727,10 @@
       },
       "protected": false,
       "followers_count": 0,
-      "friends_count": 74,
+      "friends_count": 0,
       "listed_count": 0,
       "created_at": "Sun May 01 15:48:18 +0000 2022",
-      "favourites_count": 1,
+      "favourites_count": 0,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
@@ -22582,10 +22859,10 @@
         },
         "protected": false,
         "followers_count": 0,
-        "friends_count": 74,
+        "friends_count": 0,
         "listed_count": 0,
         "created_at": "Sun May 01 15:48:18 +0000 2022",
-        "favourites_count": 1,
+        "favourites_count": 0,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
@@ -22669,7 +22946,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443928,
+        "followers_count": 443932,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22678,47 +22955,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59213,
+        "statuses_count": 59214,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 10:56:27 +0000 2022",
-          "id": 1522530726113120300,
-          "id_str": "1522530726113120257",
-          "text": "@elioprogre ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/jC4Zbr7Scl",
+          "created_at": "Fri May 06 13:14:01 +0000 2022",
+          "id": 1522565349106987000,
+          "id_str": "1522565349106987008",
+          "text": "@mechimartinengo ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, códig… https://t.co/MMkvCQ33eW",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "elioprogre",
-                "name": "elio",
-                "id": 247435046,
-                "id_str": "247435046",
+                "screen_name": "mechimartinengo",
+                "name": "Mechi Martinengo",
+                "id": 119899569,
+                "id_str": "119899569",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/jC4Zbr7Scl",
-                "expanded_url": "https://twitter.com/i/web/status/1522530726113120257",
+                "url": "https://t.co/MMkvCQ33eW",
+                "expanded_url": "https://twitter.com/i/web/status/1522565349106987008",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1522398398606938000,
-          "in_reply_to_status_id_str": "1522398398606938113",
-          "in_reply_to_user_id": 247435046,
-          "in_reply_to_user_id_str": "247435046",
-          "in_reply_to_screen_name": "elioprogre",
+          "in_reply_to_status_id": 1522564504722227200,
+          "in_reply_to_status_id_str": "1522564504722227200",
+          "in_reply_to_user_id": 119899569,
+          "in_reply_to_user_id_str": "119899569",
+          "in_reply_to_screen_name": "mechimartinengo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23015,7 +23292,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443928,
+        "followers_count": 443932,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23024,47 +23301,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59213,
+        "statuses_count": 59214,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 10:56:27 +0000 2022",
-          "id": 1522530726113120300,
-          "id_str": "1522530726113120257",
-          "text": "@elioprogre ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/jC4Zbr7Scl",
+          "created_at": "Fri May 06 13:14:01 +0000 2022",
+          "id": 1522565349106987000,
+          "id_str": "1522565349106987008",
+          "text": "@mechimartinengo ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, códig… https://t.co/MMkvCQ33eW",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "elioprogre",
-                "name": "elio",
-                "id": 247435046,
-                "id_str": "247435046",
+                "screen_name": "mechimartinengo",
+                "name": "Mechi Martinengo",
+                "id": 119899569,
+                "id_str": "119899569",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/jC4Zbr7Scl",
-                "expanded_url": "https://twitter.com/i/web/status/1522530726113120257",
+                "url": "https://t.co/MMkvCQ33eW",
+                "expanded_url": "https://twitter.com/i/web/status/1522565349106987008",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1522398398606938000,
-          "in_reply_to_status_id_str": "1522398398606938113",
-          "in_reply_to_user_id": 247435046,
-          "in_reply_to_user_id_str": "247435046",
-          "in_reply_to_screen_name": "elioprogre",
+          "in_reply_to_status_id": 1522564504722227200,
+          "in_reply_to_status_id_str": "1522564504722227200",
+          "in_reply_to_user_id": 119899569,
+          "in_reply_to_user_id_str": "119899569",
+          "in_reply_to_screen_name": "mechimartinengo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23361,7 +23638,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443928,
+        "followers_count": 443932,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23370,47 +23647,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59213,
+        "statuses_count": 59214,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 10:56:27 +0000 2022",
-          "id": 1522530726113120300,
-          "id_str": "1522530726113120257",
-          "text": "@elioprogre ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/jC4Zbr7Scl",
+          "created_at": "Fri May 06 13:14:01 +0000 2022",
+          "id": 1522565349106987000,
+          "id_str": "1522565349106987008",
+          "text": "@mechimartinengo ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, códig… https://t.co/MMkvCQ33eW",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "elioprogre",
-                "name": "elio",
-                "id": 247435046,
-                "id_str": "247435046",
+                "screen_name": "mechimartinengo",
+                "name": "Mechi Martinengo",
+                "id": 119899569,
+                "id_str": "119899569",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/jC4Zbr7Scl",
-                "expanded_url": "https://twitter.com/i/web/status/1522530726113120257",
+                "url": "https://t.co/MMkvCQ33eW",
+                "expanded_url": "https://twitter.com/i/web/status/1522565349106987008",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1522398398606938000,
-          "in_reply_to_status_id_str": "1522398398606938113",
-          "in_reply_to_user_id": 247435046,
-          "in_reply_to_user_id_str": "247435046",
-          "in_reply_to_screen_name": "elioprogre",
+          "in_reply_to_status_id": 1522564504722227200,
+          "in_reply_to_status_id_str": "1522564504722227200",
+          "in_reply_to_user_id": 119899569,
+          "in_reply_to_user_id_str": "119899569",
+          "in_reply_to_screen_name": "mechimartinengo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23681,7 +23958,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443928,
+        "followers_count": 443932,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23690,47 +23967,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59213,
+        "statuses_count": 59214,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 10:56:27 +0000 2022",
-          "id": 1522530726113120300,
-          "id_str": "1522530726113120257",
-          "text": "@elioprogre ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/jC4Zbr7Scl",
+          "created_at": "Fri May 06 13:14:01 +0000 2022",
+          "id": 1522565349106987000,
+          "id_str": "1522565349106987008",
+          "text": "@mechimartinengo ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, códig… https://t.co/MMkvCQ33eW",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "elioprogre",
-                "name": "elio",
-                "id": 247435046,
-                "id_str": "247435046",
+                "screen_name": "mechimartinengo",
+                "name": "Mechi Martinengo",
+                "id": 119899569,
+                "id_str": "119899569",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/jC4Zbr7Scl",
-                "expanded_url": "https://twitter.com/i/web/status/1522530726113120257",
+                "url": "https://t.co/MMkvCQ33eW",
+                "expanded_url": "https://twitter.com/i/web/status/1522565349106987008",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1522398398606938000,
-          "in_reply_to_status_id_str": "1522398398606938113",
-          "in_reply_to_user_id": 247435046,
-          "in_reply_to_user_id_str": "247435046",
-          "in_reply_to_screen_name": "elioprogre",
+          "in_reply_to_status_id": 1522564504722227200,
+          "in_reply_to_status_id_str": "1522564504722227200",
+          "in_reply_to_user_id": 119899569,
+          "in_reply_to_user_id_str": "119899569",
+          "in_reply_to_screen_name": "mechimartinengo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23991,7 +24268,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -24112,7 +24389,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -24365,7 +24642,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -24486,7 +24763,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -24739,7 +25016,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -24860,7 +25137,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -25113,7 +25390,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25234,7 +25511,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -25487,7 +25764,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25608,7 +25885,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -25861,7 +26138,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25982,7 +26259,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -26263,7 +26540,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26384,7 +26661,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -26637,7 +26914,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26758,7 +27035,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -27011,7 +27288,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -27132,7 +27409,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -27385,7 +27662,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -27506,7 +27783,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -27759,7 +28036,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -27880,7 +28157,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -28133,7 +28410,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94045,
+        "followers_count": 94046,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -28254,7 +28531,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 14,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -28545,7 +28822,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151049,
+        "followers_count": 151056,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -28554,33 +28831,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165889,
+        "statuses_count": 165890,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:46:31 +0000 2022",
-          "id": 1522543326142111700,
-          "id_str": "1522543326142111744",
-          "text": "@casinonazco Hola. Estamos acá para darte el soporte necesario, para eso, ¿nos podrías detallar tu consulta? Así po… https://t.co/kTFlB3PUru",
+          "created_at": "Fri May 06 12:47:18 +0000 2022",
+          "id": 1522558625969021000,
+          "id_str": "1522558625969020928",
+          "text": "@PabloCesarSilva @AGIP_BA Para verificar lo sucedido con tu inconveniente, iniciá sesión en tu cuenta e ingresá a: … https://t.co/WkL7KO6VT0",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "casinonazco",
-                "name": "kolekcan",
-                "id": 1861220310,
-                "id_str": "1861220310",
+                "screen_name": "PabloCesarSilva",
+                "name": "T⚽️D⚽️ PASA ™️ ®️",
+                "id": 145412066,
+                "id_str": "145412066",
                 "indices": [
                   0,
-                  12
+                  16
+                ]
+              },
+              {
+                "screen_name": "AGIP_BA",
+                "name": "AGIP",
+                "id": 1121795311289036800,
+                "id_str": "1121795311289036801",
+                "indices": [
+                  17,
+                  25
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/kTFlB3PUru",
-                "expanded_url": "https://twitter.com/i/web/status/1522543326142111744",
+                "url": "https://t.co/WkL7KO6VT0",
+                "expanded_url": "https://twitter.com/i/web/status/1522558625969020928",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -28590,11 +28877,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1522326217126551600,
-          "in_reply_to_status_id_str": "1522326217126551553",
-          "in_reply_to_user_id": 1861220310,
-          "in_reply_to_user_id_str": "1861220310",
-          "in_reply_to_screen_name": "casinonazco",
+          "in_reply_to_status_id": 1522552097526493200,
+          "in_reply_to_status_id_str": "1522552097526493185",
+          "in_reply_to_user_id": 145412066,
+          "in_reply_to_user_id_str": "145412066",
+          "in_reply_to_screen_name": "PabloCesarSilva",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28867,7 +29154,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151049,
+        "followers_count": 151056,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -28876,33 +29163,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165889,
+        "statuses_count": 165890,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:46:31 +0000 2022",
-          "id": 1522543326142111700,
-          "id_str": "1522543326142111744",
-          "text": "@casinonazco Hola. Estamos acá para darte el soporte necesario, para eso, ¿nos podrías detallar tu consulta? Así po… https://t.co/kTFlB3PUru",
+          "created_at": "Fri May 06 12:47:18 +0000 2022",
+          "id": 1522558625969021000,
+          "id_str": "1522558625969020928",
+          "text": "@PabloCesarSilva @AGIP_BA Para verificar lo sucedido con tu inconveniente, iniciá sesión en tu cuenta e ingresá a: … https://t.co/WkL7KO6VT0",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "casinonazco",
-                "name": "kolekcan",
-                "id": 1861220310,
-                "id_str": "1861220310",
+                "screen_name": "PabloCesarSilva",
+                "name": "T⚽️D⚽️ PASA ™️ ®️",
+                "id": 145412066,
+                "id_str": "145412066",
                 "indices": [
                   0,
-                  12
+                  16
+                ]
+              },
+              {
+                "screen_name": "AGIP_BA",
+                "name": "AGIP",
+                "id": 1121795311289036800,
+                "id_str": "1121795311289036801",
+                "indices": [
+                  17,
+                  25
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/kTFlB3PUru",
-                "expanded_url": "https://twitter.com/i/web/status/1522543326142111744",
+                "url": "https://t.co/WkL7KO6VT0",
+                "expanded_url": "https://twitter.com/i/web/status/1522558625969020928",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -28912,11 +29209,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1522326217126551600,
-          "in_reply_to_status_id_str": "1522326217126551553",
-          "in_reply_to_user_id": 1861220310,
-          "in_reply_to_user_id_str": "1861220310",
-          "in_reply_to_screen_name": "casinonazco",
+          "in_reply_to_status_id": 1522552097526493200,
+          "in_reply_to_status_id_str": "1522552097526493185",
+          "in_reply_to_user_id": 145412066,
+          "in_reply_to_user_id_str": "145412066",
+          "in_reply_to_screen_name": "PabloCesarSilva",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -29189,7 +29486,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151049,
+        "followers_count": 151056,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -29198,33 +29495,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165889,
+        "statuses_count": 165890,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:46:31 +0000 2022",
-          "id": 1522543326142111700,
-          "id_str": "1522543326142111744",
-          "text": "@casinonazco Hola. Estamos acá para darte el soporte necesario, para eso, ¿nos podrías detallar tu consulta? Así po… https://t.co/kTFlB3PUru",
+          "created_at": "Fri May 06 12:47:18 +0000 2022",
+          "id": 1522558625969021000,
+          "id_str": "1522558625969020928",
+          "text": "@PabloCesarSilva @AGIP_BA Para verificar lo sucedido con tu inconveniente, iniciá sesión en tu cuenta e ingresá a: … https://t.co/WkL7KO6VT0",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "casinonazco",
-                "name": "kolekcan",
-                "id": 1861220310,
-                "id_str": "1861220310",
+                "screen_name": "PabloCesarSilva",
+                "name": "T⚽️D⚽️ PASA ™️ ®️",
+                "id": 145412066,
+                "id_str": "145412066",
                 "indices": [
                   0,
-                  12
+                  16
+                ]
+              },
+              {
+                "screen_name": "AGIP_BA",
+                "name": "AGIP",
+                "id": 1121795311289036800,
+                "id_str": "1121795311289036801",
+                "indices": [
+                  17,
+                  25
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/kTFlB3PUru",
-                "expanded_url": "https://twitter.com/i/web/status/1522543326142111744",
+                "url": "https://t.co/WkL7KO6VT0",
+                "expanded_url": "https://twitter.com/i/web/status/1522558625969020928",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -29234,11 +29541,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1522326217126551600,
-          "in_reply_to_status_id_str": "1522326217126551553",
-          "in_reply_to_user_id": 1861220310,
-          "in_reply_to_user_id_str": "1861220310",
-          "in_reply_to_screen_name": "casinonazco",
+          "in_reply_to_status_id": 1522552097526493200,
+          "in_reply_to_status_id_str": "1522552097526493185",
+          "in_reply_to_user_id": 145412066,
+          "in_reply_to_user_id_str": "145412066",
+          "in_reply_to_screen_name": "PabloCesarSilva",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -29511,7 +29818,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151049,
+        "followers_count": 151056,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -29520,33 +29827,43 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165889,
+        "statuses_count": 165890,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:46:31 +0000 2022",
-          "id": 1522543326142111700,
-          "id_str": "1522543326142111744",
-          "text": "@casinonazco Hola. Estamos acá para darte el soporte necesario, para eso, ¿nos podrías detallar tu consulta? Así po… https://t.co/kTFlB3PUru",
+          "created_at": "Fri May 06 12:47:18 +0000 2022",
+          "id": 1522558625969021000,
+          "id_str": "1522558625969020928",
+          "text": "@PabloCesarSilva @AGIP_BA Para verificar lo sucedido con tu inconveniente, iniciá sesión en tu cuenta e ingresá a: … https://t.co/WkL7KO6VT0",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "casinonazco",
-                "name": "kolekcan",
-                "id": 1861220310,
-                "id_str": "1861220310",
+                "screen_name": "PabloCesarSilva",
+                "name": "T⚽️D⚽️ PASA ™️ ®️",
+                "id": 145412066,
+                "id_str": "145412066",
                 "indices": [
                   0,
-                  12
+                  16
+                ]
+              },
+              {
+                "screen_name": "AGIP_BA",
+                "name": "AGIP",
+                "id": 1121795311289036800,
+                "id_str": "1121795311289036801",
+                "indices": [
+                  17,
+                  25
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/kTFlB3PUru",
-                "expanded_url": "https://twitter.com/i/web/status/1522543326142111744",
+                "url": "https://t.co/WkL7KO6VT0",
+                "expanded_url": "https://twitter.com/i/web/status/1522558625969020928",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -29556,11 +29873,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1522326217126551600,
-          "in_reply_to_status_id_str": "1522326217126551553",
-          "in_reply_to_user_id": 1861220310,
-          "in_reply_to_user_id_str": "1861220310",
-          "in_reply_to_screen_name": "casinonazco",
+          "in_reply_to_status_id": 1522552097526493200,
+          "in_reply_to_status_id_str": "1522552097526493185",
+          "in_reply_to_user_id": 145412066,
+          "in_reply_to_user_id_str": "145412066",
+          "in_reply_to_screen_name": "PabloCesarSilva",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -29833,7 +30150,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183447,
+        "followers_count": 183443,
         "friends_count": 236,
         "listed_count": 111,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -29842,47 +30159,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 71234,
+        "statuses_count": 71236,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 11:43:21 +0000 2022",
-          "id": 1522542529983430700,
-          "id_str": "1522542529983430659",
-          "text": "@luzjavx ¡Hola! Te enviamos un mensaje directo para ayudarte. Recordá que nuestra cuenta oficial tiene el tilde de… https://t.co/cdTXn3o9Sq",
+          "created_at": "Fri May 06 12:42:46 +0000 2022",
+          "id": 1522557483394474000,
+          "id_str": "1522557483394473984",
+          "text": "@heavywing_ ¡Hola! Lamentamos la demora. Verificamos que ya te respondimos por mensaje directo para ayudarte. Por f… https://t.co/szvskkOnvd",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "luzjavx",
-                "name": "Luli",
-                "id": 1003090840720375800,
-                "id_str": "1003090840720375808",
+                "screen_name": "heavywing_",
+                "name": "g u i d ø l e ø n e l",
+                "id": 1390490697665589200,
+                "id_str": "1390490697665589251",
                 "indices": [
                   0,
-                  8
+                  11
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/cdTXn3o9Sq",
-                "expanded_url": "https://twitter.com/i/web/status/1522542529983430659",
+                "url": "https://t.co/szvskkOnvd",
+                "expanded_url": "https://twitter.com/i/web/status/1522557483394473984",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
-          "in_reply_to_status_id": 1522410391812329500,
-          "in_reply_to_status_id_str": "1522410391812329473",
-          "in_reply_to_user_id": 1003090840720375800,
-          "in_reply_to_user_id_str": "1003090840720375808",
-          "in_reply_to_screen_name": "luzjavx",
+          "in_reply_to_status_id": 1521970149053530000,
+          "in_reply_to_status_id_str": "1521970149053530112",
+          "in_reply_to_user_id": 1390490697665589200,
+          "in_reply_to_user_id_str": "1390490697665589251",
+          "in_reply_to_screen_name": "heavywing_",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -30143,7 +30460,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14977,
+        "followers_count": 14979,
         "friends_count": 741,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -30479,7 +30796,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14977,
+        "followers_count": 14979,
         "friends_count": 741,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -30805,7 +31122,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14977,
+        "followers_count": 14979,
         "friends_count": 741,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -31131,7 +31448,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14977,
+        "followers_count": 14979,
         "friends_count": 741,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -31457,7 +31774,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14977,
+        "followers_count": 14979,
         "friends_count": 741,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -31783,7 +32100,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14977,
+        "followers_count": 14979,
         "friends_count": 741,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -32109,7 +32426,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14977,
+        "followers_count": 14979,
         "friends_count": 741,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
