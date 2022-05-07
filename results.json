@@ -87,7 +87,7 @@
           "quoted_status_id": 1522755743958585300,
           "quoted_status_id_str": "1522755743958585350",
           "retweet_count": 19,
-          "favorite_count": 828,
+          "favorite_count": 876,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -408,7 +408,7 @@
           "quoted_status_id": 1522755743958585300,
           "quoted_status_id_str": "1522755743958585350",
           "retweet_count": 19,
-          "favorite_count": 828,
+          "favorite_count": 876,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -729,7 +729,7 @@
           "quoted_status_id": 1522755743958585300,
           "quoted_status_id_str": "1522755743958585350",
           "retweet_count": 19,
-          "favorite_count": 828,
+          "favorite_count": 876,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -1050,7 +1050,7 @@
           "quoted_status_id": 1522755743958585300,
           "quoted_status_id_str": "1522755743958585350",
           "retweet_count": 19,
-          "favorite_count": 828,
+          "favorite_count": 876,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -1363,7 +1363,7 @@
           "quoted_status_id": 1522755743958585300,
           "quoted_status_id_str": "1522755743958585350",
           "retweet_count": 19,
-          "favorite_count": 828,
+          "favorite_count": 876,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -1676,7 +1676,7 @@
           "quoted_status_id": 1522755743958585300,
           "quoted_status_id_str": "1522755743958585350",
           "retweet_count": 19,
-          "favorite_count": 828,
+          "favorite_count": 876,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -1989,7 +1989,7 @@
           "quoted_status_id": 1522755743958585300,
           "quoted_status_id_str": "1522755743958585350",
           "retweet_count": 19,
-          "favorite_count": 828,
+          "favorite_count": 876,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -2302,7 +2302,7 @@
           "quoted_status_id": 1522755743958585300,
           "quoted_status_id_str": "1522755743958585350",
           "retweet_count": 19,
-          "favorite_count": 828,
+          "favorite_count": 876,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -2615,7 +2615,7 @@
           "quoted_status_id": 1522755743958585300,
           "quoted_status_id_str": "1522755743958585350",
           "retweet_count": 19,
-          "favorite_count": 828,
+          "favorite_count": 876,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -2954,7 +2954,7 @@
           "quoted_status_id": 1522755743958585300,
           "quoted_status_id_str": "1522755743958585350",
           "retweet_count": 19,
-          "favorite_count": 828,
+          "favorite_count": 876,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -3245,7 +3245,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3254,64 +3254,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3563,7 +3543,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3572,64 +3552,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3891,7 +3851,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3900,64 +3860,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4209,7 +4149,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4218,64 +4158,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4527,7 +4447,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4536,64 +4456,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4836,7 +4736,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4845,64 +4745,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5145,7 +5025,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5154,64 +5034,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5454,7 +5314,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5463,64 +5323,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5763,7 +5603,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5772,64 +5612,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6072,7 +5892,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -6081,64 +5901,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6381,7 +6181,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -6390,64 +6190,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6693,7 +6473,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -6702,64 +6482,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -7008,7 +6768,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -7017,64 +6777,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -7323,7 +7063,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -7332,64 +7072,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -7632,7 +7352,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -7641,64 +7361,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -7941,7 +7641,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -7950,64 +7650,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -8250,7 +7930,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -8259,64 +7939,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -8562,7 +8222,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -8571,64 +8231,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -8877,7 +8517,7 @@
           }
         },
         "protected": false,
-        "followers_count": 654026,
+        "followers_count": 654027,
         "friends_count": 316033,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -8886,64 +8526,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025206,
+        "statuses_count": 1025207,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 04:25:35 +0000 2022",
-          "id": 1522794750641946600,
-          "id_str": "1522794750641946624",
-          "text": "@IngenautaSho @IngenautaSho Te invitamos a que te comuniques con nosotros por DM para brindarte toda la información… https://t.co/1agCkbJcpm",
-          "truncated": true,
+          "created_at": "Sat May 07 11:24:48 +0000 2022",
+          "id": 1522900249399988200,
+          "id_str": "1522900249399988225",
+          "text": "@dory_2013 Buenos días, ya estamos contigo al DM :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
+                "screen_name": "dory_2013",
+                "name": "𝔻 𝕠 𝕣 𝕪 𝕥 𝕒 彡★",
+                "id": 2261988217,
+                "id_str": "2261988217",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "IngenautaSho",
-                "name": "🇦🇷Salvemos La República🙏🌟 Soy Evy",
-                "id": 1412113724,
-                "id_str": "1412113724",
-                "indices": [
-                  14,
-                  27
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1agCkbJcpm",
-                "expanded_url": "https://twitter.com/i/web/status/1522794750641946624",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1522794206682566700,
-          "in_reply_to_status_id_str": "1522794206682566659",
-          "in_reply_to_user_id": 1412113724,
-          "in_reply_to_user_id_str": "1412113724",
-          "in_reply_to_screen_name": "IngenautaSho",
+          "in_reply_to_status_id": 1522899985947189200,
+          "in_reply_to_status_id_str": "1522899985947189249",
+          "in_reply_to_user_id": 2261988217,
+          "in_reply_to_user_id_str": "2261988217",
+          "in_reply_to_screen_name": "dory_2013",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -9182,8 +8802,8 @@
           }
         },
         "protected": false,
-        "followers_count": 547225,
-        "friends_count": 215127,
+        "followers_count": 547222,
+        "friends_count": 215129,
         "listed_count": 1081,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18601,
@@ -9191,37 +8811,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2526986,
+        "statuses_count": 2526991,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 11:03:58 +0000 2022",
-          "id": 1522895009309204500,
-          "id_str": "1522895009309204480",
-          "text": "@ohdiosohdios Hola, te enviamos un DM para encontrar una solución, no te preocupes. Continuamos por ese medio. ^RNS",
+          "created_at": "Sat May 07 11:59:15 +0000 2022",
+          "id": 1522908921031180300,
+          "id_str": "1522908921031180294",
+          "text": "@giu7cam Bien Guido, nos escribís un DM para resolverlo, te sugerimos eliminar tu número para preservar tu privacidad. Te esperamos. ^RNS",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "ohdiosohdios",
-                "name": "LaLiMadA⚡",
-                "id": 186973940,
-                "id_str": "186973940",
+                "screen_name": "giu7cam",
+                "name": "Guido",
+                "id": 91138778,
+                "id_str": "91138778",
                 "indices": [
                   0,
-                  13
+                  8
                 ]
               }
             ],
             "urls": []
           },
-          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
-          "in_reply_to_status_id": 1522885087263613000,
-          "in_reply_to_status_id_str": "1522885087263612930",
-          "in_reply_to_user_id": 186973940,
-          "in_reply_to_user_id_str": "186973940",
-          "in_reply_to_screen_name": "ohdiosohdios",
+          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
+          "in_reply_to_status_id": 1522907958102868000,
+          "in_reply_to_status_id_str": "1522907958102867970",
+          "in_reply_to_user_id": 91138778,
+          "in_reply_to_user_id_str": "91138778",
+          "in_reply_to_screen_name": "giu7cam",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9496,8 +9116,8 @@
           }
         },
         "protected": false,
-        "followers_count": 547225,
-        "friends_count": 215127,
+        "followers_count": 547222,
+        "friends_count": 215129,
         "listed_count": 1081,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18601,
@@ -9505,37 +9125,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2526986,
+        "statuses_count": 2526991,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 11:03:58 +0000 2022",
-          "id": 1522895009309204500,
-          "id_str": "1522895009309204480",
-          "text": "@ohdiosohdios Hola, te enviamos un DM para encontrar una solución, no te preocupes. Continuamos por ese medio. ^RNS",
+          "created_at": "Sat May 07 11:59:15 +0000 2022",
+          "id": 1522908921031180300,
+          "id_str": "1522908921031180294",
+          "text": "@giu7cam Bien Guido, nos escribís un DM para resolverlo, te sugerimos eliminar tu número para preservar tu privacidad. Te esperamos. ^RNS",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "ohdiosohdios",
-                "name": "LaLiMadA⚡",
-                "id": 186973940,
-                "id_str": "186973940",
+                "screen_name": "giu7cam",
+                "name": "Guido",
+                "id": 91138778,
+                "id_str": "91138778",
                 "indices": [
                   0,
-                  13
+                  8
                 ]
               }
             ],
             "urls": []
           },
-          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
-          "in_reply_to_status_id": 1522885087263613000,
-          "in_reply_to_status_id_str": "1522885087263612930",
-          "in_reply_to_user_id": 186973940,
-          "in_reply_to_user_id_str": "186973940",
-          "in_reply_to_screen_name": "ohdiosohdios",
+          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
+          "in_reply_to_status_id": 1522907958102868000,
+          "in_reply_to_status_id_str": "1522907958102867970",
+          "in_reply_to_user_id": 91138778,
+          "in_reply_to_user_id_str": "91138778",
+          "in_reply_to_screen_name": "giu7cam",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9810,8 +9430,8 @@
           }
         },
         "protected": false,
-        "followers_count": 547225,
-        "friends_count": 215127,
+        "followers_count": 547222,
+        "friends_count": 215129,
         "listed_count": 1081,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18601,
@@ -9819,37 +9439,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2526986,
+        "statuses_count": 2526991,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 11:03:58 +0000 2022",
-          "id": 1522895009309204500,
-          "id_str": "1522895009309204480",
-          "text": "@ohdiosohdios Hola, te enviamos un DM para encontrar una solución, no te preocupes. Continuamos por ese medio. ^RNS",
+          "created_at": "Sat May 07 11:59:15 +0000 2022",
+          "id": 1522908921031180300,
+          "id_str": "1522908921031180294",
+          "text": "@giu7cam Bien Guido, nos escribís un DM para resolverlo, te sugerimos eliminar tu número para preservar tu privacidad. Te esperamos. ^RNS",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "ohdiosohdios",
-                "name": "LaLiMadA⚡",
-                "id": 186973940,
-                "id_str": "186973940",
+                "screen_name": "giu7cam",
+                "name": "Guido",
+                "id": 91138778,
+                "id_str": "91138778",
                 "indices": [
                   0,
-                  13
+                  8
                 ]
               }
             ],
             "urls": []
           },
-          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
-          "in_reply_to_status_id": 1522885087263613000,
-          "in_reply_to_status_id_str": "1522885087263612930",
-          "in_reply_to_user_id": 186973940,
-          "in_reply_to_user_id_str": "186973940",
-          "in_reply_to_screen_name": "ohdiosohdios",
+          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
+          "in_reply_to_status_id": 1522907958102868000,
+          "in_reply_to_status_id_str": "1522907958102867970",
+          "in_reply_to_user_id": 91138778,
+          "in_reply_to_user_id_str": "91138778",
+          "in_reply_to_screen_name": "giu7cam",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -10164,8 +9784,8 @@
           }
         },
         "protected": false,
-        "followers_count": 601058,
-        "friends_count": 251017,
+        "followers_count": 601065,
+        "friends_count": 251021,
         "listed_count": 793,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -10173,37 +9793,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2074574,
+        "statuses_count": 2074582,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 10:55:48 +0000 2022",
-          "id": 1522892950761521200,
-          "id_str": "1522892950761521153",
-          "text": "@aprosecargentin Buenos días! Cómo estás? 🙌🏼 Te envié un DM, te aguardo por esa vía!",
-          "truncated": false,
+          "created_at": "Sat May 07 11:50:41 +0000 2022",
+          "id": 1522906762956914700,
+          "id_str": "1522906762956914689",
+          "text": "@canantianari Hola Marina 👌🏼 Para poder asesorarte con tu consulta te invitamos a que nos contactes por el siguient… https://t.co/rKaYyVkTXH",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "aprosecargentin",
-                "name": "APROSEC ARGENTINA",
-                "id": 120542974,
-                "id_str": "120542974",
+                "screen_name": "canantianari",
+                "name": "Marina",
+                "id": 3637071015,
+                "id_str": "3637071015",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/rKaYyVkTXH",
+                "expanded_url": "https://twitter.com/i/web/status/1522906762956914689",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1522891782538686500,
-          "in_reply_to_status_id_str": "1522891782538686464",
-          "in_reply_to_user_id": 120542974,
-          "in_reply_to_user_id_str": "120542974",
-          "in_reply_to_screen_name": "aprosecargentin",
+          "in_reply_to_status_id": 1522906172608630800,
+          "in_reply_to_status_id_str": "1522906172608630785",
+          "in_reply_to_user_id": 3637071015,
+          "in_reply_to_user_id_str": "3637071015",
+          "in_reply_to_screen_name": "canantianari",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -10213,6 +9843,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -10454,8 +10085,8 @@
           }
         },
         "protected": false,
-        "followers_count": 601058,
-        "friends_count": 251017,
+        "followers_count": 601065,
+        "friends_count": 251021,
         "listed_count": 793,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1559,
@@ -10463,37 +10094,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2074574,
+        "statuses_count": 2074582,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 10:55:48 +0000 2022",
-          "id": 1522892950761521200,
-          "id_str": "1522892950761521153",
-          "text": "@aprosecargentin Buenos días! Cómo estás? 🙌🏼 Te envié un DM, te aguardo por esa vía!",
-          "truncated": false,
+          "created_at": "Sat May 07 11:50:41 +0000 2022",
+          "id": 1522906762956914700,
+          "id_str": "1522906762956914689",
+          "text": "@canantianari Hola Marina 👌🏼 Para poder asesorarte con tu consulta te invitamos a que nos contactes por el siguient… https://t.co/rKaYyVkTXH",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "aprosecargentin",
-                "name": "APROSEC ARGENTINA",
-                "id": 120542974,
-                "id_str": "120542974",
+                "screen_name": "canantianari",
+                "name": "Marina",
+                "id": 3637071015,
+                "id_str": "3637071015",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/rKaYyVkTXH",
+                "expanded_url": "https://twitter.com/i/web/status/1522906762956914689",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1522891782538686500,
-          "in_reply_to_status_id_str": "1522891782538686464",
-          "in_reply_to_user_id": 120542974,
-          "in_reply_to_user_id_str": "120542974",
-          "in_reply_to_screen_name": "aprosecargentin",
+          "in_reply_to_status_id": 1522906172608630800,
+          "in_reply_to_status_id_str": "1522906172608630785",
+          "in_reply_to_user_id": 3637071015,
+          "in_reply_to_user_id_str": "3637071015",
+          "in_reply_to_screen_name": "canantianari",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -10503,6 +10144,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -12078,7 +11720,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81073,
+        "followers_count": 81074,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12398,7 +12040,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81073,
+        "followers_count": 81074,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12718,7 +12360,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81073,
+        "followers_count": 81074,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -13038,7 +12680,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81073,
+        "followers_count": 81074,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -13358,7 +13000,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81073,
+        "followers_count": 81074,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -13678,7 +13320,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81073,
+        "followers_count": 81074,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -14024,7 +13666,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81073,
+        "followers_count": 81074,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -14370,7 +14012,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81073,
+        "followers_count": 81074,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -14716,7 +14358,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81073,
+        "followers_count": 81074,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -15036,7 +14678,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81073,
+        "followers_count": 81074,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -15356,7 +14998,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81073,
+        "followers_count": 81074,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -18580,7 +18222,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158338,
+        "followers_count": 158336,
         "friends_count": 16196,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -18946,7 +18588,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158338,
+        "followers_count": 158336,
         "friends_count": 16196,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -19302,7 +18944,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158338,
+        "followers_count": 158336,
         "friends_count": 16196,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -19658,7 +19300,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158338,
+        "followers_count": 158336,
         "friends_count": 16196,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -20014,7 +19656,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158338,
+        "followers_count": 158336,
         "friends_count": 16196,
         "listed_count": 209,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -20360,7 +20002,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29382,
+        "followers_count": 29383,
         "friends_count": 6632,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -20686,7 +20328,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29382,
+        "followers_count": 29383,
         "friends_count": 6632,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -21012,7 +20654,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29382,
+        "followers_count": 29383,
         "friends_count": 6632,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -21338,7 +20980,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29382,
+        "followers_count": 29383,
         "friends_count": 6632,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -21664,7 +21306,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29382,
+        "followers_count": 29383,
         "friends_count": 6632,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -21990,7 +21632,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29382,
+        "followers_count": 29383,
         "friends_count": 6632,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -22326,7 +21968,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29382,
+        "followers_count": 29383,
         "friends_count": 6632,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -22662,7 +22304,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29382,
+        "followers_count": 29383,
         "friends_count": 6632,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -23008,7 +22650,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23328,7 +22970,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23648,7 +23290,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23994,7 +23636,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24314,7 +23956,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24634,7 +24276,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24954,7 +24596,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25274,7 +24916,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25594,7 +25236,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25914,7 +25556,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26234,7 +25876,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26554,7 +26196,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26874,7 +26516,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27220,7 +26862,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27566,7 +27208,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27912,7 +27554,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -28258,7 +27900,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -28578,7 +28220,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -28898,7 +28540,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -29218,7 +28860,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -29538,7 +29180,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -29858,7 +29500,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -30204,7 +29846,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -30550,7 +30192,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -30896,7 +30538,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -31216,7 +30858,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -31536,7 +31178,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -31866,7 +31508,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -32196,7 +31838,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -32526,7 +32168,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -32846,7 +32488,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -33166,7 +32808,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -33512,7 +33154,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -33858,7 +33500,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -34204,7 +33846,7 @@
           }
         },
         "protected": false,
-        "followers_count": 443959,
+        "followers_count": 443962,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -34540,7 +34182,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94063,
+        "followers_count": 94064,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -34848,7 +34490,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94063,
+        "followers_count": 94064,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -35156,7 +34798,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94063,
+        "followers_count": 94064,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -35464,7 +35106,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94063,
+        "followers_count": 94064,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -35772,7 +35414,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94063,
+        "followers_count": 94064,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -36080,7 +35722,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94063,
+        "followers_count": 94064,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -36388,7 +36030,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94063,
+        "followers_count": 94064,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -36696,7 +36338,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94063,
+        "followers_count": 94064,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -37004,7 +36646,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94063,
+        "followers_count": 94064,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -37312,7 +36954,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94063,
+        "followers_count": 94064,
         "friends_count": 105,
         "listed_count": 160,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -37630,7 +37272,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151203,
+        "followers_count": 151205,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -37639,33 +37281,63 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165934,
+        "statuses_count": 165935,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 23:30:25 +0000 2022",
-          "id": 1522720470210166800,
-          "id_str": "1522720470210166785",
-          "text": "@VidSalomon Hola.\n\nEntendemos tu situación, por eso te informamos que nuestro equipo especialista se encuentra trab… https://t.co/z2kPOLw1Qj",
+          "created_at": "Sat May 07 11:34:03 +0000 2022",
+          "id": 1522902578736111600,
+          "id_str": "1522902578736111617",
+          "text": "@justshadeoff @MrVanDep @nubank @pagseguro Como entrou na página Mercado Libre, vamos te direcionar para nossa equi… https://t.co/vPWwJ1Y7U9",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "VidSalomon",
-                "name": "David Salomón",
-                "id": 207181772,
-                "id_str": "207181772",
+                "screen_name": "justshadeoff",
+                "name": "sarti wants LIVE IN FLORIPA",
+                "id": 1463567609715118000,
+                "id_str": "1463567609715118089",
                 "indices": [
                   0,
-                  11
+                  13
+                ]
+              },
+              {
+                "screen_name": "MrVanDep",
+                "name": "VanDep",
+                "id": 236623658,
+                "id_str": "236623658",
+                "indices": [
+                  14,
+                  23
+                ]
+              },
+              {
+                "screen_name": "nubank",
+                "name": "Nubank",
+                "id": 2319390320,
+                "id_str": "2319390320",
+                "indices": [
+                  24,
+                  31
+                ]
+              },
+              {
+                "screen_name": "pagseguro",
+                "name": "PagBank PagSeguro",
+                "id": 15087174,
+                "id_str": "15087174",
+                "indices": [
+                  32,
+                  42
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/z2kPOLw1Qj",
-                "expanded_url": "https://twitter.com/i/web/status/1522720470210166785",
+                "url": "https://t.co/vPWwJ1Y7U9",
+                "expanded_url": "https://twitter.com/i/web/status/1522902578736111617",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -37675,11 +37347,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1522714146386718700,
-          "in_reply_to_status_id_str": "1522714146386718720",
-          "in_reply_to_user_id": 207181772,
-          "in_reply_to_user_id_str": "207181772",
-          "in_reply_to_screen_name": "VidSalomon",
+          "in_reply_to_status_id": 1522586406165614600,
+          "in_reply_to_status_id_str": "1522586406165614593",
+          "in_reply_to_user_id": 1463567609715118000,
+          "in_reply_to_user_id_str": "1463567609715118089",
+          "in_reply_to_screen_name": "justshadeoff",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -37689,7 +37361,8 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "lang": "es"
+          "possibly_sensitive": false,
+          "lang": "pt"
         },
         "contributors_enabled": false,
         "is_translator": false,
@@ -37951,7 +37624,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151203,
+        "followers_count": 151205,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -37960,33 +37633,63 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165934,
+        "statuses_count": 165935,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 23:30:25 +0000 2022",
-          "id": 1522720470210166800,
-          "id_str": "1522720470210166785",
-          "text": "@VidSalomon Hola.\n\nEntendemos tu situación, por eso te informamos que nuestro equipo especialista se encuentra trab… https://t.co/z2kPOLw1Qj",
+          "created_at": "Sat May 07 11:34:03 +0000 2022",
+          "id": 1522902578736111600,
+          "id_str": "1522902578736111617",
+          "text": "@justshadeoff @MrVanDep @nubank @pagseguro Como entrou na página Mercado Libre, vamos te direcionar para nossa equi… https://t.co/vPWwJ1Y7U9",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "VidSalomon",
-                "name": "David Salomón",
-                "id": 207181772,
-                "id_str": "207181772",
+                "screen_name": "justshadeoff",
+                "name": "sarti wants LIVE IN FLORIPA",
+                "id": 1463567609715118000,
+                "id_str": "1463567609715118089",
                 "indices": [
                   0,
-                  11
+                  13
+                ]
+              },
+              {
+                "screen_name": "MrVanDep",
+                "name": "VanDep",
+                "id": 236623658,
+                "id_str": "236623658",
+                "indices": [
+                  14,
+                  23
+                ]
+              },
+              {
+                "screen_name": "nubank",
+                "name": "Nubank",
+                "id": 2319390320,
+                "id_str": "2319390320",
+                "indices": [
+                  24,
+                  31
+                ]
+              },
+              {
+                "screen_name": "pagseguro",
+                "name": "PagBank PagSeguro",
+                "id": 15087174,
+                "id_str": "15087174",
+                "indices": [
+                  32,
+                  42
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/z2kPOLw1Qj",
-                "expanded_url": "https://twitter.com/i/web/status/1522720470210166785",
+                "url": "https://t.co/vPWwJ1Y7U9",
+                "expanded_url": "https://twitter.com/i/web/status/1522902578736111617",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -37996,11 +37699,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1522714146386718700,
-          "in_reply_to_status_id_str": "1522714146386718720",
-          "in_reply_to_user_id": 207181772,
-          "in_reply_to_user_id_str": "207181772",
-          "in_reply_to_screen_name": "VidSalomon",
+          "in_reply_to_status_id": 1522586406165614600,
+          "in_reply_to_status_id_str": "1522586406165614593",
+          "in_reply_to_user_id": 1463567609715118000,
+          "in_reply_to_user_id_str": "1463567609715118089",
+          "in_reply_to_screen_name": "justshadeoff",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -38010,7 +37713,8 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "lang": "es"
+          "possibly_sensitive": false,
+          "lang": "pt"
         },
         "contributors_enabled": false,
         "is_translator": false,
@@ -38272,7 +37976,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151203,
+        "followers_count": 151205,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -38281,33 +37985,63 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165934,
+        "statuses_count": 165935,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 23:30:25 +0000 2022",
-          "id": 1522720470210166800,
-          "id_str": "1522720470210166785",
-          "text": "@VidSalomon Hola.\n\nEntendemos tu situación, por eso te informamos que nuestro equipo especialista se encuentra trab… https://t.co/z2kPOLw1Qj",
+          "created_at": "Sat May 07 11:34:03 +0000 2022",
+          "id": 1522902578736111600,
+          "id_str": "1522902578736111617",
+          "text": "@justshadeoff @MrVanDep @nubank @pagseguro Como entrou na página Mercado Libre, vamos te direcionar para nossa equi… https://t.co/vPWwJ1Y7U9",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "VidSalomon",
-                "name": "David Salomón",
-                "id": 207181772,
-                "id_str": "207181772",
+                "screen_name": "justshadeoff",
+                "name": "sarti wants LIVE IN FLORIPA",
+                "id": 1463567609715118000,
+                "id_str": "1463567609715118089",
                 "indices": [
                   0,
-                  11
+                  13
+                ]
+              },
+              {
+                "screen_name": "MrVanDep",
+                "name": "VanDep",
+                "id": 236623658,
+                "id_str": "236623658",
+                "indices": [
+                  14,
+                  23
+                ]
+              },
+              {
+                "screen_name": "nubank",
+                "name": "Nubank",
+                "id": 2319390320,
+                "id_str": "2319390320",
+                "indices": [
+                  24,
+                  31
+                ]
+              },
+              {
+                "screen_name": "pagseguro",
+                "name": "PagBank PagSeguro",
+                "id": 15087174,
+                "id_str": "15087174",
+                "indices": [
+                  32,
+                  42
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/z2kPOLw1Qj",
-                "expanded_url": "https://twitter.com/i/web/status/1522720470210166785",
+                "url": "https://t.co/vPWwJ1Y7U9",
+                "expanded_url": "https://twitter.com/i/web/status/1522902578736111617",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -38317,11 +38051,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1522714146386718700,
-          "in_reply_to_status_id_str": "1522714146386718720",
-          "in_reply_to_user_id": 207181772,
-          "in_reply_to_user_id_str": "207181772",
-          "in_reply_to_screen_name": "VidSalomon",
+          "in_reply_to_status_id": 1522586406165614600,
+          "in_reply_to_status_id_str": "1522586406165614593",
+          "in_reply_to_user_id": 1463567609715118000,
+          "in_reply_to_user_id_str": "1463567609715118089",
+          "in_reply_to_screen_name": "justshadeoff",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -38331,7 +38065,8 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "lang": "es"
+          "possibly_sensitive": false,
+          "lang": "pt"
         },
         "contributors_enabled": false,
         "is_translator": false,
@@ -38593,7 +38328,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151203,
+        "followers_count": 151205,
         "friends_count": 16,
         "listed_count": 218,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -38602,33 +38337,63 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 165934,
+        "statuses_count": 165935,
         "lang": null,
         "status": {
-          "created_at": "Fri May 06 23:30:25 +0000 2022",
-          "id": 1522720470210166800,
-          "id_str": "1522720470210166785",
-          "text": "@VidSalomon Hola.\n\nEntendemos tu situación, por eso te informamos que nuestro equipo especialista se encuentra trab… https://t.co/z2kPOLw1Qj",
+          "created_at": "Sat May 07 11:34:03 +0000 2022",
+          "id": 1522902578736111600,
+          "id_str": "1522902578736111617",
+          "text": "@justshadeoff @MrVanDep @nubank @pagseguro Como entrou na página Mercado Libre, vamos te direcionar para nossa equi… https://t.co/vPWwJ1Y7U9",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "VidSalomon",
-                "name": "David Salomón",
-                "id": 207181772,
-                "id_str": "207181772",
+                "screen_name": "justshadeoff",
+                "name": "sarti wants LIVE IN FLORIPA",
+                "id": 1463567609715118000,
+                "id_str": "1463567609715118089",
                 "indices": [
                   0,
-                  11
+                  13
+                ]
+              },
+              {
+                "screen_name": "MrVanDep",
+                "name": "VanDep",
+                "id": 236623658,
+                "id_str": "236623658",
+                "indices": [
+                  14,
+                  23
+                ]
+              },
+              {
+                "screen_name": "nubank",
+                "name": "Nubank",
+                "id": 2319390320,
+                "id_str": "2319390320",
+                "indices": [
+                  24,
+                  31
+                ]
+              },
+              {
+                "screen_name": "pagseguro",
+                "name": "PagBank PagSeguro",
+                "id": 15087174,
+                "id_str": "15087174",
+                "indices": [
+                  32,
+                  42
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/z2kPOLw1Qj",
-                "expanded_url": "https://twitter.com/i/web/status/1522720470210166785",
+                "url": "https://t.co/vPWwJ1Y7U9",
+                "expanded_url": "https://twitter.com/i/web/status/1522902578736111617",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -38638,11 +38403,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1522714146386718700,
-          "in_reply_to_status_id_str": "1522714146386718720",
-          "in_reply_to_user_id": 207181772,
-          "in_reply_to_user_id_str": "207181772",
-          "in_reply_to_screen_name": "VidSalomon",
+          "in_reply_to_status_id": 1522586406165614600,
+          "in_reply_to_status_id_str": "1522586406165614593",
+          "in_reply_to_user_id": 1463567609715118000,
+          "in_reply_to_user_id_str": "1463567609715118089",
+          "in_reply_to_screen_name": "justshadeoff",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -38652,7 +38417,8 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "lang": "es"
+          "possibly_sensitive": false,
+          "lang": "pt"
         },
         "contributors_enabled": false,
         "is_translator": false,
@@ -38914,7 +38680,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183456,
+        "followers_count": 183459,
         "friends_count": 236,
         "listed_count": 112,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -38923,33 +38689,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 71265,
+        "statuses_count": 71270,
         "lang": null,
         "status": {
-          "created_at": "Sat May 07 03:09:25 +0000 2022",
-          "id": 1522775583419252700,
-          "id_str": "1522775583419252736",
-          "text": "@RobertoGAlvarez ¡Hola! Lamentamos la experiencia que nos comentás. Por cuestiones de seguridad, te sugerimos no co… https://t.co/qcDUsO7c6z",
+          "created_at": "Sat May 07 12:01:25 +0000 2022",
+          "id": 1522909465825132500,
+          "id_str": "1522909465825132544",
+          "text": "@moshca80 ¡Hola! Te enviamos un mensaje directo para ayudarte. Recordá que nuestra cuenta oficial tiene el tilde de… https://t.co/g3gubtLaYN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "RobertoGAlvarez",
-                "name": "Roberto G Alvarez",
-                "id": 702011293,
-                "id_str": "702011293",
+                "screen_name": "moshca80",
+                "name": "Martín Cipriani",
+                "id": 741189840,
+                "id_str": "741189840",
                 "indices": [
                   0,
-                  16
+                  9
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/qcDUsO7c6z",
-                "expanded_url": "https://twitter.com/i/web/status/1522775583419252736",
+                "url": "https://t.co/g3gubtLaYN",
+                "expanded_url": "https://twitter.com/i/web/status/1522909465825132544",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -38959,11 +38725,11 @@
             ]
           },
           "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
-          "in_reply_to_status_id": 1520093318620852200,
-          "in_reply_to_status_id_str": "1520093318620852226",
-          "in_reply_to_user_id": 702011293,
-          "in_reply_to_user_id_str": "702011293",
-          "in_reply_to_screen_name": "RobertoGAlvarez",
+          "in_reply_to_status_id": 1522675584320643000,
+          "in_reply_to_status_id_str": "1522675584320643078",
+          "in_reply_to_user_id": 741189840,
+          "in_reply_to_user_id_str": "741189840",
+          "in_reply_to_screen_name": "moshca80",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -39224,7 +38990,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14988,
+        "followers_count": 14989,
         "friends_count": 740,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -39560,7 +39326,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14988,
+        "followers_count": 14989,
         "friends_count": 740,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -39886,7 +39652,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14988,
+        "followers_count": 14989,
         "friends_count": 740,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -40212,7 +39978,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14988,
+        "followers_count": 14989,
         "friends_count": 740,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -40538,7 +40304,7 @@
           }
         },
         "protected": false,
-        "followers_count": 14988,
+        "followers_count": 14989,
         "friends_count": 740,
         "listed_count": 16,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
