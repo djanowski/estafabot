@@ -30,7 +30,7 @@
         },
         "protected": false,
         "followers_count": 150559,
-        "friends_count": 54771,
+        "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -348,7 +348,7 @@
         },
         "protected": false,
         "followers_count": 150559,
-        "friends_count": 54771,
+        "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -666,7 +666,7 @@
         },
         "protected": false,
         "followers_count": 150559,
-        "friends_count": 54771,
+        "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -984,7 +984,7 @@
         },
         "protected": false,
         "followers_count": 150559,
-        "friends_count": 54771,
+        "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1320,7 +1320,7 @@
         },
         "protected": false,
         "followers_count": 150559,
-        "friends_count": 54771,
+        "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1656,7 +1656,7 @@
         },
         "protected": false,
         "followers_count": 150559,
-        "friends_count": 54771,
+        "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1966,7 +1966,7 @@
         },
         "protected": false,
         "followers_count": 150559,
-        "friends_count": 54771,
+        "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -2276,7 +2276,7 @@
         },
         "protected": false,
         "followers_count": 150559,
-        "friends_count": 54771,
+        "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -2586,7 +2586,7 @@
         },
         "protected": false,
         "followers_count": 150559,
-        "friends_count": 54771,
+        "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -2896,7 +2896,7 @@
         },
         "protected": false,
         "followers_count": 150559,
-        "friends_count": 54771,
+        "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -3216,7 +3216,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -3224,37 +3224,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3514,7 +3524,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -3522,37 +3532,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -3822,7 +3842,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -3830,37 +3850,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4120,7 +4150,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -4128,37 +4158,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4418,7 +4458,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -4426,37 +4466,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4707,7 +4757,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -4715,37 +4765,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -4996,7 +5056,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -5004,37 +5064,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5285,7 +5355,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -5293,37 +5363,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5577,7 +5657,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -5585,37 +5665,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -5872,7 +5962,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -5880,37 +5970,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6167,7 +6267,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -6175,37 +6275,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6459,7 +6569,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -6467,37 +6577,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6754,7 +6874,7 @@
         },
         "protected": false,
         "followers_count": 654065,
-        "friends_count": 315919,
+        "friends_count": 315918,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -6762,37 +6882,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025647,
+        "statuses_count": 1025649,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:25:59 +0000 2022",
-          "id": 1528109871861796900,
-          "id_str": "1528109871861796865",
-          "text": "@KarinaY1974  te comento que para una mejor atención podes comunicarte con nosotros ingresando al DM. :)",
-          "truncated": false,
+          "created_at": "Sat May 21 21:58:31 +0000 2022",
+          "id": 1528133159887437800,
+          "id_str": "1528133159887437824",
+          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "KarinaY1974",
-                "name": "KarinaYZ",
-                "id": 51792611,
-                "id_str": "51792611",
+                "screen_name": "Lucho0706",
+                "name": "Luis Varela Eire",
+                "id": 147945522,
+                "id_str": "147945522",
                 "indices": [
                   0,
-                  12
+                  10
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/1kybOMROJm",
+                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528109337788416000,
-          "in_reply_to_status_id_str": "1528109337788416000",
-          "in_reply_to_user_id": 51792611,
-          "in_reply_to_user_id_str": "51792611",
-          "in_reply_to_screen_name": "KarinaY1974",
+          "in_reply_to_status_id": 1528131657726693400,
+          "in_reply_to_status_id_str": "1528131657726693376",
+          "in_reply_to_user_id": 147945522,
+          "in_reply_to_user_id_str": "147945522",
+          "in_reply_to_screen_name": "Lucho0706",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7038,7 +7168,7 @@
           }
         },
         "protected": false,
-        "followers_count": 547807,
+        "followers_count": 547803,
         "friends_count": 215068,
         "listed_count": 1083,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -7047,37 +7177,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2529602,
+        "statuses_count": 2529605,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:59:06 +0000 2022",
-          "id": 1528118206954713000,
-          "id_str": "1528118206954713090",
-          "text": "@Chriistiian97 Hola Cristian, quedamos atentos a tu DM y continuaremos por ese medio para asistirte. ^RNS",
+          "created_at": "Sat May 21 22:01:36 +0000 2022",
+          "id": 1528133936324411400,
+          "id_str": "1528133936324411392",
+          "text": "@Tolen87 Buenas Noches Pablo, por favor comunicate con nosotros por MD para poder resolver el inconveniente que presentas. ^BLA",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Chriistiian97",
-                "name": "Christian Aguayo",
-                "id": 1434601787852533800,
-                "id_str": "1434601787852533769",
+                "screen_name": "Tolen87",
+                "name": "Pablo Brizuela",
+                "id": 372590440,
+                "id_str": "372590440",
                 "indices": [
                   0,
-                  14
+                  8
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1528114704639484000,
-          "in_reply_to_status_id_str": "1528114704639483904",
-          "in_reply_to_user_id": 1434601787852533800,
-          "in_reply_to_user_id_str": "1434601787852533769",
-          "in_reply_to_screen_name": "Chriistiian97",
+          "in_reply_to_status_id": 1528133619235147800,
+          "in_reply_to_status_id_str": "1528133619235147779",
+          "in_reply_to_user_id": 372590440,
+          "in_reply_to_user_id_str": "372590440",
+          "in_reply_to_screen_name": "Tolen87",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7352,7 +7482,7 @@
           }
         },
         "protected": false,
-        "followers_count": 547807,
+        "followers_count": 547803,
         "friends_count": 215068,
         "listed_count": 1083,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -7361,37 +7491,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2529602,
+        "statuses_count": 2529605,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:59:06 +0000 2022",
-          "id": 1528118206954713000,
-          "id_str": "1528118206954713090",
-          "text": "@Chriistiian97 Hola Cristian, quedamos atentos a tu DM y continuaremos por ese medio para asistirte. ^RNS",
+          "created_at": "Sat May 21 22:01:36 +0000 2022",
+          "id": 1528133936324411400,
+          "id_str": "1528133936324411392",
+          "text": "@Tolen87 Buenas Noches Pablo, por favor comunicate con nosotros por MD para poder resolver el inconveniente que presentas. ^BLA",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Chriistiian97",
-                "name": "Christian Aguayo",
-                "id": 1434601787852533800,
-                "id_str": "1434601787852533769",
+                "screen_name": "Tolen87",
+                "name": "Pablo Brizuela",
+                "id": 372590440,
+                "id_str": "372590440",
                 "indices": [
                   0,
-                  14
+                  8
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1528114704639484000,
-          "in_reply_to_status_id_str": "1528114704639483904",
-          "in_reply_to_user_id": 1434601787852533800,
-          "in_reply_to_user_id_str": "1434601787852533769",
-          "in_reply_to_screen_name": "Chriistiian97",
+          "in_reply_to_status_id": 1528133619235147800,
+          "in_reply_to_status_id_str": "1528133619235147779",
+          "in_reply_to_user_id": 372590440,
+          "in_reply_to_user_id_str": "372590440",
+          "in_reply_to_screen_name": "Tolen87",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7666,7 +7796,7 @@
           }
         },
         "protected": false,
-        "followers_count": 547807,
+        "followers_count": 547803,
         "friends_count": 215068,
         "listed_count": 1083,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -7675,37 +7805,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2529602,
+        "statuses_count": 2529605,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:59:06 +0000 2022",
-          "id": 1528118206954713000,
-          "id_str": "1528118206954713090",
-          "text": "@Chriistiian97 Hola Cristian, quedamos atentos a tu DM y continuaremos por ese medio para asistirte. ^RNS",
+          "created_at": "Sat May 21 22:01:36 +0000 2022",
+          "id": 1528133936324411400,
+          "id_str": "1528133936324411392",
+          "text": "@Tolen87 Buenas Noches Pablo, por favor comunicate con nosotros por MD para poder resolver el inconveniente que presentas. ^BLA",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Chriistiian97",
-                "name": "Christian Aguayo",
-                "id": 1434601787852533800,
-                "id_str": "1434601787852533769",
+                "screen_name": "Tolen87",
+                "name": "Pablo Brizuela",
+                "id": 372590440,
+                "id_str": "372590440",
                 "indices": [
                   0,
-                  14
+                  8
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1528114704639484000,
-          "in_reply_to_status_id_str": "1528114704639483904",
-          "in_reply_to_user_id": 1434601787852533800,
-          "in_reply_to_user_id_str": "1434601787852533769",
-          "in_reply_to_screen_name": "Chriistiian97",
+          "in_reply_to_status_id": 1528133619235147800,
+          "in_reply_to_status_id_str": "1528133619235147779",
+          "in_reply_to_user_id": 372590440,
+          "in_reply_to_user_id_str": "372590440",
+          "in_reply_to_screen_name": "Tolen87",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8020,8 +8150,8 @@
           }
         },
         "protected": false,
-        "followers_count": 601633,
-        "friends_count": 252412,
+        "followers_count": 601634,
+        "friends_count": 252419,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -8029,37 +8159,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2076683,
+        "statuses_count": 2076686,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:40:58 +0000 2022",
-          "id": 1528113643874832400,
-          "id_str": "1528113643874832384",
-          "text": "@EduardosaitaM Hola! Eduardo! te asesoro por privado!",
+          "created_at": "Sat May 21 22:03:50 +0000 2022",
+          "id": 1528134498889654300,
+          "id_str": "1528134498889654279",
+          "text": "@EEluzu Hola! Te pedimos que nos contactes por privado a https://t.co/8i6cgU6O4H para poder ayudarte. Gracias!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "EduardosaitaM",
-                "name": "Edoardo",
-                "id": 1476694082584027100,
-                "id_str": "1476694082584027139",
+                "screen_name": "EEluzu",
+                "name": "enrique luzuriaga",
+                "id": 347904250,
+                "id_str": "347904250",
                 "indices": [
                   0,
-                  14
+                  7
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/8i6cgU6O4H",
+                "expanded_url": "http://bit.ly/2S9ym5b",
+                "display_url": "bit.ly/2S9ym5b",
+                "indices": [
+                  57,
+                  80
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": 1476694082584027100,
-          "in_reply_to_user_id_str": "1476694082584027139",
-          "in_reply_to_screen_name": "EduardosaitaM",
+          "in_reply_to_status_id": 1528133190602342400,
+          "in_reply_to_status_id_str": "1528133190602342400",
+          "in_reply_to_user_id": 347904250,
+          "in_reply_to_user_id_str": "347904250",
+          "in_reply_to_screen_name": "EEluzu",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8069,6 +8209,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -8310,8 +8451,8 @@
           }
         },
         "protected": false,
-        "followers_count": 601633,
-        "friends_count": 252412,
+        "followers_count": 601634,
+        "friends_count": 252419,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -8319,37 +8460,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2076683,
+        "statuses_count": 2076686,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 20:40:58 +0000 2022",
-          "id": 1528113643874832400,
-          "id_str": "1528113643874832384",
-          "text": "@EduardosaitaM Hola! Eduardo! te asesoro por privado!",
+          "created_at": "Sat May 21 22:03:50 +0000 2022",
+          "id": 1528134498889654300,
+          "id_str": "1528134498889654279",
+          "text": "@EEluzu Hola! Te pedimos que nos contactes por privado a https://t.co/8i6cgU6O4H para poder ayudarte. Gracias!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "EduardosaitaM",
-                "name": "Edoardo",
-                "id": 1476694082584027100,
-                "id_str": "1476694082584027139",
+                "screen_name": "EEluzu",
+                "name": "enrique luzuriaga",
+                "id": 347904250,
+                "id_str": "347904250",
                 "indices": [
                   0,
-                  14
+                  7
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/8i6cgU6O4H",
+                "expanded_url": "http://bit.ly/2S9ym5b",
+                "display_url": "bit.ly/2S9ym5b",
+                "indices": [
+                  57,
+                  80
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": null,
-          "in_reply_to_status_id_str": null,
-          "in_reply_to_user_id": 1476694082584027100,
-          "in_reply_to_user_id_str": "1476694082584027139",
-          "in_reply_to_screen_name": "EduardosaitaM",
+          "in_reply_to_status_id": 1528133190602342400,
+          "in_reply_to_status_id_str": "1528133190602342400",
+          "in_reply_to_user_id": 347904250,
+          "in_reply_to_user_id_str": "347904250",
+          "in_reply_to_screen_name": "EEluzu",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8359,6 +8510,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -8610,7 +8762,7 @@
           }
         },
         "protected": false,
-        "followers_count": 42135,
+        "followers_count": 42136,
         "friends_count": 56,
         "listed_count": 71,
         "created_at": "Thu Sep 23 18:48:27 +0000 2010",
@@ -8946,7 +9098,7 @@
           }
         },
         "protected": false,
-        "followers_count": 42135,
+        "followers_count": 42136,
         "friends_count": 56,
         "listed_count": 71,
         "created_at": "Thu Sep 23 18:48:27 +0000 2010",
@@ -11458,14 +11610,14 @@
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 7,
+      "statuses_count": 8,
       "lang": null,
       "status": {
-        "created_at": "Sat May 21 12:14:01 +0000 2022",
-        "id": 1527986065663045600,
-        "id_str": "1527986065663045639",
-        "text": "@MoniNicolotti 👋 ¡Hola!, ¿En que te puedo ayudar? te dejo estas opciones que pueden ser de tu interés : \n\n🤳🏼 Homeba… https://t.co/iuFkMZ3l1c",
-        "truncated": true,
+        "created_at": "Sat May 21 21:58:57 +0000 2022",
+        "id": 1528133271292235800,
+        "id_str": "1528133271292235776",
+        "text": "@MoniNicolotti Estimado cliente, brindanos tu número de contacto y en instantes un oficial de cuenta tomara la comunicacion muchas gracias.",
+        "truncated": false,
         "entities": {
           "hashtags": [],
           "symbols": [],
@@ -11481,21 +11633,337 @@
               ]
             }
           ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1527836450770886700,
+        "in_reply_to_status_id_str": "1527836450770886656",
+        "in_reply_to_user_id": 811630074,
+        "in_reply_to_user_id_str": "811630074",
+        "in_reply_to_screen_name": "MoniNicolotti",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1527320920821358601/9LCNhKEl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527320920821358601/9LCNhKEl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526698674117496832/1652976668",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "tweet": {
+      "created_at": "Sat May 21 21:58:57 +0000 2022",
+      "id": 1528133271292235800,
+      "id_str": "1528133271292235776",
+      "full_text": "@MoniNicolotti Estimado cliente, brindanos tu número de contacto y en instantes un oficial de cuenta tomara la comunicacion muchas gracias.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MoniNicolotti",
+            "name": "monica nicolotti",
+            "id": 811630074,
+            "id_str": "811630074",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1527836450770886700,
+      "in_reply_to_status_id_str": "1527836450770886656",
+      "in_reply_to_user_id": 811630074,
+      "in_reply_to_user_id_str": "811630074",
+      "in_reply_to_screen_name": "MoniNicolotti",
+      "user": {
+        "id": 1526698674117496800,
+        "id_str": "1526698674117496832",
+        "name": "Itaú Argentina",
+        "screen_name": "_Argentina95",
+        "location": "Ciudad Autónoma de Buenos Aire",
+        "description": "Bienvenidos a nuestra página oficina de atención al cliente de Banco Itaú Argentina.",
+        "url": "https://t.co/0Unk9NMzWO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/0Unk9NMzWO",
+                "expanded_url": "http://www.xn--bancoitaargentina-81b.com",
+                "display_url": "bancoitaúargentina.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 68,
+        "listed_count": 0,
+        "created_at": "Tue May 17 22:58:31 +0000 2022",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1527320920821358601/9LCNhKEl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527320920821358601/9LCNhKEl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1526698674117496832/1652976668",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    "isScam": true
+  },
+  {
+    "brand": {
+      "name": "Itaú Argentina",
+      "user": {
+        "id": 1056974738319462400,
+        "id_str": "1056974738319462405",
+        "name": "Itaú Argentina",
+        "screen_name": "itauargentina",
+        "location": "",
+        "description": "Este es nuestro perfil oficial en Twitter 🙂 Estamos acá para brindarte información y ayudarte en lo que necesites.",
+        "url": "https://t.co/dWEV9GRgEb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/dWEV9GRgEb",
+                "expanded_url": "https://www.itau.com.ar",
+                "display_url": "itau.com.ar",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 11299,
+        "friends_count": 1,
+        "listed_count": 7,
+        "created_at": "Mon Oct 29 18:23:10 +0000 2018",
+        "favourites_count": 422,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 8761,
+        "lang": null,
+        "status": {
+          "created_at": "Sat May 21 18:21:24 +0000 2022",
+          "id": 1528078519577809000,
+          "id_str": "1528078519577808902",
+          "text": "@Francocamposbj Hola Franco! Cómo estás? Nuestros canales digitales estuvieron funcionando con intermitencias, el e… https://t.co/eldO2p6m6y",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "Francocamposbj",
+                "name": "FranC",
+                "id": 1458377432,
+                "id_str": "1458377432",
+                "indices": [
+                  0,
+                  15
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/eldO2p6m6y",
+                "expanded_url": "https://twitter.com/i/web/status/1528078519577808902",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": 1458377432,
+          "in_reply_to_user_id_str": "1458377432",
+          "in_reply_to_screen_name": "Francocamposbj",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1362403067816259592/RoLuWF2__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362403067816259592/RoLuWF2__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056974738319462405/1627478952",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      }
+    },
+    "user": {
+      "id": 1526698674117496800,
+      "id_str": "1526698674117496832",
+      "name": "Itaú Argentina",
+      "screen_name": "_Argentina95",
+      "location": "Ciudad Autónoma de Buenos Aire",
+      "description": "Bienvenidos a nuestra página oficina de atención al cliente de Banco Itaú Argentina.",
+      "url": "https://t.co/0Unk9NMzWO",
+      "entities": {
+        "url": {
           "urls": [
             {
-              "url": "https://t.co/iuFkMZ3l1c",
-              "expanded_url": "https://twitter.com/i/web/status/1527986065663045639",
-              "display_url": "twitter.com/i/web/status/1…",
+              "url": "https://t.co/0Unk9NMzWO",
+              "expanded_url": "http://www.xn--bancoitaargentina-81b.com",
+              "display_url": "bancoitaúargentina.com",
               "indices": [
-                117,
-                140
+                0,
+                23
               ]
             }
           ]
         },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 68,
+      "listed_count": 0,
+      "created_at": "Tue May 17 22:58:31 +0000 2022",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 8,
+      "lang": null,
+      "status": {
+        "created_at": "Sat May 21 21:58:57 +0000 2022",
+        "id": 1528133271292235800,
+        "id_str": "1528133271292235776",
+        "text": "@MoniNicolotti Estimado cliente, brindanos tu número de contacto y en instantes un oficial de cuenta tomara la comunicacion muchas gracias.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "MoniNicolotti",
+              "name": "monica nicolotti",
+              "id": 811630074,
+              "id_str": "811630074",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
+        "in_reply_to_status_id": 1527836450770886700,
+        "in_reply_to_status_id_str": "1527836450770886656",
         "in_reply_to_user_id": 811630074,
         "in_reply_to_user_id_str": "811630074",
         "in_reply_to_screen_name": "MoniNicolotti",
@@ -11603,7 +12071,7 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 7,
+        "statuses_count": 8,
         "lang": null,
         "contributors_enabled": false,
         "is_translator": false,
@@ -11672,7 +12140,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81224,
+        "followers_count": 81225,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12008,7 +12476,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81224,
+        "followers_count": 81225,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12364,7 +12832,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81224,
+        "followers_count": 81225,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -12659,1024 +13127,6 @@
         "profile_text_color": "333333",
         "profile_use_background_image": true,
         "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": null,
-        "follow_request_sent": null,
-        "notifications": null,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "es"
-    },
-    "isScam": true
-  },
-  {
-    "brand": {
-      "name": "Banco Ciudad",
-      "user": {
-        "id": 151946454,
-        "id_str": "151946454",
-        "name": "Banco Ciudad",
-        "screen_name": "BancoCiudad",
-        "location": "Ciudad de Buenos Aires",
-        "description": "Escribinos por Mensaje Directo y empezá la conversación con nuestro asistente virtual. Podés hablar con una persona del equipo de L a V de 8 a 20 horas.",
-        "url": "https://t.co/cVuPFuBaDj",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/cVuPFuBaDj",
-                "expanded_url": "http://www.bancociudad.com.ar",
-                "display_url": "bancociudad.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 81224,
-        "friends_count": 12,
-        "listed_count": 184,
-        "created_at": "Fri Jun 04 17:15:19 +0000 2010",
-        "favourites_count": 1172,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": true,
-        "statuses_count": 7896,
-        "lang": null,
-        "status": {
-          "created_at": "Sat May 21 00:20:11 +0000 2022",
-          "id": 1527806425954648000,
-          "id_str": "1527806425954648064",
-          "text": "@P_Villalba ¡Hola! Podés contactarnos online de Lunes a Viernes, en días hábiles, de 08 a 20 horas para ayudarte.\nR… https://t.co/ybiGRqGTDS",
-          "truncated": true,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "P_Villalba",
-                "name": "Paula Villalba",
-                "id": 280581552,
-                "id_str": "280581552",
-                "indices": [
-                  0,
-                  11
-                ]
-              }
-            ],
-            "urls": [
-              {
-                "url": "https://t.co/ybiGRqGTDS",
-                "expanded_url": "https://twitter.com/i/web/status/1527806425954648064",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
-          },
-          "source": "<a href=\"https://production.com\" rel=\"nofollow\"> productionChatVirg</a>",
-          "in_reply_to_status_id": 1527806413959045000,
-          "in_reply_to_status_id_str": "1527806413959045121",
-          "in_reply_to_user_id": 280581552,
-          "in_reply_to_user_id_str": "280581552",
-          "in_reply_to_screen_name": "P_Villalba",
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 1,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "es"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "FFFFFF",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/985870544460447746/WlgdUFc0_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985870544460447746/WlgdUFc0_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/151946454/1650474549",
-        "profile_link_color": "0084B4",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": null,
-        "follow_request_sent": null,
-        "notifications": null,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      }
-    },
-    "user": {
-      "id": 1527360294003298300,
-      "id_str": "1527360294003298305",
-      "name": "BANCO CIUDAD",
-      "screen_name": "Ciudad_of",
-      "location": "Ciudad Autónoma de Buenos Aire",
-      "description": "bienvenidos a banco ciudad somos el banco que te banca comunicarnos por privado",
-      "url": "https://t.co/Bub9mGVLvR",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/Bub9mGVLvR",
-              "expanded_url": "http://www.bancociudad.com.ar",
-              "display_url": "bancociudad.com.ar",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 0,
-      "friends_count": 11,
-      "listed_count": 0,
-      "created_at": "Thu May 19 18:47:33 +0000 2022",
-      "favourites_count": 19,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 31,
-      "lang": null,
-      "status": {
-        "created_at": "Thu May 19 20:28:13 +0000 2022",
-        "id": 1527385662059585500,
-        "id_str": "1527385662059585536",
-        "text": "@martabeatrizn11 Hola buenas tardes Mi nombre es Luciana Robledo para poderte ayudar ante duda consulta o reclamo t… https://t.co/XfLLevQFnd",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "martabeatrizn11",
-              "name": "martabeatrizn1953",
-              "id": 1312754022269554700,
-              "id_str": "1312754022269554688",
-              "indices": [
-                0,
-                16
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/XfLLevQFnd",
-              "expanded_url": "https://twitter.com/i/web/status/1527385662059585536",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": null,
-        "in_reply_to_status_id_str": null,
-        "in_reply_to_user_id": 1312754022269554700,
-        "in_reply_to_user_id_str": "1312754022269554688",
-        "in_reply_to_screen_name": "martabeatrizn11",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "es"
-      },
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1527371951915732993/EYTyxiZw_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527371951915732993/EYTyxiZw_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527360294003298305/1652988824",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": true,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": null,
-      "follow_request_sent": null,
-      "notifications": null,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "tweet": {
-      "created_at": "Thu May 19 20:05:27 +0000 2022",
-      "id": 1527379932552122400,
-      "id_str": "1527379932552122381",
-      "full_text": "@omale44 Hola buenas tardes Mi nombre es Luciana Robledo para poderte ayudar ante duda consulta o reclamo te solicitamos que brindes tu contacto telefónico de un ejecutivo de cuenta  se comunica a la brevedad muchas gracias",
-      "truncated": false,
-      "display_text_range": [
-        9,
-        223
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "omale44",
-            "name": "ale sosa",
-            "id": 65392539,
-            "id_str": "65392539",
-            "indices": [
-              0,
-              8
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1527377209043759000,
-      "in_reply_to_status_id_str": "1527377209043759107",
-      "in_reply_to_user_id": 65392539,
-      "in_reply_to_user_id_str": "65392539",
-      "in_reply_to_screen_name": "omale44",
-      "user": {
-        "id": 1527360294003298300,
-        "id_str": "1527360294003298305",
-        "name": "BANCO CIUDAD",
-        "screen_name": "Ciudad_of",
-        "location": "Ciudad Autónoma de Buenos Aire",
-        "description": "bienvenidos a banco ciudad somos el banco que te banca comunicarnos por privado",
-        "url": "https://t.co/Bub9mGVLvR",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/Bub9mGVLvR",
-                "expanded_url": "http://www.bancociudad.com.ar",
-                "display_url": "bancociudad.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 0,
-        "friends_count": 11,
-        "listed_count": 0,
-        "created_at": "Thu May 19 18:47:33 +0000 2022",
-        "favourites_count": 19,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 31,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1527371951915732993/EYTyxiZw_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527371951915732993/EYTyxiZw_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527360294003298305/1652988824",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": true,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": null,
-        "follow_request_sent": null,
-        "notifications": null,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "es"
-    },
-    "isScam": true
-  },
-  {
-    "brand": {
-      "name": "Banco Ciudad",
-      "user": {
-        "id": 151946454,
-        "id_str": "151946454",
-        "name": "Banco Ciudad",
-        "screen_name": "BancoCiudad",
-        "location": "Ciudad de Buenos Aires",
-        "description": "Escribinos por Mensaje Directo y empezá la conversación con nuestro asistente virtual. Podés hablar con una persona del equipo de L a V de 8 a 20 horas.",
-        "url": "https://t.co/cVuPFuBaDj",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/cVuPFuBaDj",
-                "expanded_url": "http://www.bancociudad.com.ar",
-                "display_url": "bancociudad.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 81224,
-        "friends_count": 12,
-        "listed_count": 184,
-        "created_at": "Fri Jun 04 17:15:19 +0000 2010",
-        "favourites_count": 1172,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": true,
-        "statuses_count": 7896,
-        "lang": null,
-        "status": {
-          "created_at": "Sat May 21 00:20:11 +0000 2022",
-          "id": 1527806425954648000,
-          "id_str": "1527806425954648064",
-          "text": "@P_Villalba ¡Hola! Podés contactarnos online de Lunes a Viernes, en días hábiles, de 08 a 20 horas para ayudarte.\nR… https://t.co/ybiGRqGTDS",
-          "truncated": true,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "P_Villalba",
-                "name": "Paula Villalba",
-                "id": 280581552,
-                "id_str": "280581552",
-                "indices": [
-                  0,
-                  11
-                ]
-              }
-            ],
-            "urls": [
-              {
-                "url": "https://t.co/ybiGRqGTDS",
-                "expanded_url": "https://twitter.com/i/web/status/1527806425954648064",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
-          },
-          "source": "<a href=\"https://production.com\" rel=\"nofollow\"> productionChatVirg</a>",
-          "in_reply_to_status_id": 1527806413959045000,
-          "in_reply_to_status_id_str": "1527806413959045121",
-          "in_reply_to_user_id": 280581552,
-          "in_reply_to_user_id_str": "280581552",
-          "in_reply_to_screen_name": "P_Villalba",
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 1,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "es"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "FFFFFF",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/985870544460447746/WlgdUFc0_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985870544460447746/WlgdUFc0_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/151946454/1650474549",
-        "profile_link_color": "0084B4",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": null,
-        "follow_request_sent": null,
-        "notifications": null,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      }
-    },
-    "user": {
-      "id": 1527428180927205400,
-      "id_str": "1527428180927205376",
-      "name": "Banco Ciudad",
-      "screen_name": "bco_ciudadApp",
-      "location": "Buenos Aires, Argentina",
-      "description": "¿dudas consultas? ¡estamos para ayudarte! dejanos tus inquietudes por privado.",
-      "url": "https://t.co/ANPE170CZt",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/ANPE170CZt",
-              "expanded_url": "http://bancociudad.com.ar",
-              "display_url": "bancociudad.com.ar",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 1,
-      "friends_count": 31,
-      "listed_count": 0,
-      "created_at": "Thu May 19 23:17:19 +0000 2022",
-      "favourites_count": 0,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 2,
-      "lang": null,
-      "status": {
-        "created_at": "Fri May 20 21:21:54 +0000 2022",
-        "id": 1527761559182778400,
-        "id_str": "1527761559182778369",
-        "text": "@martamaradei Hola Marta, para ayudarte con tu solicitud dejanos tu número de contacto y en Instantes un oficial de… https://t.co/EKcySWk1Te",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "martamaradei",
-              "name": "Marta Maradei",
-              "id": 153929696,
-              "id_str": "153929696",
-              "indices": [
-                0,
-                13
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/EKcySWk1Te",
-              "expanded_url": "https://twitter.com/i/web/status/1527761559182778369",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": 1527757087777906700,
-        "in_reply_to_status_id_str": "1527757087777906689",
-        "in_reply_to_user_id": 153929696,
-        "in_reply_to_user_id_str": "153929696",
-        "in_reply_to_screen_name": "martamaradei",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "es"
-      },
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1527701644321882112/oWnZ6QgR_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527701644321882112/oWnZ6QgR_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527428180927205376/1653067450",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": null,
-      "follow_request_sent": null,
-      "notifications": null,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "tweet": {
-      "created_at": "Fri May 20 21:21:54 +0000 2022",
-      "id": 1527761559182778400,
-      "id_str": "1527761559182778369",
-      "full_text": "@martamaradei Hola Marta, para ayudarte con tu solicitud dejanos tu número de contacto y en Instantes un oficial de cuentas se pondrá en comunicación, gracias por contactarnos.",
-      "truncated": false,
-      "display_text_range": [
-        14,
-        176
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "martamaradei",
-            "name": "Marta Maradei",
-            "id": 153929696,
-            "id_str": "153929696",
-            "indices": [
-              0,
-              13
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1527757087777906700,
-      "in_reply_to_status_id_str": "1527757087777906689",
-      "in_reply_to_user_id": 153929696,
-      "in_reply_to_user_id_str": "153929696",
-      "in_reply_to_screen_name": "martamaradei",
-      "user": {
-        "id": 1527428180927205400,
-        "id_str": "1527428180927205376",
-        "name": "Banco Ciudad",
-        "screen_name": "bco_ciudadApp",
-        "location": "Buenos Aires, Argentina",
-        "description": "¿dudas consultas? ¡estamos para ayudarte! dejanos tus inquietudes por privado.",
-        "url": "https://t.co/ANPE170CZt",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/ANPE170CZt",
-                "expanded_url": "http://bancociudad.com.ar",
-                "display_url": "bancociudad.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 1,
-        "friends_count": 31,
-        "listed_count": 0,
-        "created_at": "Thu May 19 23:17:19 +0000 2022",
-        "favourites_count": 0,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 2,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1527701644321882112/oWnZ6QgR_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527701644321882112/oWnZ6QgR_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527428180927205376/1653067450",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": false,
-        "default_profile": true,
-        "default_profile_image": false,
-        "following": null,
-        "follow_request_sent": null,
-        "notifications": null,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 0,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": false,
-      "lang": "es"
-    },
-    "isScam": true
-  },
-  {
-    "brand": {
-      "name": "Banco Ciudad",
-      "user": {
-        "id": 151946454,
-        "id_str": "151946454",
-        "name": "Banco Ciudad",
-        "screen_name": "BancoCiudad",
-        "location": "Ciudad de Buenos Aires",
-        "description": "Escribinos por Mensaje Directo y empezá la conversación con nuestro asistente virtual. Podés hablar con una persona del equipo de L a V de 8 a 20 horas.",
-        "url": "https://t.co/cVuPFuBaDj",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/cVuPFuBaDj",
-                "expanded_url": "http://www.bancociudad.com.ar",
-                "display_url": "bancociudad.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 81224,
-        "friends_count": 12,
-        "listed_count": 184,
-        "created_at": "Fri Jun 04 17:15:19 +0000 2010",
-        "favourites_count": 1172,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": true,
-        "statuses_count": 7896,
-        "lang": null,
-        "status": {
-          "created_at": "Sat May 21 00:20:11 +0000 2022",
-          "id": 1527806425954648000,
-          "id_str": "1527806425954648064",
-          "text": "@P_Villalba ¡Hola! Podés contactarnos online de Lunes a Viernes, en días hábiles, de 08 a 20 horas para ayudarte.\nR… https://t.co/ybiGRqGTDS",
-          "truncated": true,
-          "entities": {
-            "hashtags": [],
-            "symbols": [],
-            "user_mentions": [
-              {
-                "screen_name": "P_Villalba",
-                "name": "Paula Villalba",
-                "id": 280581552,
-                "id_str": "280581552",
-                "indices": [
-                  0,
-                  11
-                ]
-              }
-            ],
-            "urls": [
-              {
-                "url": "https://t.co/ybiGRqGTDS",
-                "expanded_url": "https://twitter.com/i/web/status/1527806425954648064",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
-          },
-          "source": "<a href=\"https://production.com\" rel=\"nofollow\"> productionChatVirg</a>",
-          "in_reply_to_status_id": 1527806413959045000,
-          "in_reply_to_status_id_str": "1527806413959045121",
-          "in_reply_to_user_id": 280581552,
-          "in_reply_to_user_id_str": "280581552",
-          "in_reply_to_screen_name": "P_Villalba",
-          "geo": null,
-          "coordinates": null,
-          "place": null,
-          "contributors": null,
-          "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 1,
-          "favorited": false,
-          "retweeted": false,
-          "lang": "es"
-        },
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "FFFFFF",
-        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/985870544460447746/WlgdUFc0_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985870544460447746/WlgdUFc0_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/151946454/1650474549",
-        "profile_link_color": "0084B4",
-        "profile_sidebar_border_color": "FFFFFF",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": false,
-        "default_profile": false,
-        "default_profile_image": false,
-        "following": null,
-        "follow_request_sent": null,
-        "notifications": null,
-        "translator_type": "none",
-        "withheld_in_countries": []
-      }
-    },
-    "user": {
-      "id": 1527428180927205400,
-      "id_str": "1527428180927205376",
-      "name": "Banco Ciudad",
-      "screen_name": "bco_ciudadApp",
-      "location": "Buenos Aires, Argentina",
-      "description": "¿dudas consultas? ¡estamos para ayudarte! dejanos tus inquietudes por privado.",
-      "url": "https://t.co/ANPE170CZt",
-      "entities": {
-        "url": {
-          "urls": [
-            {
-              "url": "https://t.co/ANPE170CZt",
-              "expanded_url": "http://bancociudad.com.ar",
-              "display_url": "bancociudad.com.ar",
-              "indices": [
-                0,
-                23
-              ]
-            }
-          ]
-        },
-        "description": {
-          "urls": []
-        }
-      },
-      "protected": false,
-      "followers_count": 1,
-      "friends_count": 31,
-      "listed_count": 0,
-      "created_at": "Thu May 19 23:17:19 +0000 2022",
-      "favourites_count": 0,
-      "utc_offset": null,
-      "time_zone": null,
-      "geo_enabled": false,
-      "verified": false,
-      "statuses_count": 2,
-      "lang": null,
-      "status": {
-        "created_at": "Fri May 20 21:21:54 +0000 2022",
-        "id": 1527761559182778400,
-        "id_str": "1527761559182778369",
-        "text": "@martamaradei Hola Marta, para ayudarte con tu solicitud dejanos tu número de contacto y en Instantes un oficial de… https://t.co/EKcySWk1Te",
-        "truncated": true,
-        "entities": {
-          "hashtags": [],
-          "symbols": [],
-          "user_mentions": [
-            {
-              "screen_name": "martamaradei",
-              "name": "Marta Maradei",
-              "id": 153929696,
-              "id_str": "153929696",
-              "indices": [
-                0,
-                13
-              ]
-            }
-          ],
-          "urls": [
-            {
-              "url": "https://t.co/EKcySWk1Te",
-              "expanded_url": "https://twitter.com/i/web/status/1527761559182778369",
-              "display_url": "twitter.com/i/web/status/1…",
-              "indices": [
-                117,
-                140
-              ]
-            }
-          ]
-        },
-        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": 1527757087777906700,
-        "in_reply_to_status_id_str": "1527757087777906689",
-        "in_reply_to_user_id": 153929696,
-        "in_reply_to_user_id_str": "153929696",
-        "in_reply_to_screen_name": "martamaradei",
-        "geo": null,
-        "coordinates": null,
-        "place": null,
-        "contributors": null,
-        "is_quote_status": false,
-        "retweet_count": 0,
-        "favorite_count": 0,
-        "favorited": false,
-        "retweeted": false,
-        "lang": "es"
-      },
-      "contributors_enabled": false,
-      "is_translator": false,
-      "is_translation_enabled": false,
-      "profile_background_color": "F5F8FA",
-      "profile_background_image_url": null,
-      "profile_background_image_url_https": null,
-      "profile_background_tile": false,
-      "profile_image_url": "http://pbs.twimg.com/profile_images/1527701644321882112/oWnZ6QgR_normal.jpg",
-      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527701644321882112/oWnZ6QgR_normal.jpg",
-      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527428180927205376/1653067450",
-      "profile_link_color": "1DA1F2",
-      "profile_sidebar_border_color": "C0DEED",
-      "profile_sidebar_fill_color": "DDEEF6",
-      "profile_text_color": "333333",
-      "profile_use_background_image": true,
-      "has_extended_profile": false,
-      "default_profile": true,
-      "default_profile_image": false,
-      "following": null,
-      "follow_request_sent": null,
-      "notifications": null,
-      "translator_type": "none",
-      "withheld_in_countries": []
-    },
-    "tweet": {
-      "created_at": "Fri May 20 18:36:22 +0000 2022",
-      "id": 1527719899287543800,
-      "id_str": "1527719899287543814",
-      "full_text": "@LauraCeciliaMe6 Hola Laura, para ayudarte con tu consulta dejanos tu número de contacto por privado en @bco_ciudadApp y automáticamente un oficial de cuentas se pondrá en comunicación, gracias por contactarnos.",
-      "truncated": false,
-      "display_text_range": [
-        17,
-        211
-      ],
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "LauraCeciliaMe6",
-            "name": "LauCeMed",
-            "id": 1350849344606531600,
-            "id_str": "1350849344606531585",
-            "indices": [
-              0,
-              16
-            ]
-          },
-          {
-            "screen_name": "bco_ciudadApp",
-            "name": "Banco Ciudad",
-            "id": 1527428180927205400,
-            "id_str": "1527428180927205376",
-            "indices": [
-              104,
-              118
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 1527719367772889000,
-      "in_reply_to_status_id_str": "1527719367772889089",
-      "in_reply_to_user_id": 1350849344606531600,
-      "in_reply_to_user_id_str": "1350849344606531585",
-      "in_reply_to_screen_name": "LauraCeciliaMe6",
-      "user": {
-        "id": 1527428180927205400,
-        "id_str": "1527428180927205376",
-        "name": "Banco Ciudad",
-        "screen_name": "bco_ciudadApp",
-        "location": "Buenos Aires, Argentina",
-        "description": "¿dudas consultas? ¡estamos para ayudarte! dejanos tus inquietudes por privado.",
-        "url": "https://t.co/ANPE170CZt",
-        "entities": {
-          "url": {
-            "urls": [
-              {
-                "url": "https://t.co/ANPE170CZt",
-                "expanded_url": "http://bancociudad.com.ar",
-                "display_url": "bancociudad.com.ar",
-                "indices": [
-                  0,
-                  23
-                ]
-              }
-            ]
-          },
-          "description": {
-            "urls": []
-          }
-        },
-        "protected": false,
-        "followers_count": 1,
-        "friends_count": 31,
-        "listed_count": 0,
-        "created_at": "Thu May 19 23:17:19 +0000 2022",
-        "favourites_count": 0,
-        "utc_offset": null,
-        "time_zone": null,
-        "geo_enabled": false,
-        "verified": false,
-        "statuses_count": 2,
-        "lang": null,
-        "contributors_enabled": false,
-        "is_translator": false,
-        "is_translation_enabled": false,
-        "profile_background_color": "F5F8FA",
-        "profile_background_image_url": null,
-        "profile_background_image_url_https": null,
-        "profile_background_tile": false,
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1527701644321882112/oWnZ6QgR_normal.jpg",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1527701644321882112/oWnZ6QgR_normal.jpg",
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527428180927205376/1653067450",
-        "profile_link_color": "1DA1F2",
-        "profile_sidebar_border_color": "C0DEED",
-        "profile_sidebar_fill_color": "DDEEF6",
-        "profile_text_color": "333333",
-        "profile_use_background_image": true,
-        "has_extended_profile": false,
         "default_profile": true,
         "default_profile_image": false,
         "following": null,
@@ -16330,7 +15780,7 @@
       },
       "protected": false,
       "followers_count": 5,
-      "friends_count": 56,
+      "friends_count": 59,
       "listed_count": 0,
       "created_at": "Wed May 18 23:09:53 +0000 2022",
       "favourites_count": 0,
@@ -16465,7 +15915,7 @@
         },
         "protected": false,
         "followers_count": 5,
-        "friends_count": 56,
+        "friends_count": 59,
         "listed_count": 0,
         "created_at": "Wed May 18 23:09:53 +0000 2022",
         "favourites_count": 0,
@@ -16552,7 +16002,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -16908,7 +16358,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -17254,7 +16704,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -17600,7 +17050,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -17946,7 +17396,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -18292,7 +17742,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -18628,7 +18078,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -18964,7 +18414,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -19310,7 +18760,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -19656,7 +19106,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -20002,7 +19452,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -20348,7 +19798,7 @@
           }
         },
         "protected": false,
-        "followers_count": 158474,
+        "followers_count": 158473,
         "friends_count": 16226,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
@@ -23748,7 +23198,7 @@
           }
         },
         "protected": false,
-        "followers_count": 444687,
+        "followers_count": 444685,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23848,8 +23298,8 @@
         }
       },
       "protected": false,
-      "followers_count": 3,
-      "friends_count": 95,
+      "followers_count": 2,
+      "friends_count": 93,
       "listed_count": 0,
       "created_at": "Tue May 17 19:08:37 +0000 2022",
       "favourites_count": 3,
@@ -24010,8 +23460,8 @@
           }
         },
         "protected": false,
-        "followers_count": 3,
-        "friends_count": 95,
+        "followers_count": 2,
+        "friends_count": 93,
         "listed_count": 0,
         "created_at": "Tue May 17 19:08:37 +0000 2022",
         "favourites_count": 3,
@@ -24098,7 +23548,7 @@
           }
         },
         "protected": false,
-        "followers_count": 444687,
+        "followers_count": 444685,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24444,7 +23894,7 @@
           }
         },
         "protected": false,
-        "followers_count": 444687,
+        "followers_count": 444685,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24764,7 +24214,7 @@
           }
         },
         "protected": false,
-        "followers_count": 444687,
+        "followers_count": 444685,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25074,7 +24524,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94462,
+        "followers_count": 94464,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25381,7 +24831,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94462,
+        "followers_count": 94464,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25688,7 +25138,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94462,
+        "followers_count": 94464,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25995,7 +25445,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94462,
+        "followers_count": 94464,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26302,7 +25752,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94462,
+        "followers_count": 94464,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26598,7 +26048,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94462,
+        "followers_count": 94464,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26905,7 +26355,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94462,
+        "followers_count": 94464,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -27212,7 +26662,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94462,
+        "followers_count": 94464,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -27519,7 +26969,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94462,
+        "followers_count": 94464,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -27826,7 +27276,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94462,
+        "followers_count": 94464,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -28132,7 +27582,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151948,
+        "followers_count": 151944,
         "friends_count": 17,
         "listed_count": 219,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -28141,47 +27591,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167022,
+        "statuses_count": 167024,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 19:56:22 +0000 2022",
-          "id": 1528102419959275500,
-          "id_str": "1528102419959275520",
-          "text": "@unamelany No contamos con Inbox, actualmente, contamos con 2 canales de contacto de Mercado Libre y Mercado Pago:… https://t.co/bnAZl9TnGq",
+          "created_at": "Sat May 21 22:03:20 +0000 2022",
+          "id": 1528134373576523800,
+          "id_str": "1528134373576523781",
+          "text": "@checheabdo Para poder asesorarte, te pedimos que nos envíes el usuario de tu cuenta, el mismo podrás verlo directa… https://t.co/kuPiy4m6fH",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "unamelany",
-                "name": "ᴍᴇssʟᴀɴʏ.",
-                "id": 1426743504,
-                "id_str": "1426743504",
+                "screen_name": "checheabdo",
+                "name": "cheche",
+                "id": 1125739369,
+                "id_str": "1125739369",
                 "indices": [
                   0,
-                  10
+                  11
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/bnAZl9TnGq",
-                "expanded_url": "https://twitter.com/i/web/status/1528102419959275520",
+                "url": "https://t.co/kuPiy4m6fH",
+                "expanded_url": "https://twitter.com/i/web/status/1528134373576523781",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1528088021312147500,
-          "in_reply_to_status_id_str": "1528088021312147456",
-          "in_reply_to_user_id": 1426743504,
-          "in_reply_to_user_id_str": "1426743504",
-          "in_reply_to_screen_name": "unamelany",
+          "in_reply_to_status_id": 1528119441413722000,
+          "in_reply_to_status_id_str": "1528119441413722112",
+          "in_reply_to_user_id": 1125739369,
+          "in_reply_to_user_id_str": "1125739369",
+          "in_reply_to_screen_name": "checheabdo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28191,7 +27641,6 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -28454,7 +27903,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151948,
+        "followers_count": 151944,
         "friends_count": 17,
         "listed_count": 219,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -28463,47 +27912,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167022,
+        "statuses_count": 167024,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 19:56:22 +0000 2022",
-          "id": 1528102419959275500,
-          "id_str": "1528102419959275520",
-          "text": "@unamelany No contamos con Inbox, actualmente, contamos con 2 canales de contacto de Mercado Libre y Mercado Pago:… https://t.co/bnAZl9TnGq",
+          "created_at": "Sat May 21 22:03:20 +0000 2022",
+          "id": 1528134373576523800,
+          "id_str": "1528134373576523781",
+          "text": "@checheabdo Para poder asesorarte, te pedimos que nos envíes el usuario de tu cuenta, el mismo podrás verlo directa… https://t.co/kuPiy4m6fH",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "unamelany",
-                "name": "ᴍᴇssʟᴀɴʏ.",
-                "id": 1426743504,
-                "id_str": "1426743504",
+                "screen_name": "checheabdo",
+                "name": "cheche",
+                "id": 1125739369,
+                "id_str": "1125739369",
                 "indices": [
                   0,
-                  10
+                  11
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/bnAZl9TnGq",
-                "expanded_url": "https://twitter.com/i/web/status/1528102419959275520",
+                "url": "https://t.co/kuPiy4m6fH",
+                "expanded_url": "https://twitter.com/i/web/status/1528134373576523781",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1528088021312147500,
-          "in_reply_to_status_id_str": "1528088021312147456",
-          "in_reply_to_user_id": 1426743504,
-          "in_reply_to_user_id_str": "1426743504",
-          "in_reply_to_screen_name": "unamelany",
+          "in_reply_to_status_id": 1528119441413722000,
+          "in_reply_to_status_id_str": "1528119441413722112",
+          "in_reply_to_user_id": 1125739369,
+          "in_reply_to_user_id_str": "1125739369",
+          "in_reply_to_screen_name": "checheabdo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28513,7 +27962,6 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -28776,7 +28224,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151948,
+        "followers_count": 151944,
         "friends_count": 17,
         "listed_count": 219,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -28785,47 +28233,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167022,
+        "statuses_count": 167024,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 19:56:22 +0000 2022",
-          "id": 1528102419959275500,
-          "id_str": "1528102419959275520",
-          "text": "@unamelany No contamos con Inbox, actualmente, contamos con 2 canales de contacto de Mercado Libre y Mercado Pago:… https://t.co/bnAZl9TnGq",
+          "created_at": "Sat May 21 22:03:20 +0000 2022",
+          "id": 1528134373576523800,
+          "id_str": "1528134373576523781",
+          "text": "@checheabdo Para poder asesorarte, te pedimos que nos envíes el usuario de tu cuenta, el mismo podrás verlo directa… https://t.co/kuPiy4m6fH",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "unamelany",
-                "name": "ᴍᴇssʟᴀɴʏ.",
-                "id": 1426743504,
-                "id_str": "1426743504",
+                "screen_name": "checheabdo",
+                "name": "cheche",
+                "id": 1125739369,
+                "id_str": "1125739369",
                 "indices": [
                   0,
-                  10
+                  11
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/bnAZl9TnGq",
-                "expanded_url": "https://twitter.com/i/web/status/1528102419959275520",
+                "url": "https://t.co/kuPiy4m6fH",
+                "expanded_url": "https://twitter.com/i/web/status/1528134373576523781",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1528088021312147500,
-          "in_reply_to_status_id_str": "1528088021312147456",
-          "in_reply_to_user_id": 1426743504,
-          "in_reply_to_user_id_str": "1426743504",
-          "in_reply_to_screen_name": "unamelany",
+          "in_reply_to_status_id": 1528119441413722000,
+          "in_reply_to_status_id_str": "1528119441413722112",
+          "in_reply_to_user_id": 1125739369,
+          "in_reply_to_user_id_str": "1125739369",
+          "in_reply_to_screen_name": "checheabdo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28835,7 +28283,6 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -29098,7 +28545,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151948,
+        "followers_count": 151944,
         "friends_count": 17,
         "listed_count": 219,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -29107,47 +28554,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167022,
+        "statuses_count": 167024,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 19:56:22 +0000 2022",
-          "id": 1528102419959275500,
-          "id_str": "1528102419959275520",
-          "text": "@unamelany No contamos con Inbox, actualmente, contamos con 2 canales de contacto de Mercado Libre y Mercado Pago:… https://t.co/bnAZl9TnGq",
+          "created_at": "Sat May 21 22:03:20 +0000 2022",
+          "id": 1528134373576523800,
+          "id_str": "1528134373576523781",
+          "text": "@checheabdo Para poder asesorarte, te pedimos que nos envíes el usuario de tu cuenta, el mismo podrás verlo directa… https://t.co/kuPiy4m6fH",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "unamelany",
-                "name": "ᴍᴇssʟᴀɴʏ.",
-                "id": 1426743504,
-                "id_str": "1426743504",
+                "screen_name": "checheabdo",
+                "name": "cheche",
+                "id": 1125739369,
+                "id_str": "1125739369",
                 "indices": [
                   0,
-                  10
+                  11
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/bnAZl9TnGq",
-                "expanded_url": "https://twitter.com/i/web/status/1528102419959275520",
+                "url": "https://t.co/kuPiy4m6fH",
+                "expanded_url": "https://twitter.com/i/web/status/1528134373576523781",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1528088021312147500,
-          "in_reply_to_status_id_str": "1528088021312147456",
-          "in_reply_to_user_id": 1426743504,
-          "in_reply_to_user_id_str": "1426743504",
-          "in_reply_to_screen_name": "unamelany",
+          "in_reply_to_status_id": 1528119441413722000,
+          "in_reply_to_status_id_str": "1528119441413722112",
+          "in_reply_to_user_id": 1125739369,
+          "in_reply_to_user_id_str": "1125739369",
+          "in_reply_to_screen_name": "checheabdo",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -29157,7 +28604,6 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
