@@ -29,7 +29,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150559,
+        "followers_count": 150561,
         "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -347,7 +347,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150559,
+        "followers_count": 150561,
         "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -665,7 +665,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150559,
+        "followers_count": 150561,
         "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -983,7 +983,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150559,
+        "followers_count": 150561,
         "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1319,7 +1319,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150559,
+        "followers_count": 150561,
         "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1655,7 +1655,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150559,
+        "followers_count": 150561,
         "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1965,7 +1965,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150559,
+        "followers_count": 150561,
         "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2275,7 +2275,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150559,
+        "followers_count": 150561,
         "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2585,7 +2585,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150559,
+        "followers_count": 150561,
         "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2895,7 +2895,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150559,
+        "followers_count": 150561,
         "friends_count": 54770,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -3215,8 +3215,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -3224,54 +3224,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3523,8 +3513,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -3532,54 +3522,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3841,8 +3821,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -3850,54 +3830,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4149,8 +4119,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -4158,54 +4128,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4457,8 +4417,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -4466,54 +4426,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4756,8 +4706,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -4765,54 +4715,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5055,8 +4995,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -5064,54 +5004,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5354,8 +5284,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -5363,54 +5293,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5656,8 +5576,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -5665,54 +5585,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5961,8 +5871,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -5970,54 +5880,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6266,8 +6166,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -6275,54 +6175,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6568,8 +6458,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -6577,54 +6467,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6873,8 +6753,8 @@
           }
         },
         "protected": false,
-        "followers_count": 654065,
-        "friends_count": 315918,
+        "followers_count": 654066,
+        "friends_count": 315919,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6299,
@@ -6882,54 +6762,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1025649,
+        "statuses_count": 1025652,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 21:58:31 +0000 2022",
-          "id": 1528133159887437800,
-          "id_str": "1528133159887437824",
-          "text": "@Lucho0706 ¿Cómo estás?, contame, ¿probaste reiniciar tu módem?.  Te invito  a que nos escribas por privado asi te… https://t.co/1kybOMROJm",
-          "truncated": true,
+          "created_at": "Sat May 21 22:45:43 +0000 2022",
+          "id": 1528145040505290800,
+          "id_str": "1528145040505290755",
+          "text": "@nielsenbrand47 ¡Hola Rodrigo! Te respondí por DM, continuamos por esa vía. :)",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Lucho0706",
-                "name": "Luis Varela Eire",
-                "id": 147945522,
-                "id_str": "147945522",
+                "screen_name": "nielsenbrand47",
+                "name": "Rodrigo Nielsen Brand",
+                "id": 1511381464562245600,
+                "id_str": "1511381464562245638",
                 "indices": [
                   0,
-                  10
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/1kybOMROJm",
-                "expanded_url": "https://twitter.com/i/web/status/1528133159887437824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  116,
-                  139
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1528131657726693400,
-          "in_reply_to_status_id_str": "1528131657726693376",
-          "in_reply_to_user_id": 147945522,
-          "in_reply_to_user_id_str": "147945522",
-          "in_reply_to_screen_name": "Lucho0706",
+          "in_reply_to_status_id": 1528143995339145200,
+          "in_reply_to_status_id_str": "1528143995339145217",
+          "in_reply_to_user_id": 1511381464562245600,
+          "in_reply_to_user_id_str": "1511381464562245638",
+          "in_reply_to_screen_name": "nielsenbrand47",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -7168,8 +7038,8 @@
           }
         },
         "protected": false,
-        "followers_count": 547803,
-        "friends_count": 215068,
+        "followers_count": 547807,
+        "friends_count": 215067,
         "listed_count": 1083,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18608,
@@ -7177,37 +7047,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2529605,
+        "statuses_count": 2529611,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 22:01:36 +0000 2022",
-          "id": 1528133936324411400,
-          "id_str": "1528133936324411392",
-          "text": "@Tolen87 Buenas Noches Pablo, por favor comunicate con nosotros por MD para poder resolver el inconveniente que presentas. ^BLA",
+          "created_at": "Sat May 21 22:49:56 +0000 2022",
+          "id": 1528146101747982300,
+          "id_str": "1528146101747982337",
+          "text": "@luluu______ Buenas noches. Estamos para ayudarte. Escribinos por favor por DM así lo vemos en detalle. ^HA https://t.co/IF6i7c2Jjs",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Tolen87",
-                "name": "Pablo Brizuela",
-                "id": 372590440,
-                "id_str": "372590440",
+                "screen_name": "luluu______",
+                "name": "ᏝᏬ",
+                "id": 86584577,
+                "id_str": "86584577",
                 "indices": [
                   0,
-                  8
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/IF6i7c2Jjs",
+                "expanded_url": "http://mov.is/ddmm",
+                "display_url": "mov.is/ddmm",
+                "indices": [
+                  108,
+                  131
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1528133619235147800,
-          "in_reply_to_status_id_str": "1528133619235147779",
-          "in_reply_to_user_id": 372590440,
-          "in_reply_to_user_id_str": "372590440",
-          "in_reply_to_screen_name": "Tolen87",
+          "in_reply_to_status_id": 1528145854393106400,
+          "in_reply_to_status_id_str": "1528145854393106432",
+          "in_reply_to_user_id": 86584577,
+          "in_reply_to_user_id_str": "86584577",
+          "in_reply_to_screen_name": "luluu______",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7217,6 +7097,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -7482,8 +7363,8 @@
           }
         },
         "protected": false,
-        "followers_count": 547803,
-        "friends_count": 215068,
+        "followers_count": 547807,
+        "friends_count": 215067,
         "listed_count": 1083,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18608,
@@ -7491,37 +7372,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2529605,
+        "statuses_count": 2529611,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 22:01:36 +0000 2022",
-          "id": 1528133936324411400,
-          "id_str": "1528133936324411392",
-          "text": "@Tolen87 Buenas Noches Pablo, por favor comunicate con nosotros por MD para poder resolver el inconveniente que presentas. ^BLA",
+          "created_at": "Sat May 21 22:49:56 +0000 2022",
+          "id": 1528146101747982300,
+          "id_str": "1528146101747982337",
+          "text": "@luluu______ Buenas noches. Estamos para ayudarte. Escribinos por favor por DM así lo vemos en detalle. ^HA https://t.co/IF6i7c2Jjs",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Tolen87",
-                "name": "Pablo Brizuela",
-                "id": 372590440,
-                "id_str": "372590440",
+                "screen_name": "luluu______",
+                "name": "ᏝᏬ",
+                "id": 86584577,
+                "id_str": "86584577",
                 "indices": [
                   0,
-                  8
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/IF6i7c2Jjs",
+                "expanded_url": "http://mov.is/ddmm",
+                "display_url": "mov.is/ddmm",
+                "indices": [
+                  108,
+                  131
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1528133619235147800,
-          "in_reply_to_status_id_str": "1528133619235147779",
-          "in_reply_to_user_id": 372590440,
-          "in_reply_to_user_id_str": "372590440",
-          "in_reply_to_screen_name": "Tolen87",
+          "in_reply_to_status_id": 1528145854393106400,
+          "in_reply_to_status_id_str": "1528145854393106432",
+          "in_reply_to_user_id": 86584577,
+          "in_reply_to_user_id_str": "86584577",
+          "in_reply_to_screen_name": "luluu______",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7531,6 +7422,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -7796,8 +7688,8 @@
           }
         },
         "protected": false,
-        "followers_count": 547803,
-        "friends_count": 215068,
+        "followers_count": 547807,
+        "friends_count": 215067,
         "listed_count": 1083,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18608,
@@ -7805,37 +7697,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2529605,
+        "statuses_count": 2529611,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 22:01:36 +0000 2022",
-          "id": 1528133936324411400,
-          "id_str": "1528133936324411392",
-          "text": "@Tolen87 Buenas Noches Pablo, por favor comunicate con nosotros por MD para poder resolver el inconveniente que presentas. ^BLA",
+          "created_at": "Sat May 21 22:49:56 +0000 2022",
+          "id": 1528146101747982300,
+          "id_str": "1528146101747982337",
+          "text": "@luluu______ Buenas noches. Estamos para ayudarte. Escribinos por favor por DM así lo vemos en detalle. ^HA https://t.co/IF6i7c2Jjs",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Tolen87",
-                "name": "Pablo Brizuela",
-                "id": 372590440,
-                "id_str": "372590440",
+                "screen_name": "luluu______",
+                "name": "ᏝᏬ",
+                "id": 86584577,
+                "id_str": "86584577",
                 "indices": [
                   0,
-                  8
+                  12
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/IF6i7c2Jjs",
+                "expanded_url": "http://mov.is/ddmm",
+                "display_url": "mov.is/ddmm",
+                "indices": [
+                  108,
+                  131
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1528133619235147800,
-          "in_reply_to_status_id_str": "1528133619235147779",
-          "in_reply_to_user_id": 372590440,
-          "in_reply_to_user_id_str": "372590440",
-          "in_reply_to_screen_name": "Tolen87",
+          "in_reply_to_status_id": 1528145854393106400,
+          "in_reply_to_status_id_str": "1528145854393106432",
+          "in_reply_to_user_id": 86584577,
+          "in_reply_to_user_id_str": "86584577",
+          "in_reply_to_screen_name": "luluu______",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7845,6 +7747,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -8150,8 +8053,8 @@
           }
         },
         "protected": false,
-        "followers_count": 601634,
-        "friends_count": 252419,
+        "followers_count": 601636,
+        "friends_count": 252422,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -8159,26 +8062,26 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2076686,
+        "statuses_count": 2076693,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 22:03:50 +0000 2022",
-          "id": 1528134498889654300,
-          "id_str": "1528134498889654279",
-          "text": "@EEluzu Hola! Te pedimos que nos contactes por privado a https://t.co/8i6cgU6O4H para poder ayudarte. Gracias!",
+          "created_at": "Sat May 21 22:59:09 +0000 2022",
+          "id": 1528148420988481500,
+          "id_str": "1528148420988481537",
+          "text": "@MaryLucy64 Hola! Te pedimos que nos contactes por privado a https://t.co/8i6cgU6O4H para poder ayudarte. Gracias!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "EEluzu",
-                "name": "enrique luzuriaga",
-                "id": 347904250,
-                "id_str": "347904250",
+                "screen_name": "MaryLucy64",
+                "name": "Maria vidal",
+                "id": 4244038163,
+                "id_str": "4244038163",
                 "indices": [
                   0,
-                  7
+                  11
                 ]
               }
             ],
@@ -8188,18 +8091,18 @@
                 "expanded_url": "http://bit.ly/2S9ym5b",
                 "display_url": "bit.ly/2S9ym5b",
                 "indices": [
-                  57,
-                  80
+                  61,
+                  84
                 ]
               }
             ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1528133190602342400,
-          "in_reply_to_status_id_str": "1528133190602342400",
-          "in_reply_to_user_id": 347904250,
-          "in_reply_to_user_id_str": "347904250",
-          "in_reply_to_screen_name": "EEluzu",
+          "in_reply_to_status_id": 1528146849365893000,
+          "in_reply_to_status_id_str": "1528146849365893121",
+          "in_reply_to_user_id": 4244038163,
+          "in_reply_to_user_id_str": "4244038163",
+          "in_reply_to_screen_name": "MaryLucy64",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8451,8 +8354,8 @@
           }
         },
         "protected": false,
-        "followers_count": 601634,
-        "friends_count": 252419,
+        "followers_count": 601636,
+        "friends_count": 252422,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -8460,26 +8363,26 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2076686,
+        "statuses_count": 2076693,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 22:03:50 +0000 2022",
-          "id": 1528134498889654300,
-          "id_str": "1528134498889654279",
-          "text": "@EEluzu Hola! Te pedimos que nos contactes por privado a https://t.co/8i6cgU6O4H para poder ayudarte. Gracias!",
+          "created_at": "Sat May 21 22:59:09 +0000 2022",
+          "id": 1528148420988481500,
+          "id_str": "1528148420988481537",
+          "text": "@MaryLucy64 Hola! Te pedimos que nos contactes por privado a https://t.co/8i6cgU6O4H para poder ayudarte. Gracias!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "EEluzu",
-                "name": "enrique luzuriaga",
-                "id": 347904250,
-                "id_str": "347904250",
+                "screen_name": "MaryLucy64",
+                "name": "Maria vidal",
+                "id": 4244038163,
+                "id_str": "4244038163",
                 "indices": [
                   0,
-                  7
+                  11
                 ]
               }
             ],
@@ -8489,18 +8392,18 @@
                 "expanded_url": "http://bit.ly/2S9ym5b",
                 "display_url": "bit.ly/2S9ym5b",
                 "indices": [
-                  57,
-                  80
+                  61,
+                  84
                 ]
               }
             ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1528133190602342400,
-          "in_reply_to_status_id_str": "1528133190602342400",
-          "in_reply_to_user_id": 347904250,
-          "in_reply_to_user_id_str": "347904250",
-          "in_reply_to_screen_name": "EEluzu",
+          "in_reply_to_status_id": 1528146849365893000,
+          "in_reply_to_status_id_str": "1528146849365893121",
+          "in_reply_to_user_id": 4244038163,
+          "in_reply_to_user_id_str": "4244038163",
+          "in_reply_to_screen_name": "MaryLucy64",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8762,7 +8665,7 @@
           }
         },
         "protected": false,
-        "followers_count": 42136,
+        "followers_count": 42137,
         "friends_count": 56,
         "listed_count": 71,
         "created_at": "Thu Sep 23 18:48:27 +0000 2010",
@@ -9098,7 +9001,7 @@
           }
         },
         "protected": false,
-        "followers_count": 42136,
+        "followers_count": 42137,
         "friends_count": 56,
         "listed_count": 71,
         "created_at": "Thu Sep 23 18:48:27 +0000 2010",
@@ -9434,7 +9337,7 @@
           }
         },
         "protected": false,
-        "followers_count": 11299,
+        "followers_count": 11300,
         "friends_count": 1,
         "listed_count": 7,
         "created_at": "Mon Oct 29 18:23:10 +0000 2018",
@@ -9778,7 +9681,7 @@
           }
         },
         "protected": false,
-        "followers_count": 11299,
+        "followers_count": 11300,
         "friends_count": 1,
         "listed_count": 7,
         "created_at": "Mon Oct 29 18:23:10 +0000 2018",
@@ -10114,7 +10017,7 @@
           }
         },
         "protected": false,
-        "followers_count": 11299,
+        "followers_count": 11300,
         "friends_count": 1,
         "listed_count": 7,
         "created_at": "Mon Oct 29 18:23:10 +0000 2018",
@@ -10460,7 +10363,7 @@
           }
         },
         "protected": false,
-        "followers_count": 11299,
+        "followers_count": 11300,
         "friends_count": 1,
         "listed_count": 7,
         "created_at": "Mon Oct 29 18:23:10 +0000 2018",
@@ -10806,7 +10709,7 @@
           }
         },
         "protected": false,
-        "followers_count": 11299,
+        "followers_count": 11300,
         "friends_count": 1,
         "listed_count": 7,
         "created_at": "Mon Oct 29 18:23:10 +0000 2018",
@@ -11152,7 +11055,7 @@
           }
         },
         "protected": false,
-        "followers_count": 11299,
+        "followers_count": 11300,
         "friends_count": 1,
         "listed_count": 7,
         "created_at": "Mon Oct 29 18:23:10 +0000 2018",
@@ -11488,7 +11391,7 @@
           }
         },
         "protected": false,
-        "followers_count": 11299,
+        "followers_count": 11300,
         "friends_count": 1,
         "listed_count": 7,
         "created_at": "Mon Oct 29 18:23:10 +0000 2018",
@@ -11814,7 +11717,7 @@
           }
         },
         "protected": false,
-        "followers_count": 11299,
+        "followers_count": 11300,
         "friends_count": 1,
         "listed_count": 7,
         "created_at": "Mon Oct 29 18:23:10 +0000 2018",
@@ -13178,7 +13081,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19615,
+        "followers_count": 19614,
         "friends_count": 2925,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -13504,7 +13407,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19615,
+        "followers_count": 19614,
         "friends_count": 2925,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -13830,7 +13733,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19615,
+        "followers_count": 19614,
         "friends_count": 2925,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -14156,7 +14059,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19615,
+        "followers_count": 19614,
         "friends_count": 2925,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -14456,7 +14359,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19615,
+        "followers_count": 19614,
         "friends_count": 2925,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -14756,7 +14659,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19615,
+        "followers_count": 19614,
         "friends_count": 2925,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -15056,7 +14959,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19615,
+        "followers_count": 19614,
         "friends_count": 2925,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -15356,7 +15259,7 @@
           }
         },
         "protected": false,
-        "followers_count": 19615,
+        "followers_count": 19614,
         "friends_count": 2925,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
@@ -15675,47 +15578,67 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 70432,
+        "statuses_count": 70434,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 18:02:03 +0000 2022",
-          "id": 1528073651123257300,
-          "id_str": "1528073651123257348",
-          "text": "@Myri3935 @Myri3935, te escribinos al privado. Saludos. Agustina.",
-          "truncated": false,
+          "created_at": "Sat May 21 22:59:52 +0000 2022",
+          "id": 1528148598734704600,
+          "id_str": "1528148598734704640",
+          "text": "@GonzaAbalos @RaulLopardo Hola, @GonzaAbalos. Escribinos por privado para continuar con tu consulta. Aprovechamos p… https://t.co/cUHZ1zIAr2",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Myri3935",
-                "name": "Myrian 🥨🥐🍩☕️✈️✈️",
-                "id": 764928904746369000,
-                "id_str": "764928904746369024",
+                "screen_name": "GonzaAbalos",
+                "name": "SHERIFF ⭐",
+                "id": 173493265,
+                "id_str": "173493265",
                 "indices": [
                   0,
-                  9
+                  12
                 ]
               },
               {
-                "screen_name": "Myri3935",
-                "name": "Myrian 🥨🥐🍩☕️✈️✈️",
-                "id": 764928904746369000,
-                "id_str": "764928904746369024",
+                "screen_name": "RaulLopardo",
+                "name": "®aulop.eth",
+                "id": 284593036,
+                "id_str": "284593036",
                 "indices": [
-                  10,
-                  19
+                  13,
+                  25
+                ]
+              },
+              {
+                "screen_name": "GonzaAbalos",
+                "name": "SHERIFF ⭐",
+                "id": 173493265,
+                "id_str": "173493265",
+                "indices": [
+                  32,
+                  44
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/cUHZ1zIAr2",
+                "expanded_url": "https://twitter.com/i/web/status/1528148598734704640",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1528072260363354000,
-          "in_reply_to_status_id_str": "1528072260363354113",
-          "in_reply_to_user_id": 764928904746369000,
-          "in_reply_to_user_id_str": "764928904746369024",
-          "in_reply_to_screen_name": "Myri3935",
+          "in_reply_to_status_id": 1528148308073537500,
+          "in_reply_to_status_id_str": "1528148308073537538",
+          "in_reply_to_user_id": 173493265,
+          "in_reply_to_user_id_str": "173493265",
+          "in_reply_to_screen_name": "GonzaAbalos",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -15780,7 +15703,7 @@
       },
       "protected": false,
       "followers_count": 5,
-      "friends_count": 59,
+      "friends_count": 58,
       "listed_count": 0,
       "created_at": "Wed May 18 23:09:53 +0000 2022",
       "favourites_count": 0,
@@ -15915,7 +15838,7 @@
         },
         "protected": false,
         "followers_count": 5,
-        "friends_count": 59,
+        "friends_count": 58,
         "listed_count": 0,
         "created_at": "Wed May 18 23:09:53 +0000 2022",
         "favourites_count": 0,
@@ -16011,46 +15934,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -16367,46 +16290,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -16713,46 +16636,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -17059,46 +16982,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -17405,46 +17328,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -17751,46 +17674,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -18087,46 +18010,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -18423,46 +18346,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -18769,46 +18692,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -19115,46 +19038,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -19461,46 +19384,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -19807,46 +19730,46 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 54135,
+        "statuses_count": 54136,
         "lang": null,
         "status": {
-          "created_at": "Fri May 20 22:47:55 +0000 2022",
-          "id": 1527783204307992600,
-          "id_str": "1527783204307992580",
-          "text": "@jeypis ¡Hola JotaPe! Muchas gracias por tu información. Procederemos a reportarlo. ¡Saludos!",
-          "truncated": false,
+          "created_at": "Sat May 21 22:08:10 +0000 2022",
+          "id": 1528135589685493800,
+          "id_str": "1528135589685493766",
+          "text": "⚠️ Este domingo, de 2 am a 8 am, estaremos realizando tareas de mantenimiento en nuestros servicios. Por esta razón… https://t.co/xMNozVDsVz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
-            "user_mentions": [
+            "user_mentions": [],
+            "urls": [
               {
-                "screen_name": "jeypis",
-                "name": "JotaPe",
-                "id": 230845571,
-                "id_str": "230845571",
+                "url": "https://t.co/xMNozVDsVz",
+                "expanded_url": "https://twitter.com/i/web/status/1528135589685493766",
+                "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  0,
-                  7
+                  117,
+                  140
                 ]
               }
-            ],
-            "urls": []
+            ]
           },
-          "source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
-          "in_reply_to_status_id": 1527775853433725000,
-          "in_reply_to_status_id_str": "1527775853433724929",
-          "in_reply_to_user_id": 230845571,
-          "in_reply_to_user_id_str": "230845571",
-          "in_reply_to_screen_name": "jeypis",
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
-          "retweet_count": 0,
-          "favorite_count": 0,
+          "retweet_count": 1,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -20134,7 +20057,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29487,
+        "followers_count": 29486,
         "friends_count": 6655,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -20470,7 +20393,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29487,
+        "followers_count": 29486,
         "friends_count": 6655,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -20806,7 +20729,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29487,
+        "followers_count": 29486,
         "friends_count": 6655,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -21142,7 +21065,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29487,
+        "followers_count": 29486,
         "friends_count": 6655,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -21478,7 +21401,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29487,
+        "followers_count": 29486,
         "friends_count": 6655,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -21814,7 +21737,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29487,
+        "followers_count": 29486,
         "friends_count": 6655,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -22160,7 +22083,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29487,
+        "followers_count": 29486,
         "friends_count": 6655,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -22506,7 +22429,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29487,
+        "followers_count": 29486,
         "friends_count": 6655,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -22852,7 +22775,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29487,
+        "followers_count": 29486,
         "friends_count": 6655,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -23198,7 +23121,7 @@
           }
         },
         "protected": false,
-        "followers_count": 444685,
+        "followers_count": 444689,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23299,7 +23222,7 @@
       },
       "protected": false,
       "followers_count": 2,
-      "friends_count": 93,
+      "friends_count": 92,
       "listed_count": 0,
       "created_at": "Tue May 17 19:08:37 +0000 2022",
       "favourites_count": 3,
@@ -23461,7 +23384,7 @@
         },
         "protected": false,
         "followers_count": 2,
-        "friends_count": 93,
+        "friends_count": 92,
         "listed_count": 0,
         "created_at": "Tue May 17 19:08:37 +0000 2022",
         "favourites_count": 3,
@@ -23548,7 +23471,7 @@
           }
         },
         "protected": false,
-        "followers_count": 444685,
+        "followers_count": 444689,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23894,7 +23817,7 @@
           }
         },
         "protected": false,
-        "followers_count": 444685,
+        "followers_count": 444689,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24214,7 +24137,7 @@
           }
         },
         "protected": false,
-        "followers_count": 444685,
+        "followers_count": 444689,
         "friends_count": 37,
         "listed_count": 1203,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24524,7 +24447,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94464,
+        "followers_count": 94468,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -24831,7 +24754,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94464,
+        "followers_count": 94468,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25138,7 +25061,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94464,
+        "followers_count": 94468,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25445,7 +25368,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94464,
+        "followers_count": 94468,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -25752,7 +25675,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94464,
+        "followers_count": 94468,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26048,7 +25971,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94464,
+        "followers_count": 94468,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26355,7 +26278,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94464,
+        "followers_count": 94468,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26662,7 +26585,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94464,
+        "followers_count": 94468,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -26969,7 +26892,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94464,
+        "followers_count": 94468,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -27276,7 +27199,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94464,
+        "followers_count": 94468,
         "friends_count": 105,
         "listed_count": 161,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -27582,7 +27505,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151944,
+        "followers_count": 151947,
         "friends_count": 17,
         "listed_count": 219,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -27591,33 +27514,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167024,
+        "statuses_count": 167025,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 22:03:20 +0000 2022",
-          "id": 1528134373576523800,
-          "id_str": "1528134373576523781",
-          "text": "@checheabdo Para poder asesorarte, te pedimos que nos envíes el usuario de tu cuenta, el mismo podrás verlo directa… https://t.co/kuPiy4m6fH",
+          "created_at": "Sat May 21 22:13:40 +0000 2022",
+          "id": 1528136974405599200,
+          "id_str": "1528136974405599235",
+          "text": "@unamelany Vemos que nuestro equipo te brindó respuesta el 06/05/2022, bajo el número de caso 173150555.\n\nTe invita… https://t.co/UvDIkHUPEM",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "checheabdo",
-                "name": "cheche",
-                "id": 1125739369,
-                "id_str": "1125739369",
+                "screen_name": "unamelany",
+                "name": "ᴍᴇssʟᴀɴʏ.",
+                "id": 1426743504,
+                "id_str": "1426743504",
                 "indices": [
                   0,
-                  11
+                  10
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/kuPiy4m6fH",
-                "expanded_url": "https://twitter.com/i/web/status/1528134373576523781",
+                "url": "https://t.co/UvDIkHUPEM",
+                "expanded_url": "https://twitter.com/i/web/status/1528136974405599235",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -27627,11 +27550,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1528119441413722000,
-          "in_reply_to_status_id_str": "1528119441413722112",
-          "in_reply_to_user_id": 1125739369,
-          "in_reply_to_user_id_str": "1125739369",
-          "in_reply_to_screen_name": "checheabdo",
+          "in_reply_to_status_id": 1528131611061063700,
+          "in_reply_to_status_id_str": "1528131611061063680",
+          "in_reply_to_user_id": 1426743504,
+          "in_reply_to_user_id_str": "1426743504",
+          "in_reply_to_screen_name": "unamelany",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -27903,7 +27826,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151944,
+        "followers_count": 151947,
         "friends_count": 17,
         "listed_count": 219,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -27912,33 +27835,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167024,
+        "statuses_count": 167025,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 22:03:20 +0000 2022",
-          "id": 1528134373576523800,
-          "id_str": "1528134373576523781",
-          "text": "@checheabdo Para poder asesorarte, te pedimos que nos envíes el usuario de tu cuenta, el mismo podrás verlo directa… https://t.co/kuPiy4m6fH",
+          "created_at": "Sat May 21 22:13:40 +0000 2022",
+          "id": 1528136974405599200,
+          "id_str": "1528136974405599235",
+          "text": "@unamelany Vemos que nuestro equipo te brindó respuesta el 06/05/2022, bajo el número de caso 173150555.\n\nTe invita… https://t.co/UvDIkHUPEM",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "checheabdo",
-                "name": "cheche",
-                "id": 1125739369,
-                "id_str": "1125739369",
+                "screen_name": "unamelany",
+                "name": "ᴍᴇssʟᴀɴʏ.",
+                "id": 1426743504,
+                "id_str": "1426743504",
                 "indices": [
                   0,
-                  11
+                  10
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/kuPiy4m6fH",
-                "expanded_url": "https://twitter.com/i/web/status/1528134373576523781",
+                "url": "https://t.co/UvDIkHUPEM",
+                "expanded_url": "https://twitter.com/i/web/status/1528136974405599235",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -27948,11 +27871,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1528119441413722000,
-          "in_reply_to_status_id_str": "1528119441413722112",
-          "in_reply_to_user_id": 1125739369,
-          "in_reply_to_user_id_str": "1125739369",
-          "in_reply_to_screen_name": "checheabdo",
+          "in_reply_to_status_id": 1528131611061063700,
+          "in_reply_to_status_id_str": "1528131611061063680",
+          "in_reply_to_user_id": 1426743504,
+          "in_reply_to_user_id_str": "1426743504",
+          "in_reply_to_screen_name": "unamelany",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28224,7 +28147,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151944,
+        "followers_count": 151947,
         "friends_count": 17,
         "listed_count": 219,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -28233,33 +28156,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167024,
+        "statuses_count": 167025,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 22:03:20 +0000 2022",
-          "id": 1528134373576523800,
-          "id_str": "1528134373576523781",
-          "text": "@checheabdo Para poder asesorarte, te pedimos que nos envíes el usuario de tu cuenta, el mismo podrás verlo directa… https://t.co/kuPiy4m6fH",
+          "created_at": "Sat May 21 22:13:40 +0000 2022",
+          "id": 1528136974405599200,
+          "id_str": "1528136974405599235",
+          "text": "@unamelany Vemos que nuestro equipo te brindó respuesta el 06/05/2022, bajo el número de caso 173150555.\n\nTe invita… https://t.co/UvDIkHUPEM",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "checheabdo",
-                "name": "cheche",
-                "id": 1125739369,
-                "id_str": "1125739369",
+                "screen_name": "unamelany",
+                "name": "ᴍᴇssʟᴀɴʏ.",
+                "id": 1426743504,
+                "id_str": "1426743504",
                 "indices": [
                   0,
-                  11
+                  10
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/kuPiy4m6fH",
-                "expanded_url": "https://twitter.com/i/web/status/1528134373576523781",
+                "url": "https://t.co/UvDIkHUPEM",
+                "expanded_url": "https://twitter.com/i/web/status/1528136974405599235",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -28269,11 +28192,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1528119441413722000,
-          "in_reply_to_status_id_str": "1528119441413722112",
-          "in_reply_to_user_id": 1125739369,
-          "in_reply_to_user_id_str": "1125739369",
-          "in_reply_to_screen_name": "checheabdo",
+          "in_reply_to_status_id": 1528131611061063700,
+          "in_reply_to_status_id_str": "1528131611061063680",
+          "in_reply_to_user_id": 1426743504,
+          "in_reply_to_user_id_str": "1426743504",
+          "in_reply_to_screen_name": "unamelany",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28545,7 +28468,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151944,
+        "followers_count": 151947,
         "friends_count": 17,
         "listed_count": 219,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -28554,33 +28477,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167024,
+        "statuses_count": 167025,
         "lang": null,
         "status": {
-          "created_at": "Sat May 21 22:03:20 +0000 2022",
-          "id": 1528134373576523800,
-          "id_str": "1528134373576523781",
-          "text": "@checheabdo Para poder asesorarte, te pedimos que nos envíes el usuario de tu cuenta, el mismo podrás verlo directa… https://t.co/kuPiy4m6fH",
+          "created_at": "Sat May 21 22:13:40 +0000 2022",
+          "id": 1528136974405599200,
+          "id_str": "1528136974405599235",
+          "text": "@unamelany Vemos que nuestro equipo te brindó respuesta el 06/05/2022, bajo el número de caso 173150555.\n\nTe invita… https://t.co/UvDIkHUPEM",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "checheabdo",
-                "name": "cheche",
-                "id": 1125739369,
-                "id_str": "1125739369",
+                "screen_name": "unamelany",
+                "name": "ᴍᴇssʟᴀɴʏ.",
+                "id": 1426743504,
+                "id_str": "1426743504",
                 "indices": [
                   0,
-                  11
+                  10
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/kuPiy4m6fH",
-                "expanded_url": "https://twitter.com/i/web/status/1528134373576523781",
+                "url": "https://t.co/UvDIkHUPEM",
+                "expanded_url": "https://twitter.com/i/web/status/1528136974405599235",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -28590,11 +28513,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1528119441413722000,
-          "in_reply_to_status_id_str": "1528119441413722112",
-          "in_reply_to_user_id": 1125739369,
-          "in_reply_to_user_id_str": "1125739369",
-          "in_reply_to_screen_name": "checheabdo",
+          "in_reply_to_status_id": 1528131611061063700,
+          "in_reply_to_status_id_str": "1528131611061063680",
+          "in_reply_to_user_id": 1426743504,
+          "in_reply_to_user_id_str": "1426743504",
+          "in_reply_to_screen_name": "unamelany",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28856,7 +28779,7 @@
           }
         },
         "protected": false,
-        "followers_count": 15160,
+        "followers_count": 15161,
         "friends_count": 739,
         "listed_count": 17,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -29182,7 +29105,7 @@
           }
         },
         "protected": false,
-        "followers_count": 15160,
+        "followers_count": 15161,
         "friends_count": 739,
         "listed_count": 17,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
