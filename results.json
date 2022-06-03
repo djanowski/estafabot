@@ -30,7 +30,7 @@
         },
         "protected": false,
         "followers_count": 150661,
-        "friends_count": 54744,
+        "friends_count": 54745,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -348,7 +348,7 @@
         },
         "protected": false,
         "followers_count": 150661,
-        "friends_count": 54744,
+        "friends_count": 54745,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -666,7 +666,7 @@
         },
         "protected": false,
         "followers_count": 150661,
-        "friends_count": 54744,
+        "friends_count": 54745,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -984,7 +984,7 @@
         },
         "protected": false,
         "followers_count": 150661,
-        "friends_count": 54744,
+        "friends_count": 54745,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1294,7 +1294,7 @@
         },
         "protected": false,
         "followers_count": 150661,
-        "friends_count": 54744,
+        "friends_count": 54745,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1604,7 +1604,7 @@
         },
         "protected": false,
         "followers_count": 150661,
-        "friends_count": 54744,
+        "friends_count": 54745,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1914,7 +1914,7 @@
         },
         "protected": false,
         "followers_count": 150661,
-        "friends_count": 54744,
+        "friends_count": 54745,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -2224,7 +2224,7 @@
         },
         "protected": false,
         "followers_count": 150661,
-        "friends_count": 54744,
+        "friends_count": 54745,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -2543,7 +2543,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -2552,66 +2552,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -2861,7 +2841,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -2870,66 +2850,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -3189,7 +3149,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3198,66 +3158,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -3507,7 +3447,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3516,66 +3456,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -3825,7 +3745,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -3834,66 +3754,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -4134,7 +4034,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4143,66 +4043,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -4443,7 +4323,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4452,66 +4332,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -4752,7 +4612,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -4761,66 +4621,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -5064,7 +4904,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5073,66 +4913,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -5379,7 +5199,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5388,66 +5208,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -5694,7 +5494,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -5703,66 +5503,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -6006,7 +5786,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -6015,66 +5795,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -6321,7 +6081,7 @@
           }
         },
         "protected": false,
-        "followers_count": 653859,
+        "followers_count": 653861,
         "friends_count": 315847,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
@@ -6330,66 +6090,46 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026002,
+        "statuses_count": 1026003,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:13:14 +0000 2022",
-          "id": 1532530817746014200,
-          "id_str": "1532530817746014209",
-          "text": "@_clary_ es un gusto asesorarte. Podes ingresar al siguiente enlace https://t.co/eWvKxA7DDL Allí cargas tus datos y… https://t.co/m2oCuaLvxu",
-          "truncated": true,
+          "created_at": "Fri Jun 03 01:40:01 +0000 2022",
+          "id": 1532537559083008000,
+          "id_str": "1532537559083008002",
+          "text": "@jovava Hola Johanna, ¿cómo estás? No te preocupes que ahora lo verifico. Escribime por favor por DM con tu número de línea. Te espero.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_clary_",
-                "name": "Clarii  ☮",
-                "id": 73959588,
-                "id_str": "73959588",
+                "screen_name": "jovava",
+                "name": "Johanna Valenzuela",
+                "id": 77403640,
+                "id_str": "77403640",
                 "indices": [
                   0,
-                  8
+                  7
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/eWvKxA7DDL",
-                "expanded_url": "https://www.claro.com.ar/personas/portabilidad",
-                "display_url": "claro.com.ar/personas/porta…",
-                "indices": [
-                  68,
-                  91
-                ]
-              },
-              {
-                "url": "https://t.co/m2oCuaLvxu",
-                "expanded_url": "https://twitter.com/i/web/status/1532530817746014209",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1532529155371311000,
-          "in_reply_to_status_id_str": "1532529155371311113",
-          "in_reply_to_user_id": 73959588,
-          "in_reply_to_user_id_str": "73959588",
-          "in_reply_to_screen_name": "_clary_",
+          "in_reply_to_status_id": 1532537187186708500,
+          "in_reply_to_status_id_str": "1532537187186708480",
+          "in_reply_to_user_id": 77403640,
+          "in_reply_to_user_id_str": "77403640",
+          "in_reply_to_screen_name": "jovava",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -6626,8 +6366,8 @@
           }
         },
         "protected": false,
-        "followers_count": 547971,
-        "friends_count": 214986,
+        "followers_count": 547978,
+        "friends_count": 214987,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18612,
@@ -6635,37 +6375,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2531620,
+        "statuses_count": 2531626,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:22:49 +0000 2022",
-          "id": 1532533227876925400,
-          "id_str": "1532533227876925450",
-          "text": "@VivaPeron1234 Hola Jime! Vimos tu mensaje por DM, te vamos a responder por ahí para asesorarte. ^JH",
+          "created_at": "Fri Jun 03 02:35:05 +0000 2022",
+          "id": 1532551416954462200,
+          "id_str": "1532551416954462208",
+          "text": "@dany_nicoletta Buenas Noches Daniela, te hemos respondido por MD. Continuamos con tu reclamo por ese medio, Gracias.  ^BLA",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "VivaPeron1234",
-                "name": "Jime",
-                "id": 2315994600,
-                "id_str": "2315994600",
+                "screen_name": "dany_nicoletta",
+                "name": "Daniela Nicoletta",
+                "id": 2329108900,
+                "id_str": "2329108900",
                 "indices": [
                   0,
-                  14
+                  15
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1532532359836446700,
-          "in_reply_to_status_id_str": "1532532359836446720",
-          "in_reply_to_user_id": 2315994600,
-          "in_reply_to_user_id_str": "2315994600",
-          "in_reply_to_screen_name": "VivaPeron1234",
+          "in_reply_to_status_id": 1532514583021224000,
+          "in_reply_to_status_id_str": "1532514583021223948",
+          "in_reply_to_user_id": 2329108900,
+          "in_reply_to_user_id_str": "2329108900",
+          "in_reply_to_screen_name": "dany_nicoletta",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6940,8 +6680,8 @@
           }
         },
         "protected": false,
-        "followers_count": 547971,
-        "friends_count": 214986,
+        "followers_count": 547978,
+        "friends_count": 214987,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18612,
@@ -6949,37 +6689,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2531620,
+        "statuses_count": 2531626,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:22:49 +0000 2022",
-          "id": 1532533227876925400,
-          "id_str": "1532533227876925450",
-          "text": "@VivaPeron1234 Hola Jime! Vimos tu mensaje por DM, te vamos a responder por ahí para asesorarte. ^JH",
+          "created_at": "Fri Jun 03 02:35:05 +0000 2022",
+          "id": 1532551416954462200,
+          "id_str": "1532551416954462208",
+          "text": "@dany_nicoletta Buenas Noches Daniela, te hemos respondido por MD. Continuamos con tu reclamo por ese medio, Gracias.  ^BLA",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "VivaPeron1234",
-                "name": "Jime",
-                "id": 2315994600,
-                "id_str": "2315994600",
+                "screen_name": "dany_nicoletta",
+                "name": "Daniela Nicoletta",
+                "id": 2329108900,
+                "id_str": "2329108900",
                 "indices": [
                   0,
-                  14
+                  15
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1532532359836446700,
-          "in_reply_to_status_id_str": "1532532359836446720",
-          "in_reply_to_user_id": 2315994600,
-          "in_reply_to_user_id_str": "2315994600",
-          "in_reply_to_screen_name": "VivaPeron1234",
+          "in_reply_to_status_id": 1532514583021224000,
+          "in_reply_to_status_id_str": "1532514583021223948",
+          "in_reply_to_user_id": 2329108900,
+          "in_reply_to_user_id_str": "2329108900",
+          "in_reply_to_screen_name": "dany_nicoletta",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7254,8 +6994,8 @@
           }
         },
         "protected": false,
-        "followers_count": 547971,
-        "friends_count": 214986,
+        "followers_count": 547978,
+        "friends_count": 214987,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18612,
@@ -7263,37 +7003,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2531620,
+        "statuses_count": 2531626,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:22:49 +0000 2022",
-          "id": 1532533227876925400,
-          "id_str": "1532533227876925450",
-          "text": "@VivaPeron1234 Hola Jime! Vimos tu mensaje por DM, te vamos a responder por ahí para asesorarte. ^JH",
+          "created_at": "Fri Jun 03 02:35:05 +0000 2022",
+          "id": 1532551416954462200,
+          "id_str": "1532551416954462208",
+          "text": "@dany_nicoletta Buenas Noches Daniela, te hemos respondido por MD. Continuamos con tu reclamo por ese medio, Gracias.  ^BLA",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "VivaPeron1234",
-                "name": "Jime",
-                "id": 2315994600,
-                "id_str": "2315994600",
+                "screen_name": "dany_nicoletta",
+                "name": "Daniela Nicoletta",
+                "id": 2329108900,
+                "id_str": "2329108900",
                 "indices": [
                   0,
-                  14
+                  15
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1532532359836446700,
-          "in_reply_to_status_id_str": "1532532359836446720",
-          "in_reply_to_user_id": 2315994600,
-          "in_reply_to_user_id_str": "2315994600",
-          "in_reply_to_screen_name": "VivaPeron1234",
+          "in_reply_to_status_id": 1532514583021224000,
+          "in_reply_to_status_id_str": "1532514583021223948",
+          "in_reply_to_user_id": 2329108900,
+          "in_reply_to_user_id_str": "2329108900",
+          "in_reply_to_screen_name": "dany_nicoletta",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7608,8 +7348,8 @@
           }
         },
         "protected": false,
-        "followers_count": 547971,
-        "friends_count": 214986,
+        "followers_count": 547978,
+        "friends_count": 214987,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18612,
@@ -7617,37 +7357,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2531620,
+        "statuses_count": 2531626,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:22:49 +0000 2022",
-          "id": 1532533227876925400,
-          "id_str": "1532533227876925450",
-          "text": "@VivaPeron1234 Hola Jime! Vimos tu mensaje por DM, te vamos a responder por ahí para asesorarte. ^JH",
+          "created_at": "Fri Jun 03 02:35:05 +0000 2022",
+          "id": 1532551416954462200,
+          "id_str": "1532551416954462208",
+          "text": "@dany_nicoletta Buenas Noches Daniela, te hemos respondido por MD. Continuamos con tu reclamo por ese medio, Gracias.  ^BLA",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "VivaPeron1234",
-                "name": "Jime",
-                "id": 2315994600,
-                "id_str": "2315994600",
+                "screen_name": "dany_nicoletta",
+                "name": "Daniela Nicoletta",
+                "id": 2329108900,
+                "id_str": "2329108900",
                 "indices": [
                   0,
-                  14
+                  15
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1532532359836446700,
-          "in_reply_to_status_id_str": "1532532359836446720",
-          "in_reply_to_user_id": 2315994600,
-          "in_reply_to_user_id_str": "2315994600",
-          "in_reply_to_screen_name": "VivaPeron1234",
+          "in_reply_to_status_id": 1532514583021224000,
+          "in_reply_to_status_id_str": "1532514583021223948",
+          "in_reply_to_user_id": 2329108900,
+          "in_reply_to_user_id_str": "2329108900",
+          "in_reply_to_screen_name": "dany_nicoletta",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7908,8 +7648,8 @@
           }
         },
         "protected": false,
-        "followers_count": 547971,
-        "friends_count": 214986,
+        "followers_count": 547978,
+        "friends_count": 214987,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
         "favourites_count": 18612,
@@ -7917,37 +7657,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2531620,
+        "statuses_count": 2531626,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:22:49 +0000 2022",
-          "id": 1532533227876925400,
-          "id_str": "1532533227876925450",
-          "text": "@VivaPeron1234 Hola Jime! Vimos tu mensaje por DM, te vamos a responder por ahí para asesorarte. ^JH",
+          "created_at": "Fri Jun 03 02:35:05 +0000 2022",
+          "id": 1532551416954462200,
+          "id_str": "1532551416954462208",
+          "text": "@dany_nicoletta Buenas Noches Daniela, te hemos respondido por MD. Continuamos con tu reclamo por ese medio, Gracias.  ^BLA",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "VivaPeron1234",
-                "name": "Jime",
-                "id": 2315994600,
-                "id_str": "2315994600",
+                "screen_name": "dany_nicoletta",
+                "name": "Daniela Nicoletta",
+                "id": 2329108900,
+                "id_str": "2329108900",
                 "indices": [
                   0,
-                  14
+                  15
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1532532359836446700,
-          "in_reply_to_status_id_str": "1532532359836446720",
-          "in_reply_to_user_id": 2315994600,
-          "in_reply_to_user_id_str": "2315994600",
-          "in_reply_to_screen_name": "VivaPeron1234",
+          "in_reply_to_status_id": 1532514583021224000,
+          "in_reply_to_status_id_str": "1532514583021223948",
+          "in_reply_to_user_id": 2329108900,
+          "in_reply_to_user_id_str": "2329108900",
+          "in_reply_to_screen_name": "dany_nicoletta",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8208,8 +7948,8 @@
           }
         },
         "protected": false,
-        "followers_count": 602248,
-        "friends_count": 253878,
+        "followers_count": 602263,
+        "friends_count": 253888,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -8217,37 +7957,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2078683,
+        "statuses_count": 2078688,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:29:29 +0000 2022",
-          "id": 1532534906349305900,
-          "id_str": "1532534906349305857",
-          "text": "@DanielaJokk Hola Dani, por favor seguinos y escribinos por MD asi resolvemos tu inconveniente!",
+          "created_at": "Fri Jun 03 02:30:32 +0000 2022",
+          "id": 1532550270579875800,
+          "id_str": "1532550270579875867",
+          "text": "@Jucha67 @Jucha67 te respondí por DM. Saludos.-",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "DanielaJokk",
-                "name": "@Daniela_Jokk",
-                "id": 1529237236155175000,
-                "id_str": "1529237236155174912",
+                "screen_name": "Jucha67",
+                "name": "Juan M. Chavarri",
+                "id": 121822675,
+                "id_str": "121822675",
                 "indices": [
                   0,
-                  12
+                  8
+                ]
+              },
+              {
+                "screen_name": "Jucha67",
+                "name": "Juan M. Chavarri",
+                "id": 121822675,
+                "id_str": "121822675",
+                "indices": [
+                  9,
+                  17
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1532532323069083600,
-          "in_reply_to_status_id_str": "1532532323069083662",
-          "in_reply_to_user_id": 1529237236155175000,
-          "in_reply_to_user_id_str": "1529237236155174912",
-          "in_reply_to_screen_name": "DanielaJokk",
+          "in_reply_to_status_id": 1532548964989272000,
+          "in_reply_to_status_id_str": "1532548964989272065",
+          "in_reply_to_user_id": 121822675,
+          "in_reply_to_user_id_str": "121822675",
+          "in_reply_to_screen_name": "Jucha67",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8498,8 +8248,8 @@
           }
         },
         "protected": false,
-        "followers_count": 602248,
-        "friends_count": 253878,
+        "followers_count": 602263,
+        "friends_count": 253888,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -8507,37 +8257,47 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2078683,
+        "statuses_count": 2078688,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 01:29:29 +0000 2022",
-          "id": 1532534906349305900,
-          "id_str": "1532534906349305857",
-          "text": "@DanielaJokk Hola Dani, por favor seguinos y escribinos por MD asi resolvemos tu inconveniente!",
+          "created_at": "Fri Jun 03 02:30:32 +0000 2022",
+          "id": 1532550270579875800,
+          "id_str": "1532550270579875867",
+          "text": "@Jucha67 @Jucha67 te respondí por DM. Saludos.-",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "DanielaJokk",
-                "name": "@Daniela_Jokk",
-                "id": 1529237236155175000,
-                "id_str": "1529237236155174912",
+                "screen_name": "Jucha67",
+                "name": "Juan M. Chavarri",
+                "id": 121822675,
+                "id_str": "121822675",
                 "indices": [
                   0,
-                  12
+                  8
+                ]
+              },
+              {
+                "screen_name": "Jucha67",
+                "name": "Juan M. Chavarri",
+                "id": 121822675,
+                "id_str": "121822675",
+                "indices": [
+                  9,
+                  17
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1532532323069083600,
-          "in_reply_to_status_id_str": "1532532323069083662",
-          "in_reply_to_user_id": 1529237236155175000,
-          "in_reply_to_user_id_str": "1529237236155174912",
-          "in_reply_to_screen_name": "DanielaJokk",
+          "in_reply_to_status_id": 1532548964989272000,
+          "in_reply_to_status_id_str": "1532548964989272065",
+          "in_reply_to_user_id": 121822675,
+          "in_reply_to_user_id_str": "121822675",
+          "in_reply_to_screen_name": "Jucha67",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8799,7 +8559,7 @@
         },
         "protected": false,
         "followers_count": 19652,
-        "friends_count": 2923,
+        "friends_count": 2922,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2141,
@@ -9125,7 +8885,7 @@
         },
         "protected": false,
         "followers_count": 19652,
-        "friends_count": 2923,
+        "friends_count": 2922,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2141,
@@ -9451,7 +9211,7 @@
         },
         "protected": false,
         "followers_count": 19652,
-        "friends_count": 2923,
+        "friends_count": 2922,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2141,
@@ -16804,7 +16564,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94910,
+        "followers_count": 94912,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -16849,7 +16609,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 4,
+          "favorite_count": 5,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -17102,7 +16862,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94910,
+        "followers_count": 94912,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -17147,7 +16907,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 4,
+          "favorite_count": 5,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -17400,7 +17160,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94910,
+        "followers_count": 94912,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -17445,7 +17205,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 4,
+          "favorite_count": 5,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -17698,7 +17458,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94910,
+        "followers_count": 94912,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -17743,7 +17503,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 4,
+          "favorite_count": 5,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -17996,7 +17756,7 @@
           }
         },
         "protected": false,
-        "followers_count": 94910,
+        "followers_count": 94912,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -18041,7 +17801,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 4,
+          "favorite_count": 5,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -18313,33 +18073,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167729,
+        "statuses_count": 167734,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 00:56:31 +0000 2022",
-          "id": 1532526610431230000,
-          "id_str": "1532526610431229952",
-          "text": "@sunnymac78 Hola, para verificar lo sucedido con tu cupón, podrás comunicarte con nosotros, luego de haber iniciado… https://t.co/PysydZDbuQ",
+          "created_at": "Fri Jun 03 02:00:28 +0000 2022",
+          "id": 1532542704034398200,
+          "id_str": "1532542704034398209",
+          "text": "@Ribeiro_history Além disso, será de muita ajuda nos indicar o número de compra, pagamento, operação ou transação r… https://t.co/1Mn2eSICoP",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "sunnymac78",
-                "name": "Sunny 🍿",
-                "id": 612686736,
-                "id_str": "612686736",
+                "screen_name": "Ribeiro_history",
+                "name": "Doctor Strange",
+                "id": 152364806,
+                "id_str": "152364806",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/PysydZDbuQ",
-                "expanded_url": "https://twitter.com/i/web/status/1532526610431229952",
+                "url": "https://t.co/1Mn2eSICoP",
+                "expanded_url": "https://twitter.com/i/web/status/1532542704034398209",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -18349,22 +18109,21 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1532525314009604000,
-          "in_reply_to_status_id_str": "1532525314009604109",
-          "in_reply_to_user_id": 612686736,
-          "in_reply_to_user_id_str": "612686736",
-          "in_reply_to_screen_name": "sunnymac78",
+          "in_reply_to_status_id": 1532527486826954800,
+          "in_reply_to_status_id_str": "1532527486826954753",
+          "in_reply_to_user_id": 152364806,
+          "in_reply_to_user_id_str": "152364806",
+          "in_reply_to_screen_name": "Ribeiro_history",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
-          "lang": "es"
+          "lang": "pt"
         },
         "contributors_enabled": false,
         "is_translator": false,
@@ -18635,33 +18394,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167729,
+        "statuses_count": 167734,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 00:56:31 +0000 2022",
-          "id": 1532526610431230000,
-          "id_str": "1532526610431229952",
-          "text": "@sunnymac78 Hola, para verificar lo sucedido con tu cupón, podrás comunicarte con nosotros, luego de haber iniciado… https://t.co/PysydZDbuQ",
+          "created_at": "Fri Jun 03 02:00:28 +0000 2022",
+          "id": 1532542704034398200,
+          "id_str": "1532542704034398209",
+          "text": "@Ribeiro_history Além disso, será de muita ajuda nos indicar o número de compra, pagamento, operação ou transação r… https://t.co/1Mn2eSICoP",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "sunnymac78",
-                "name": "Sunny 🍿",
-                "id": 612686736,
-                "id_str": "612686736",
+                "screen_name": "Ribeiro_history",
+                "name": "Doctor Strange",
+                "id": 152364806,
+                "id_str": "152364806",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/PysydZDbuQ",
-                "expanded_url": "https://twitter.com/i/web/status/1532526610431229952",
+                "url": "https://t.co/1Mn2eSICoP",
+                "expanded_url": "https://twitter.com/i/web/status/1532542704034398209",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -18671,22 +18430,21 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1532525314009604000,
-          "in_reply_to_status_id_str": "1532525314009604109",
-          "in_reply_to_user_id": 612686736,
-          "in_reply_to_user_id_str": "612686736",
-          "in_reply_to_screen_name": "sunnymac78",
+          "in_reply_to_status_id": 1532527486826954800,
+          "in_reply_to_status_id_str": "1532527486826954753",
+          "in_reply_to_user_id": 152364806,
+          "in_reply_to_user_id_str": "152364806",
+          "in_reply_to_screen_name": "Ribeiro_history",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
-          "lang": "es"
+          "lang": "pt"
         },
         "contributors_enabled": false,
         "is_translator": false,
@@ -18957,33 +18715,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167729,
+        "statuses_count": 167734,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 00:56:31 +0000 2022",
-          "id": 1532526610431230000,
-          "id_str": "1532526610431229952",
-          "text": "@sunnymac78 Hola, para verificar lo sucedido con tu cupón, podrás comunicarte con nosotros, luego de haber iniciado… https://t.co/PysydZDbuQ",
+          "created_at": "Fri Jun 03 02:00:28 +0000 2022",
+          "id": 1532542704034398200,
+          "id_str": "1532542704034398209",
+          "text": "@Ribeiro_history Além disso, será de muita ajuda nos indicar o número de compra, pagamento, operação ou transação r… https://t.co/1Mn2eSICoP",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "sunnymac78",
-                "name": "Sunny 🍿",
-                "id": 612686736,
-                "id_str": "612686736",
+                "screen_name": "Ribeiro_history",
+                "name": "Doctor Strange",
+                "id": 152364806,
+                "id_str": "152364806",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/PysydZDbuQ",
-                "expanded_url": "https://twitter.com/i/web/status/1532526610431229952",
+                "url": "https://t.co/1Mn2eSICoP",
+                "expanded_url": "https://twitter.com/i/web/status/1532542704034398209",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -18993,22 +18751,21 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1532525314009604000,
-          "in_reply_to_status_id_str": "1532525314009604109",
-          "in_reply_to_user_id": 612686736,
-          "in_reply_to_user_id_str": "612686736",
-          "in_reply_to_screen_name": "sunnymac78",
+          "in_reply_to_status_id": 1532527486826954800,
+          "in_reply_to_status_id_str": "1532527486826954753",
+          "in_reply_to_user_id": 152364806,
+          "in_reply_to_user_id_str": "152364806",
+          "in_reply_to_screen_name": "Ribeiro_history",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
-          "lang": "es"
+          "lang": "pt"
         },
         "contributors_enabled": false,
         "is_translator": false,
@@ -19279,33 +19036,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167729,
+        "statuses_count": 167734,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 03 00:56:31 +0000 2022",
-          "id": 1532526610431230000,
-          "id_str": "1532526610431229952",
-          "text": "@sunnymac78 Hola, para verificar lo sucedido con tu cupón, podrás comunicarte con nosotros, luego de haber iniciado… https://t.co/PysydZDbuQ",
+          "created_at": "Fri Jun 03 02:00:28 +0000 2022",
+          "id": 1532542704034398200,
+          "id_str": "1532542704034398209",
+          "text": "@Ribeiro_history Além disso, será de muita ajuda nos indicar o número de compra, pagamento, operação ou transação r… https://t.co/1Mn2eSICoP",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "sunnymac78",
-                "name": "Sunny 🍿",
-                "id": 612686736,
-                "id_str": "612686736",
+                "screen_name": "Ribeiro_history",
+                "name": "Doctor Strange",
+                "id": 152364806,
+                "id_str": "152364806",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/PysydZDbuQ",
-                "expanded_url": "https://twitter.com/i/web/status/1532526610431229952",
+                "url": "https://t.co/1Mn2eSICoP",
+                "expanded_url": "https://twitter.com/i/web/status/1532542704034398209",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   117,
@@ -19315,22 +19072,21 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1532525314009604000,
-          "in_reply_to_status_id_str": "1532525314009604109",
-          "in_reply_to_user_id": 612686736,
-          "in_reply_to_user_id_str": "612686736",
-          "in_reply_to_screen_name": "sunnymac78",
+          "in_reply_to_status_id": 1532527486826954800,
+          "in_reply_to_status_id_str": "1532527486826954753",
+          "in_reply_to_user_id": 152364806,
+          "in_reply_to_user_id_str": "152364806",
+          "in_reply_to_screen_name": "Ribeiro_history",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
-          "possibly_sensitive": false,
-          "lang": "es"
+          "lang": "pt"
         },
         "contributors_enabled": false,
         "is_translator": false,
