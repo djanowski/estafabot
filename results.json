@@ -29,8 +29,8 @@
           }
         },
         "protected": false,
-        "followers_count": 150712,
-        "friends_count": 54736,
+        "followers_count": 150708,
+        "friends_count": 54737,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -347,8 +347,8 @@
           }
         },
         "protected": false,
-        "followers_count": 150712,
-        "friends_count": 54736,
+        "followers_count": 150708,
+        "friends_count": 54737,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -665,8 +665,8 @@
           }
         },
         "protected": false,
-        "followers_count": 150712,
-        "friends_count": 54736,
+        "followers_count": 150708,
+        "friends_count": 54737,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -983,8 +983,8 @@
           }
         },
         "protected": false,
-        "followers_count": 150712,
-        "friends_count": 54736,
+        "followers_count": 150708,
+        "friends_count": 54737,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1293,8 +1293,8 @@
           }
         },
         "protected": false,
-        "followers_count": 150712,
-        "friends_count": 54736,
+        "followers_count": 150708,
+        "friends_count": 54737,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1603,8 +1603,8 @@
           }
         },
         "protected": false,
-        "followers_count": 150712,
-        "friends_count": 54736,
+        "followers_count": 150708,
+        "friends_count": 54737,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -1913,8 +1913,8 @@
           }
         },
         "protected": false,
-        "followers_count": 150712,
-        "friends_count": 54736,
+        "followers_count": 150708,
+        "friends_count": 54737,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -2223,8 +2223,8 @@
           }
         },
         "protected": false,
-        "followers_count": 150712,
-        "friends_count": 54736,
+        "followers_count": 150708,
+        "friends_count": 54737,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
         "favourites_count": 1195,
@@ -6496,46 +6496,56 @@
           }
         },
         "protected": false,
-        "followers_count": 548125,
+        "followers_count": 548126,
         "friends_count": 214970,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18609,
+        "favourites_count": 18608,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2532317,
+        "statuses_count": 2532321,
         "lang": null,
         "status": {
-          "created_at": "Wed Jun 08 03:29:01 +0000 2022",
-          "id": 1534376928131563500,
-          "id_str": "1534376928131563528",
-          "text": "@eduoscarcroci Hola Eduardo, por favor escribinos por DM. Continuamos por ese canal. ^JN",
-          "truncated": false,
+          "created_at": "Wed Jun 08 04:02:44 +0000 2022",
+          "id": 1534385413355454500,
+          "id_str": "1534385413355454468",
+          "text": "@lilygabass Hola, Liliana. Por este medio siempre estamos a disposición para ayudarte, por favor valídanos tus dato… https://t.co/hPODHoTv1P",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "eduoscarcroci",
-                "name": "eduardo o. croci",
-                "id": 3025383405,
-                "id_str": "3025383405",
+                "screen_name": "lilygabass",
+                "name": "Liliana Gabas",
+                "id": 885972891493429200,
+                "id_str": "885972891493429249",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/hPODHoTv1P",
+                "expanded_url": "https://twitter.com/i/web/status/1534385413355454468",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1534375956722466800,
-          "in_reply_to_status_id_str": "1534375956722466823",
-          "in_reply_to_user_id": 3025383405,
-          "in_reply_to_user_id_str": "3025383405",
-          "in_reply_to_screen_name": "eduoscarcroci",
+          "in_reply_to_status_id": 1534380265149169700,
+          "in_reply_to_status_id_str": "1534380265149169664",
+          "in_reply_to_user_id": 885972891493429200,
+          "in_reply_to_user_id_str": "885972891493429249",
+          "in_reply_to_screen_name": "lilygabass",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -6810,46 +6820,56 @@
           }
         },
         "protected": false,
-        "followers_count": 548125,
+        "followers_count": 548126,
         "friends_count": 214970,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18609,
+        "favourites_count": 18608,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2532317,
+        "statuses_count": 2532321,
         "lang": null,
         "status": {
-          "created_at": "Wed Jun 08 03:29:01 +0000 2022",
-          "id": 1534376928131563500,
-          "id_str": "1534376928131563528",
-          "text": "@eduoscarcroci Hola Eduardo, por favor escribinos por DM. Continuamos por ese canal. ^JN",
-          "truncated": false,
+          "created_at": "Wed Jun 08 04:02:44 +0000 2022",
+          "id": 1534385413355454500,
+          "id_str": "1534385413355454468",
+          "text": "@lilygabass Hola, Liliana. Por este medio siempre estamos a disposición para ayudarte, por favor valídanos tus dato… https://t.co/hPODHoTv1P",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "eduoscarcroci",
-                "name": "eduardo o. croci",
-                "id": 3025383405,
-                "id_str": "3025383405",
+                "screen_name": "lilygabass",
+                "name": "Liliana Gabas",
+                "id": 885972891493429200,
+                "id_str": "885972891493429249",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/hPODHoTv1P",
+                "expanded_url": "https://twitter.com/i/web/status/1534385413355454468",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1534375956722466800,
-          "in_reply_to_status_id_str": "1534375956722466823",
-          "in_reply_to_user_id": 3025383405,
-          "in_reply_to_user_id_str": "3025383405",
-          "in_reply_to_screen_name": "eduoscarcroci",
+          "in_reply_to_status_id": 1534380265149169700,
+          "in_reply_to_status_id_str": "1534380265149169664",
+          "in_reply_to_user_id": 885972891493429200,
+          "in_reply_to_user_id_str": "885972891493429249",
+          "in_reply_to_screen_name": "lilygabass",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7124,46 +7144,56 @@
           }
         },
         "protected": false,
-        "followers_count": 548125,
+        "followers_count": 548126,
         "friends_count": 214970,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18609,
+        "favourites_count": 18608,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2532317,
+        "statuses_count": 2532321,
         "lang": null,
         "status": {
-          "created_at": "Wed Jun 08 03:29:01 +0000 2022",
-          "id": 1534376928131563500,
-          "id_str": "1534376928131563528",
-          "text": "@eduoscarcroci Hola Eduardo, por favor escribinos por DM. Continuamos por ese canal. ^JN",
-          "truncated": false,
+          "created_at": "Wed Jun 08 04:02:44 +0000 2022",
+          "id": 1534385413355454500,
+          "id_str": "1534385413355454468",
+          "text": "@lilygabass Hola, Liliana. Por este medio siempre estamos a disposición para ayudarte, por favor valídanos tus dato… https://t.co/hPODHoTv1P",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "eduoscarcroci",
-                "name": "eduardo o. croci",
-                "id": 3025383405,
-                "id_str": "3025383405",
+                "screen_name": "lilygabass",
+                "name": "Liliana Gabas",
+                "id": 885972891493429200,
+                "id_str": "885972891493429249",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/hPODHoTv1P",
+                "expanded_url": "https://twitter.com/i/web/status/1534385413355454468",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1534375956722466800,
-          "in_reply_to_status_id_str": "1534375956722466823",
-          "in_reply_to_user_id": 3025383405,
-          "in_reply_to_user_id_str": "3025383405",
-          "in_reply_to_screen_name": "eduoscarcroci",
+          "in_reply_to_status_id": 1534380265149169700,
+          "in_reply_to_status_id_str": "1534380265149169664",
+          "in_reply_to_user_id": 885972891493429200,
+          "in_reply_to_user_id_str": "885972891493429249",
+          "in_reply_to_screen_name": "lilygabass",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7478,46 +7508,56 @@
           }
         },
         "protected": false,
-        "followers_count": 548125,
+        "followers_count": 548126,
         "friends_count": 214970,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18609,
+        "favourites_count": 18608,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2532317,
+        "statuses_count": 2532321,
         "lang": null,
         "status": {
-          "created_at": "Wed Jun 08 03:29:01 +0000 2022",
-          "id": 1534376928131563500,
-          "id_str": "1534376928131563528",
-          "text": "@eduoscarcroci Hola Eduardo, por favor escribinos por DM. Continuamos por ese canal. ^JN",
-          "truncated": false,
+          "created_at": "Wed Jun 08 04:02:44 +0000 2022",
+          "id": 1534385413355454500,
+          "id_str": "1534385413355454468",
+          "text": "@lilygabass Hola, Liliana. Por este medio siempre estamos a disposición para ayudarte, por favor valídanos tus dato… https://t.co/hPODHoTv1P",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "eduoscarcroci",
-                "name": "eduardo o. croci",
-                "id": 3025383405,
-                "id_str": "3025383405",
+                "screen_name": "lilygabass",
+                "name": "Liliana Gabas",
+                "id": 885972891493429200,
+                "id_str": "885972891493429249",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/hPODHoTv1P",
+                "expanded_url": "https://twitter.com/i/web/status/1534385413355454468",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1534375956722466800,
-          "in_reply_to_status_id_str": "1534375956722466823",
-          "in_reply_to_user_id": 3025383405,
-          "in_reply_to_user_id_str": "3025383405",
-          "in_reply_to_screen_name": "eduoscarcroci",
+          "in_reply_to_status_id": 1534380265149169700,
+          "in_reply_to_status_id_str": "1534380265149169664",
+          "in_reply_to_user_id": 885972891493429200,
+          "in_reply_to_user_id_str": "885972891493429249",
+          "in_reply_to_screen_name": "lilygabass",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -7778,46 +7818,56 @@
           }
         },
         "protected": false,
-        "followers_count": 548125,
+        "followers_count": 548126,
         "friends_count": 214970,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18609,
+        "favourites_count": 18608,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2532317,
+        "statuses_count": 2532321,
         "lang": null,
         "status": {
-          "created_at": "Wed Jun 08 03:29:01 +0000 2022",
-          "id": 1534376928131563500,
-          "id_str": "1534376928131563528",
-          "text": "@eduoscarcroci Hola Eduardo, por favor escribinos por DM. Continuamos por ese canal. ^JN",
-          "truncated": false,
+          "created_at": "Wed Jun 08 04:02:44 +0000 2022",
+          "id": 1534385413355454500,
+          "id_str": "1534385413355454468",
+          "text": "@lilygabass Hola, Liliana. Por este medio siempre estamos a disposición para ayudarte, por favor valídanos tus dato… https://t.co/hPODHoTv1P",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "eduoscarcroci",
-                "name": "eduardo o. croci",
-                "id": 3025383405,
-                "id_str": "3025383405",
+                "screen_name": "lilygabass",
+                "name": "Liliana Gabas",
+                "id": 885972891493429200,
+                "id_str": "885972891493429249",
                 "indices": [
                   0,
-                  14
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/hPODHoTv1P",
+                "expanded_url": "https://twitter.com/i/web/status/1534385413355454468",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1534375956722466800,
-          "in_reply_to_status_id_str": "1534375956722466823",
-          "in_reply_to_user_id": 3025383405,
-          "in_reply_to_user_id_str": "3025383405",
-          "in_reply_to_screen_name": "eduoscarcroci",
+          "in_reply_to_status_id": 1534380265149169700,
+          "in_reply_to_status_id_str": "1534380265149169664",
+          "in_reply_to_user_id": 885972891493429200,
+          "in_reply_to_user_id_str": "885972891493429249",
+          "in_reply_to_screen_name": "lilygabass",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8078,8 +8128,8 @@
           }
         },
         "protected": false,
-        "followers_count": 602843,
-        "friends_count": 254351,
+        "followers_count": 602844,
+        "friends_count": 254353,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -8378,8 +8428,8 @@
           }
         },
         "protected": false,
-        "followers_count": 602843,
-        "friends_count": 254351,
+        "followers_count": 602844,
+        "friends_count": 254353,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -9618,7 +9668,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81430,
+        "followers_count": 81432,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -9928,7 +9978,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81430,
+        "followers_count": 81432,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -10238,7 +10288,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81430,
+        "followers_count": 81432,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -10566,7 +10616,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81430,
+        "followers_count": 81432,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -10886,7 +10936,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81430,
+        "followers_count": 81432,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -15050,8 +15100,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158663,
-        "friends_count": 16264,
+        "followers_count": 158660,
+        "friends_count": 16263,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -15406,8 +15456,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158663,
-        "friends_count": 16264,
+        "followers_count": 158660,
+        "friends_count": 16263,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -15752,8 +15802,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158663,
-        "friends_count": 16264,
+        "followers_count": 158660,
+        "friends_count": 16263,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -16098,8 +16148,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158663,
-        "friends_count": 16264,
+        "followers_count": 158660,
+        "friends_count": 16263,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -16444,8 +16494,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158663,
-        "friends_count": 16264,
+        "followers_count": 158660,
+        "friends_count": 16263,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -16781,7 +16831,7 @@
         },
         "protected": false,
         "followers_count": 29562,
-        "friends_count": 6664,
+        "friends_count": 6666,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -17107,7 +17157,7 @@
         },
         "protected": false,
         "followers_count": 29562,
-        "friends_count": 6664,
+        "friends_count": 6666,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -17433,7 +17483,7 @@
         },
         "protected": false,
         "followers_count": 29562,
-        "friends_count": 6664,
+        "friends_count": 6666,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -17759,7 +17809,7 @@
         },
         "protected": false,
         "followers_count": 29562,
-        "friends_count": 6664,
+        "friends_count": 6666,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -18094,7 +18144,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -18404,7 +18454,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -18714,7 +18764,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -19024,7 +19074,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -19334,7 +19384,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -19644,7 +19694,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -19954,7 +20004,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -20264,7 +20314,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -20574,7 +20624,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -20884,7 +20934,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21194,7 +21244,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21530,7 +21580,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21866,7 +21916,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22202,7 +22252,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22538,7 +22588,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22874,7 +22924,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23210,7 +23260,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23520,7 +23570,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23830,7 +23880,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24140,7 +24190,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24450,7 +24500,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24760,7 +24810,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25070,7 +25120,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25380,7 +25430,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25603,7 +25653,7 @@
         },
         "protected": false,
         "followers_count": 11,
-        "friends_count": 132,
+        "friends_count": 133,
         "listed_count": 0,
         "created_at": "Fri Apr 01 21:16:14 +0000 2022",
         "favourites_count": 0,
@@ -25690,7 +25740,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25913,7 +25963,7 @@
         },
         "protected": false,
         "followers_count": 11,
-        "friends_count": 132,
+        "friends_count": 133,
         "listed_count": 0,
         "created_at": "Fri Apr 01 21:16:14 +0000 2022",
         "favourites_count": 0,
@@ -26000,7 +26050,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26223,7 +26273,7 @@
         },
         "protected": false,
         "followers_count": 11,
-        "friends_count": 132,
+        "friends_count": 133,
         "listed_count": 0,
         "created_at": "Fri Apr 01 21:16:14 +0000 2022",
         "favourites_count": 0,
@@ -26310,7 +26360,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26533,7 +26583,7 @@
         },
         "protected": false,
         "followers_count": 11,
-        "friends_count": 132,
+        "friends_count": 133,
         "listed_count": 0,
         "created_at": "Fri Apr 01 21:16:14 +0000 2022",
         "favourites_count": 0,
@@ -26620,7 +26670,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26843,7 +26893,7 @@
         },
         "protected": false,
         "followers_count": 11,
-        "friends_count": 132,
+        "friends_count": 133,
         "listed_count": 0,
         "created_at": "Fri Apr 01 21:16:14 +0000 2022",
         "favourites_count": 0,
@@ -26930,7 +26980,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27266,7 +27316,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27602,7 +27652,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27938,7 +27988,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -28248,7 +28298,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -28558,7 +28608,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -28868,7 +28918,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -29178,7 +29228,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -29488,7 +29538,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -29798,7 +29848,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -30108,7 +30158,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -30444,7 +30494,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -30780,7 +30830,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445289,
+        "followers_count": 445193,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -31106,7 +31156,7 @@
           }
         },
         "protected": false,
-        "followers_count": 95121,
+        "followers_count": 95120,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -31404,7 +31454,7 @@
           }
         },
         "protected": false,
-        "followers_count": 95121,
+        "followers_count": 95120,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -31702,7 +31752,7 @@
           }
         },
         "protected": false,
-        "followers_count": 95121,
+        "followers_count": 95120,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -32000,7 +32050,7 @@
           }
         },
         "protected": false,
-        "followers_count": 95121,
+        "followers_count": 95120,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -32298,7 +32348,7 @@
           }
         },
         "protected": false,
-        "followers_count": 95121,
+        "followers_count": 95120,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -32596,7 +32646,7 @@
           }
         },
         "protected": false,
-        "followers_count": 95121,
+        "followers_count": 95120,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -32932,7 +32982,7 @@
           }
         },
         "protected": false,
-        "followers_count": 95121,
+        "followers_count": 95120,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -33268,7 +33318,7 @@
           }
         },
         "protected": false,
-        "followers_count": 95121,
+        "followers_count": 95120,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -33604,7 +33654,7 @@
           }
         },
         "protected": false,
-        "followers_count": 95121,
+        "followers_count": 95120,
         "friends_count": 105,
         "listed_count": 162,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -33950,7 +34000,7 @@
           }
         },
         "protected": false,
-        "followers_count": 152713,
+        "followers_count": 152714,
         "friends_count": 17,
         "listed_count": 223,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -33959,43 +34009,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167995,
+        "statuses_count": 167999,
         "lang": null,
         "status": {
-          "created_at": "Wed Jun 08 03:21:30 +0000 2022",
-          "id": 1534375034751533000,
-          "id_str": "1534375034751533057",
-          "text": "@lexDiasPulchini @FaustoNieto5 Buenas noches, para verificar qué sucedió con tu transferencia, necesitamos que nos… https://t.co/bkU1A7hpZ2",
+          "created_at": "Wed Jun 08 03:58:22 +0000 2022",
+          "id": 1534384312744824800,
+          "id_str": "1534384312744824834",
+          "text": "@solcibenitez Para validar el error al realizar transferencias, te invitamos a contactarnos iniciando sesión en tu… https://t.co/2fXmaOWyRb",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lexDiasPulchini",
-                "name": "⏩ALEX⏪",
-                "id": 308271737,
-                "id_str": "308271737",
+                "screen_name": "solcibenitez",
+                "name": "Sunder",
+                "id": 525474808,
+                "id_str": "525474808",
                 "indices": [
                   0,
-                  16
-                ]
-              },
-              {
-                "screen_name": "FaustoNieto5",
-                "name": "Fau",
-                "id": 895076399404515300,
-                "id_str": "895076399404515328",
-                "indices": [
-                  17,
-                  30
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/bkU1A7hpZ2",
-                "expanded_url": "https://twitter.com/i/web/status/1534375034751533057",
+                "url": "https://t.co/2fXmaOWyRb",
+                "expanded_url": "https://twitter.com/i/web/status/1534384312744824834",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   116,
@@ -34005,11 +34045,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1534189639682166800,
-          "in_reply_to_status_id_str": "1534189639682166784",
-          "in_reply_to_user_id": 308271737,
-          "in_reply_to_user_id_str": "308271737",
-          "in_reply_to_screen_name": "lexDiasPulchini",
+          "in_reply_to_status_id": 1534352571158208500,
+          "in_reply_to_status_id_str": "1534352571158208512",
+          "in_reply_to_user_id": 525474808,
+          "in_reply_to_user_id_str": "525474808",
+          "in_reply_to_screen_name": "solcibenitez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -34019,6 +34059,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -34281,7 +34322,7 @@
           }
         },
         "protected": false,
-        "followers_count": 152713,
+        "followers_count": 152714,
         "friends_count": 17,
         "listed_count": 223,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -34290,43 +34331,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167995,
+        "statuses_count": 167999,
         "lang": null,
         "status": {
-          "created_at": "Wed Jun 08 03:21:30 +0000 2022",
-          "id": 1534375034751533000,
-          "id_str": "1534375034751533057",
-          "text": "@lexDiasPulchini @FaustoNieto5 Buenas noches, para verificar qué sucedió con tu transferencia, necesitamos que nos… https://t.co/bkU1A7hpZ2",
+          "created_at": "Wed Jun 08 03:58:22 +0000 2022",
+          "id": 1534384312744824800,
+          "id_str": "1534384312744824834",
+          "text": "@solcibenitez Para validar el error al realizar transferencias, te invitamos a contactarnos iniciando sesión en tu… https://t.co/2fXmaOWyRb",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lexDiasPulchini",
-                "name": "⏩ALEX⏪",
-                "id": 308271737,
-                "id_str": "308271737",
+                "screen_name": "solcibenitez",
+                "name": "Sunder",
+                "id": 525474808,
+                "id_str": "525474808",
                 "indices": [
                   0,
-                  16
-                ]
-              },
-              {
-                "screen_name": "FaustoNieto5",
-                "name": "Fau",
-                "id": 895076399404515300,
-                "id_str": "895076399404515328",
-                "indices": [
-                  17,
-                  30
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/bkU1A7hpZ2",
-                "expanded_url": "https://twitter.com/i/web/status/1534375034751533057",
+                "url": "https://t.co/2fXmaOWyRb",
+                "expanded_url": "https://twitter.com/i/web/status/1534384312744824834",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   116,
@@ -34336,11 +34367,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1534189639682166800,
-          "in_reply_to_status_id_str": "1534189639682166784",
-          "in_reply_to_user_id": 308271737,
-          "in_reply_to_user_id_str": "308271737",
-          "in_reply_to_screen_name": "lexDiasPulchini",
+          "in_reply_to_status_id": 1534352571158208500,
+          "in_reply_to_status_id_str": "1534352571158208512",
+          "in_reply_to_user_id": 525474808,
+          "in_reply_to_user_id_str": "525474808",
+          "in_reply_to_screen_name": "solcibenitez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -34350,6 +34381,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -34612,7 +34644,7 @@
           }
         },
         "protected": false,
-        "followers_count": 152713,
+        "followers_count": 152714,
         "friends_count": 17,
         "listed_count": 223,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -34621,43 +34653,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167995,
+        "statuses_count": 167999,
         "lang": null,
         "status": {
-          "created_at": "Wed Jun 08 03:21:30 +0000 2022",
-          "id": 1534375034751533000,
-          "id_str": "1534375034751533057",
-          "text": "@lexDiasPulchini @FaustoNieto5 Buenas noches, para verificar qué sucedió con tu transferencia, necesitamos que nos… https://t.co/bkU1A7hpZ2",
+          "created_at": "Wed Jun 08 03:58:22 +0000 2022",
+          "id": 1534384312744824800,
+          "id_str": "1534384312744824834",
+          "text": "@solcibenitez Para validar el error al realizar transferencias, te invitamos a contactarnos iniciando sesión en tu… https://t.co/2fXmaOWyRb",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lexDiasPulchini",
-                "name": "⏩ALEX⏪",
-                "id": 308271737,
-                "id_str": "308271737",
+                "screen_name": "solcibenitez",
+                "name": "Sunder",
+                "id": 525474808,
+                "id_str": "525474808",
                 "indices": [
                   0,
-                  16
-                ]
-              },
-              {
-                "screen_name": "FaustoNieto5",
-                "name": "Fau",
-                "id": 895076399404515300,
-                "id_str": "895076399404515328",
-                "indices": [
-                  17,
-                  30
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/bkU1A7hpZ2",
-                "expanded_url": "https://twitter.com/i/web/status/1534375034751533057",
+                "url": "https://t.co/2fXmaOWyRb",
+                "expanded_url": "https://twitter.com/i/web/status/1534384312744824834",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   116,
@@ -34667,11 +34689,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1534189639682166800,
-          "in_reply_to_status_id_str": "1534189639682166784",
-          "in_reply_to_user_id": 308271737,
-          "in_reply_to_user_id_str": "308271737",
-          "in_reply_to_screen_name": "lexDiasPulchini",
+          "in_reply_to_status_id": 1534352571158208500,
+          "in_reply_to_status_id_str": "1534352571158208512",
+          "in_reply_to_user_id": 525474808,
+          "in_reply_to_user_id_str": "525474808",
+          "in_reply_to_screen_name": "solcibenitez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -34681,6 +34703,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -34943,7 +34966,7 @@
           }
         },
         "protected": false,
-        "followers_count": 152713,
+        "followers_count": 152714,
         "friends_count": 17,
         "listed_count": 223,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -34952,43 +34975,33 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 167995,
+        "statuses_count": 167999,
         "lang": null,
         "status": {
-          "created_at": "Wed Jun 08 03:21:30 +0000 2022",
-          "id": 1534375034751533000,
-          "id_str": "1534375034751533057",
-          "text": "@lexDiasPulchini @FaustoNieto5 Buenas noches, para verificar qué sucedió con tu transferencia, necesitamos que nos… https://t.co/bkU1A7hpZ2",
+          "created_at": "Wed Jun 08 03:58:22 +0000 2022",
+          "id": 1534384312744824800,
+          "id_str": "1534384312744824834",
+          "text": "@solcibenitez Para validar el error al realizar transferencias, te invitamos a contactarnos iniciando sesión en tu… https://t.co/2fXmaOWyRb",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lexDiasPulchini",
-                "name": "⏩ALEX⏪",
-                "id": 308271737,
-                "id_str": "308271737",
+                "screen_name": "solcibenitez",
+                "name": "Sunder",
+                "id": 525474808,
+                "id_str": "525474808",
                 "indices": [
                   0,
-                  16
-                ]
-              },
-              {
-                "screen_name": "FaustoNieto5",
-                "name": "Fau",
-                "id": 895076399404515300,
-                "id_str": "895076399404515328",
-                "indices": [
-                  17,
-                  30
+                  13
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/bkU1A7hpZ2",
-                "expanded_url": "https://twitter.com/i/web/status/1534375034751533057",
+                "url": "https://t.co/2fXmaOWyRb",
+                "expanded_url": "https://twitter.com/i/web/status/1534384312744824834",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
                   116,
@@ -34998,11 +35011,11 @@
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1534189639682166800,
-          "in_reply_to_status_id_str": "1534189639682166784",
-          "in_reply_to_user_id": 308271737,
-          "in_reply_to_user_id_str": "308271737",
-          "in_reply_to_screen_name": "lexDiasPulchini",
+          "in_reply_to_status_id": 1534352571158208500,
+          "in_reply_to_status_id_str": "1534352571158208512",
+          "in_reply_to_user_id": 525474808,
+          "in_reply_to_user_id_str": "525474808",
+          "in_reply_to_screen_name": "solcibenitez",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -35012,6 +35025,7 @@
           "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
