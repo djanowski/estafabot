@@ -29,7 +29,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150742,
+        "followers_count": 150738,
         "friends_count": 54734,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -339,7 +339,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150742,
+        "followers_count": 150738,
         "friends_count": 54734,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -649,7 +649,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150742,
+        "followers_count": 150738,
         "friends_count": 54734,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -967,7 +967,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150742,
+        "followers_count": 150738,
         "friends_count": 54734,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1285,7 +1285,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150742,
+        "followers_count": 150738,
         "friends_count": 54734,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1603,7 +1603,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150742,
+        "followers_count": 150738,
         "friends_count": 54734,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1913,7 +1913,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150742,
+        "followers_count": 150738,
         "friends_count": 54734,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2223,7 +2223,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150742,
+        "followers_count": 150738,
         "friends_count": 54734,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2533,7 +2533,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150742,
+        "followers_count": 150738,
         "friends_count": 54734,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2843,7 +2843,7 @@
           }
         },
         "protected": false,
-        "followers_count": 150742,
+        "followers_count": 150738,
         "friends_count": 54734,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -3163,8 +3163,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -3172,44 +3172,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3461,8 +3471,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -3470,44 +3480,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3769,8 +3789,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -3778,44 +3798,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4067,8 +4097,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -4076,44 +4106,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4365,8 +4405,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -4374,44 +4414,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4654,8 +4704,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -4663,44 +4713,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -4943,8 +5003,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -4952,44 +5012,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5232,8 +5302,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -5241,44 +5311,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5524,8 +5604,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -5533,44 +5613,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -5819,8 +5909,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -5828,44 +5918,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6114,8 +6214,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -6123,44 +6223,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6406,8 +6516,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -6415,44 +6525,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6701,8 +6821,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653855,
-        "friends_count": 315788,
+        "followers_count": 653849,
+        "friends_count": 315780,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6304,
@@ -6710,44 +6830,54 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1026220,
+        "statuses_count": 1026221,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:37:51 +0000 2022",
-          "id": 1535088827924193300,
-          "id_str": "1535088827924193316",
-          "text": "@che87chu podes escribirnos al DM sobre tu consulta, ¡Te esperamos!",
-          "truncated": false,
+          "created_at": "Fri Jun 10 09:09:16 +0000 2022",
+          "id": 1535187330784428000,
+          "id_str": "1535187330784428032",
+          "text": "@calucaramella Hola Carla! Un gusto saludarte por este medio, bríndanos por favor tus datos al DM, así lo revisamos… https://t.co/PSxUD2HIet",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "che87chu",
-                "name": "Chechu",
-                "id": 125779065,
-                "id_str": "125779065",
+                "screen_name": "calucaramella",
+                "name": "Carla",
+                "id": 1601241842,
+                "id_str": "1601241842",
                 "indices": [
                   0,
-                  9
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/PSxUD2HIet",
+                "expanded_url": "https://twitter.com/i/web/status/1535187330784428032",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1535088462575149000,
-          "in_reply_to_status_id_str": "1535088462575149063",
-          "in_reply_to_user_id": 125779065,
-          "in_reply_to_user_id_str": "125779065",
-          "in_reply_to_screen_name": "che87chu",
+          "in_reply_to_status_id": 1535187001049288700,
+          "in_reply_to_status_id_str": "1535187001049288704",
+          "in_reply_to_user_id": 1601241842,
+          "in_reply_to_user_id_str": "1601241842",
+          "in_reply_to_screen_name": "calucaramella",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -6986,11 +7116,11 @@
           }
         },
         "protected": false,
-        "followers_count": 548239,
-        "friends_count": 214963,
+        "followers_count": 548232,
+        "friends_count": 214957,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18604,
+        "favourites_count": 18605,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
@@ -7300,11 +7430,11 @@
           }
         },
         "protected": false,
-        "followers_count": 548239,
-        "friends_count": 214963,
+        "followers_count": 548232,
+        "friends_count": 214957,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18604,
+        "favourites_count": 18605,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
@@ -7614,11 +7744,11 @@
           }
         },
         "protected": false,
-        "followers_count": 548239,
-        "friends_count": 214963,
+        "followers_count": 548232,
+        "friends_count": 214957,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18604,
+        "favourites_count": 18605,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
@@ -7968,11 +8098,11 @@
           }
         },
         "protected": false,
-        "followers_count": 548239,
-        "friends_count": 214963,
+        "followers_count": 548232,
+        "friends_count": 214957,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18604,
+        "favourites_count": 18605,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
@@ -8268,11 +8398,11 @@
           }
         },
         "protected": false,
-        "followers_count": 548239,
-        "friends_count": 214963,
+        "followers_count": 548232,
+        "friends_count": 214957,
         "listed_count": 1084,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18604,
+        "favourites_count": 18605,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
@@ -8568,8 +8698,8 @@
           }
         },
         "protected": false,
-        "followers_count": 602956,
-        "friends_count": 254546,
+        "followers_count": 602970,
+        "friends_count": 254521,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -8577,56 +8707,67 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2079704,
+        "statuses_count": 2079714,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:40:55 +0000 2022",
-          "id": 1535089599982276600,
-          "id_str": "1535089599982276608",
-          "text": "@vthygx Hola @vthygx estoy para ayudarte. Te pido que nos sigas y mandes por DM la línea y error que te da la app, te espero",
-          "truncated": false,
+          "created_at": "Fri Jun 10 10:01:46 +0000 2022",
+          "id": 1535200543529963500,
+          "id_str": "1535200543529963522",
+          "text": "@Vic_Guma Hola! Te pedimos que nos escribas a @PersonalFlow_At, podes contactarte por privado a… https://t.co/j4oozz1igz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "vthygx",
-                "name": "•𝕄𝕚𝕟 𝕐𝕠𝕠𝕟𝕘𝕚•ᴮᵃⁿᵍᵗᵃⁿ🫠",
-                "id": 1480229192352649200,
-                "id_str": "1480229192352649220",
+                "screen_name": "Vic_Guma",
+                "name": "Victor Guma",
+                "id": 1245165603817742300,
+                "id_str": "1245165603817742339",
                 "indices": [
                   0,
-                  7
+                  9
                 ]
               },
               {
-                "screen_name": "vthygx",
-                "name": "•𝕄𝕚𝕟 𝕐𝕠𝕠𝕟𝕘𝕚•ᴮᵃⁿᵍᵗᵃⁿ🫠",
-                "id": 1480229192352649200,
-                "id_str": "1480229192352649220",
+                "screen_name": "PersonalFlow_At",
+                "name": "Personal Flow Ayuda",
+                "id": 318042127,
+                "id_str": "318042127",
                 "indices": [
-                  13,
-                  20
+                  46,
+                  62
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/j4oozz1igz",
+                "expanded_url": "https://twitter.com/i/web/status/1535200543529963522",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  97,
+                  120
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1535088694104928300,
-          "in_reply_to_status_id_str": "1535088694104928258",
-          "in_reply_to_user_id": 1480229192352649200,
-          "in_reply_to_user_id_str": "1480229192352649220",
-          "in_reply_to_screen_name": "vthygx",
+          "in_reply_to_status_id": 1535199889155575800,
+          "in_reply_to_status_id_str": "1535199889155575808",
+          "in_reply_to_user_id": 1245165603817742300,
+          "in_reply_to_user_id_str": "1245165603817742339",
+          "in_reply_to_screen_name": "Vic_Guma",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -8868,8 +9009,8 @@
           }
         },
         "protected": false,
-        "followers_count": 602956,
-        "friends_count": 254546,
+        "followers_count": 602970,
+        "friends_count": 254521,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -8877,56 +9018,67 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2079704,
+        "statuses_count": 2079714,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 10 02:40:55 +0000 2022",
-          "id": 1535089599982276600,
-          "id_str": "1535089599982276608",
-          "text": "@vthygx Hola @vthygx estoy para ayudarte. Te pido que nos sigas y mandes por DM la línea y error que te da la app, te espero",
-          "truncated": false,
+          "created_at": "Fri Jun 10 10:01:46 +0000 2022",
+          "id": 1535200543529963500,
+          "id_str": "1535200543529963522",
+          "text": "@Vic_Guma Hola! Te pedimos que nos escribas a @PersonalFlow_At, podes contactarte por privado a… https://t.co/j4oozz1igz",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "vthygx",
-                "name": "•𝕄𝕚𝕟 𝕐𝕠𝕠𝕟𝕘𝕚•ᴮᵃⁿᵍᵗᵃⁿ🫠",
-                "id": 1480229192352649200,
-                "id_str": "1480229192352649220",
+                "screen_name": "Vic_Guma",
+                "name": "Victor Guma",
+                "id": 1245165603817742300,
+                "id_str": "1245165603817742339",
                 "indices": [
                   0,
-                  7
+                  9
                 ]
               },
               {
-                "screen_name": "vthygx",
-                "name": "•𝕄𝕚𝕟 𝕐𝕠𝕠𝕟𝕘𝕚•ᴮᵃⁿᵍᵗᵃⁿ🫠",
-                "id": 1480229192352649200,
-                "id_str": "1480229192352649220",
+                "screen_name": "PersonalFlow_At",
+                "name": "Personal Flow Ayuda",
+                "id": 318042127,
+                "id_str": "318042127",
                 "indices": [
-                  13,
-                  20
+                  46,
+                  62
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/j4oozz1igz",
+                "expanded_url": "https://twitter.com/i/web/status/1535200543529963522",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  97,
+                  120
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1535088694104928300,
-          "in_reply_to_status_id_str": "1535088694104928258",
-          "in_reply_to_user_id": 1480229192352649200,
-          "in_reply_to_user_id_str": "1480229192352649220",
-          "in_reply_to_screen_name": "vthygx",
+          "in_reply_to_status_id": 1535199889155575800,
+          "in_reply_to_status_id_str": "1535199889155575808",
+          "in_reply_to_user_id": 1245165603817742300,
+          "in_reply_to_user_id_str": "1245165603817742339",
+          "in_reply_to_screen_name": "Vic_Guma",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
+          "possibly_sensitive": false,
           "lang": "es"
         },
         "contributors_enabled": false,
@@ -9178,7 +9330,7 @@
           }
         },
         "protected": false,
-        "followers_count": 11400,
+        "followers_count": 11401,
         "friends_count": 1,
         "listed_count": 7,
         "created_at": "Mon Oct 29 18:23:10 +0000 2018",
@@ -9504,7 +9656,7 @@
           }
         },
         "protected": false,
-        "followers_count": 11400,
+        "followers_count": 11401,
         "friends_count": 1,
         "listed_count": 7,
         "created_at": "Mon Oct 29 18:23:10 +0000 2018",
@@ -9830,7 +9982,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81451,
+        "followers_count": 81454,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -10166,7 +10318,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81451,
+        "followers_count": 81454,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -10466,7 +10618,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81451,
+        "followers_count": 81454,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -10766,7 +10918,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81451,
+        "followers_count": 81454,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -11066,7 +11218,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81451,
+        "followers_count": 81454,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -11384,7 +11536,7 @@
           }
         },
         "protected": false,
-        "followers_count": 81451,
+        "followers_count": 81454,
         "friends_count": 12,
         "listed_count": 184,
         "created_at": "Fri Jun 04 17:15:19 +0000 2010",
@@ -11694,8 +11846,8 @@
           }
         },
         "protected": false,
-        "followers_count": 19674,
-        "friends_count": 2923,
+        "followers_count": 19672,
+        "friends_count": 2922,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2140,
@@ -12030,8 +12182,8 @@
           }
         },
         "protected": false,
-        "followers_count": 19674,
-        "friends_count": 2923,
+        "followers_count": 19672,
+        "friends_count": 2922,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2140,
@@ -12366,8 +12518,8 @@
           }
         },
         "protected": false,
-        "followers_count": 19674,
-        "friends_count": 2923,
+        "followers_count": 19672,
+        "friends_count": 2922,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2140,
@@ -12712,8 +12864,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158693,
-        "friends_count": 16267,
+        "followers_count": 158692,
+        "friends_count": 16269,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -13078,8 +13230,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158693,
-        "friends_count": 16267,
+        "followers_count": 158692,
+        "friends_count": 16269,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -13434,8 +13586,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158693,
-        "friends_count": 16267,
+        "followers_count": 158692,
+        "friends_count": 16269,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -13790,8 +13942,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158693,
-        "friends_count": 16267,
+        "followers_count": 158692,
+        "friends_count": 16269,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -14146,8 +14298,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158693,
-        "friends_count": 16267,
+        "followers_count": 158692,
+        "friends_count": 16269,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 587,
@@ -14493,7 +14645,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -14819,7 +14971,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -15145,7 +15297,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -15471,7 +15623,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -15797,7 +15949,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -16133,7 +16285,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -16469,7 +16621,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -16805,7 +16957,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -17131,7 +17283,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -17457,7 +17609,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -17783,7 +17935,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -18109,7 +18261,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -18435,7 +18587,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -18761,7 +18913,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -19087,7 +19239,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -19413,7 +19565,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -19739,7 +19891,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -20065,7 +20217,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -20391,7 +20543,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -20717,7 +20869,7 @@
         },
         "protected": false,
         "followers_count": 29567,
-        "friends_count": 6669,
+        "friends_count": 6671,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
         "favourites_count": 421,
@@ -21052,7 +21204,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21061,47 +21213,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -21372,7 +21514,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21381,47 +21523,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -21692,7 +21824,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -21701,47 +21833,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22012,7 +22134,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22021,47 +22143,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22322,7 +22434,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22331,47 +22443,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22632,7 +22734,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22641,47 +22743,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22952,7 +23044,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -22961,47 +23053,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23272,7 +23354,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23281,47 +23363,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23592,7 +23664,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23601,47 +23673,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23912,7 +23974,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -23921,47 +23983,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -24232,7 +24284,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24241,47 +24293,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -24578,7 +24620,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24587,47 +24629,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -24695,7 +24727,7 @@
       "friends_count": 64,
       "listed_count": 0,
       "created_at": "Mon May 16 17:38:04 +0000 2022",
-      "favourites_count": 2,
+      "favourites_count": 3,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
@@ -24840,7 +24872,7 @@
         "friends_count": 64,
         "listed_count": 0,
         "created_at": "Mon May 16 17:38:04 +0000 2022",
-        "favourites_count": 2,
+        "favourites_count": 3,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
@@ -24924,7 +24956,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -24933,47 +24965,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -25041,7 +25063,7 @@
       "friends_count": 64,
       "listed_count": 0,
       "created_at": "Mon May 16 17:38:04 +0000 2022",
-      "favourites_count": 2,
+      "favourites_count": 3,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
@@ -25186,7 +25208,7 @@
         "friends_count": 64,
         "listed_count": 0,
         "created_at": "Mon May 16 17:38:04 +0000 2022",
-        "favourites_count": 2,
+        "favourites_count": 3,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
@@ -25270,7 +25292,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25279,47 +25301,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -25387,7 +25399,7 @@
       "friends_count": 64,
       "listed_count": 0,
       "created_at": "Mon May 16 17:38:04 +0000 2022",
-      "favourites_count": 2,
+      "favourites_count": 3,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
@@ -25532,7 +25544,7 @@
         "friends_count": 64,
         "listed_count": 0,
         "created_at": "Mon May 16 17:38:04 +0000 2022",
-        "favourites_count": 2,
+        "favourites_count": 3,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
@@ -25616,7 +25628,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25625,47 +25637,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -25733,7 +25735,7 @@
       "friends_count": 64,
       "listed_count": 0,
       "created_at": "Mon May 16 17:38:04 +0000 2022",
-      "favourites_count": 2,
+      "favourites_count": 3,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
@@ -25878,7 +25880,7 @@
         "friends_count": 64,
         "listed_count": 0,
         "created_at": "Mon May 16 17:38:04 +0000 2022",
-        "favourites_count": 2,
+        "favourites_count": 3,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
@@ -25962,7 +25964,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -25971,47 +25973,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -26079,7 +26071,7 @@
       "friends_count": 64,
       "listed_count": 0,
       "created_at": "Mon May 16 17:38:04 +0000 2022",
-      "favourites_count": 2,
+      "favourites_count": 3,
       "utc_offset": null,
       "time_zone": null,
       "geo_enabled": false,
@@ -26224,7 +26216,7 @@
         "friends_count": 64,
         "listed_count": 0,
         "created_at": "Mon May 16 17:38:04 +0000 2022",
-        "favourites_count": 2,
+        "favourites_count": 3,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
@@ -26308,7 +26300,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26317,47 +26309,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -26628,7 +26610,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26637,47 +26619,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -26948,7 +26920,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -26957,47 +26929,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -27268,7 +27230,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27277,47 +27239,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -27588,7 +27540,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27597,47 +27549,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -27908,7 +27850,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -27917,47 +27859,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28228,7 +28160,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -28237,47 +28169,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28548,7 +28470,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -28557,47 +28479,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -28868,7 +28780,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -28877,47 +28789,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -29188,7 +29090,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -29197,47 +29099,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -29508,7 +29400,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -29517,47 +29409,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -29828,7 +29710,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -29837,47 +29719,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -30148,7 +30020,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -30157,47 +30029,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -30494,7 +30356,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -30503,47 +30365,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -30840,7 +30692,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -30849,47 +30701,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -31186,7 +31028,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -31195,47 +31037,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -31506,7 +31338,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -31515,47 +31347,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -31826,7 +31648,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -31835,47 +31657,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -32146,7 +31958,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -32155,47 +31967,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -32466,7 +32268,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -32475,47 +32277,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -32786,7 +32578,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -32795,47 +32587,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -33106,7 +32888,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -33115,47 +32897,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -33426,7 +33198,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -33435,47 +33207,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -33746,7 +33508,7 @@
           }
         },
         "protected": false,
-        "followers_count": 445365,
+        "followers_count": 445269,
         "friends_count": 37,
         "listed_count": 1205,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -33755,47 +33517,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59496,
+        "statuses_count": 59499,
         "lang": null,
         "status": {
-          "created_at": "Thu Jun 09 17:46:33 +0000 2022",
-          "id": 1534955118789021700,
-          "id_str": "1534955118789021696",
-          "text": "@NicoVille_ \n¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código de… https://t.co/E8M5bs0kIn",
-          "truncated": true,
+          "created_at": "Fri Jun 10 10:02:30 +0000 2022",
+          "id": 1535200724799438800,
+          "id_str": "1535200724799438850",
+          "text": "@lomasenaccion ¡Hola Guido! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "NicoVille_",
-                "name": "Nicolás",
-                "id": 468938136,
-                "id_str": "468938136",
+                "screen_name": "lomasenaccion",
+                "name": "Guido Martín Mobilio",
+                "id": 41880676,
+                "id_str": "41880676",
                 "indices": [
                   0,
-                  11
+                  14
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E8M5bs0kIn",
-                "expanded_url": "https://twitter.com/i/web/status/1534955118789021696",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1534948415116820500,
-          "in_reply_to_status_id_str": "1534948415116820480",
-          "in_reply_to_user_id": 468938136,
-          "in_reply_to_user_id_str": "468938136",
-          "in_reply_to_screen_name": "NicoVille_",
+          "in_reply_to_status_id": 1535077913917128700,
+          "in_reply_to_status_id_str": "1535077913917128704",
+          "in_reply_to_user_id": 41880676,
+          "in_reply_to_user_id_str": "41880676",
+          "in_reply_to_screen_name": "lomasenaccion",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -34169,7 +33921,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 6,
-          "favorite_count": 74,
+          "favorite_count": 75,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -34583,7 +34335,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 6,
-          "favorite_count": 74,
+          "favorite_count": 75,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -34997,7 +34749,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 6,
-          "favorite_count": 74,
+          "favorite_count": 75,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -35411,7 +35163,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 6,
-          "favorite_count": 74,
+          "favorite_count": 75,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -35825,7 +35577,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 6,
-          "favorite_count": 74,
+          "favorite_count": 75,
           "favorited": false,
           "retweeted": false,
           "possibly_sensitive": false,
@@ -36136,16 +35888,16 @@
           }
         },
         "protected": false,
-        "followers_count": 152812,
+        "followers_count": 152806,
         "friends_count": 17,
-        "listed_count": 223,
+        "listed_count": 222,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
         "favourites_count": 1099,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 168179,
+        "statuses_count": 168162,
         "lang": null,
         "status": {
           "created_at": "Fri Jun 10 04:11:43 +0000 2022",
@@ -36457,16 +36209,16 @@
           }
         },
         "protected": false,
-        "followers_count": 152812,
+        "followers_count": 152806,
         "friends_count": 17,
-        "listed_count": 223,
+        "listed_count": 222,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
         "favourites_count": 1099,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 168179,
+        "statuses_count": 168162,
         "lang": null,
         "status": {
           "created_at": "Fri Jun 10 04:11:43 +0000 2022",
@@ -36778,16 +36530,16 @@
           }
         },
         "protected": false,
-        "followers_count": 152812,
+        "followers_count": 152806,
         "friends_count": 17,
-        "listed_count": 223,
+        "listed_count": 222,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
         "favourites_count": 1099,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 168179,
+        "statuses_count": 168162,
         "lang": null,
         "status": {
           "created_at": "Fri Jun 10 04:11:43 +0000 2022",
@@ -37099,16 +36851,16 @@
           }
         },
         "protected": false,
-        "followers_count": 152812,
+        "followers_count": 152806,
         "friends_count": 17,
-        "listed_count": 223,
+        "listed_count": 222,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
         "favourites_count": 1099,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 168179,
+        "statuses_count": 168162,
         "lang": null,
         "status": {
           "created_at": "Fri Jun 10 04:11:43 +0000 2022",
@@ -38817,7 +38569,7 @@
         }
       },
       "protected": false,
-      "followers_count": 1,
+      "followers_count": 2,
       "friends_count": 90,
       "listed_count": 0,
       "created_at": "Fri May 27 13:07:30 +0000 2022",
@@ -38962,7 +38714,7 @@
           }
         },
         "protected": false,
-        "followers_count": 1,
+        "followers_count": 2,
         "friends_count": 90,
         "listed_count": 0,
         "created_at": "Fri May 27 13:07:30 +0000 2022",
@@ -40447,7 +40199,7 @@
         }
       },
       "protected": false,
-      "followers_count": 1,
+      "followers_count": 2,
       "friends_count": 90,
       "listed_count": 0,
       "created_at": "Fri May 27 13:07:30 +0000 2022",
@@ -40592,7 +40344,7 @@
           }
         },
         "protected": false,
-        "followers_count": 1,
+        "followers_count": 2,
         "friends_count": 90,
         "listed_count": 0,
         "created_at": "Fri May 27 13:07:30 +0000 2022",
@@ -42393,7 +42145,7 @@
         }
       },
       "protected": false,
-      "followers_count": 1,
+      "followers_count": 2,
       "friends_count": 90,
       "listed_count": 0,
       "created_at": "Fri May 27 13:07:30 +0000 2022",
@@ -42538,7 +42290,7 @@
           }
         },
         "protected": false,
-        "followers_count": 1,
+        "followers_count": 2,
         "friends_count": 90,
         "listed_count": 0,
         "created_at": "Fri May 27 13:07:30 +0000 2022",
