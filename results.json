@@ -75,7 +75,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -375,7 +375,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -675,7 +675,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -983,7 +983,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -1291,7 +1291,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -1599,7 +1599,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -1899,7 +1899,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -2199,7 +2199,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -2499,7 +2499,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -2799,7 +2799,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3099,7 +3099,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -3399,7 +3399,7 @@
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -7616,7 +7616,7 @@
           }
         },
         "protected": false,
-        "followers_count": 548833,
+        "followers_count": 548832,
         "friends_count": 214872,
         "listed_count": 1082,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -7625,54 +7625,54 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2534824,
+        "statuses_count": 2534825,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 24 03:42:05 +0000 2022",
-          "id": 1540178422999179300,
-          "id_str": "1540178422999179264",
-          "text": "@grazianoalf1 Hola, para que podamos otorgarte asistencia y verificar lo sucedido, te pedimos por favor que nos det… https://t.co/SAywp4d6nS",
+          "created_at": "Fri Jun 24 08:55:50 +0000 2022",
+          "id": 1540257377345306600,
+          "id_str": "1540257377345306625",
+          "text": "@4lexs5 Hola! Si lo deseás, pasanos por favor tu número de línea por DM así verificamos el servicio. Quedamos a tu… https://t.co/sJogGCcBKu",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "grazianoalf1",
-                "name": "AG",
-                "id": 1353573658728550400,
-                "id_str": "1353573658728550400",
+                "screen_name": "4lexs5",
+                "name": "C a p r i",
+                "id": 1017185048318095400,
+                "id_str": "1017185048318095360",
                 "indices": [
                   0,
-                  13
+                  7
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/SAywp4d6nS",
-                "expanded_url": "https://twitter.com/i/web/status/1540178422999179264",
+                "url": "https://t.co/sJogGCcBKu",
+                "expanded_url": "https://twitter.com/i/web/status/1540257377345306625",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  117,
-                  140
+                  116,
+                  139
                 ]
               }
             ]
           },
-          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1540176219592851500,
-          "in_reply_to_status_id_str": "1540176219592851457",
-          "in_reply_to_user_id": 1353573658728550400,
-          "in_reply_to_user_id_str": "1353573658728550400",
-          "in_reply_to_screen_name": "grazianoalf1",
+          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
+          "in_reply_to_status_id": 1540208037369110500,
+          "in_reply_to_status_id_str": "1540208037369110528",
+          "in_reply_to_user_id": 1017185048318095400,
+          "in_reply_to_user_id_str": "1017185048318095360",
+          "in_reply_to_screen_name": "4lexs5",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -7940,7 +7940,7 @@
           }
         },
         "protected": false,
-        "followers_count": 548833,
+        "followers_count": 548832,
         "friends_count": 214872,
         "listed_count": 1082,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -7949,54 +7949,54 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2534824,
+        "statuses_count": 2534825,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 24 03:42:05 +0000 2022",
-          "id": 1540178422999179300,
-          "id_str": "1540178422999179264",
-          "text": "@grazianoalf1 Hola, para que podamos otorgarte asistencia y verificar lo sucedido, te pedimos por favor que nos det… https://t.co/SAywp4d6nS",
+          "created_at": "Fri Jun 24 08:55:50 +0000 2022",
+          "id": 1540257377345306600,
+          "id_str": "1540257377345306625",
+          "text": "@4lexs5 Hola! Si lo deseás, pasanos por favor tu número de línea por DM así verificamos el servicio. Quedamos a tu… https://t.co/sJogGCcBKu",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "grazianoalf1",
-                "name": "AG",
-                "id": 1353573658728550400,
-                "id_str": "1353573658728550400",
+                "screen_name": "4lexs5",
+                "name": "C a p r i",
+                "id": 1017185048318095400,
+                "id_str": "1017185048318095360",
                 "indices": [
                   0,
-                  13
+                  7
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/SAywp4d6nS",
-                "expanded_url": "https://twitter.com/i/web/status/1540178422999179264",
+                "url": "https://t.co/sJogGCcBKu",
+                "expanded_url": "https://twitter.com/i/web/status/1540257377345306625",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  117,
-                  140
+                  116,
+                  139
                 ]
               }
             ]
           },
-          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1540176219592851500,
-          "in_reply_to_status_id_str": "1540176219592851457",
-          "in_reply_to_user_id": 1353573658728550400,
-          "in_reply_to_user_id_str": "1353573658728550400",
-          "in_reply_to_screen_name": "grazianoalf1",
+          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
+          "in_reply_to_status_id": 1540208037369110500,
+          "in_reply_to_status_id_str": "1540208037369110528",
+          "in_reply_to_user_id": 1017185048318095400,
+          "in_reply_to_user_id_str": "1017185048318095360",
+          "in_reply_to_screen_name": "4lexs5",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -8264,7 +8264,7 @@
           }
         },
         "protected": false,
-        "followers_count": 548833,
+        "followers_count": 548832,
         "friends_count": 214872,
         "listed_count": 1082,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -8273,54 +8273,54 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2534824,
+        "statuses_count": 2534825,
         "lang": null,
         "status": {
-          "created_at": "Fri Jun 24 03:42:05 +0000 2022",
-          "id": 1540178422999179300,
-          "id_str": "1540178422999179264",
-          "text": "@grazianoalf1 Hola, para que podamos otorgarte asistencia y verificar lo sucedido, te pedimos por favor que nos det… https://t.co/SAywp4d6nS",
+          "created_at": "Fri Jun 24 08:55:50 +0000 2022",
+          "id": 1540257377345306600,
+          "id_str": "1540257377345306625",
+          "text": "@4lexs5 Hola! Si lo deseás, pasanos por favor tu número de línea por DM así verificamos el servicio. Quedamos a tu… https://t.co/sJogGCcBKu",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "grazianoalf1",
-                "name": "AG",
-                "id": 1353573658728550400,
-                "id_str": "1353573658728550400",
+                "screen_name": "4lexs5",
+                "name": "C a p r i",
+                "id": 1017185048318095400,
+                "id_str": "1017185048318095360",
                 "indices": [
                   0,
-                  13
+                  7
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/SAywp4d6nS",
-                "expanded_url": "https://twitter.com/i/web/status/1540178422999179264",
+                "url": "https://t.co/sJogGCcBKu",
+                "expanded_url": "https://twitter.com/i/web/status/1540257377345306625",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  117,
-                  140
+                  116,
+                  139
                 ]
               }
             ]
           },
-          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1540176219592851500,
-          "in_reply_to_status_id_str": "1540176219592851457",
-          "in_reply_to_user_id": 1353573658728550400,
-          "in_reply_to_user_id_str": "1353573658728550400",
-          "in_reply_to_screen_name": "grazianoalf1",
+          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
+          "in_reply_to_status_id": 1540208037369110500,
+          "in_reply_to_status_id_str": "1540208037369110528",
+          "in_reply_to_user_id": 1017185048318095400,
+          "in_reply_to_user_id_str": "1017185048318095360",
+          "in_reply_to_screen_name": "4lexs5",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 1,
+          "favorite_count": 0,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -8628,7 +8628,7 @@
           }
         },
         "protected": false,
-        "followers_count": 603968,
+        "followers_count": 603970,
         "friends_count": 255807,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
@@ -8918,7 +8918,7 @@
           }
         },
         "protected": false,
-        "followers_count": 603968,
+        "followers_count": 603970,
         "friends_count": 255807,
         "listed_count": 792,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
@@ -20110,7 +20110,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -20474,7 +20474,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -20805,7 +20805,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -21136,7 +21136,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -21467,7 +21467,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -21798,7 +21798,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -22162,7 +22162,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -22526,7 +22526,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -22890,7 +22890,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -23254,7 +23254,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -23618,7 +23618,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -23982,7 +23982,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -24346,7 +24346,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -24710,7 +24710,7 @@
           }
         },
         "protected": false,
-        "followers_count": 153289,
+        "followers_count": 153285,
         "friends_count": 18,
         "listed_count": 225,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
