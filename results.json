@@ -4196,7 +4196,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -4485,7 +4485,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -4774,7 +4774,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -5063,7 +5063,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -5361,7 +5361,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -5669,7 +5669,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -5967,7 +5967,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -6265,7 +6265,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -6557,7 +6557,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -6852,7 +6852,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -7147,7 +7147,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -7439,7 +7439,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -7734,7 +7734,7 @@
         },
         "protected": false,
         "followers_count": 653929,
-        "friends_count": 315609,
+        "friends_count": 315608,
         "listed_count": 595,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6314,
@@ -8027,37 +8027,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2536074,
+        "statuses_count": 2536075,
         "lang": null,
         "status": {
-          "created_at": "Sat Jul 02 05:02:53 +0000 2022",
-          "id": 1543097859939106800,
-          "id_str": "1543097859939106816",
-          "text": "@_Gatagalactica_ Hola! Pasanos por mensaje privado el número de línea, cliente o el DNI del titular así podemos ayudarte. Gracias.^MY",
-          "truncated": false,
+          "created_at": "Sat Jul 02 10:36:46 +0000 2022",
+          "id": 1543181883281997800,
+          "id_str": "1543181883281997826",
+          "text": "@SosaNataliaOk Hola Natalia! Desde acá vamos a poder ayudarte con tu caso. Te pedimos por favor que nos mandes un m… https://t.co/e8ZIyv54nV",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_Gatagalactica_",
-                "name": "Gata galáctica",
-                "id": 487134428,
-                "id_str": "487134428",
+                "screen_name": "SosaNataliaOk",
+                "name": "Natalia 💕",
+                "id": 2377685749,
+                "id_str": "2377685749",
                 "indices": [
                   0,
-                  16
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/e8ZIyv54nV",
+                "expanded_url": "https://twitter.com/i/web/status/1543181883281997826",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
-          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1543093663605133300,
-          "in_reply_to_status_id_str": "1543093663605133312",
-          "in_reply_to_user_id": 487134428,
-          "in_reply_to_user_id_str": "487134428",
-          "in_reply_to_screen_name": "_Gatagalactica_",
+          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
+          "in_reply_to_status_id": 1543159374553616400,
+          "in_reply_to_status_id_str": "1543159374553616385",
+          "in_reply_to_user_id": 2377685749,
+          "in_reply_to_user_id_str": "2377685749",
+          "in_reply_to_screen_name": "SosaNataliaOk",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8341,37 +8351,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2536074,
+        "statuses_count": 2536075,
         "lang": null,
         "status": {
-          "created_at": "Sat Jul 02 05:02:53 +0000 2022",
-          "id": 1543097859939106800,
-          "id_str": "1543097859939106816",
-          "text": "@_Gatagalactica_ Hola! Pasanos por mensaje privado el número de línea, cliente o el DNI del titular así podemos ayudarte. Gracias.^MY",
-          "truncated": false,
+          "created_at": "Sat Jul 02 10:36:46 +0000 2022",
+          "id": 1543181883281997800,
+          "id_str": "1543181883281997826",
+          "text": "@SosaNataliaOk Hola Natalia! Desde acá vamos a poder ayudarte con tu caso. Te pedimos por favor que nos mandes un m… https://t.co/e8ZIyv54nV",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_Gatagalactica_",
-                "name": "Gata galáctica",
-                "id": 487134428,
-                "id_str": "487134428",
+                "screen_name": "SosaNataliaOk",
+                "name": "Natalia 💕",
+                "id": 2377685749,
+                "id_str": "2377685749",
                 "indices": [
                   0,
-                  16
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/e8ZIyv54nV",
+                "expanded_url": "https://twitter.com/i/web/status/1543181883281997826",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
-          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1543093663605133300,
-          "in_reply_to_status_id_str": "1543093663605133312",
-          "in_reply_to_user_id": 487134428,
-          "in_reply_to_user_id_str": "487134428",
-          "in_reply_to_screen_name": "_Gatagalactica_",
+          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
+          "in_reply_to_status_id": 1543159374553616400,
+          "in_reply_to_status_id_str": "1543159374553616385",
+          "in_reply_to_user_id": 2377685749,
+          "in_reply_to_user_id_str": "2377685749",
+          "in_reply_to_screen_name": "SosaNataliaOk",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -8655,37 +8675,47 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2536074,
+        "statuses_count": 2536075,
         "lang": null,
         "status": {
-          "created_at": "Sat Jul 02 05:02:53 +0000 2022",
-          "id": 1543097859939106800,
-          "id_str": "1543097859939106816",
-          "text": "@_Gatagalactica_ Hola! Pasanos por mensaje privado el número de línea, cliente o el DNI del titular así podemos ayudarte. Gracias.^MY",
-          "truncated": false,
+          "created_at": "Sat Jul 02 10:36:46 +0000 2022",
+          "id": 1543181883281997800,
+          "id_str": "1543181883281997826",
+          "text": "@SosaNataliaOk Hola Natalia! Desde acá vamos a poder ayudarte con tu caso. Te pedimos por favor que nos mandes un m… https://t.co/e8ZIyv54nV",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "_Gatagalactica_",
-                "name": "Gata galáctica",
-                "id": 487134428,
-                "id_str": "487134428",
+                "screen_name": "SosaNataliaOk",
+                "name": "Natalia 💕",
+                "id": 2377685749,
+                "id_str": "2377685749",
                 "indices": [
                   0,
-                  16
+                  14
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/e8ZIyv54nV",
+                "expanded_url": "https://twitter.com/i/web/status/1543181883281997826",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
-          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1543093663605133300,
-          "in_reply_to_status_id_str": "1543093663605133312",
-          "in_reply_to_user_id": 487134428,
-          "in_reply_to_user_id_str": "487134428",
-          "in_reply_to_screen_name": "_Gatagalactica_",
+          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
+          "in_reply_to_status_id": 1543159374553616400,
+          "in_reply_to_status_id_str": "1543159374553616385",
+          "in_reply_to_user_id": 2377685749,
+          "in_reply_to_user_id_str": "2377685749",
+          "in_reply_to_screen_name": "SosaNataliaOk",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9000,8 +9030,8 @@
           }
         },
         "protected": false,
-        "followers_count": 604964,
-        "friends_count": 256867,
+        "followers_count": 604966,
+        "friends_count": 256868,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -9009,37 +9039,37 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2082982,
+        "statuses_count": 2082993,
         "lang": null,
         "status": {
-          "created_at": "Sat Jul 02 10:00:48 +0000 2022",
-          "id": 1543172830946279400,
-          "id_str": "1543172830946279424",
-          "text": "@MdeMala Buen día Marianela, te envié un DM, seguimos en contacto por esa vía.\n\nAguardo tu respuesta.",
+          "created_at": "Sat Jul 02 11:04:01 +0000 2022",
+          "id": 1543188740637606000,
+          "id_str": "1543188740637605889",
+          "text": "@lolagalanplache Hola Dolores! Buenos días! Mi nombre es Meli y es un gusto poder hablar con vos el día de hoy!\n\nTe deje un DM!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "MdeMala",
-                "name": "Marianela Nieto",
-                "id": 165812409,
-                "id_str": "165812409",
+                "screen_name": "lolagalanplache",
+                "name": "dolores",
+                "id": 871908565224697900,
+                "id_str": "871908565224697860",
                 "indices": [
                   0,
-                  8
+                  16
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1543126275501408300,
-          "in_reply_to_status_id_str": "1543126275501408256",
-          "in_reply_to_user_id": 165812409,
-          "in_reply_to_user_id_str": "165812409",
-          "in_reply_to_screen_name": "MdeMala",
+          "in_reply_to_status_id": 1543065888336752600,
+          "in_reply_to_status_id_str": "1543065888336752640",
+          "in_reply_to_user_id": 871908565224697900,
+          "in_reply_to_user_id_str": "871908565224697860",
+          "in_reply_to_screen_name": "lolagalanplache",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9290,8 +9320,8 @@
           }
         },
         "protected": false,
-        "followers_count": 604964,
-        "friends_count": 256867,
+        "followers_count": 604966,
+        "friends_count": 256868,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1558,
@@ -9299,37 +9329,37 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 2082982,
+        "statuses_count": 2082993,
         "lang": null,
         "status": {
-          "created_at": "Sat Jul 02 10:00:48 +0000 2022",
-          "id": 1543172830946279400,
-          "id_str": "1543172830946279424",
-          "text": "@MdeMala Buen día Marianela, te envié un DM, seguimos en contacto por esa vía.\n\nAguardo tu respuesta.",
+          "created_at": "Sat Jul 02 11:04:01 +0000 2022",
+          "id": 1543188740637606000,
+          "id_str": "1543188740637605889",
+          "text": "@lolagalanplache Hola Dolores! Buenos días! Mi nombre es Meli y es un gusto poder hablar con vos el día de hoy!\n\nTe deje un DM!",
           "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "MdeMala",
-                "name": "Marianela Nieto",
-                "id": 165812409,
-                "id_str": "165812409",
+                "screen_name": "lolagalanplache",
+                "name": "dolores",
+                "id": 871908565224697900,
+                "id_str": "871908565224697860",
                 "indices": [
                   0,
-                  8
+                  16
                 ]
               }
             ],
             "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1543126275501408300,
-          "in_reply_to_status_id_str": "1543126275501408256",
-          "in_reply_to_user_id": 165812409,
-          "in_reply_to_user_id_str": "165812409",
-          "in_reply_to_screen_name": "MdeMala",
+          "in_reply_to_status_id": 1543065888336752600,
+          "in_reply_to_status_id_str": "1543065888336752640",
+          "in_reply_to_user_id": 871908565224697900,
+          "in_reply_to_user_id_str": "871908565224697860",
+          "in_reply_to_screen_name": "lolagalanplache",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -9916,8 +9946,8 @@
           }
         },
         "protected": false,
-        "followers_count": 19758,
-        "friends_count": 2920,
+        "followers_count": 19757,
+        "friends_count": 2919,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2140,
@@ -10242,8 +10272,8 @@
           }
         },
         "protected": false,
-        "followers_count": 19758,
-        "friends_count": 2920,
+        "followers_count": 19757,
+        "friends_count": 2919,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2140,
@@ -10568,8 +10598,8 @@
           }
         },
         "protected": false,
-        "followers_count": 19758,
-        "friends_count": 2920,
+        "followers_count": 19757,
+        "friends_count": 2919,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2140,
@@ -10894,8 +10924,8 @@
           }
         },
         "protected": false,
-        "followers_count": 19758,
-        "friends_count": 2920,
+        "followers_count": 19757,
+        "friends_count": 2919,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2140,
@@ -11194,8 +11224,8 @@
           }
         },
         "protected": false,
-        "followers_count": 19758,
-        "friends_count": 2920,
+        "followers_count": 19757,
+        "friends_count": 2919,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2140,
@@ -11494,8 +11524,8 @@
           }
         },
         "protected": false,
-        "followers_count": 19758,
-        "friends_count": 2920,
+        "followers_count": 19757,
+        "friends_count": 2919,
         "listed_count": 84,
         "created_at": "Mon Jul 19 14:03:38 +0000 2010",
         "favourites_count": 2140,
@@ -11804,8 +11834,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158891,
-        "friends_count": 16288,
+        "followers_count": 158892,
+        "friends_count": 16287,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -12170,8 +12200,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158891,
-        "friends_count": 16288,
+        "followers_count": 158892,
+        "friends_count": 16287,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -12526,8 +12556,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158891,
-        "friends_count": 16288,
+        "followers_count": 158892,
+        "friends_count": 16287,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -12882,8 +12912,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158891,
-        "friends_count": 16288,
+        "followers_count": 158892,
+        "friends_count": 16287,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -13238,8 +13268,8 @@
           }
         },
         "protected": false,
-        "followers_count": 158891,
-        "friends_count": 16288,
+        "followers_count": 158892,
+        "friends_count": 16287,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -17665,47 +17695,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59659,
+        "statuses_count": 59660,
         "lang": null,
         "status": {
-          "created_at": "Fri Jul 01 17:14:32 +0000 2022",
-          "id": 1542919594884620300,
-          "id_str": "1542919594884620289",
-          "text": "@Missnadiabet Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, números de tick… https://t.co/BwmrJ1tHKX",
-          "truncated": true,
+          "created_at": "Sat Jul 02 10:13:26 +0000 2022",
+          "id": 1543176011101212700,
+          "id_str": "1543176011101212672",
+          "text": "@roachaval ¡Hola Rosario! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Missnadiabet",
-                "name": "Penny Lane",
-                "id": 770039110593634300,
-                "id_str": "770039110593634305",
+                "screen_name": "roachaval",
+                "name": "Rosario",
+                "id": 62579022,
+                "id_str": "62579022",
                 "indices": [
                   0,
-                  13
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/BwmrJ1tHKX",
-                "expanded_url": "https://twitter.com/i/web/status/1542919594884620289",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1542918255383298000,
-          "in_reply_to_status_id_str": "1542918255383298049",
-          "in_reply_to_user_id": 770039110593634300,
-          "in_reply_to_user_id_str": "770039110593634305",
-          "in_reply_to_screen_name": "Missnadiabet",
+          "in_reply_to_status_id": 1543085949034193000,
+          "in_reply_to_status_id_str": "1543085949034192896",
+          "in_reply_to_user_id": 62579022,
+          "in_reply_to_user_id_str": "62579022",
+          "in_reply_to_screen_name": "roachaval",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -18011,47 +18031,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59659,
+        "statuses_count": 59660,
         "lang": null,
         "status": {
-          "created_at": "Fri Jul 01 17:14:32 +0000 2022",
-          "id": 1542919594884620300,
-          "id_str": "1542919594884620289",
-          "text": "@Missnadiabet Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, números de tick… https://t.co/BwmrJ1tHKX",
-          "truncated": true,
+          "created_at": "Sat Jul 02 10:13:26 +0000 2022",
+          "id": 1543176011101212700,
+          "id_str": "1543176011101212672",
+          "text": "@roachaval ¡Hola Rosario! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Missnadiabet",
-                "name": "Penny Lane",
-                "id": 770039110593634300,
-                "id_str": "770039110593634305",
+                "screen_name": "roachaval",
+                "name": "Rosario",
+                "id": 62579022,
+                "id_str": "62579022",
                 "indices": [
                   0,
-                  13
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/BwmrJ1tHKX",
-                "expanded_url": "https://twitter.com/i/web/status/1542919594884620289",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1542918255383298000,
-          "in_reply_to_status_id_str": "1542918255383298049",
-          "in_reply_to_user_id": 770039110593634300,
-          "in_reply_to_user_id_str": "770039110593634305",
-          "in_reply_to_screen_name": "Missnadiabet",
+          "in_reply_to_status_id": 1543085949034193000,
+          "in_reply_to_status_id_str": "1543085949034192896",
+          "in_reply_to_user_id": 62579022,
+          "in_reply_to_user_id_str": "62579022",
+          "in_reply_to_screen_name": "roachaval",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -18357,47 +18367,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59659,
+        "statuses_count": 59660,
         "lang": null,
         "status": {
-          "created_at": "Fri Jul 01 17:14:32 +0000 2022",
-          "id": 1542919594884620300,
-          "id_str": "1542919594884620289",
-          "text": "@Missnadiabet Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, números de tick… https://t.co/BwmrJ1tHKX",
-          "truncated": true,
+          "created_at": "Sat Jul 02 10:13:26 +0000 2022",
+          "id": 1543176011101212700,
+          "id_str": "1543176011101212672",
+          "text": "@roachaval ¡Hola Rosario! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Missnadiabet",
-                "name": "Penny Lane",
-                "id": 770039110593634300,
-                "id_str": "770039110593634305",
+                "screen_name": "roachaval",
+                "name": "Rosario",
+                "id": 62579022,
+                "id_str": "62579022",
                 "indices": [
                   0,
-                  13
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/BwmrJ1tHKX",
-                "expanded_url": "https://twitter.com/i/web/status/1542919594884620289",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1542918255383298000,
-          "in_reply_to_status_id_str": "1542918255383298049",
-          "in_reply_to_user_id": 770039110593634300,
-          "in_reply_to_user_id_str": "770039110593634305",
-          "in_reply_to_screen_name": "Missnadiabet",
+          "in_reply_to_status_id": 1543085949034193000,
+          "in_reply_to_status_id_str": "1543085949034192896",
+          "in_reply_to_user_id": 62579022,
+          "in_reply_to_user_id_str": "62579022",
+          "in_reply_to_screen_name": "roachaval",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -18703,47 +18703,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59659,
+        "statuses_count": 59660,
         "lang": null,
         "status": {
-          "created_at": "Fri Jul 01 17:14:32 +0000 2022",
-          "id": 1542919594884620300,
-          "id_str": "1542919594884620289",
-          "text": "@Missnadiabet Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, números de tick… https://t.co/BwmrJ1tHKX",
-          "truncated": true,
+          "created_at": "Sat Jul 02 10:13:26 +0000 2022",
+          "id": 1543176011101212700,
+          "id_str": "1543176011101212672",
+          "text": "@roachaval ¡Hola Rosario! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Missnadiabet",
-                "name": "Penny Lane",
-                "id": 770039110593634300,
-                "id_str": "770039110593634305",
+                "screen_name": "roachaval",
+                "name": "Rosario",
+                "id": 62579022,
+                "id_str": "62579022",
                 "indices": [
                   0,
-                  13
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/BwmrJ1tHKX",
-                "expanded_url": "https://twitter.com/i/web/status/1542919594884620289",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1542918255383298000,
-          "in_reply_to_status_id_str": "1542918255383298049",
-          "in_reply_to_user_id": 770039110593634300,
-          "in_reply_to_user_id_str": "770039110593634305",
-          "in_reply_to_screen_name": "Missnadiabet",
+          "in_reply_to_status_id": 1543085949034193000,
+          "in_reply_to_status_id_str": "1543085949034192896",
+          "in_reply_to_user_id": 62579022,
+          "in_reply_to_user_id_str": "62579022",
+          "in_reply_to_screen_name": "roachaval",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -19049,47 +19039,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59659,
+        "statuses_count": 59660,
         "lang": null,
         "status": {
-          "created_at": "Fri Jul 01 17:14:32 +0000 2022",
-          "id": 1542919594884620300,
-          "id_str": "1542919594884620289",
-          "text": "@Missnadiabet Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, números de tick… https://t.co/BwmrJ1tHKX",
-          "truncated": true,
+          "created_at": "Sat Jul 02 10:13:26 +0000 2022",
+          "id": 1543176011101212700,
+          "id_str": "1543176011101212672",
+          "text": "@roachaval ¡Hola Rosario! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Missnadiabet",
-                "name": "Penny Lane",
-                "id": 770039110593634300,
-                "id_str": "770039110593634305",
+                "screen_name": "roachaval",
+                "name": "Rosario",
+                "id": 62579022,
+                "id_str": "62579022",
                 "indices": [
                   0,
-                  13
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/BwmrJ1tHKX",
-                "expanded_url": "https://twitter.com/i/web/status/1542919594884620289",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1542918255383298000,
-          "in_reply_to_status_id_str": "1542918255383298049",
-          "in_reply_to_user_id": 770039110593634300,
-          "in_reply_to_user_id_str": "770039110593634305",
-          "in_reply_to_screen_name": "Missnadiabet",
+          "in_reply_to_status_id": 1543085949034193000,
+          "in_reply_to_status_id_str": "1543085949034192896",
+          "in_reply_to_user_id": 62579022,
+          "in_reply_to_user_id_str": "62579022",
+          "in_reply_to_screen_name": "roachaval",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -19395,47 +19375,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59659,
+        "statuses_count": 59660,
         "lang": null,
         "status": {
-          "created_at": "Fri Jul 01 17:14:32 +0000 2022",
-          "id": 1542919594884620300,
-          "id_str": "1542919594884620289",
-          "text": "@Missnadiabet Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, números de tick… https://t.co/BwmrJ1tHKX",
-          "truncated": true,
+          "created_at": "Sat Jul 02 10:13:26 +0000 2022",
+          "id": 1543176011101212700,
+          "id_str": "1543176011101212672",
+          "text": "@roachaval ¡Hola Rosario! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Missnadiabet",
-                "name": "Penny Lane",
-                "id": 770039110593634300,
-                "id_str": "770039110593634305",
+                "screen_name": "roachaval",
+                "name": "Rosario",
+                "id": 62579022,
+                "id_str": "62579022",
                 "indices": [
                   0,
-                  13
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/BwmrJ1tHKX",
-                "expanded_url": "https://twitter.com/i/web/status/1542919594884620289",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1542918255383298000,
-          "in_reply_to_status_id_str": "1542918255383298049",
-          "in_reply_to_user_id": 770039110593634300,
-          "in_reply_to_user_id_str": "770039110593634305",
-          "in_reply_to_screen_name": "Missnadiabet",
+          "in_reply_to_status_id": 1543085949034193000,
+          "in_reply_to_status_id_str": "1543085949034192896",
+          "in_reply_to_user_id": 62579022,
+          "in_reply_to_user_id_str": "62579022",
+          "in_reply_to_screen_name": "roachaval",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -19705,47 +19675,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59659,
+        "statuses_count": 59660,
         "lang": null,
         "status": {
-          "created_at": "Fri Jul 01 17:14:32 +0000 2022",
-          "id": 1542919594884620300,
-          "id_str": "1542919594884620289",
-          "text": "@Missnadiabet Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, números de tick… https://t.co/BwmrJ1tHKX",
-          "truncated": true,
+          "created_at": "Sat Jul 02 10:13:26 +0000 2022",
+          "id": 1543176011101212700,
+          "id_str": "1543176011101212672",
+          "text": "@roachaval ¡Hola Rosario! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Missnadiabet",
-                "name": "Penny Lane",
-                "id": 770039110593634300,
-                "id_str": "770039110593634305",
+                "screen_name": "roachaval",
+                "name": "Rosario",
+                "id": 62579022,
+                "id_str": "62579022",
                 "indices": [
                   0,
-                  13
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/BwmrJ1tHKX",
-                "expanded_url": "https://twitter.com/i/web/status/1542919594884620289",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1542918255383298000,
-          "in_reply_to_status_id_str": "1542918255383298049",
-          "in_reply_to_user_id": 770039110593634300,
-          "in_reply_to_user_id_str": "770039110593634305",
-          "in_reply_to_screen_name": "Missnadiabet",
+          "in_reply_to_status_id": 1543085949034193000,
+          "in_reply_to_status_id_str": "1543085949034192896",
+          "in_reply_to_user_id": 62579022,
+          "in_reply_to_user_id_str": "62579022",
+          "in_reply_to_screen_name": "roachaval",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20015,47 +19975,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59659,
+        "statuses_count": 59660,
         "lang": null,
         "status": {
-          "created_at": "Fri Jul 01 17:14:32 +0000 2022",
-          "id": 1542919594884620300,
-          "id_str": "1542919594884620289",
-          "text": "@Missnadiabet Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, números de tick… https://t.co/BwmrJ1tHKX",
-          "truncated": true,
+          "created_at": "Sat Jul 02 10:13:26 +0000 2022",
+          "id": 1543176011101212700,
+          "id_str": "1543176011101212672",
+          "text": "@roachaval ¡Hola Rosario! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Missnadiabet",
-                "name": "Penny Lane",
-                "id": 770039110593634300,
-                "id_str": "770039110593634305",
+                "screen_name": "roachaval",
+                "name": "Rosario",
+                "id": 62579022,
+                "id_str": "62579022",
                 "indices": [
                   0,
-                  13
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/BwmrJ1tHKX",
-                "expanded_url": "https://twitter.com/i/web/status/1542919594884620289",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1542918255383298000,
-          "in_reply_to_status_id_str": "1542918255383298049",
-          "in_reply_to_user_id": 770039110593634300,
-          "in_reply_to_user_id_str": "770039110593634305",
-          "in_reply_to_screen_name": "Missnadiabet",
+          "in_reply_to_status_id": 1543085949034193000,
+          "in_reply_to_status_id_str": "1543085949034192896",
+          "in_reply_to_user_id": 62579022,
+          "in_reply_to_user_id_str": "62579022",
+          "in_reply_to_screen_name": "roachaval",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20325,47 +20275,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59659,
+        "statuses_count": 59660,
         "lang": null,
         "status": {
-          "created_at": "Fri Jul 01 17:14:32 +0000 2022",
-          "id": 1542919594884620300,
-          "id_str": "1542919594884620289",
-          "text": "@Missnadiabet Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, números de tick… https://t.co/BwmrJ1tHKX",
-          "truncated": true,
+          "created_at": "Sat Jul 02 10:13:26 +0000 2022",
+          "id": 1543176011101212700,
+          "id_str": "1543176011101212672",
+          "text": "@roachaval ¡Hola Rosario! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Missnadiabet",
-                "name": "Penny Lane",
-                "id": 770039110593634300,
-                "id_str": "770039110593634305",
+                "screen_name": "roachaval",
+                "name": "Rosario",
+                "id": 62579022,
+                "id_str": "62579022",
                 "indices": [
                   0,
-                  13
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/BwmrJ1tHKX",
-                "expanded_url": "https://twitter.com/i/web/status/1542919594884620289",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1542918255383298000,
-          "in_reply_to_status_id_str": "1542918255383298049",
-          "in_reply_to_user_id": 770039110593634300,
-          "in_reply_to_user_id_str": "770039110593634305",
-          "in_reply_to_screen_name": "Missnadiabet",
+          "in_reply_to_status_id": 1543085949034193000,
+          "in_reply_to_status_id_str": "1543085949034192896",
+          "in_reply_to_user_id": 62579022,
+          "in_reply_to_user_id_str": "62579022",
+          "in_reply_to_screen_name": "roachaval",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20635,47 +20575,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59659,
+        "statuses_count": 59660,
         "lang": null,
         "status": {
-          "created_at": "Fri Jul 01 17:14:32 +0000 2022",
-          "id": 1542919594884620300,
-          "id_str": "1542919594884620289",
-          "text": "@Missnadiabet Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, números de tick… https://t.co/BwmrJ1tHKX",
-          "truncated": true,
+          "created_at": "Sat Jul 02 10:13:26 +0000 2022",
+          "id": 1543176011101212700,
+          "id_str": "1543176011101212672",
+          "text": "@roachaval ¡Hola Rosario! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Missnadiabet",
-                "name": "Penny Lane",
-                "id": 770039110593634300,
-                "id_str": "770039110593634305",
+                "screen_name": "roachaval",
+                "name": "Rosario",
+                "id": 62579022,
+                "id_str": "62579022",
                 "indices": [
                   0,
-                  13
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/BwmrJ1tHKX",
-                "expanded_url": "https://twitter.com/i/web/status/1542919594884620289",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1542918255383298000,
-          "in_reply_to_status_id_str": "1542918255383298049",
-          "in_reply_to_user_id": 770039110593634300,
-          "in_reply_to_user_id_str": "770039110593634305",
-          "in_reply_to_screen_name": "Missnadiabet",
+          "in_reply_to_status_id": 1543085949034193000,
+          "in_reply_to_status_id_str": "1543085949034192896",
+          "in_reply_to_user_id": 62579022,
+          "in_reply_to_user_id_str": "62579022",
+          "in_reply_to_screen_name": "roachaval",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20945,47 +20875,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 59659,
+        "statuses_count": 59660,
         "lang": null,
         "status": {
-          "created_at": "Fri Jul 01 17:14:32 +0000 2022",
-          "id": 1542919594884620300,
-          "id_str": "1542919594884620289",
-          "text": "@Missnadiabet Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, números de tick… https://t.co/BwmrJ1tHKX",
-          "truncated": true,
+          "created_at": "Sat Jul 02 10:13:26 +0000 2022",
+          "id": 1543176011101212700,
+          "id_str": "1543176011101212672",
+          "text": "@roachaval ¡Hola Rosario! Gracias por contactarnos. Por favor envianos tu consulta por privado para asistirte. ¡Gracias!",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Missnadiabet",
-                "name": "Penny Lane",
-                "id": 770039110593634300,
-                "id_str": "770039110593634305",
+                "screen_name": "roachaval",
+                "name": "Rosario",
+                "id": 62579022,
+                "id_str": "62579022",
                 "indices": [
                   0,
-                  13
+                  10
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/BwmrJ1tHKX",
-                "expanded_url": "https://twitter.com/i/web/status/1542919594884620289",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
-          "in_reply_to_status_id": 1542918255383298000,
-          "in_reply_to_status_id_str": "1542918255383298049",
-          "in_reply_to_user_id": 770039110593634300,
-          "in_reply_to_user_id_str": "770039110593634305",
-          "in_reply_to_screen_name": "Missnadiabet",
+          "in_reply_to_status_id": 1543085949034193000,
+          "in_reply_to_status_id_str": "1543085949034192896",
+          "in_reply_to_user_id": 62579022,
+          "in_reply_to_user_id_str": "62579022",
+          "in_reply_to_screen_name": "roachaval",
           "geo": null,
           "coordinates": null,
           "place": null,
