@@ -5813,7 +5813,18 @@
         "entities": {
           "hashtags": [],
           "symbols": [],
-          "user_mentions": [],
+          "user_mentions": [
+            {
+              "screen_name": "robergaIati",
+              "name": "roberto galati",
+              "id": 1298346640441516000,
+              "id_str": "1298346640441516033",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
           "urls": [
             {
               "url": "https://t.co/eQIw91cMpL",
@@ -5831,7 +5842,7 @@
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": 1298346640441516000,
         "in_reply_to_user_id_str": "1298346640441516033",
-        "in_reply_to_screen_name": "lukitarodrigue",
+        "in_reply_to_screen_name": "robergaIati",
         "geo": null,
         "coordinates": null,
         "place": null,
@@ -11432,7 +11443,18 @@
         "entities": {
           "hashtags": [],
           "symbols": [],
-          "user_mentions": [],
+          "user_mentions": [
+            {
+              "screen_name": "robergaIati",
+              "name": "roberto galati",
+              "id": 1298346640441516000,
+              "id_str": "1298346640441516033",
+              "indices": [
+                0,
+                12
+              ]
+            }
+          ],
           "urls": [
             {
               "url": "https://t.co/eQIw91cMpL",
@@ -11450,7 +11472,7 @@
         "in_reply_to_status_id_str": null,
         "in_reply_to_user_id": 1298346640441516000,
         "in_reply_to_user_id_str": "1298346640441516033",
-        "in_reply_to_screen_name": "lukitarodrigue",
+        "in_reply_to_screen_name": "robergaIati",
         "geo": null,
         "coordinates": null,
         "place": null,
@@ -16928,46 +16950,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -17226,46 +17258,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -17534,46 +17576,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -17832,46 +17884,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -18130,46 +18192,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -18419,46 +18491,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -18708,46 +18790,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -18997,46 +19089,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -19289,46 +19391,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -19584,46 +19696,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -19879,46 +20001,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20171,46 +20303,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20466,46 +20608,56 @@
           }
         },
         "protected": false,
-        "followers_count": 653815,
-        "friends_count": 315422,
+        "followers_count": 653808,
+        "friends_count": 315419,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
-        "favourites_count": 6340,
+        "favourites_count": 6341,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027479,
+        "statuses_count": 1027480,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:15:08 +0000 2022",
-          "id": 1551752952255225900,
-          "id_str": "1551752952255225856",
-          "text": "@Gianfranco86 Te envito a que te comuniques por DM para verificar tus inconvenientes.",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:19 +0000 2022",
+          "id": 1551765830391795700,
+          "id_str": "1551765830391795712",
+          "text": "@manunovaro ¿Cómo estas? Te invitamos a que puedas ir a nuestra pagina de inicio y hagas click en el botón de \"Cont… https://t.co/SjCuCIsBVw",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gianfranco86",
-                "name": "Gian Ciccarelli",
-                "id": 171726032,
-                "id_str": "171726032",
+                "screen_name": "manunovaro",
+                "name": "Manu Novaro Hueyo",
+                "id": 212348833,
+                "id_str": "212348833",
                 "indices": [
                   0,
-                  13
+                  11
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SjCuCIsBVw",
+                "expanded_url": "https://twitter.com/i/web/status/1551765830391795712",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1551752042229780500,
-          "in_reply_to_status_id_str": "1551752042229780480",
-          "in_reply_to_user_id": 171726032,
-          "in_reply_to_user_id_str": "171726032",
-          "in_reply_to_screen_name": "Gianfranco86",
+          "in_reply_to_status_id": 1551765668567175200,
+          "in_reply_to_status_id_str": "1551765668567175168",
+          "in_reply_to_user_id": 212348833,
+          "in_reply_to_user_id_str": "212348833",
+          "in_reply_to_screen_name": "manunovaro",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -20751,46 +20903,56 @@
           }
         },
         "protected": false,
-        "followers_count": 550567,
-        "friends_count": 214691,
+        "followers_count": 550562,
+        "friends_count": 214685,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18599,
+        "favourites_count": 18600,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2539650,
+        "statuses_count": 2539652,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:51:48 +0000 2022",
-          "id": 1551762178931363800,
-          "id_str": "1551762178931363843",
-          "text": "@Gallelores Por dm estamos revisando tu caso. ^GL",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:55 +0000 2022",
+          "id": 1551765982334558200,
+          "id_str": "1551765982334558208",
+          "text": "@LucasnicolasR14 Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por D… https://t.co/SxsH7wbKbU",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallelores",
-                "name": "Maria Sandra Lores",
-                "id": 1279367857,
-                "id_str": "1279367857",
+                "screen_name": "LucasnicolasR14",
+                "name": "Lucas Nicolás Rodriguez",
+                "id": 1466225033467027500,
+                "id_str": "1466225033467027460",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SxsH7wbKbU",
+                "expanded_url": "https://twitter.com/i/web/status/1551765982334558208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1551758739123961900,
-          "in_reply_to_status_id_str": "1551758739123961856",
-          "in_reply_to_user_id": 1279367857,
-          "in_reply_to_user_id_str": "1279367857",
-          "in_reply_to_screen_name": "Gallelores",
+          "in_reply_to_status_id": 1551765333383516200,
+          "in_reply_to_status_id_str": "1551765333383516165",
+          "in_reply_to_user_id": 1466225033467027500,
+          "in_reply_to_user_id_str": "1466225033467027460",
+          "in_reply_to_screen_name": "LucasnicolasR14",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -21065,46 +21227,56 @@
           }
         },
         "protected": false,
-        "followers_count": 550567,
-        "friends_count": 214691,
+        "followers_count": 550562,
+        "friends_count": 214685,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18599,
+        "favourites_count": 18600,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2539650,
+        "statuses_count": 2539652,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:51:48 +0000 2022",
-          "id": 1551762178931363800,
-          "id_str": "1551762178931363843",
-          "text": "@Gallelores Por dm estamos revisando tu caso. ^GL",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:55 +0000 2022",
+          "id": 1551765982334558200,
+          "id_str": "1551765982334558208",
+          "text": "@LucasnicolasR14 Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por D… https://t.co/SxsH7wbKbU",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallelores",
-                "name": "Maria Sandra Lores",
-                "id": 1279367857,
-                "id_str": "1279367857",
+                "screen_name": "LucasnicolasR14",
+                "name": "Lucas Nicolás Rodriguez",
+                "id": 1466225033467027500,
+                "id_str": "1466225033467027460",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SxsH7wbKbU",
+                "expanded_url": "https://twitter.com/i/web/status/1551765982334558208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1551758739123961900,
-          "in_reply_to_status_id_str": "1551758739123961856",
-          "in_reply_to_user_id": 1279367857,
-          "in_reply_to_user_id_str": "1279367857",
-          "in_reply_to_screen_name": "Gallelores",
+          "in_reply_to_status_id": 1551765333383516200,
+          "in_reply_to_status_id_str": "1551765333383516165",
+          "in_reply_to_user_id": 1466225033467027500,
+          "in_reply_to_user_id_str": "1466225033467027460",
+          "in_reply_to_screen_name": "LucasnicolasR14",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -21379,46 +21551,56 @@
           }
         },
         "protected": false,
-        "followers_count": 550567,
-        "friends_count": 214691,
+        "followers_count": 550562,
+        "friends_count": 214685,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18599,
+        "favourites_count": 18600,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2539650,
+        "statuses_count": 2539652,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:51:48 +0000 2022",
-          "id": 1551762178931363800,
-          "id_str": "1551762178931363843",
-          "text": "@Gallelores Por dm estamos revisando tu caso. ^GL",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:55 +0000 2022",
+          "id": 1551765982334558200,
+          "id_str": "1551765982334558208",
+          "text": "@LucasnicolasR14 Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por D… https://t.co/SxsH7wbKbU",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallelores",
-                "name": "Maria Sandra Lores",
-                "id": 1279367857,
-                "id_str": "1279367857",
+                "screen_name": "LucasnicolasR14",
+                "name": "Lucas Nicolás Rodriguez",
+                "id": 1466225033467027500,
+                "id_str": "1466225033467027460",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SxsH7wbKbU",
+                "expanded_url": "https://twitter.com/i/web/status/1551765982334558208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1551758739123961900,
-          "in_reply_to_status_id_str": "1551758739123961856",
-          "in_reply_to_user_id": 1279367857,
-          "in_reply_to_user_id_str": "1279367857",
-          "in_reply_to_screen_name": "Gallelores",
+          "in_reply_to_status_id": 1551765333383516200,
+          "in_reply_to_status_id_str": "1551765333383516165",
+          "in_reply_to_user_id": 1466225033467027500,
+          "in_reply_to_user_id_str": "1466225033467027460",
+          "in_reply_to_screen_name": "LucasnicolasR14",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -21733,46 +21915,56 @@
           }
         },
         "protected": false,
-        "followers_count": 550567,
-        "friends_count": 214691,
+        "followers_count": 550562,
+        "friends_count": 214685,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18599,
+        "favourites_count": 18600,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2539650,
+        "statuses_count": 2539652,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:51:48 +0000 2022",
-          "id": 1551762178931363800,
-          "id_str": "1551762178931363843",
-          "text": "@Gallelores Por dm estamos revisando tu caso. ^GL",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:55 +0000 2022",
+          "id": 1551765982334558200,
+          "id_str": "1551765982334558208",
+          "text": "@LucasnicolasR14 Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por D… https://t.co/SxsH7wbKbU",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallelores",
-                "name": "Maria Sandra Lores",
-                "id": 1279367857,
-                "id_str": "1279367857",
+                "screen_name": "LucasnicolasR14",
+                "name": "Lucas Nicolás Rodriguez",
+                "id": 1466225033467027500,
+                "id_str": "1466225033467027460",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SxsH7wbKbU",
+                "expanded_url": "https://twitter.com/i/web/status/1551765982334558208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1551758739123961900,
-          "in_reply_to_status_id_str": "1551758739123961856",
-          "in_reply_to_user_id": 1279367857,
-          "in_reply_to_user_id_str": "1279367857",
-          "in_reply_to_screen_name": "Gallelores",
+          "in_reply_to_status_id": 1551765333383516200,
+          "in_reply_to_status_id_str": "1551765333383516165",
+          "in_reply_to_user_id": 1466225033467027500,
+          "in_reply_to_user_id_str": "1466225033467027460",
+          "in_reply_to_screen_name": "LucasnicolasR14",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22033,46 +22225,56 @@
           }
         },
         "protected": false,
-        "followers_count": 550567,
-        "friends_count": 214691,
+        "followers_count": 550562,
+        "friends_count": 214685,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18599,
+        "favourites_count": 18600,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2539650,
+        "statuses_count": 2539652,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:51:48 +0000 2022",
-          "id": 1551762178931363800,
-          "id_str": "1551762178931363843",
-          "text": "@Gallelores Por dm estamos revisando tu caso. ^GL",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:55 +0000 2022",
+          "id": 1551765982334558200,
+          "id_str": "1551765982334558208",
+          "text": "@LucasnicolasR14 Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por D… https://t.co/SxsH7wbKbU",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallelores",
-                "name": "Maria Sandra Lores",
-                "id": 1279367857,
-                "id_str": "1279367857",
+                "screen_name": "LucasnicolasR14",
+                "name": "Lucas Nicolás Rodriguez",
+                "id": 1466225033467027500,
+                "id_str": "1466225033467027460",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SxsH7wbKbU",
+                "expanded_url": "https://twitter.com/i/web/status/1551765982334558208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1551758739123961900,
-          "in_reply_to_status_id_str": "1551758739123961856",
-          "in_reply_to_user_id": 1279367857,
-          "in_reply_to_user_id_str": "1279367857",
-          "in_reply_to_screen_name": "Gallelores",
+          "in_reply_to_status_id": 1551765333383516200,
+          "in_reply_to_status_id_str": "1551765333383516165",
+          "in_reply_to_user_id": 1466225033467027500,
+          "in_reply_to_user_id_str": "1466225033467027460",
+          "in_reply_to_screen_name": "LucasnicolasR14",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22333,46 +22535,56 @@
           }
         },
         "protected": false,
-        "followers_count": 550567,
-        "friends_count": 214691,
+        "followers_count": 550562,
+        "friends_count": 214685,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18599,
+        "favourites_count": 18600,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2539650,
+        "statuses_count": 2539652,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:51:48 +0000 2022",
-          "id": 1551762178931363800,
-          "id_str": "1551762178931363843",
-          "text": "@Gallelores Por dm estamos revisando tu caso. ^GL",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:55 +0000 2022",
+          "id": 1551765982334558200,
+          "id_str": "1551765982334558208",
+          "text": "@LucasnicolasR14 Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por D… https://t.co/SxsH7wbKbU",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallelores",
-                "name": "Maria Sandra Lores",
-                "id": 1279367857,
-                "id_str": "1279367857",
+                "screen_name": "LucasnicolasR14",
+                "name": "Lucas Nicolás Rodriguez",
+                "id": 1466225033467027500,
+                "id_str": "1466225033467027460",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SxsH7wbKbU",
+                "expanded_url": "https://twitter.com/i/web/status/1551765982334558208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1551758739123961900,
-          "in_reply_to_status_id_str": "1551758739123961856",
-          "in_reply_to_user_id": 1279367857,
-          "in_reply_to_user_id_str": "1279367857",
-          "in_reply_to_screen_name": "Gallelores",
+          "in_reply_to_status_id": 1551765333383516200,
+          "in_reply_to_status_id_str": "1551765333383516165",
+          "in_reply_to_user_id": 1466225033467027500,
+          "in_reply_to_user_id_str": "1466225033467027460",
+          "in_reply_to_screen_name": "LucasnicolasR14",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22633,46 +22845,56 @@
           }
         },
         "protected": false,
-        "followers_count": 550567,
-        "friends_count": 214691,
+        "followers_count": 550562,
+        "friends_count": 214685,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18599,
+        "favourites_count": 18600,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2539650,
+        "statuses_count": 2539652,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:51:48 +0000 2022",
-          "id": 1551762178931363800,
-          "id_str": "1551762178931363843",
-          "text": "@Gallelores Por dm estamos revisando tu caso. ^GL",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:55 +0000 2022",
+          "id": 1551765982334558200,
+          "id_str": "1551765982334558208",
+          "text": "@LucasnicolasR14 Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por D… https://t.co/SxsH7wbKbU",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallelores",
-                "name": "Maria Sandra Lores",
-                "id": 1279367857,
-                "id_str": "1279367857",
+                "screen_name": "LucasnicolasR14",
+                "name": "Lucas Nicolás Rodriguez",
+                "id": 1466225033467027500,
+                "id_str": "1466225033467027460",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SxsH7wbKbU",
+                "expanded_url": "https://twitter.com/i/web/status/1551765982334558208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1551758739123961900,
-          "in_reply_to_status_id_str": "1551758739123961856",
-          "in_reply_to_user_id": 1279367857,
-          "in_reply_to_user_id_str": "1279367857",
-          "in_reply_to_screen_name": "Gallelores",
+          "in_reply_to_status_id": 1551765333383516200,
+          "in_reply_to_status_id_str": "1551765333383516165",
+          "in_reply_to_user_id": 1466225033467027500,
+          "in_reply_to_user_id_str": "1466225033467027460",
+          "in_reply_to_screen_name": "LucasnicolasR14",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -22933,46 +23155,56 @@
           }
         },
         "protected": false,
-        "followers_count": 550567,
-        "friends_count": 214691,
+        "followers_count": 550562,
+        "friends_count": 214685,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18599,
+        "favourites_count": 18600,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2539650,
+        "statuses_count": 2539652,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:51:48 +0000 2022",
-          "id": 1551762178931363800,
-          "id_str": "1551762178931363843",
-          "text": "@Gallelores Por dm estamos revisando tu caso. ^GL",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:55 +0000 2022",
+          "id": 1551765982334558200,
+          "id_str": "1551765982334558208",
+          "text": "@LucasnicolasR14 Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por D… https://t.co/SxsH7wbKbU",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallelores",
-                "name": "Maria Sandra Lores",
-                "id": 1279367857,
-                "id_str": "1279367857",
+                "screen_name": "LucasnicolasR14",
+                "name": "Lucas Nicolás Rodriguez",
+                "id": 1466225033467027500,
+                "id_str": "1466225033467027460",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SxsH7wbKbU",
+                "expanded_url": "https://twitter.com/i/web/status/1551765982334558208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1551758739123961900,
-          "in_reply_to_status_id_str": "1551758739123961856",
-          "in_reply_to_user_id": 1279367857,
-          "in_reply_to_user_id_str": "1279367857",
-          "in_reply_to_screen_name": "Gallelores",
+          "in_reply_to_status_id": 1551765333383516200,
+          "in_reply_to_status_id_str": "1551765333383516165",
+          "in_reply_to_user_id": 1466225033467027500,
+          "in_reply_to_user_id_str": "1466225033467027460",
+          "in_reply_to_screen_name": "LucasnicolasR14",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23233,46 +23465,56 @@
           }
         },
         "protected": false,
-        "followers_count": 550567,
-        "friends_count": 214691,
+        "followers_count": 550562,
+        "friends_count": 214685,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18599,
+        "favourites_count": 18600,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2539650,
+        "statuses_count": 2539652,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:51:48 +0000 2022",
-          "id": 1551762178931363800,
-          "id_str": "1551762178931363843",
-          "text": "@Gallelores Por dm estamos revisando tu caso. ^GL",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:55 +0000 2022",
+          "id": 1551765982334558200,
+          "id_str": "1551765982334558208",
+          "text": "@LucasnicolasR14 Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por D… https://t.co/SxsH7wbKbU",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallelores",
-                "name": "Maria Sandra Lores",
-                "id": 1279367857,
-                "id_str": "1279367857",
+                "screen_name": "LucasnicolasR14",
+                "name": "Lucas Nicolás Rodriguez",
+                "id": 1466225033467027500,
+                "id_str": "1466225033467027460",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SxsH7wbKbU",
+                "expanded_url": "https://twitter.com/i/web/status/1551765982334558208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1551758739123961900,
-          "in_reply_to_status_id_str": "1551758739123961856",
-          "in_reply_to_user_id": 1279367857,
-          "in_reply_to_user_id_str": "1279367857",
-          "in_reply_to_screen_name": "Gallelores",
+          "in_reply_to_status_id": 1551765333383516200,
+          "in_reply_to_status_id_str": "1551765333383516165",
+          "in_reply_to_user_id": 1466225033467027500,
+          "in_reply_to_user_id_str": "1466225033467027460",
+          "in_reply_to_screen_name": "LucasnicolasR14",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23533,46 +23775,56 @@
           }
         },
         "protected": false,
-        "followers_count": 550567,
-        "friends_count": 214691,
+        "followers_count": 550562,
+        "friends_count": 214685,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18599,
+        "favourites_count": 18600,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2539650,
+        "statuses_count": 2539652,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:51:48 +0000 2022",
-          "id": 1551762178931363800,
-          "id_str": "1551762178931363843",
-          "text": "@Gallelores Por dm estamos revisando tu caso. ^GL",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:55 +0000 2022",
+          "id": 1551765982334558200,
+          "id_str": "1551765982334558208",
+          "text": "@LucasnicolasR14 Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por D… https://t.co/SxsH7wbKbU",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallelores",
-                "name": "Maria Sandra Lores",
-                "id": 1279367857,
-                "id_str": "1279367857",
+                "screen_name": "LucasnicolasR14",
+                "name": "Lucas Nicolás Rodriguez",
+                "id": 1466225033467027500,
+                "id_str": "1466225033467027460",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SxsH7wbKbU",
+                "expanded_url": "https://twitter.com/i/web/status/1551765982334558208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1551758739123961900,
-          "in_reply_to_status_id_str": "1551758739123961856",
-          "in_reply_to_user_id": 1279367857,
-          "in_reply_to_user_id_str": "1279367857",
-          "in_reply_to_screen_name": "Gallelores",
+          "in_reply_to_status_id": 1551765333383516200,
+          "in_reply_to_status_id_str": "1551765333383516165",
+          "in_reply_to_user_id": 1466225033467027500,
+          "in_reply_to_user_id_str": "1466225033467027460",
+          "in_reply_to_screen_name": "LucasnicolasR14",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23833,46 +24085,56 @@
           }
         },
         "protected": false,
-        "followers_count": 550567,
-        "friends_count": 214691,
+        "followers_count": 550562,
+        "friends_count": 214685,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
-        "favourites_count": 18599,
+        "favourites_count": 18600,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2539650,
+        "statuses_count": 2539652,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 02:51:48 +0000 2022",
-          "id": 1551762178931363800,
-          "id_str": "1551762178931363843",
-          "text": "@Gallelores Por dm estamos revisando tu caso. ^GL",
-          "truncated": false,
+          "created_at": "Tue Jul 26 03:06:55 +0000 2022",
+          "id": 1551765982334558200,
+          "id_str": "1551765982334558208",
+          "text": "@LucasnicolasR14 Hola! Para poder realizar las verificaciones correspondientes, es necesario que nos escribas por D… https://t.co/SxsH7wbKbU",
+          "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallelores",
-                "name": "Maria Sandra Lores",
-                "id": 1279367857,
-                "id_str": "1279367857",
+                "screen_name": "LucasnicolasR14",
+                "name": "Lucas Nicolás Rodriguez",
+                "id": 1466225033467027500,
+                "id_str": "1466225033467027460",
                 "indices": [
                   0,
-                  11
+                  16
                 ]
               }
             ],
-            "urls": []
+            "urls": [
+              {
+                "url": "https://t.co/SxsH7wbKbU",
+                "expanded_url": "https://twitter.com/i/web/status/1551765982334558208",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
           },
           "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1551758739123961900,
-          "in_reply_to_status_id_str": "1551758739123961856",
-          "in_reply_to_user_id": 1279367857,
-          "in_reply_to_user_id_str": "1279367857",
-          "in_reply_to_screen_name": "Gallelores",
+          "in_reply_to_status_id": 1551765333383516200,
+          "in_reply_to_status_id_str": "1551765333383516165",
+          "in_reply_to_user_id": 1466225033467027500,
+          "in_reply_to_user_id_str": "1466225033467027460",
+          "in_reply_to_screen_name": "LucasnicolasR14",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -24133,8 +24395,8 @@
           }
         },
         "protected": false,
-        "followers_count": 607434,
-        "friends_count": 258998,
+        "followers_count": 607449,
+        "friends_count": 258984,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1557,
@@ -24433,8 +24695,8 @@
           }
         },
         "protected": false,
-        "followers_count": 607434,
-        "friends_count": 258998,
+        "followers_count": 607449,
+        "friends_count": 258984,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1557,
@@ -24753,7 +25015,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50841,
+        "followers_count": 50837,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -25099,7 +25361,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50841,
+        "followers_count": 50837,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -25445,7 +25707,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50841,
+        "followers_count": 50837,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -25791,7 +26053,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50841,
+        "followers_count": 50837,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -26137,7 +26399,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50841,
+        "followers_count": 50837,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -26483,7 +26745,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50841,
+        "followers_count": 50837,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -26849,7 +27111,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50841,
+        "followers_count": 50837,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -27215,7 +27477,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50841,
+        "followers_count": 50837,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -27581,7 +27843,7 @@
           }
         },
         "protected": false,
-        "followers_count": 50841,
+        "followers_count": 50837,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -29497,7 +29759,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148419,
+        "followers_count": 148420,
         "friends_count": 10161,
         "listed_count": 300,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -29506,67 +29768,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 72663,
+        "statuses_count": 72664,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 01:45:26 +0000 2022",
-          "id": 1551745476600397800,
-          "id_str": "1551745476600397824",
-          "text": "@Gallcla_Chat @CVALEIRO Hola, @CVALEIRO. Escribinos por privado para continuar con la consulta. Aprovechamos para r… https://t.co/wENNxMlWDM",
-          "truncated": true,
+          "created_at": "Tue Jul 26 03:26:40 +0000 2022",
+          "id": 1551770951670530000,
+          "id_str": "1551770951670530049",
+          "text": "@HernanMattheus Hernán, buenas noches! Te escribimos por mensaje privado. 😊\nTe esperamos ahí.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallcla_Chat",
-                "name": "Banco Galicia",
-                "id": 1550250100374483000,
-                "id_str": "1550250100374482944",
+                "screen_name": "HernanMattheus",
+                "name": "Hernan Mattheus",
+                "id": 2374441570,
+                "id_str": "2374441570",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  14,
-                  23
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  30,
-                  39
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/wENNxMlWDM",
-                "expanded_url": "https://twitter.com/i/web/status/1551745476600397824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1551711138001236000,
-          "in_reply_to_status_id_str": "1551711138001235968",
-          "in_reply_to_user_id": 1550250100374483000,
-          "in_reply_to_user_id_str": "1550250100374482944",
-          "in_reply_to_screen_name": "Gallcla_Chat",
+          "in_reply_to_status_id": 1551722609057960000,
+          "in_reply_to_status_id_str": "1551722609057959936",
+          "in_reply_to_user_id": 2374441570,
+          "in_reply_to_user_id_str": "2374441570",
+          "in_reply_to_screen_name": "HernanMattheus",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -29863,7 +30095,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148419,
+        "followers_count": 148420,
         "friends_count": 10161,
         "listed_count": 300,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -29872,67 +30104,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 72663,
+        "statuses_count": 72664,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 01:45:26 +0000 2022",
-          "id": 1551745476600397800,
-          "id_str": "1551745476600397824",
-          "text": "@Gallcla_Chat @CVALEIRO Hola, @CVALEIRO. Escribinos por privado para continuar con la consulta. Aprovechamos para r… https://t.co/wENNxMlWDM",
-          "truncated": true,
+          "created_at": "Tue Jul 26 03:26:40 +0000 2022",
+          "id": 1551770951670530000,
+          "id_str": "1551770951670530049",
+          "text": "@HernanMattheus Hernán, buenas noches! Te escribimos por mensaje privado. 😊\nTe esperamos ahí.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallcla_Chat",
-                "name": "Banco Galicia",
-                "id": 1550250100374483000,
-                "id_str": "1550250100374482944",
+                "screen_name": "HernanMattheus",
+                "name": "Hernan Mattheus",
+                "id": 2374441570,
+                "id_str": "2374441570",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  14,
-                  23
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  30,
-                  39
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/wENNxMlWDM",
-                "expanded_url": "https://twitter.com/i/web/status/1551745476600397824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1551711138001236000,
-          "in_reply_to_status_id_str": "1551711138001235968",
-          "in_reply_to_user_id": 1550250100374483000,
-          "in_reply_to_user_id_str": "1550250100374482944",
-          "in_reply_to_screen_name": "Gallcla_Chat",
+          "in_reply_to_status_id": 1551722609057960000,
+          "in_reply_to_status_id_str": "1551722609057959936",
+          "in_reply_to_user_id": 2374441570,
+          "in_reply_to_user_id_str": "2374441570",
+          "in_reply_to_screen_name": "HernanMattheus",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -30259,7 +30461,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148419,
+        "followers_count": 148420,
         "friends_count": 10161,
         "listed_count": 300,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -30268,67 +30470,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 72663,
+        "statuses_count": 72664,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 01:45:26 +0000 2022",
-          "id": 1551745476600397800,
-          "id_str": "1551745476600397824",
-          "text": "@Gallcla_Chat @CVALEIRO Hola, @CVALEIRO. Escribinos por privado para continuar con la consulta. Aprovechamos para r… https://t.co/wENNxMlWDM",
-          "truncated": true,
+          "created_at": "Tue Jul 26 03:26:40 +0000 2022",
+          "id": 1551770951670530000,
+          "id_str": "1551770951670530049",
+          "text": "@HernanMattheus Hernán, buenas noches! Te escribimos por mensaje privado. 😊\nTe esperamos ahí.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallcla_Chat",
-                "name": "Banco Galicia",
-                "id": 1550250100374483000,
-                "id_str": "1550250100374482944",
+                "screen_name": "HernanMattheus",
+                "name": "Hernan Mattheus",
+                "id": 2374441570,
+                "id_str": "2374441570",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  14,
-                  23
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  30,
-                  39
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/wENNxMlWDM",
-                "expanded_url": "https://twitter.com/i/web/status/1551745476600397824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1551711138001236000,
-          "in_reply_to_status_id_str": "1551711138001235968",
-          "in_reply_to_user_id": 1550250100374483000,
-          "in_reply_to_user_id_str": "1550250100374482944",
-          "in_reply_to_screen_name": "Gallcla_Chat",
+          "in_reply_to_status_id": 1551722609057960000,
+          "in_reply_to_status_id_str": "1551722609057959936",
+          "in_reply_to_user_id": 2374441570,
+          "in_reply_to_user_id_str": "2374441570",
+          "in_reply_to_screen_name": "HernanMattheus",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -30645,7 +30817,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148419,
+        "followers_count": 148420,
         "friends_count": 10161,
         "listed_count": 300,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -30654,67 +30826,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 72663,
+        "statuses_count": 72664,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 01:45:26 +0000 2022",
-          "id": 1551745476600397800,
-          "id_str": "1551745476600397824",
-          "text": "@Gallcla_Chat @CVALEIRO Hola, @CVALEIRO. Escribinos por privado para continuar con la consulta. Aprovechamos para r… https://t.co/wENNxMlWDM",
-          "truncated": true,
+          "created_at": "Tue Jul 26 03:26:40 +0000 2022",
+          "id": 1551770951670530000,
+          "id_str": "1551770951670530049",
+          "text": "@HernanMattheus Hernán, buenas noches! Te escribimos por mensaje privado. 😊\nTe esperamos ahí.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallcla_Chat",
-                "name": "Banco Galicia",
-                "id": 1550250100374483000,
-                "id_str": "1550250100374482944",
+                "screen_name": "HernanMattheus",
+                "name": "Hernan Mattheus",
+                "id": 2374441570,
+                "id_str": "2374441570",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  14,
-                  23
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  30,
-                  39
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/wENNxMlWDM",
-                "expanded_url": "https://twitter.com/i/web/status/1551745476600397824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1551711138001236000,
-          "in_reply_to_status_id_str": "1551711138001235968",
-          "in_reply_to_user_id": 1550250100374483000,
-          "in_reply_to_user_id_str": "1550250100374482944",
-          "in_reply_to_screen_name": "Gallcla_Chat",
+          "in_reply_to_status_id": 1551722609057960000,
+          "in_reply_to_status_id_str": "1551722609057959936",
+          "in_reply_to_user_id": 2374441570,
+          "in_reply_to_user_id_str": "2374441570",
+          "in_reply_to_screen_name": "HernanMattheus",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -31031,7 +31173,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148419,
+        "followers_count": 148420,
         "friends_count": 10161,
         "listed_count": 300,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -31040,67 +31182,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 72663,
+        "statuses_count": 72664,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 01:45:26 +0000 2022",
-          "id": 1551745476600397800,
-          "id_str": "1551745476600397824",
-          "text": "@Gallcla_Chat @CVALEIRO Hola, @CVALEIRO. Escribinos por privado para continuar con la consulta. Aprovechamos para r… https://t.co/wENNxMlWDM",
-          "truncated": true,
+          "created_at": "Tue Jul 26 03:26:40 +0000 2022",
+          "id": 1551770951670530000,
+          "id_str": "1551770951670530049",
+          "text": "@HernanMattheus Hernán, buenas noches! Te escribimos por mensaje privado. 😊\nTe esperamos ahí.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallcla_Chat",
-                "name": "Banco Galicia",
-                "id": 1550250100374483000,
-                "id_str": "1550250100374482944",
+                "screen_name": "HernanMattheus",
+                "name": "Hernan Mattheus",
+                "id": 2374441570,
+                "id_str": "2374441570",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  14,
-                  23
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  30,
-                  39
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/wENNxMlWDM",
-                "expanded_url": "https://twitter.com/i/web/status/1551745476600397824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1551711138001236000,
-          "in_reply_to_status_id_str": "1551711138001235968",
-          "in_reply_to_user_id": 1550250100374483000,
-          "in_reply_to_user_id_str": "1550250100374482944",
-          "in_reply_to_screen_name": "Gallcla_Chat",
+          "in_reply_to_status_id": 1551722609057960000,
+          "in_reply_to_status_id_str": "1551722609057959936",
+          "in_reply_to_user_id": 2374441570,
+          "in_reply_to_user_id_str": "2374441570",
+          "in_reply_to_screen_name": "HernanMattheus",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -31371,7 +31483,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148419,
+        "followers_count": 148420,
         "friends_count": 10161,
         "listed_count": 300,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -31380,67 +31492,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 72663,
+        "statuses_count": 72664,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 01:45:26 +0000 2022",
-          "id": 1551745476600397800,
-          "id_str": "1551745476600397824",
-          "text": "@Gallcla_Chat @CVALEIRO Hola, @CVALEIRO. Escribinos por privado para continuar con la consulta. Aprovechamos para r… https://t.co/wENNxMlWDM",
-          "truncated": true,
+          "created_at": "Tue Jul 26 03:26:40 +0000 2022",
+          "id": 1551770951670530000,
+          "id_str": "1551770951670530049",
+          "text": "@HernanMattheus Hernán, buenas noches! Te escribimos por mensaje privado. 😊\nTe esperamos ahí.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallcla_Chat",
-                "name": "Banco Galicia",
-                "id": 1550250100374483000,
-                "id_str": "1550250100374482944",
+                "screen_name": "HernanMattheus",
+                "name": "Hernan Mattheus",
+                "id": 2374441570,
+                "id_str": "2374441570",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  14,
-                  23
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  30,
-                  39
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/wENNxMlWDM",
-                "expanded_url": "https://twitter.com/i/web/status/1551745476600397824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1551711138001236000,
-          "in_reply_to_status_id_str": "1551711138001235968",
-          "in_reply_to_user_id": 1550250100374483000,
-          "in_reply_to_user_id_str": "1550250100374482944",
-          "in_reply_to_screen_name": "Gallcla_Chat",
+          "in_reply_to_status_id": 1551722609057960000,
+          "in_reply_to_status_id_str": "1551722609057959936",
+          "in_reply_to_user_id": 2374441570,
+          "in_reply_to_user_id_str": "2374441570",
+          "in_reply_to_screen_name": "HernanMattheus",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -31711,7 +31793,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148419,
+        "followers_count": 148420,
         "friends_count": 10161,
         "listed_count": 300,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -31720,67 +31802,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 72663,
+        "statuses_count": 72664,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 01:45:26 +0000 2022",
-          "id": 1551745476600397800,
-          "id_str": "1551745476600397824",
-          "text": "@Gallcla_Chat @CVALEIRO Hola, @CVALEIRO. Escribinos por privado para continuar con la consulta. Aprovechamos para r… https://t.co/wENNxMlWDM",
-          "truncated": true,
+          "created_at": "Tue Jul 26 03:26:40 +0000 2022",
+          "id": 1551770951670530000,
+          "id_str": "1551770951670530049",
+          "text": "@HernanMattheus Hernán, buenas noches! Te escribimos por mensaje privado. 😊\nTe esperamos ahí.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallcla_Chat",
-                "name": "Banco Galicia",
-                "id": 1550250100374483000,
-                "id_str": "1550250100374482944",
+                "screen_name": "HernanMattheus",
+                "name": "Hernan Mattheus",
+                "id": 2374441570,
+                "id_str": "2374441570",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  14,
-                  23
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  30,
-                  39
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/wENNxMlWDM",
-                "expanded_url": "https://twitter.com/i/web/status/1551745476600397824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1551711138001236000,
-          "in_reply_to_status_id_str": "1551711138001235968",
-          "in_reply_to_user_id": 1550250100374483000,
-          "in_reply_to_user_id_str": "1550250100374482944",
-          "in_reply_to_screen_name": "Gallcla_Chat",
+          "in_reply_to_status_id": 1551722609057960000,
+          "in_reply_to_status_id_str": "1551722609057959936",
+          "in_reply_to_user_id": 2374441570,
+          "in_reply_to_user_id_str": "2374441570",
+          "in_reply_to_screen_name": "HernanMattheus",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -32051,7 +32103,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148419,
+        "followers_count": 148420,
         "friends_count": 10161,
         "listed_count": 300,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -32060,67 +32112,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 72663,
+        "statuses_count": 72664,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 01:45:26 +0000 2022",
-          "id": 1551745476600397800,
-          "id_str": "1551745476600397824",
-          "text": "@Gallcla_Chat @CVALEIRO Hola, @CVALEIRO. Escribinos por privado para continuar con la consulta. Aprovechamos para r… https://t.co/wENNxMlWDM",
-          "truncated": true,
+          "created_at": "Tue Jul 26 03:26:40 +0000 2022",
+          "id": 1551770951670530000,
+          "id_str": "1551770951670530049",
+          "text": "@HernanMattheus Hernán, buenas noches! Te escribimos por mensaje privado. 😊\nTe esperamos ahí.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallcla_Chat",
-                "name": "Banco Galicia",
-                "id": 1550250100374483000,
-                "id_str": "1550250100374482944",
+                "screen_name": "HernanMattheus",
+                "name": "Hernan Mattheus",
+                "id": 2374441570,
+                "id_str": "2374441570",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  14,
-                  23
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  30,
-                  39
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/wENNxMlWDM",
-                "expanded_url": "https://twitter.com/i/web/status/1551745476600397824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1551711138001236000,
-          "in_reply_to_status_id_str": "1551711138001235968",
-          "in_reply_to_user_id": 1550250100374483000,
-          "in_reply_to_user_id_str": "1550250100374482944",
-          "in_reply_to_screen_name": "Gallcla_Chat",
+          "in_reply_to_status_id": 1551722609057960000,
+          "in_reply_to_status_id_str": "1551722609057959936",
+          "in_reply_to_user_id": 2374441570,
+          "in_reply_to_user_id_str": "2374441570",
+          "in_reply_to_screen_name": "HernanMattheus",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -32391,7 +32413,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148419,
+        "followers_count": 148420,
         "friends_count": 10161,
         "listed_count": 300,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -32400,67 +32422,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 72663,
+        "statuses_count": 72664,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 01:45:26 +0000 2022",
-          "id": 1551745476600397800,
-          "id_str": "1551745476600397824",
-          "text": "@Gallcla_Chat @CVALEIRO Hola, @CVALEIRO. Escribinos por privado para continuar con la consulta. Aprovechamos para r… https://t.co/wENNxMlWDM",
-          "truncated": true,
+          "created_at": "Tue Jul 26 03:26:40 +0000 2022",
+          "id": 1551770951670530000,
+          "id_str": "1551770951670530049",
+          "text": "@HernanMattheus Hernán, buenas noches! Te escribimos por mensaje privado. 😊\nTe esperamos ahí.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Gallcla_Chat",
-                "name": "Banco Galicia",
-                "id": 1550250100374483000,
-                "id_str": "1550250100374482944",
+                "screen_name": "HernanMattheus",
+                "name": "Hernan Mattheus",
+                "id": 2374441570,
+                "id_str": "2374441570",
                 "indices": [
                   0,
-                  13
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  14,
-                  23
-                ]
-              },
-              {
-                "screen_name": "CVALEIRO",
-                "name": "CLAUDIA VALEIRO",
-                "id": 97417633,
-                "id_str": "97417633",
-                "indices": [
-                  30,
-                  39
+                  15
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/wENNxMlWDM",
-                "expanded_url": "https://twitter.com/i/web/status/1551745476600397824",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"https://yoizen.com/ysocial/\" rel=\"nofollow\">Yoizen Social </a>",
-          "in_reply_to_status_id": 1551711138001236000,
-          "in_reply_to_status_id_str": "1551711138001235968",
-          "in_reply_to_user_id": 1550250100374483000,
-          "in_reply_to_user_id_str": "1550250100374482944",
-          "in_reply_to_screen_name": "Gallcla_Chat",
+          "in_reply_to_status_id": 1551722609057960000,
+          "in_reply_to_status_id_str": "1551722609057959936",
+          "in_reply_to_user_id": 2374441570,
+          "in_reply_to_user_id_str": "2374441570",
+          "in_reply_to_screen_name": "HernanMattheus",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -32732,7 +32724,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -33052,7 +33044,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -33372,7 +33364,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -33692,7 +33684,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -34012,7 +34004,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -34344,7 +34336,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -34676,7 +34668,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -35008,7 +35000,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -35340,7 +35332,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -35680,7 +35672,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -36010,7 +36002,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -36330,7 +36322,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -36696,7 +36688,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -37062,7 +37054,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -37428,7 +37420,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -37794,7 +37786,7 @@
         },
         "protected": false,
         "followers_count": 159174,
-        "friends_count": 16338,
+        "friends_count": 16341,
         "listed_count": 210,
         "created_at": "Wed Apr 21 19:50:51 +0000 2010",
         "favourites_count": 585,
@@ -38149,7 +38141,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29803,
+        "followers_count": 29804,
         "friends_count": 6705,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -38457,7 +38449,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29803,
+        "followers_count": 29804,
         "friends_count": 6705,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -38793,7 +38785,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29803,
+        "followers_count": 29804,
         "friends_count": 6705,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -39129,7 +39121,7 @@
           }
         },
         "protected": false,
-        "followers_count": 29803,
+        "followers_count": 29804,
         "friends_count": 6705,
         "listed_count": 103,
         "created_at": "Thu Sep 23 19:51:05 +0000 2010",
@@ -39475,7 +39467,7 @@
           }
         },
         "protected": false,
-        "followers_count": 446843,
+        "followers_count": 446846,
         "friends_count": 37,
         "listed_count": 1214,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -39821,7 +39813,7 @@
           }
         },
         "protected": false,
-        "followers_count": 446843,
+        "followers_count": 446846,
         "friends_count": 37,
         "listed_count": 1214,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -40167,7 +40159,7 @@
           }
         },
         "protected": false,
-        "followers_count": 446843,
+        "followers_count": 446846,
         "friends_count": 37,
         "listed_count": 1214,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -40513,7 +40505,7 @@
           }
         },
         "protected": false,
-        "followers_count": 446843,
+        "followers_count": 446846,
         "friends_count": 37,
         "listed_count": 1214,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -40859,7 +40851,7 @@
           }
         },
         "protected": false,
-        "followers_count": 446843,
+        "followers_count": 446846,
         "friends_count": 37,
         "listed_count": 1214,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -41205,7 +41197,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -41214,47 +41206,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -41580,7 +41582,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -41589,47 +41591,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -41955,7 +41967,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -41964,47 +41976,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -42330,7 +42352,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -42339,47 +42361,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -42677,7 +42709,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -42686,47 +42718,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -42999,7 +43041,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -43008,47 +43050,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -43321,7 +43373,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -43330,47 +43382,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -43643,7 +43705,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -43652,47 +43714,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -43965,7 +44037,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -43974,47 +44046,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -44320,7 +44402,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -44329,47 +44411,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -44675,7 +44767,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -44684,47 +44776,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -45030,7 +45132,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -45039,47 +45141,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -45385,7 +45497,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -45394,47 +45506,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -45740,7 +45862,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -45749,47 +45871,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -46095,7 +46227,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -46104,47 +46236,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -46450,7 +46592,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -46459,47 +46601,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -46805,7 +46957,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -46814,47 +46966,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -47028,7 +47190,7 @@
         "user_mentions": [
           {
             "screen_name": "solmartinb",
-            "name": "Sol Martin",
+            "name": "Maria Sol Martin",
             "id": 387247047,
             "id_str": "387247047",
             "indices": [
@@ -47160,7 +47322,7 @@
           }
         },
         "protected": false,
-        "followers_count": 155508,
+        "followers_count": 155510,
         "friends_count": 17,
         "listed_count": 228,
         "created_at": "Wed Jun 11 08:27:16 +0000 2008",
@@ -47169,47 +47331,57 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 172270,
+        "statuses_count": 172271,
         "lang": null,
         "status": {
-          "created_at": "Tue Jul 26 00:21:06 +0000 2022",
-          "id": 1551724253619314700,
-          "id_str": "1551724253619314688",
-          "text": "@emilian56892802 Hola, para ayudarte con tu ingreso de dinero, es importante que luego de haber iniciado sesión en… https://t.co/9Hl6fIegyM",
+          "created_at": "Tue Jul 26 03:04:40 +0000 2022",
+          "id": 1551765415906402300,
+          "id_str": "1551765415906402305",
+          "text": "@camiMo98 @marcos_galperin Hola, para poder revisar lo sucedido con tu cuenta, iniciá sesión en tu cuenta e ingresá… https://t.co/OKRqjvPOtN",
           "truncated": true,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "emilian56892802",
-                "name": "emiliano",
-                "id": 1550548998595182600,
-                "id_str": "1550548998595182592",
+                "screen_name": "camiMo98",
+                "name": "camila morales",
+                "id": 2405565084,
+                "id_str": "2405565084",
                 "indices": [
                   0,
-                  16
+                  9
+                ]
+              },
+              {
+                "screen_name": "marcos_galperin",
+                "name": "Marcos Galperin",
+                "id": 15741523,
+                "id_str": "15741523",
+                "indices": [
+                  10,
+                  26
                 ]
               }
             ],
             "urls": [
               {
-                "url": "https://t.co/9Hl6fIegyM",
-                "expanded_url": "https://twitter.com/i/web/status/1551724253619314688",
+                "url": "https://t.co/OKRqjvPOtN",
+                "expanded_url": "https://twitter.com/i/web/status/1551765415906402305",
                 "display_url": "twitter.com/i/web/status/1…",
                 "indices": [
-                  116,
-                  139
+                  117,
+                  140
                 ]
               }
             ]
           },
           "source": "<a href=\"https://api.mercadolibre.com/cx/social/twitter\" rel=\"nofollow\">MeliTwitterSocial</a>",
-          "in_reply_to_status_id": 1551719358388441000,
-          "in_reply_to_status_id_str": "1551719358388441096",
-          "in_reply_to_user_id": 1550548998595182600,
-          "in_reply_to_user_id_str": "1550548998595182592",
-          "in_reply_to_screen_name": "emilian56892802",
+          "in_reply_to_status_id": 1551751750532714500,
+          "in_reply_to_status_id_str": "1551751750532714496",
+          "in_reply_to_user_id": 2405565084,
+          "in_reply_to_user_id_str": "2405565084",
+          "in_reply_to_screen_name": "camiMo98",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -47497,7 +47669,7 @@
           }
         },
         "protected": false,
-        "followers_count": 15956,
+        "followers_count": 15958,
         "friends_count": 740,
         "listed_count": 17,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -47823,7 +47995,7 @@
           }
         },
         "protected": false,
-        "followers_count": 15956,
+        "followers_count": 15958,
         "friends_count": 740,
         "listed_count": 17,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -48149,7 +48321,7 @@
           }
         },
         "protected": false,
-        "followers_count": 15956,
+        "followers_count": 15958,
         "friends_count": 740,
         "listed_count": 17,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -48475,7 +48647,7 @@
           }
         },
         "protected": false,
-        "followers_count": 15956,
+        "followers_count": 15958,
         "friends_count": 740,
         "listed_count": 17,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
@@ -48801,7 +48973,7 @@
           }
         },
         "protected": false,
-        "followers_count": 15956,
+        "followers_count": 15958,
         "friends_count": 740,
         "listed_count": 17,
         "created_at": "Tue May 01 13:55:02 +0000 2018",
