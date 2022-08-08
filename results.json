@@ -29,7 +29,317 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
+        "friends_count": 54651,
+        "listed_count": 347,
+        "created_at": "Sat Nov 20 21:08:35 +0000 2010",
+        "favourites_count": 1193,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 49666,
+        "lang": null,
+        "status": {
+          "created_at": "Fri Aug 05 18:28:19 +0000 2022",
+          "id": 1555621738653880300,
+          "id_str": "1555621738653880320",
+          "text": "@nicotanos Hola Nicolás Tanos 👋 . Por favor mándanos mensaje directo sobre lo ocurrido para saber cómo apoyarte, no… https://t.co/WX88xe0p9M",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "nicotanos",
+                "name": "Nicolás Tanos",
+                "id": 93739981,
+                "id_str": "93739981",
+                "indices": [
+                  0,
+                  10
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/WX88xe0p9M",
+                "expanded_url": "https://twitter.com/i/web/status/1555621738653880320",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
+          "in_reply_to_status_id": 1555573366760800300,
+          "in_reply_to_status_id_str": "1555573366760800259",
+          "in_reply_to_user_id": 93739981,
+          "in_reply_to_user_id_str": "93739981",
+          "in_reply_to_screen_name": "nicotanos",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "20488D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111272155516493826/DKzCGOK6_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217897629/1658169526",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      }
+    },
+    "user": {
+      "id": 1552400205596827600,
+      "id_str": "1552400205596827648",
+      "name": "Despegar Argentina",
+      "screen_name": "Despegar2022_",
+      "location": "",
+      "description": "Bienvenidos a nuestra página oficial de Despegar Argentina. Acá vas a encontrar soluciones para tus tramites del día a día.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1,
+      "friends_count": 96,
+      "listed_count": 0,
+      "created_at": "Wed Jul 27 21:07:20 +0000 2022",
+      "favourites_count": 4,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 192,
+      "lang": null,
+      "status": {
+        "created_at": "Mon Aug 08 10:51:35 +0000 2022",
+        "id": 1556593962684764200,
+        "id_str": "1556593962684764161",
+        "text": "@MalviRinaldi Hola, cómo estás? te pedimos disculpas por las molestias ocasionadas. Nuestro equipo de atención al c… https://t.co/2CDnlVBZLe",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "MalviRinaldi",
+              "name": "Malvi Rinaldi",
+              "id": 130663480,
+              "id_str": "130663480",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2CDnlVBZLe",
+              "expanded_url": "https://twitter.com/i/web/status/1556593962684764161",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1556461079928090600,
+        "in_reply_to_status_id_str": "1556461079928090625",
+        "in_reply_to_user_id": 130663480,
+        "in_reply_to_user_id_str": "130663480",
+        "in_reply_to_screen_name": "MalviRinaldi",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1555679648691982336/SxcWMD81_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1555679648691982336/SxcWMD81_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552400205596827648/1659737942",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "tweet": {
+      "created_at": "Mon Aug 08 10:51:35 +0000 2022",
+      "id": 1556593962684764200,
+      "id_str": "1556593962684764161",
+      "full_text": "@MalviRinaldi Hola, cómo estás? te pedimos disculpas por las molestias ocasionadas. Nuestro equipo de atención al cliente te brindará la solución a tus inconvenientes. Envíanos tu número de contacto telefónico por privado y a esta misma página. Saludos cordiales!!Flybondi Argentina!!",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        284
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MalviRinaldi",
+            "name": "Malvi Rinaldi",
+            "id": 130663480,
+            "id_str": "130663480",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1556461079928090600,
+      "in_reply_to_status_id_str": "1556461079928090625",
+      "in_reply_to_user_id": 130663480,
+      "in_reply_to_user_id_str": "130663480",
+      "in_reply_to_screen_name": "MalviRinaldi",
+      "user": {
+        "id": 1552400205596827600,
+        "id_str": "1552400205596827648",
+        "name": "Despegar Argentina",
+        "screen_name": "Despegar2022_",
+        "location": "",
+        "description": "Bienvenidos a nuestra página oficial de Despegar Argentina. Acá vas a encontrar soluciones para tus tramites del día a día.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1,
+        "friends_count": 96,
+        "listed_count": 0,
+        "created_at": "Wed Jul 27 21:07:20 +0000 2022",
+        "favourites_count": 4,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 192,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1555679648691982336/SxcWMD81_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1555679648691982336/SxcWMD81_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552400205596827648/1659737942",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    "isScam": true
+  },
+  {
+    "brand": {
+      "name": "Despegar Argentina",
+      "user": {
+        "id": 217897629,
+        "id_str": "217897629",
+        "name": "Despegar Argentina",
+        "screen_name": "DespegarAr",
+        "location": "Argentina",
+        "description": "Vivir Viajando, de nuevo ✈",
+        "url": "https://t.co/2tkOowKO9f",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2tkOowKO9f",
+                "expanded_url": "http://www.despegar.com.ar",
+                "display_url": "despegar.com.ar",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -366,7 +676,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -676,7 +986,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -986,7 +1296,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1296,7 +1606,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1606,7 +1916,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -1924,7 +2234,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2242,7 +2552,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2560,7 +2870,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -2870,7 +3180,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -3180,7 +3490,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -3490,7 +3800,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -3816,7 +4126,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -4142,7 +4452,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -4452,7 +4762,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -4762,7 +5072,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -5098,7 +5408,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -5408,7 +5718,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -5718,7 +6028,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -6028,7 +6338,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -6338,7 +6648,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -6648,7 +6958,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -6958,7 +7268,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -7268,7 +7578,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -7578,7 +7888,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -7888,7 +8198,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -8206,7 +8516,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -8524,7 +8834,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -8842,7 +9152,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -9152,7 +9462,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -9462,7 +9772,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -9772,7 +10082,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -10098,7 +10408,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -10424,7 +10734,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -10734,7 +11044,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -11044,7 +11354,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -11380,7 +11690,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -11690,7 +12000,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -12000,7 +12310,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -12310,7 +12620,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -12620,7 +12930,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -12930,7 +13240,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -13240,7 +13550,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -13550,7 +13860,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -13860,7 +14170,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -14170,7 +14480,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -14488,7 +14798,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -14806,7 +15116,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -15124,7 +15434,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -15434,7 +15744,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -15744,7 +16054,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -16054,7 +16364,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -16380,7 +16690,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -16706,7 +17016,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -17016,7 +17326,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -17326,7 +17636,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -17662,7 +17972,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -17972,7 +18282,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -18282,7 +18592,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -18592,7 +18902,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -18902,7 +19212,7 @@
           }
         },
         "protected": false,
-        "followers_count": 151640,
+        "followers_count": 151642,
         "friends_count": 54651,
         "listed_count": 347,
         "created_at": "Sat Nov 20 21:08:35 +0000 2010",
@@ -19222,8 +19532,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -19231,54 +19541,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -19530,8 +19830,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -19539,54 +19839,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -19848,8 +20138,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -19857,54 +20147,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -20156,8 +20436,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -20165,54 +20445,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -20464,8 +20734,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -20473,54 +20743,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -20763,8 +21023,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -20772,54 +21032,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -21062,8 +21312,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -21071,54 +21321,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -21361,8 +21601,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -21370,54 +21610,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -21663,8 +21893,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -21672,54 +21902,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -21968,8 +22188,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -21977,54 +22197,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -22273,8 +22483,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -22282,54 +22492,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -22575,8 +22775,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -22584,54 +22784,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -22880,8 +23070,8 @@
           }
         },
         "protected": false,
-        "followers_count": 653905,
-        "friends_count": 315332,
+        "followers_count": 653904,
+        "friends_count": 315331,
         "listed_count": 594,
         "created_at": "Thu Apr 08 17:07:27 +0000 2010",
         "favourites_count": 6357,
@@ -22889,54 +23079,44 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": true,
-        "statuses_count": 1027888,
+        "statuses_count": 1027889,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 09:38:03 +0000 2022",
-          "id": 1556575458388574200,
-          "id_str": "1556575458388574208",
-          "text": "@lasdelclio Buenos días, ¿Cómo estas? en caso de que no te guste recibir las llamadas de parte de Claro, podes mand… https://t.co/E31t1PA7ah",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:11:07 +0000 2022",
+          "id": 1556583780038721500,
+          "id_str": "1556583780038721536",
+          "text": "@La_vengadora Buenos días, comunícate al DM con nosotros por fa y te ayudamos con tu consulta sin problemas, te esperamos.",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "lasdelclio",
-                "name": "Paolita",
-                "id": 227149344,
-                "id_str": "227149344",
+                "screen_name": "La_vengadora",
+                "name": "Sissi",
+                "id": 236644877,
+                "id_str": "236644877",
                 "indices": [
                   0,
-                  11
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/E31t1PA7ah",
-                "expanded_url": "https://twitter.com/i/web/status/1556575458388574208",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
           "source": "<a href=\"http://www.s1gateway.com\" rel=\"nofollow\">S1Gateway</a>",
-          "in_reply_to_status_id": 1556574543053037600,
-          "in_reply_to_status_id_str": "1556574543053037571",
-          "in_reply_to_user_id": 227149344,
-          "in_reply_to_user_id_str": "227149344",
-          "in_reply_to_screen_name": "lasdelclio",
+          "in_reply_to_status_id": 1556583489885159400,
+          "in_reply_to_status_id_str": "1556583489885159426",
+          "in_reply_to_user_id": 236644877,
+          "in_reply_to_user_id_str": "236644877",
+          "in_reply_to_screen_name": "La_vengadora",
           "geo": null,
           "coordinates": null,
           "place": null,
           "contributors": null,
           "is_quote_status": false,
           "retweet_count": 0,
-          "favorite_count": 0,
+          "favorite_count": 1,
           "favorited": false,
           "retweeted": false,
           "lang": "es"
@@ -23175,7 +23355,7 @@
           }
         },
         "protected": false,
-        "followers_count": 551880,
+        "followers_count": 551882,
         "friends_count": 214606,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -23184,47 +23364,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2541371,
+        "statuses_count": 2541374,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 04:39:52 +0000 2022",
-          "id": 1556500415948128300,
-          "id_str": "1556500415948128256",
-          "text": "@Florenc666wayso Hola Flor! Si hay algo puntual con lo que podamos asistirte, no dudes en enviarnos un mensaje priv… https://t.co/U3cSfVZiHl",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:56:07 +0000 2022",
+          "id": 1556595105645174800,
+          "id_str": "1556595105645174786",
+          "text": "@solpatanella Te pedimos disculpas por la demora y hemos tomado el caso por DM. Gracias por el contacto! ^MF",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Florenc666wayso",
-                "name": "Flor Valo 🖤",
-                "id": 1360050453019562000,
-                "id_str": "1360050453019561984",
+                "screen_name": "solpatanella",
+                "name": "solange Patanella",
+                "id": 118508862,
+                "id_str": "118508862",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/U3cSfVZiHl",
-                "expanded_url": "https://twitter.com/i/web/status/1556500415948128256",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
-          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1556499215957872600,
-          "in_reply_to_status_id_str": "1556499215957872640",
-          "in_reply_to_user_id": 1360050453019562000,
-          "in_reply_to_user_id_str": "1360050453019561984",
-          "in_reply_to_screen_name": "Florenc666wayso",
+          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
+          "in_reply_to_status_id": 1556567740642640000,
+          "in_reply_to_status_id_str": "1556567740642639873",
+          "in_reply_to_user_id": 118508862,
+          "in_reply_to_user_id_str": "118508862",
+          "in_reply_to_screen_name": "solpatanella",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23499,7 +23669,7 @@
           }
         },
         "protected": false,
-        "followers_count": 551880,
+        "followers_count": 551882,
         "friends_count": 214606,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -23508,47 +23678,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2541371,
+        "statuses_count": 2541374,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 04:39:52 +0000 2022",
-          "id": 1556500415948128300,
-          "id_str": "1556500415948128256",
-          "text": "@Florenc666wayso Hola Flor! Si hay algo puntual con lo que podamos asistirte, no dudes en enviarnos un mensaje priv… https://t.co/U3cSfVZiHl",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:56:07 +0000 2022",
+          "id": 1556595105645174800,
+          "id_str": "1556595105645174786",
+          "text": "@solpatanella Te pedimos disculpas por la demora y hemos tomado el caso por DM. Gracias por el contacto! ^MF",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Florenc666wayso",
-                "name": "Flor Valo 🖤",
-                "id": 1360050453019562000,
-                "id_str": "1360050453019561984",
+                "screen_name": "solpatanella",
+                "name": "solange Patanella",
+                "id": 118508862,
+                "id_str": "118508862",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/U3cSfVZiHl",
-                "expanded_url": "https://twitter.com/i/web/status/1556500415948128256",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
-          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1556499215957872600,
-          "in_reply_to_status_id_str": "1556499215957872640",
-          "in_reply_to_user_id": 1360050453019562000,
-          "in_reply_to_user_id_str": "1360050453019561984",
-          "in_reply_to_screen_name": "Florenc666wayso",
+          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
+          "in_reply_to_status_id": 1556567740642640000,
+          "in_reply_to_status_id_str": "1556567740642639873",
+          "in_reply_to_user_id": 118508862,
+          "in_reply_to_user_id_str": "118508862",
+          "in_reply_to_screen_name": "solpatanella",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -23823,7 +23983,7 @@
           }
         },
         "protected": false,
-        "followers_count": 551880,
+        "followers_count": 551882,
         "friends_count": 214606,
         "listed_count": 1085,
         "created_at": "Wed Jan 21 13:11:17 +0000 2009",
@@ -23832,47 +23992,37 @@
         "time_zone": null,
         "geo_enabled": true,
         "verified": true,
-        "statuses_count": 2541371,
+        "statuses_count": 2541374,
         "lang": null,
         "status": {
-          "created_at": "Mon Aug 08 04:39:52 +0000 2022",
-          "id": 1556500415948128300,
-          "id_str": "1556500415948128256",
-          "text": "@Florenc666wayso Hola Flor! Si hay algo puntual con lo que podamos asistirte, no dudes en enviarnos un mensaje priv… https://t.co/U3cSfVZiHl",
-          "truncated": true,
+          "created_at": "Mon Aug 08 10:56:07 +0000 2022",
+          "id": 1556595105645174800,
+          "id_str": "1556595105645174786",
+          "text": "@solpatanella Te pedimos disculpas por la demora y hemos tomado el caso por DM. Gracias por el contacto! ^MF",
+          "truncated": false,
           "entities": {
             "hashtags": [],
             "symbols": [],
             "user_mentions": [
               {
-                "screen_name": "Florenc666wayso",
-                "name": "Flor Valo 🖤",
-                "id": 1360050453019562000,
-                "id_str": "1360050453019561984",
+                "screen_name": "solpatanella",
+                "name": "solange Patanella",
+                "id": 118508862,
+                "id_str": "118508862",
                 "indices": [
                   0,
-                  16
+                  13
                 ]
               }
             ],
-            "urls": [
-              {
-                "url": "https://t.co/U3cSfVZiHl",
-                "expanded_url": "https://twitter.com/i/web/status/1556500415948128256",
-                "display_url": "twitter.com/i/web/status/1…",
-                "indices": [
-                  117,
-                  140
-                ]
-              }
-            ]
+            "urls": []
           },
-          "source": "<a href=\"https://www.inconcertcc.com/\" rel=\"nofollow\">inConcertOmnichannel</a>",
-          "in_reply_to_status_id": 1556499215957872600,
-          "in_reply_to_status_id_str": "1556499215957872640",
-          "in_reply_to_user_id": 1360050453019562000,
-          "in_reply_to_user_id_str": "1360050453019561984",
-          "in_reply_to_screen_name": "Florenc666wayso",
+          "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
+          "in_reply_to_status_id": 1556567740642640000,
+          "in_reply_to_status_id_str": "1556567740642639873",
+          "in_reply_to_user_id": 118508862,
+          "in_reply_to_user_id_str": "118508862",
+          "in_reply_to_screen_name": "solpatanella",
           "geo": null,
           "coordinates": null,
           "place": null,
@@ -24187,8 +24337,8 @@
           }
         },
         "protected": false,
-        "followers_count": 608789,
-        "friends_count": 260116,
+        "followers_count": 608792,
+        "friends_count": 260118,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1557,
@@ -24477,8 +24627,8 @@
           }
         },
         "protected": false,
-        "followers_count": 608789,
-        "friends_count": 260116,
+        "followers_count": 608792,
+        "friends_count": 260118,
         "listed_count": 794,
         "created_at": "Thu Nov 04 20:13:39 +0000 2010",
         "favourites_count": 1557,
@@ -25113,7 +25263,7 @@
           }
         },
         "protected": false,
-        "followers_count": 51081,
+        "followers_count": 51082,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -25449,7 +25599,7 @@
           }
         },
         "protected": false,
-        "followers_count": 51081,
+        "followers_count": 51082,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -25785,7 +25935,7 @@
           }
         },
         "protected": false,
-        "followers_count": 51081,
+        "followers_count": 51082,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -26121,7 +26271,7 @@
           }
         },
         "protected": false,
-        "followers_count": 51081,
+        "followers_count": 51082,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -26457,7 +26607,7 @@
           }
         },
         "protected": false,
-        "followers_count": 51081,
+        "followers_count": 51082,
         "friends_count": 52,
         "listed_count": 62,
         "created_at": "Thu Jan 22 17:54:51 +0000 2015",
@@ -30048,7 +30198,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -30657,7 +30807,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -31266,7 +31416,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -31875,7 +32025,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -32484,7 +32634,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -32950,7 +33100,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -33414,7 +33564,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -33762,7 +33912,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -34110,7 +34260,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -34448,7 +34598,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -34786,7 +34936,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -35122,7 +35272,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -35458,7 +35608,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -35794,7 +35944,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -36130,7 +36280,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -36466,7 +36616,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -36802,7 +36952,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -36926,7 +37076,7 @@
       },
       "protected": false,
       "followers_count": 1,
-      "friends_count": 182,
+      "friends_count": 181,
       "listed_count": 0,
       "created_at": "Tue Aug 02 19:43:40 +0000 2022",
       "favourites_count": 0,
@@ -37081,7 +37231,7 @@
         },
         "protected": false,
         "followers_count": 1,
-        "friends_count": 182,
+        "friends_count": 181,
         "listed_count": 0,
         "created_at": "Tue Aug 02 19:43:40 +0000 2022",
         "favourites_count": 0,
@@ -37168,7 +37318,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -37514,7 +37664,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -37860,7 +38010,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -38190,7 +38340,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -38520,7 +38670,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -38850,7 +39000,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -39180,7 +39330,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -39510,7 +39660,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -39856,7 +40006,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -40202,7 +40352,7 @@
           }
         },
         "protected": false,
-        "followers_count": 148736,
+        "followers_count": 148737,
         "friends_count": 10160,
         "listed_count": 301,
         "created_at": "Fri Jan 07 13:06:08 +0000 2011",
@@ -60328,7 +60478,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -60658,7 +60808,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -60988,7 +61138,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -61384,7 +61534,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -61760,7 +61910,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -62136,7 +62286,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -62522,7 +62672,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -62898,7 +63048,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -63007,33 +63157,33 @@
       "time_zone": null,
       "geo_enabled": false,
       "verified": false,
-      "statuses_count": 229,
+      "statuses_count": 230,
       "lang": null,
       "status": {
-        "created_at": "Sun Aug 07 19:16:27 +0000 2022",
-        "id": 1556358630559072300,
-        "id_str": "1556358630559072256",
-        "text": "@BautistaRP_ Hola, cómo estás? te pedimos disculpas por las molestias ocasionadas. Nuestro equipo de atención al cl… https://t.co/hMGFhhL2r2",
+        "created_at": "Mon Aug 08 10:52:53 +0000 2022",
+        "id": 1556594288179531800,
+        "id_str": "1556594288179531777",
+        "text": "@PlanesSpotterAr Hola, cómo estás? te pedimos disculpas por las molestias ocasionadas. Nuestro equipo de atención a… https://t.co/rthvvunpD3",
         "truncated": true,
         "entities": {
           "hashtags": [],
           "symbols": [],
           "user_mentions": [
             {
-              "screen_name": "BautistaRP_",
-              "name": "Bauti 🚂",
-              "id": 1034223559474860000,
-              "id_str": "1034223559474860032",
+              "screen_name": "PlanesSpotterAr",
+              "name": "El Negro 🇦🇷",
+              "id": 1512742311112839200,
+              "id_str": "1512742311112839172",
               "indices": [
                 0,
-                12
+                16
               ]
             }
           ],
           "urls": [
             {
-              "url": "https://t.co/hMGFhhL2r2",
-              "expanded_url": "https://twitter.com/i/web/status/1556358630559072256",
+              "url": "https://t.co/rthvvunpD3",
+              "expanded_url": "https://twitter.com/i/web/status/1556594288179531777",
               "display_url": "twitter.com/i/web/status/1…",
               "indices": [
                 117,
@@ -63043,11 +63193,329 @@
           ]
         },
         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-        "in_reply_to_status_id": 1554652475587588000,
-        "in_reply_to_status_id_str": "1554652475587588104",
-        "in_reply_to_user_id": 1034223559474860000,
-        "in_reply_to_user_id_str": "1034223559474860032",
-        "in_reply_to_screen_name": "BautistaRP_",
+        "in_reply_to_status_id": 1556584929273622500,
+        "in_reply_to_status_id_str": "1556584929273622528",
+        "in_reply_to_user_id": 1512742311112839200,
+        "in_reply_to_user_id_str": "1512742311112839172",
+        "in_reply_to_screen_name": "PlanesSpotterAr",
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1552402922708819969/BXo82AJh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1552402922708819969/BXo82AJh_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "tweet": {
+      "created_at": "Mon Aug 08 10:52:53 +0000 2022",
+      "id": 1556594288179531800,
+      "id_str": "1556594288179531777",
+      "full_text": "@PlanesSpotterAr Hola, cómo estás? te pedimos disculpas por las molestias ocasionadas. Nuestro equipo de atención al cliente te brindará la solución a tus inconvenientes. Envíanos tu número de contacto telefónico por privado y a esta misma página. Saludos cordiales!!Flybondi Argentina!!",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        287
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PlanesSpotterAr",
+            "name": "El Negro 🇦🇷",
+            "id": 1512742311112839200,
+            "id_str": "1512742311112839172",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1556584929273622500,
+      "in_reply_to_status_id_str": "1556584929273622528",
+      "in_reply_to_user_id": 1512742311112839200,
+      "in_reply_to_user_id_str": "1512742311112839172",
+      "in_reply_to_screen_name": "PlanesSpotterAr",
+      "user": {
+        "id": 1552402817167638500,
+        "id_str": "1552402817167638528",
+        "name": "Aerolineas Argentinas",
+        "screen_name": "Aerolineas_rspd",
+        "location": "",
+        "description": "Bienvenidos a nuestra página oficial de Aerolineas Argentina cualquier consulta contactanos al privado muchas gracias.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 126,
+        "listed_count": 0,
+        "created_at": "Wed Jul 27 21:17:34 +0000 2022",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 230,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1552402922708819969/BXo82AJh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1552402922708819969/BXo82AJh_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "es"
+    },
+    "isScam": true
+  },
+  {
+    "brand": {
+      "name": "Aerolineas Argentinas",
+      "user": {
+        "id": 153900887,
+        "id_str": "153900887",
+        "name": "Aerolíneas Argentinas",
+        "screen_name": "Aerolineas_AR",
+        "location": "Buenos Aires - Argentina",
+        "description": "Bienvenidos a la empresa líder de aviación en Argentina. Elegí volar mejor 👉🏼 https://t.co/cV4qZg6EjN",
+        "url": "https://t.co/vqZeHTDvww",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vqZeHTDvww",
+                "expanded_url": "http://www.aerolineas.com.ar",
+                "display_url": "aerolineas.com.ar",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/cV4qZg6EjN",
+                "expanded_url": "http://aerolineas.com.ar",
+                "display_url": "aerolineas.com.ar",
+                "indices": [
+                  78,
+                  101
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 447748,
+        "friends_count": 37,
+        "listed_count": 1213,
+        "created_at": "Wed Jun 09 20:56:04 +0000 2010",
+        "favourites_count": 12504,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 59883,
+        "lang": null,
+        "status": {
+          "created_at": "Sat Aug 06 12:40:18 +0000 2022",
+          "id": 1555896544477560800,
+          "id_str": "1555896544477560834",
+          "text": "@JulianaBazzano ¡Hola! Gracias por contactarnos. Por favor envíanos un DM facilitándonos tu nombre completo, código… https://t.co/v5XhE1hvGy",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "JulianaBazzano",
+                "name": "Juliana Bazzano",
+                "id": 473025779,
+                "id_str": "473025779",
+                "indices": [
+                  0,
+                  15
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/v5XhE1hvGy",
+                "expanded_url": "https://twitter.com/i/web/status/1555896544477560834",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"https://wcentrix.com\" rel=\"nofollow\">WCentrix</a>",
+          "in_reply_to_status_id": 1555766423959511000,
+          "in_reply_to_status_id_str": "1555766423959511041",
+          "in_reply_to_user_id": 473025779,
+          "in_reply_to_user_id_str": "473025779",
+          "in_reply_to_screen_name": "JulianaBazzano",
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "favorited": false,
+          "retweeted": false,
+          "lang": "es"
+        },
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0079CA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1542307226727202817/QH7P2fml_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1542307226727202817/QH7P2fml_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153900887/1655988697",
+        "profile_link_color": "0079CA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      }
+    },
+    "user": {
+      "id": 1552402817167638500,
+      "id_str": "1552402817167638528",
+      "name": "Aerolineas Argentinas",
+      "screen_name": "Aerolineas_rspd",
+      "location": "",
+      "description": "Bienvenidos a nuestra página oficial de Aerolineas Argentina cualquier consulta contactanos al privado muchas gracias.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 0,
+      "friends_count": 126,
+      "listed_count": 0,
+      "created_at": "Wed Jul 27 21:17:34 +0000 2022",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 230,
+      "lang": null,
+      "status": {
+        "created_at": "Mon Aug 08 10:52:53 +0000 2022",
+        "id": 1556594288179531800,
+        "id_str": "1556594288179531777",
+        "text": "@PlanesSpotterAr Hola, cómo estás? te pedimos disculpas por las molestias ocasionadas. Nuestro equipo de atención a… https://t.co/rthvvunpD3",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "PlanesSpotterAr",
+              "name": "El Negro 🇦🇷",
+              "id": 1512742311112839200,
+              "id_str": "1512742311112839172",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/rthvvunpD3",
+              "expanded_url": "https://twitter.com/i/web/status/1556594288179531777",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1556584929273622500,
+        "in_reply_to_status_id_str": "1556584929273622528",
+        "in_reply_to_user_id": 1512742311112839200,
+        "in_reply_to_user_id_str": "1512742311112839172",
+        "in_reply_to_screen_name": "PlanesSpotterAr",
         "geo": null,
         "coordinates": null,
         "place": null,
@@ -63138,7 +63606,7 @@
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 229,
+        "statuses_count": 230,
         "lang": null,
         "contributors_enabled": false,
         "is_translator": false,
@@ -63216,7 +63684,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -63572,7 +64040,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -63928,7 +64396,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -64284,7 +64752,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -64640,7 +65108,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -64986,7 +65454,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -65332,7 +65800,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -65678,7 +66146,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -65998,7 +66466,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -66318,7 +66786,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -66638,7 +67106,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -66968,7 +67436,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -67288,7 +67756,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -67608,7 +68076,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -67928,7 +68396,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -68248,7 +68716,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -68568,7 +69036,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -68888,7 +69356,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -69254,7 +69722,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -69620,7 +70088,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -69986,7 +70454,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -70306,7 +70774,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -70626,7 +71094,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -70946,7 +71414,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -71266,7 +71734,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -71586,7 +72054,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -71906,7 +72374,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -72226,7 +72694,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -72546,7 +73014,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -72892,7 +73360,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -73238,7 +73706,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -73584,7 +74052,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -73940,7 +74408,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -74296,7 +74764,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -74652,7 +75120,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -75008,7 +75476,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -75354,7 +75822,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -75710,7 +76178,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -76066,7 +76534,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -76422,7 +76890,7 @@
           }
         },
         "protected": false,
-        "followers_count": 447742,
+        "followers_count": 447748,
         "friends_count": 37,
         "listed_count": 1213,
         "created_at": "Wed Jun 09 20:56:04 +0000 2010",
@@ -76768,7 +77236,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -77093,7 +77561,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -77418,7 +77886,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -77727,7 +78195,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -78046,7 +78514,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -78365,7 +78833,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -78684,7 +79152,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -79003,7 +79471,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -79328,7 +79796,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -79653,7 +80121,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -79978,7 +80446,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -80287,7 +80755,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -80596,7 +81064,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -80905,7 +81373,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -81230,7 +81698,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -81555,7 +82023,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -81864,7 +82332,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -82173,7 +82641,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -82482,7 +82950,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -82791,7 +83259,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -83100,7 +83568,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -83425,7 +83893,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -83750,7 +84218,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -84075,7 +84543,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -84410,7 +84878,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -84735,7 +85203,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -85034,7 +85502,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -85333,7 +85801,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -85652,7 +86120,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -85962,7 +86430,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -86271,7 +86739,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -86580,7 +87048,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -86889,7 +87357,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -87198,7 +87666,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -87507,7 +87975,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -87842,7 +88310,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -88177,7 +88645,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -88484,7 +88952,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -88791,7 +89259,7 @@
           }
         },
         "protected": false,
-        "followers_count": 97244,
+        "followers_count": 97246,
         "friends_count": 105,
         "listed_count": 167,
         "created_at": "Sat Oct 22 22:26:32 +0000 2016",
@@ -93543,7 +94011,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -93863,7 +94331,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -94183,7 +94651,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -94503,7 +94971,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -94869,7 +95337,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -95235,7 +95703,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -95601,7 +96069,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -95967,7 +96435,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -96343,7 +96811,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -96673,7 +97141,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -97003,7 +97471,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -97333,7 +97801,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -97679,7 +98147,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -98025,7 +98493,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -98371,7 +98839,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -98717,7 +99185,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -99063,7 +99531,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -99429,7 +99897,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -99795,7 +100263,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -100161,7 +100629,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
@@ -100527,7 +100995,7 @@
           }
         },
         "protected": false,
-        "followers_count": 183572,
+        "followers_count": 183571,
         "friends_count": 240,
         "listed_count": 118,
         "created_at": "Wed Mar 08 12:02:16 +0000 2017",
