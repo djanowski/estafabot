@@ -122,7 +122,8 @@ async function analyzeTweet({ brand, user, tweet }) {
   } catch (error) {
     const isNotFound = error.code === 404;
     const isSuspendedAccount = error.data?.errors?.some(e => e.code === 63);
-    if (!(isNotFound || isSuspendedAccount))
+    const isProtectedTweet = error.data?.errors?.some(e => e.code === 179);
+    if (!(isNotFound || isSuspendedAccount || isProtectedTweet))
       console.error(
         `Error retrieving tweet https://twitter.com/i/web/status/${tweet.id_str}`,
         error
