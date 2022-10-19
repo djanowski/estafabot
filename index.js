@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const { TwitterApi } = require('twitter-api-v2');
 const { compareTwoStrings } = require('string-similarity');
 const { brands } = require('./brands.json');
