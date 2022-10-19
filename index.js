@@ -48,7 +48,7 @@ async function findUsers(name) {
 
   for (let i = 1; i <= 3; i++) {
     const page = await readClient.v1.get('users/search.json', {
-      q: name,
+      q: `"${name}"`,
       count: 20,
       page: i,
     });
