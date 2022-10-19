@@ -22,23 +22,23 @@ const writeClient = new TwitterApi({
   accessSecret: process.env.ACCESS_SECRET,
 });
 
-async function analyzeAllBrands() {
+async function analyzeAllBrands({ scammers, alertedIDs }) {
   const results = await Bluebird.resolve(brands)
-    .map(brand => analyzeBrand({ brand }))
+    .map(brand => analyzeBrand({ brand, scammers, alertedIDs }))
     .reduce((accum, array) => accum.concat(array), [])
     .filter(Boolean);
 
   return results;
 }
 
-async function analyzeBrand({ brand }) {
+async function analyzeBrand({ brand, scammers, alertedIDs }) {
   const users = await findUsers(brand.name);
   const verifiedUser = users.find(user => user.verified);
 
   brand.user = verifiedUser;
 
   return await Bluebird.resolve(users)
-    .map(user => analyzeUserResult({ brand, user }))
+    .map(user => analyzeUserResult({ brand, user, scammers, alertedIDs }))
     .reduce((accum, array) => accum.concat(array), [])
     .filter(Boolean);
 }
@@ -61,7 +61,7 @@ async function findUsers(name) {
   return users;
 }
 
-async function analyzeUserResult({ brand, user }) {
+async function analyzeUserResult({ brand, user, scammers, alertedIDs }) {
   if (user.verified) return [];
 
   if (user.protected) return [];
@@ -71,16 +71,27 @@ async function analyzeUserResult({ brand, user }) {
 
   if (nameSimilarity < 0.65) return;
 
+  const today = new Date();
+  const scammer = scammers?.[user.id_str];
+
   try {
     const timeline = await readClient.v1.get('statuses/user_timeline.json', {
       user_id: user.id_str,
-      count: 5,
+      count: 200,
+      since_id: scammer?.last_id,
       tweet_mode: 'extended',
     });
-    const replies = timeline.filter(tweet => tweet.in_reply_to_status_id_str);
+    const candidates = timeline
+      .filter(tweet => tweet.in_reply_to_status_id_str)
+      .filter(tweet => {
+        const tweetDate = new Date(tweet.created_at);
+        const isRecent = differenceInDays(today, tweetDate) <= 3;
+        return isRecent;
+      })
+      .filter(tweet => !alertedIDs.has(tweet.id_str));
 
-    const results = await Bluebird.resolve(replies)
-      .map(tweet => analyzeTweet({ brand, user, tweet }))
+    const results = await Bluebird.resolve(candidates)
+      .map(tweet => analyzeTweet({ brand, user, tweet }), { concurrency: 5 })
       .filter(({ isScam }) => isScam);
     return results;
   } catch (error) {
@@ -93,7 +104,18 @@ async function analyzeUserResult({ brand, user }) {
 }
 
 async function analyzeTweet({ brand, user, tweet }) {
-  if (brand.noAccount) return { brand, user, tweet, isScam: true };
+  if (brand.noAccount) {
+    const inReplyTo = await readClient.v1.get('statuses/show.json', {
+      id: tweet.in_reply_to_status_id_str,
+      tweet_mode: 'extended',
+    });
+    return {
+      brand,
+      scammer: { user, tweet },
+      victim: { user: inReplyTo.user, tweet: inReplyTo },
+      isScam: true,
+    };
+  }
 
   if (!brand.user) {
     console.error(`Cannot find verified profile for ${brand.name}, skipping`);
@@ -109,6 +131,7 @@ async function analyzeTweet({ brand, user, tweet }) {
 
     const inReplyTo = await readClient.v1.get('statuses/show.json', {
       id: tweet.in_reply_to_status_id_str,
+      tweet_mode: 'extended',
     });
 
     const originalTweetIsForVerifiedUser =
@@ -117,7 +140,12 @@ async function analyzeTweet({ brand, user, tweet }) {
       );
 
     if (originalTweetIsForVerifiedUser) {
-      return { brand, user, tweet, isScam: true };
+      return {
+        brand,
+        scammer: { user, tweet },
+        victim: { user: inReplyTo.user, tweet: inReplyTo },
+        isScam: true,
+      };
     } else return { isScam: false };
   } catch (error) {
     const isNotFound = error.code === 404;
@@ -137,52 +165,55 @@ async function postAlerts(results) {
   const candidates = await getCandidatesForAlerts(results);
 
   for (const candidate of candidates) {
-    await postAlert(candidate);
+    const alertTweet = await postAlert(candidate);
     await Bluebird.delay(2000);
   }
 }
 
 async function getCandidatesForAlerts(results) {
   const alertedTweetIDs = await getAlreadyAlertedTweetIDs();
-  const candidates = results
-    .filter(({ tweet }) => {
-      const isAlreadyRepliedTo = alertedTweetIDs.has(tweet.id_str);
-      return !isAlreadyRepliedTo;
-    })
-    .filter(({ tweet }) => {
-      const tweetDate = new Date(tweet.created_at);
-      const today = new Date();
-      const isRecent = differenceInDays(today, tweetDate) <= 3;
-      return isRecent;
-    });
+  const candidates = results.filter(({ tweet }) => {
+    const isAlreadyRepliedTo = alertedTweetIDs.has(tweet.id_str);
+    return !isAlreadyRepliedTo;
+  });
   return candidates;
 }
 
-async function postAlert({ brand, user, tweet }) {
+async function postAlert({ brand, scammer, victim }) {
+  const tweetURL = `https://twitter.com/${scammer.user.screen_name}/status/${scammer.tweet.id_str}`;
+  console.log(
+    `Alerting ${victim.user.screen_name} about ${scammer.user.screen_name} ${tweetURL}`
+  );
+
+  if (process.env.DRY_RUN)
+    return { id_str: 'dry-run', created_at: new Date().toString() };
+
   try {
-    await postAlertViaReply({ brand, user, tweet });
+    return await postAlertViaReply({ brand, scammer, victim });
   } catch (error) {
     const isBlocked = error.code === 403;
     if (isBlocked) {
-      await postAlertViaQuote({ brand, user, tweet });
+      return await postAlertViaQuote({ brand, scammer, victim });
     } else throw error;
   }
 }
 
-async function postAlertViaReply({ brand, user, tweet }) {
+async function postAlertViaReply({ brand, scammer, victim }) {
   const text = getBaseAlertText({ brand });
-  await writeClient.v1.post('statuses/update.json', {
+  return await writeClient.v1.post('statuses/update.json', {
     status: text,
-    in_reply_to_status_id: tweet.id_str,
+    in_reply_to_status_id: scammer.tweet.id_str,
     auto_populate_reply_metadata: true,
   });
 }
 
-async function postAlertViaQuote({ brand, user, tweet }) {
-  const victims = tweet.entities.user_mentions?.map(m => `@${m.screen_name}`);
-  const tweetURL = `https://twitter.com/${user.screen_name}/status/${tweet.id_str}`;
+async function postAlertViaQuote({ brand, scammer, victim }) {
+  const victims = scammer.tweet.entities.user_mentions?.map(
+    m => `@${m.screen_name}`
+  );
+  const tweetURL = `https://twitter.com/${scammer.user.screen_name}/status/${scammer.tweet.id_str}`;
   const baseText = getBaseAlertText({ brand });
-  const result = await writeClient.v1.post('statuses/update.json', {
+  return await writeClient.v1.post('statuses/update.json', {
     status: [...victims, baseText, tweetURL].join(' '),
   });
 }
