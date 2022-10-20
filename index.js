@@ -73,7 +73,7 @@ async function analyzeUserResult({ brand, user, scammers, alertedIDs }) {
 
   const today = new Date();
   const scammer = scammers?.[user.id_str];
-  const cutoff = new Date('2022-10-20T21:00:00.000Z');
+  const cutoff = new Date('2022-10-20T20:05:00.000Z');
 
   try {
     const timeline = await readClient.v1.get('statuses/user_timeline.json', {
