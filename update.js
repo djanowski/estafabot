@@ -56,7 +56,7 @@ async function saveScammer(scammer) {
     last_id: lastID,
     id_str: scammer.id_str,
     screen_name: scammer.screen_name,
-    created_at: scammer.created_at,
+    created_at: new Date(scammer.created_at).valueOf(),
   };
   fs.writeFileSync('data/scammers.json', JSON.stringify(scammers));
 }
