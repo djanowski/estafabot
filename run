@@ -5,7 +5,7 @@ set -euo pipefail
 node update.js
 
 if ! git diff --quiet results.json; then
-  git add results.json
+  git add data/
   git commit -q -a -m 'Updated.' || true
   git push -q -u origin HEAD
 fi
