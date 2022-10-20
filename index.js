@@ -11,7 +11,7 @@ require('util').inspect.defaultOptions.depth = 10;
 const readClient = new TwitterApi({
   appKey: process.env.READ_APP_KEY || process.env.APP_KEY,
   appSecret: process.env.READ_APP_SECRET || process.env.APP_SECRET,
-  accessToken: process.env.READ_ACCESS_TOKEN || process.env.READ_ACCESS_TOKEN,
+  accessToken: process.env.READ_ACCESS_TOKEN || process.env.ACCESS_TOKEN,
   accessSecret: process.env.READ_ACCESS_SECRET | process.env.ACCESS_SECRET,
 });
 
