@@ -19,6 +19,7 @@ jobs:
       - run: git config --global user.email "actions@users.noreply.github.com"
       - run: npm run findScammers
         env:
+          NODE_ENV: production
           APP_KEY: ${{ secrets.APP_KEY }}
           APP_BEARER_TOKEN: ${{ secrets.APP_BEARER_TOKEN }}
           APP_SECRET: ${{ secrets.APP_SECRET }}

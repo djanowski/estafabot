@@ -5,15 +5,13 @@ import { TwitterApiCachePluginRedis } from '@twitter-api-v2/plugin-cache-redis';
 import util from 'util';
 import ms from 'ms';
 
-util.inspect.defaultOptions.depth = 3;
+util.inspect.defaultOptions.depth = 4;
 
-const redisInstance = createClient();
-const cachePlugin = new TwitterApiCachePluginRedis(redisInstance, {
-  ttl: ms('8h'),
-});
+const plugins =
+  process.env.NODE_ENV === 'development' ? [getRedisPlugin()] : [];
 
 export const appClient = new TwitterApi(process.env.APP_BEARER_TOKEN, {
-  plugins: [cachePlugin],
+  plugins,
 });
 
 export const writeClient = new TwitterApi({
@@ -22,3 +20,8 @@ export const writeClient = new TwitterApi({
   accessToken: process.env.ACCESS_TOKEN,
   accessSecret: process.env.ACCESS_SECRET,
 });
+
+function getRedisPlugin() {
+  console.warn('WARNING: Using Redis as a cache for Twitter requests');
+  return new TwitterApiCachePluginRedis(createClient(), { ttl: ms('1d') });
+}
