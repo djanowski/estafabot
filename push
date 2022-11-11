@@ -2,10 +2,9 @@
 
 set -euo pipefail
 
-node update.js
-
 if ! git diff --quiet data; then
   git add data
   git commit -q -a -m 'Updated.' || true
+  git pull --rebase || true
   git push -q -u origin HEAD
 fi
