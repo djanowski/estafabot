@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha test/",
+    "start": "node start.js",
     "findScammers": "node findScammers.js && ./push"
   },
   "engines": {
