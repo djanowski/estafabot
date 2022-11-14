@@ -1,14 +1,20 @@
 import Bluebird from 'bluebird';
-import { subDays, endOfDay } from 'date-fns';
+import { format, startOfHour, sub } from 'date-fns';
 import fs from 'fs';
 import { appClient, writeClient } from './clients.js';
 import { getScammers, updateLastID } from './scammers.js';
 import saveArray from './saveArray.js';
 
+const cutoff = sub(startOfHour(new Date()), { hours: 4 });
+const dryRun = !!process.env.DRY_RUN;
+
 export default async function update() {
-  const shuffledScammers = Object.values(getScammers()).sort(
-    () => Math.random() - 0.5
-  );
+  console.log('Cutoff time is', format(cutoff, 'yyyy-MM-dd HH:mm:ss'));
+
+  const scammers = getScammers();
+  console.log('Scammer count', scammers.length);
+
+  const shuffledScammers = getScammers().sort(() => Math.random() - 0.5);
   for (const scammer of shuffledScammers) {
     await processScammer(scammer);
   }
@@ -16,7 +22,6 @@ export default async function update() {
 
 async function processScammer(scammer) {
   const alertedIDs = getAlertedIDs();
-  const cutoff = subDays(endOfDay(new Date()), 1);
 
   const tweets = await toArray(
     await appClient.v2.userTimeline(scammer.id, {
@@ -48,11 +53,19 @@ async function processScammer(scammer) {
       scammer: { user: scammer, tweet },
       victim: { user: victim },
     };
-    const alertTweet = await postAlert(alert);
-    if (alertTweet) {
-      // Can be null if duplicate
-      await saveAlert({ ...alert, alert: alertTweet });
-      await Bluebird.delay(10000);
+
+    const tweetURL = `https://twitter.com/${alert.scammer.user.username}/status/${alert.scammer.tweet.id}`;
+    console.log(
+      `Alerting ${alert.victim.user.username} about ${alert.scammer.user.username} ${tweetURL}`
+    );
+
+    if (!dryRun) {
+      const alertTweet = await postAlert(alert);
+      if (alertTweet) {
+        // Can be null if duplicate
+        await saveAlert({ ...alert, alert: alertTweet });
+        await Bluebird.delay(10000);
+      }
     }
   }
 
@@ -116,14 +129,6 @@ function getAlertedIDs() {
 }
 
 async function postAlert({ brand, scammer, victim }) {
-  const tweetURL = `https://twitter.com/${scammer.user.username}/status/${scammer.tweet.id}`;
-  console.log(
-    `Alerting ${victim.user.username} about ${scammer.user.username} ${tweetURL}`
-  );
-
-  if (process.env.DRY_RUN)
-    return { id: 'dry-run', created_at: new Date().toString() };
-
   return await ignoreDuplicates(async () => {
     try {
       return await postAlertViaReply({ brand, scammer, victim });
