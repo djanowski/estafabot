@@ -11,10 +11,13 @@ const dryRun = !!process.env.DRY_RUN;
 export default async function update() {
   console.log('Cutoff time is', format(cutoff, 'yyyy-MM-dd HH:mm:ss'));
 
-  const scammers = getScammers();
+  const scammers = process.env.SCAMMER
+    ? getScammers().filter(s => s.username === process.env.SCAMMER)
+    : getScammers();
+
   console.log('Scammer count', scammers.length);
 
-  const shuffledScammers = getScammers().sort(() => Math.random() - 0.5);
+  const shuffledScammers = scammers.sort(() => Math.random() - 0.5);
   for (const scammer of shuffledScammers) {
     await processScammer(scammer);
   }
@@ -55,6 +58,14 @@ async function processScammer(scammer) {
     };
 
     const tweetURL = `https://twitter.com/${alert.scammer.user.username}/status/${alert.scammer.tweet.id}`;
+
+    if (alreadyAlerted({ alert })) {
+      console.log(
+        `Already alerted ${alert.victim.user.username} about ${alert.scammer.user.username} ${tweetURL}`
+      );
+      continue;
+    }
+
     console.log(
       `Alerting ${alert.victim.user.username} about ${alert.scammer.user.username} ${tweetURL}`
     );
@@ -71,6 +82,15 @@ async function processScammer(scammer) {
 
   const lastID = tweets[0]?.id;
   updateLastID({ scammer, lastID });
+}
+
+function alreadyAlerted({ alert }) {
+  const alerts = JSON.parse(fs.readFileSync('data/alerts.json'));
+  return alerts.some(
+    a =>
+      a.scammer.user.id === alert.scammer.user.id &&
+      a.victim.user.id === alert.victim.user.id
+  );
 }
 
 async function saveAlert({ brand, scammer, victim, alert }) {
