@@ -75,8 +75,9 @@ async function processScammer(scammer) {
       if (alertTweet) {
         // Can be null if duplicate
         await saveAlert({ ...alert, alert: alertTweet });
-        await Bluebird.delay(10000);
       }
+
+      await Bluebird.delay(10000);
     }
   }
 
@@ -168,8 +169,11 @@ async function ignoreDuplicates(fn) {
   } catch (error) {
     const isDuplicate =
       error.code === 403 && error.data?.detail?.includes('duplicate');
-    if (!isDuplicate) throw error;
-    return null;
+    if (isDuplicate) {
+      console.warn(error);
+      return null;
+    }
+    throw error;
   }
 }
 
