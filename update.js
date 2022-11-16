@@ -12,7 +12,9 @@ export default async function update() {
   console.log('Cutoff time is', format(cutoff, 'yyyy-MM-dd HH:mm:ss'));
 
   const scammers = process.env.SCAMMER
-    ? getScammers().filter(s => s.username === process.env.SCAMMER)
+    ? getScammers().filter(
+        s => s.username.toLowerCase() === process.env.SCAMMER.toLowerCase()
+      )
     : getScammers();
 
   console.log('Scammer count', scammers.length);
@@ -72,11 +74,9 @@ async function processScammer(scammer) {
 
     if (!dryRun) {
       const alertTweet = await postAlert(alert);
-      if (alertTweet) {
-        // Can be null if duplicate
+      if (alertTweet.id !== 'duplicate') {
         await saveAlert({ ...alert, alert: alertTweet });
       }
-
       await Bluebird.delay(10000);
     }
   }
@@ -86,6 +86,7 @@ async function processScammer(scammer) {
 }
 
 function alreadyAlerted({ alert }) {
+  console.log(alert);
   const alerts = JSON.parse(fs.readFileSync('data/alerts.json'));
   return alerts.some(
     a =>
@@ -168,10 +169,10 @@ async function ignoreDuplicates(fn) {
     return await fn();
   } catch (error) {
     const isDuplicate =
-      error.code === 403 && error.data?.detail?.includes('duplicate');
+      error.code === 403 && error.message.includes('Status is a duplicate');
     if (isDuplicate) {
-      console.warn(error);
-      return null;
+      console.warn(error.message);
+      return { id: 'duplicate' };
     }
     throw error;
   }
@@ -187,7 +188,7 @@ async function postAlertViaQuote({ brand, scammer, victim }) {
   const tweetURL = `https://twitter.com/${scammer.user.username}/status/${scammer.tweet.id}`;
   const baseText = getBaseAlertText({ brand });
   const text = [...victims, baseText, tweetURL].join(' ');
-  const { data: tweet } = await writeClient.v1.tweet(text);
+  const tweet = await writeClient.v1.tweet(text);
   return tweet;
 }
 
