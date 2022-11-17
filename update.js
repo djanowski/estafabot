@@ -86,7 +86,6 @@ async function processScammer(scammer) {
 }
 
 function alreadyAlerted({ alert }) {
-  console.log(alert);
   const alerts = JSON.parse(fs.readFileSync('data/alerts.json'));
   return alerts.some(
     a =>
