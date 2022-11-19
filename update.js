@@ -5,10 +5,10 @@ import { appClient, writeClient } from './clients.js';
 import { getScammers, updateLastID } from './scammers.js';
 import saveArray from './saveArray.js';
 
-const cutoff = sub(startOfHour(new Date()), { hours: 4 });
 const dryRun = !!process.env.DRY_RUN;
 
 export default async function update() {
+  const cutoff = sub(startOfHour(new Date()), { hours: 4 });
   console.log('Cutoff time is', format(cutoff, 'yyyy-MM-dd HH:mm:ss'));
 
   const scammers = process.env.SCAMMER
@@ -21,19 +21,22 @@ export default async function update() {
 
   const shuffledScammers = scammers.sort(() => Math.random() - 0.5);
   for (const scammer of shuffledScammers) {
-    await processScammer(scammer);
+    await processScammer(scammer, cutoff);
   }
 }
 
-async function processScammer(scammer) {
+async function processScammer(scammer, cutoff) {
   const alertedIDs = getAlertedIDs();
+
+  const query = scammer.last_id
+    ? { since_id: scammer.last_id }
+    : { start_time: cutoff.toISOString() };
 
   const tweets = await toArray(
     await appClient.v2.userTimeline(scammer.id, {
+      ...query,
       max_results: 100,
       exclude: 'retweets',
-      since_id: scammer?.last_id,
-      start_time: cutoff.toISOString(),
       'tweet.fields': [
         'conversation_id',
         'in_reply_to_user_id',
@@ -46,7 +49,8 @@ async function processScammer(scammer) {
 
   const candidates = tweets
     .filter(tweet => tweet.in_reply_to_user_id)
-    .filter(tweet => !alertedIDs.has(tweet.id));
+    .filter(tweet => !alertedIDs.has(tweet.id))
+    .filter(tweet => tweet.created_at >= cutoff.toISOString());
 
   for (const tweet of candidates) {
     const { data: victim } = await appClient.v2.user(
