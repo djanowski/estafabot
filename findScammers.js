@@ -1,13 +1,15 @@
 import { compareTwoStrings } from 'string-similarity';
 import Bluebird from 'bluebird';
-import fs from 'node:fs';
 import { appClient } from './clients.js';
-import { getScammers, saveScammer } from './scammers.js';
 import uniqueBy from './uniqueBy.js';
-
-const { brands } = JSON.parse(fs.readFileSync('./brands.json'));
+import Brand from './brand.js';
+import Scammer from './scammer.js';
+import connect from './db.js';
 
 async function main() {
+  await connect();
+  const brands = await Brand.find().limit(2);
+
   await Bluebird.resolve(brands).map(brand => processBrand({ brand }), {
     concurrency: 5,
   });
@@ -18,23 +20,25 @@ async function processBrand({ brand }) {
   // eslint-disable-next-line no-shadow
   for (const { scammer, brand } of results) {
     console.log(`Found scammer ${scammer.user.screen_name} (${brand.name})`);
-    saveScammer({ scammer: scammer.user, brand });
+    await Scammer.create({
+      id: scammer.user.id_str,
+      username: scammer.user.screen_name,
+      createdAt: scammer.user.created_at,
+      brand,
+    });
   }
 }
 
 async function analyzeBrand({ brand }) {
   console.log('Analyzing brand', brand.name);
   const knownScammerIDs = new Set(
-    (await getScammers()).map(scammer => scammer.id)
+    (await Scammer.find().select('id').lean()).map(s => s.id)
   );
   const users = await findUsers(brand.name);
-  const verifiedUser = users.find(user => user.verified);
-
-  const brandWithUser = { ...brand, user: verifiedUser };
 
   return await Bluebird.resolve(users)
     .filter(user => !knownScammerIDs.has(user.id_str))
-    .map(user => analyzeUserResult({ brand: brandWithUser, user }), {
+    .map(user => analyzeUserResult({ brand, user }), {
       concurrency: 1,
     })
     .filter(Boolean);
@@ -109,7 +113,7 @@ async function analyzeTweet({ brand, user, tweet }) {
     };
   }
 
-  if (!brand.user) {
+  if (!brand.username) {
     console.error(`Cannot find verified profile for ${brand.name}, skipping`);
     return { isScam: false };
   }
@@ -117,7 +121,8 @@ async function analyzeTweet({ brand, user, tweet }) {
   try {
     // Scammers don't usually mention the brand's official account in their tweets.
     const tweetMentionsBrand = tweet.entities?.user_mentions?.some(
-      mention => mention.screen_name === brand.user.screen_name
+      mention =>
+        mention.screen_name.toLowerCase() === brand.username.toLowerCase()
     );
     if (tweetMentionsBrand) return { isScam: false };
 
@@ -128,7 +133,8 @@ async function analyzeTweet({ brand, user, tweet }) {
 
     const originalTweetIsForVerifiedUser =
       inReplyTo.entities?.user_mentions?.some(
-        mention => mention.screen_name === brand.user.screen_name
+        mention =>
+          mention.screen_name.toLowerCase() === brand.username.toLowerCase()
       );
 
     if (originalTweetIsForVerifiedUser) {
