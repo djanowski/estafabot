@@ -34,13 +34,12 @@ export default async function update() {
         const scammer = batch.find(s => s.id === user.id_str);
         await processScammer(scammer, cutoff);
         lastStatusID.set(user.id_str, user.status.id_str);
-      }
-
-      process.stdout.write('.');
+        process.stdout.write('.');
+      } else process.stdout.write('-');
     }
   }
 
-  process.stdout.write('\n---\n');
+  process.stdout.write('\n');
 }
 
 function batchArray(array, size) {
