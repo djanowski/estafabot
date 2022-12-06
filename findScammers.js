@@ -8,7 +8,8 @@ import connect from './db.js';
 
 async function main() {
   await connect();
-  const brands = await Brand.find();
+
+  const brands = await Brand.find({ name: { $not: /ypf|fr.vega/i } });
 
   await Bluebird.resolve(brands).map(brand => processBrand({ brand }), {
     concurrency: 5,
@@ -87,6 +88,7 @@ async function analyzeUserResult({ brand, user }) {
   if (user.verified) return null;
 
   if (user.protected) return null;
+  if (user.id_str === brand.id) return null;
 
   const names = [brand.name, user.name].map(s => s.toLowerCase());
   const nameSimilarity = compareTwoStrings(...names);
@@ -118,16 +120,21 @@ async function analyzeUserResult({ brand, user }) {
     return null;
   } catch (error) {
     const isBlockedError = error.data?.errors?.[0]?.code === 136;
+    const isSuspendedError = error.data?.errors?.[0]?.code === 131;
     if (isBlockedError) {
       console.error(`${user.screen_name} blocked us`);
-      return [];
+      return null;
+    }
+    if (isSuspendedError) {
+      console.error(`${user.screen_name} is already suspended`);
+      return null;
     }
     throw error;
   }
 }
 
 async function analyzeTweet({ brand, user, tweet }) {
-  if (brand.noAccount) {
+  if (brand.hasAccount === false) {
     const inReplyTo = await appClient.v1.get('statuses/show.json', {
       id: tweet.in_reply_to_status_id_str,
       tweet_mode: 'extended',
@@ -141,7 +148,9 @@ async function analyzeTweet({ brand, user, tweet }) {
   }
 
   if (!brand.username) {
-    console.error(`Cannot find verified profile for ${brand.name}, skipping`);
+    console.error(
+      `Cannot find verified profile for ${brand.name}, skipping: ${tweet.full_text}`
+    );
     return { isScam: false };
   }
 
