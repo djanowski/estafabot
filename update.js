@@ -7,6 +7,8 @@ import connect from './db.js';
 
 const dryRun = !!process.env.DRY_RUN;
 
+const lastStatusID = new Map();
+
 export default async function update() {
   await connect();
 
@@ -20,9 +22,33 @@ export default async function update() {
   console.log('Scammer count', scammers.length);
 
   const shuffledScammers = scammers.sort(() => Math.random() - 0.5);
-  for (const scammer of shuffledScammers) {
-    await processScammer(scammer, cutoff);
+  const batches = batchArray(shuffledScammers, 100);
+
+  for (const batch of batches) {
+    const users = await appClient.v1.users({ user_id: batch.map(s => s.id) });
+
+    for (const user of users) {
+      const hasChanged = lastStatusID.get(user.id_str) !== user.status.id_str;
+
+      if (hasChanged) {
+        const scammer = batch.find(s => s.id === user.id_str);
+        await processScammer(scammer, cutoff);
+        lastStatusID.set(user.id_str, user.status.id_str);
+      }
+
+      process.stdout.write('.');
+    }
   }
+
+  process.stdout.write('\n---\n');
+}
+
+function batchArray(array, size) {
+  const result = [];
+  for (let i = 0; i < array.length; i += size) {
+    result.push(array.slice(i, i + size));
+  }
+  return result;
 }
 
 async function processScammer(scammer, cutoff) {
