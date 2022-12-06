@@ -29,7 +29,6 @@ brandSchema.statics.findByUsername = async function findByUsername(username) {
     brand => brand.username?.toLowerCase() === username.toLowerCase()
   );
 
-  console.log({ username, exact });
   if (exact) return exact;
 
   const { bestMatchIndex } = findBestMatch(

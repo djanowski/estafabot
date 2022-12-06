@@ -1,21 +1,21 @@
 import Bluebird from 'bluebird';
 import { format, startOfHour, sub } from 'date-fns';
-import fs from 'fs';
 import { appClient, writeClient } from './clients.js';
-import { getScammers, updateLastID } from './scammers.js';
-import saveArray from './saveArray.js';
+import Scammer from './scammer.js';
+import Alert from './alert.js';
+import connect from './db.js';
 
 const dryRun = !!process.env.DRY_RUN;
 
 export default async function update() {
+  await connect();
+
   const cutoff = sub(startOfHour(new Date()), { hours: 4 });
   console.log('Cutoff time is', format(cutoff, 'yyyy-MM-dd HH:mm:ss'));
 
   const scammers = process.env.SCAMMER
-    ? getScammers().filter(
-        s => s.username.toLowerCase() === process.env.SCAMMER.toLowerCase()
-      )
-    : getScammers();
+    ? await Scammer.find({ username: process.env.SCAMMER }).populate('brand')
+    : await Scammer.find().populate('brand');
 
   console.log('Scammer count', scammers.length);
 
@@ -26,10 +26,14 @@ export default async function update() {
 }
 
 async function processScammer(scammer, cutoff) {
-  const alertedIDs = getAlertedIDs();
+  const alertedIDs = new Set(
+    (await Alert.find({ scammer }).lean().select('tweet.id')).map(
+      a => a.tweet.id
+    )
+  );
 
-  const query = scammer.last_id
-    ? { since_id: scammer.last_id }
+  const query = scammer.lastTweetID
+    ? { since_id: scammer.lastTweetID }
     : { start_time: cutoff.toISOString() };
 
   const tweets = await toArray(
@@ -57,110 +61,69 @@ async function processScammer(scammer, cutoff) {
       tweet.in_reply_to_user_id,
       { 'user.fields': 'created_at' }
     );
-    const alert = {
-      brand: { user: { username: scammer.brand } },
-      scammer: { user: scammer, tweet },
-      victim: { user: victim },
-    };
 
-    const tweetURL = `https://twitter.com/${alert.scammer.user.username}/status/${alert.scammer.tweet.id}`;
+    const tweetURL = `https://twitter.com/${scammer.username}/status/${tweet.id}`;
 
-    if (alreadyAlerted({ alert })) {
+    if (await alreadyAlerted({ scammer, victim })) {
       console.log(
-        `Already alerted ${alert.victim.user.username} about ${alert.scammer.user.username} ${tweetURL}`
+        `Already alerted ${victim.username} about ${scammer.username} ${tweetURL}`
       );
       continue;
     }
 
     console.log(
-      `Alerting ${alert.victim.user.username} about ${alert.scammer.user.username} ${tweetURL}`
+      `Alerting ${victim.username} about ${scammer.username} ${tweetURL}`
     );
 
     if (!dryRun) {
-      const alertTweet = await postAlert(alert);
+      const alertTweet = await postAlert({
+        brand: scammer.brand,
+        scammer,
+        victim,
+        tweet,
+      });
       if (alertTweet.id !== 'duplicate') {
-        await saveAlert({ ...alert, alert: alertTweet });
+        await Alert.create({
+          scammer,
+          id: alertTweet.id,
+          createdAt: new Date(alertTweet.created_at),
+          victim: {
+            user: {
+              id: victim.id,
+              username: victim.username,
+              createdAt: new Date(victim.created_at),
+            },
+          },
+          tweet: {
+            id: tweet.id,
+            text: tweet.text,
+            createdAt: new Date(tweet.created_at),
+          },
+        });
       }
       await Bluebird.delay(10000);
     }
   }
 
-  const lastID = tweets[0]?.id;
-  updateLastID({ scammer, lastID });
+  const lastTweetID = tweets[0]?.id;
+  await Scammer.updateOne({ _id: scammer._id }, { $max: { lastTweetID } });
 }
 
-function alreadyAlerted({ alert }) {
-  const alerts = JSON.parse(fs.readFileSync('data/alerts.json'));
-  return alerts.some(
-    a =>
-      a.scammer.user.id === alert.scammer.user.id &&
-      a.victim.user.id === alert.victim.user.id
-  );
+async function alreadyAlerted({ scammer, victim }) {
+  return await Alert.exists({
+    scammer,
+    'victim.user.id': victim.id,
+  });
 }
 
-async function saveAlert({ brand, scammer, victim, alert }) {
-  const alertToSave = {
-    brand: {
-      name: brand.name,
-      user: {
-        id: brand.user.id,
-        username: brand.user.username,
-      },
-    },
-    scammer: {
-      user: {
-        id: scammer.user.id,
-        username: scammer.user.username,
-        created_at: new Date(scammer.user.created_at).valueOf(),
-      },
-      tweet: {
-        id: scammer.tweet.id,
-        full_text: scammer.tweet.text,
-        created_at: new Date(scammer.tweet.created_at).valueOf(),
-      },
-    },
-    victim: {
-      user: {
-        id: victim.user.id,
-        username: victim.user.username,
-        created_at: new Date(victim.user.created_at).valueOf(),
-      },
-      tweet: victim.tweet && {
-        id: victim.tweet.id,
-        full_text: victim.tweet.full_text,
-        created_at: new Date(victim.tweet.created_at).valueOf(),
-      },
-    },
-    alert: {
-      id: alert.id,
-      created_at: new Date(alert.created_at).valueOf(),
-    },
-  };
-
-  const alerts = JSON.parse(fs.readFileSync('data/alerts.json'));
-  alerts.push(alertToSave);
-  saveArray('data/alerts.json', alerts);
-}
-
-function getAlertedIDs() {
-  const alerts = JSON.parse(fs.readFileSync('data/alerts.json'));
-  const alertedIDs = new Set();
-
-  for (const alert of alerts) {
-    alertedIDs.add(alert.scammer.tweet.id);
-  }
-
-  return alertedIDs;
-}
-
-async function postAlert({ brand, scammer, victim }) {
+async function postAlert({ brand, scammer, victim, tweet }) {
   return await ignoreDuplicates(async () => {
     try {
-      return await postAlertViaReply({ brand, scammer, victim });
+      return await postAlertViaReply({ brand, scammer, victim, tweet });
     } catch (error) {
       const isBlocked = error.code === 403;
       if (isBlocked) {
-        return await postAlertViaQuote({ brand, scammer, victim });
+        return await postAlertViaQuote({ brand, scammer, victim, tweet });
       }
       throw error;
     }
@@ -181,28 +144,30 @@ async function ignoreDuplicates(fn) {
   }
 }
 
-async function postAlertViaReply({ brand, scammer }) {
+async function postAlertViaReply({ brand, tweet }) {
   const text = getBaseAlertText({ brand });
-  return await writeClient.v1.reply(text, scammer.tweet.id);
+  const alertTweet = await writeClient.v1.reply(text, tweet.id);
+  return alertTweet;
 }
 
-async function postAlertViaQuote({ brand, scammer, victim }) {
-  const victims = [`@${victim.user.username}`];
-  const tweetURL = `https://twitter.com/${scammer.user.username}/status/${scammer.tweet.id}`;
+async function postAlertViaQuote({ brand, scammer, victim, tweet }) {
+  const victims = [`@${victim.username}`];
+  const tweetURL = `https://twitter.com/${scammer.username}/status/${tweet.id}`;
   const baseText = getBaseAlertText({ brand });
   const text = [...victims, baseText, tweetURL].join(' ');
-  const tweet = await writeClient.v1.tweet(text);
-  return tweet;
+  const alertTweet = await writeClient.v1.tweet(text);
+  return alertTweet;
 }
 
 function getBaseAlertText({ brand }) {
-  if (brand.user?.username) {
-    const brandMention = `@${brand.user.username}`;
+  if (brand.hasAccount) {
+    const brandMention = `@${brand.username}`;
     return `Cuidado, asegurate de estar hablando con la cuenta oficial (${brandMention})`;
   }
-  // return `Cuidado, ${brand.name} no provee soporte oficial por Twitter`;
-  return null;
+
+  return `Cuidado, ${brand.name} no provee soporte oficial por Twitter`;
 }
+
 async function toArray(iterator) {
   const result = [];
   for await (const item of iterator) {

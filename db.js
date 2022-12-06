@@ -1,4 +1,7 @@
 import mongoose from 'mongoose';
+import Brand from './brand.js';
+import Alert from './alert.js';
+import Scammer from './scammer.js';
 
 let connected = false;
 
@@ -18,3 +21,5 @@ export default async function connect() {
 
   console.log(`MongoDB Connected: ${connection.connection.host}`);
 }
+
+export { Brand, Alert, Scammer };
