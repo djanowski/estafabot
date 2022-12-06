@@ -15,7 +15,7 @@ export default async function update() {
 
   const scammers = process.env.SCAMMER
     ? await Scammer.find({ username: process.env.SCAMMER }).populate('brand')
-    : await Scammer.find().populate('brand');
+    : await Scammer.find({ isActive: true }).populate('brand');
 
   console.log('Scammer count', scammers.length);
 

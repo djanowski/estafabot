@@ -6,6 +6,7 @@ const scammerSchema = new mongoose.Schema({
   createdAt: { type: Date },
   brand: { type: mongoose.Schema.Types.ObjectId, ref: 'Brand', required: true },
   lastTweetID: { type: String },
+  isActive: { type: Boolean, default: true },
 });
 
 scammerSchema.statics.findByUsername = async function findByUsername(username) {

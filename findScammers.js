@@ -8,11 +8,38 @@ import connect from './db.js';
 
 async function main() {
   await connect();
-  const brands = await Brand.find().limit(2);
+  const brands = await Brand.find();
 
   await Bluebird.resolve(brands).map(brand => processBrand({ brand }), {
     concurrency: 5,
   });
+
+  const scammers = await Scammer.find({ isActive: true });
+  const batches = batch(scammers, 100);
+  for (const users of batches) {
+    const { errors } = await appClient.v2.users(users.map(s => s.id));
+
+    const deactivated = (errors || [])
+      .filter(error => error.detail.includes('suspended'))
+      .map(error => error.resource_id);
+
+    if (deactivated.length) {
+      await Scammer.updateMany(
+        { id: { $in: deactivated } },
+        { $set: { isActive: false } }
+      );
+
+      console.log('Deactivated', deactivated.length);
+    }
+  }
+}
+
+function batch(array, size) {
+  const result = [];
+  for (let i = 0; i < array.length; i += size) {
+    result.push(array.slice(i, i + size));
+  }
+  return result;
 }
 
 async function processBrand({ brand }) {
