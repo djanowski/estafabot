@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha test/",
     "start": "node start.js",
-    "findScammers": "node findScammers.js && ./push"
+    "findScammers": "node findScammers.js"
   },
   "engines": {
     "node": ">= 16"
