@@ -75,10 +75,15 @@ async function analyzeBrand({ brand }) {
 async function findUsers(name) {
   const users = [];
 
-  const iterator = await appClient.v1.searchUsers(`"${name}"`);
-  for await (const user of iterator) {
-    users.push(user);
-    if (users.length >= 100) break;
+  try {
+    const iterator = await appClient.v1.searchUsers(`"${name}"`);
+    for await (const user of iterator) {
+      users.push(user);
+      if (users.length >= 100) break;
+    }
+  } catch (error) {
+    const isPaginationError = error.errors?.[0]?.code === 44;
+    if (!isPaginationError) throw error;
   }
 
   return uniqueBy(users, user => user.id_str);

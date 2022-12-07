@@ -28,7 +28,7 @@ export default async function update() {
     const users = await appClient.v1.users({ user_id: batch.map(s => s.id) });
 
     for (const user of users) {
-      const hasChanged = lastStatusID.get(user.id_str) !== user.status.id_str;
+      const hasChanged = lastStatusID.get(user.id_str) !== user.status?.id_str;
 
       if (hasChanged) {
         const scammer = batch.find(s => s.id === user.id_str);
