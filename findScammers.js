@@ -78,7 +78,7 @@ async function findUsers(name) {
   const iterator = await appClient.v1.searchUsers(`"${name}"`);
   for await (const user of iterator) {
     users.push(user);
-    if (users.length >= 50) break;
+    if (users.length >= 100) break;
   }
 
   return uniqueBy(users, user => user.id_str);
@@ -89,6 +89,9 @@ async function analyzeUserResult({ brand, user }) {
 
   if (user.protected) return null;
   if (user.id_str === brand.id) return null;
+
+  const isSameName = brand.name.length > 3 && user.name === brand.name;
+  if (isSameName) return { brand, scammer: { user }, isScam: true };
 
   const names = [brand.name, user.name].map(s => s.toLowerCase());
   const nameSimilarity = compareTwoStrings(...names);
