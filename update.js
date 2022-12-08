@@ -1,5 +1,6 @@
 import Bluebird from 'bluebird';
 import { format, startOfHour, sub } from 'date-fns';
+import cliProgress from 'cli-progress';
 import { appClient, writeClient } from './clients.js';
 import Scammer from './scammer.js';
 import Alert from './alert.js';
@@ -12,14 +13,20 @@ const lastStatusID = new Map();
 export default async function update() {
   await connect();
 
-  const cutoff = sub(startOfHour(new Date()), { hours: 4 });
+  const cutoff = sub(startOfHour(new Date()), { hours: 1 });
+  const progress = new cliProgress.SingleBar({
+    format: `Checking scammers... |{bar}| {percentage}% || {value}/{total} scammers`,
+    barCompleteChar: '\u2588',
+    barIncompleteChar: '\u2591',
+  });
+
   console.log('Cutoff time is', format(cutoff, 'yyyy-MM-dd HH:mm:ss'));
 
   const scammers = process.env.SCAMMER
     ? await Scammer.find({ username: process.env.SCAMMER }).populate('brand')
     : await Scammer.find({ isActive: true }).populate('brand');
 
-  console.log('Scammer count', scammers.length);
+  progress.start(scammers.length, 0);
 
   const shuffledScammers = scammers.sort(() => Math.random() - 0.5);
   const batches = batchArray(shuffledScammers, 100);
@@ -34,12 +41,13 @@ export default async function update() {
         const scammer = batch.find(s => s.id === user.id_str);
         await processScammer(scammer, cutoff);
         lastStatusID.set(user.id_str, user.status.id_str);
-        process.stdout.write('.');
-      } else process.stdout.write('-');
+      }
+
+      progress.increment();
     }
   }
 
-  process.stdout.write('\n');
+  progress.stop();
 }
 
 function batchArray(array, size) {
