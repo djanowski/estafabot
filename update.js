@@ -41,7 +41,7 @@ export default async function update() {
       if (hasChanged) {
         const scammer = batch.find(s => s.id === user.id_str);
         await processScammer(scammer, cutoff);
-        lastStatusID.set(user.id_str, user.status.id_str);
+        lastStatusID.set(user.id_str, user.status?.id_str);
       }
 
       progress.increment();
