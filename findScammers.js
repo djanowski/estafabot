@@ -7,6 +7,7 @@ import { appClient } from './clients.js';
 import Brand from './brand.js';
 import Scammer from './scammer.js';
 import connect from './db.js';
+import { notifyScammer } from './notify.js';
 
 async function main() {
   await connect();
@@ -65,9 +66,7 @@ async function processBrand({ brand }) {
     .pipe(strom.filter(Boolean))
     .pipe(
       strom.map(async ({ scammer }) => {
-        console.log(
-          `Found scammer ${scammer.user.screen_name} (${brand.name})`
-        );
+        notifyScammer({ scammer: scammer.user, brand });
         await Scammer.create({
           id: scammer.user.id_str,
           username: scammer.user.screen_name,

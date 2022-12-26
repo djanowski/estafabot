@@ -5,6 +5,7 @@ import { appClient, writeClient } from './clients.js';
 import Scammer from './scammer.js';
 import Alert from './alert.js';
 import connect from './db.js';
+import { notifyAlert } from './notify.js';
 
 const dryRun = !!process.env.DRY_RUN;
 
@@ -92,7 +93,7 @@ async function processScammer(scammer, cutoff) {
   for (const tweet of candidates) {
     const { data: victim } = await appClient.v2.user(
       tweet.in_reply_to_user_id,
-      { 'user.fields': 'created_at' }
+      { 'user.fields': ['created_at', 'public_metrics'] }
     );
 
     const tweetURL = `https://twitter.com/${scammer.username}/status/${tweet.id}`;
@@ -104,9 +105,7 @@ async function processScammer(scammer, cutoff) {
       continue;
     }
 
-    console.log(
-      `Alerting ${victim.username} about ${scammer.username} ${tweetURL}`
-    );
+    notifyAlert({ scammer, victim, tweetURL });
 
     if (!dryRun) {
       const alertTweet = await postAlert({
