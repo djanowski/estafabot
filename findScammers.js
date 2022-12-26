@@ -1,7 +1,9 @@
 import { compareTwoStrings } from 'string-similarity';
 import Bluebird from 'bluebird';
+import { Readable } from 'stream';
+import strom from 'stromjs';
+import { subHours } from 'date-fns';
 import { appClient } from './clients.js';
-import uniqueBy from './uniqueBy.js';
 import Brand from './brand.js';
 import Scammer from './scammer.js';
 import connect from './db.js';
@@ -9,10 +11,13 @@ import connect from './db.js';
 async function main() {
   await connect();
 
-  const brands = await Brand.find({ name: { $not: /ypf|fr.vega/i } });
+  const brands = await Brand.find({
+    name: { $not: /ypf|fr.vega/i },
+    lastUserSearchAt: { $lt: subHours(new Date(), 6) },
+  });
 
   await Bluebird.resolve(brands).map(brand => processBrand({ brand }), {
-    concurrency: 5,
+    concurrency: 2,
   });
 
   const scammers = await Scammer.find({ isActive: true });
@@ -44,52 +49,79 @@ function batch(array, size) {
 }
 
 async function processBrand({ brand }) {
-  const results = await analyzeBrand({ brand });
-  // eslint-disable-next-line no-shadow
-  for (const { scammer, brand } of results) {
-    console.log(`Found scammer ${scammer.user.screen_name} (${brand.name})`);
-    await Scammer.create({
-      id: scammer.user.id_str,
-      username: scammer.user.screen_name,
-      createdAt: scammer.user.created_at,
-      brand,
-    });
-  }
-}
-
-async function analyzeBrand({ brand }) {
   console.log('Analyzing brand', brand.name);
+
   const knownScammerIDs = new Set(
     (await Scammer.find().select('id').lean()).map(s => s.id)
   );
-  const users = await findUsers(brand.name);
 
-  return await Bluebird.resolve(users)
-    .filter(user => !knownScammerIDs.has(user.id_str))
-    .map(user => analyzeUserResult({ brand, user }), {
-      concurrency: 1,
-    })
-    .filter(Boolean);
+  const stream = Readable.from(await findUsers(brand.name))
+    .pipe(uniqueBy(user => user.id_str))
+    .pipe(strom.filter(user => !knownScammerIDs.has(user.id_str)))
+    .pipe(strom.map(user => analyzeUserResult({ brand, user })))
+    .pipe(strom.filter(Boolean))
+    .pipe(
+      strom.map(async ({ scammer }) => {
+        console.log(
+          `Found scammer ${scammer.user.screen_name} (${brand.name})`
+        );
+        await Scammer.create({
+          id: scammer.user.id_str,
+          username: scammer.user.screen_name,
+          createdAt: scammer.user.created_at,
+          brand,
+        });
+      })
+    );
+
+  await strom.last(stream);
+
+  // set last user search at atomically using mongo:
+  await Brand.updateOne(
+    {
+      _id: brand._id,
+    },
+    {
+      $max: {
+        lastUserSearchAt: new Date(),
+      },
+    }
+  );
 }
 
-async function findUsers(name) {
-  const users = [];
-
+// Need to wrap this function because of
+//
+// errors: [
+//    {
+//      code: 44,
+//      message: 'Invalid value 52 for parameter page parameter is invalid.'
+//    }
+//  ]
+async function* findUsers(name) {
   try {
     const iterator = await appClient.v1.searchUsers(`"${name}"`);
     for await (const user of iterator) {
-      users.push(user);
-      if (users.length >= 100) break;
+      yield user;
     }
   } catch (error) {
     const isPaginationError = error.errors?.[0]?.code === 44;
     if (!isPaginationError) throw error;
   }
+}
 
-  return uniqueBy(users, user => user.id_str);
+// stream unique by:
+function uniqueBy(mapper) {
+  const seen = new Set();
+  return strom.filter(item => {
+    const value = mapper(item);
+    if (seen.has(value)) return false;
+    seen.add(value);
+    return true;
+  });
 }
 
 async function analyzeUserResult({ brand, user }) {
+  process.stdout.write('.');
   if (user.verified) return null;
 
   if (user.protected) return null;

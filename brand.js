@@ -18,6 +18,7 @@ const brandSchema = new mongoose.Schema({
     },
   },
   addedAt: { type: Date, required: true, default: Date.now },
+  lastUserSearchAt: { type: Date },
 });
 
 let brandsCache = null;
