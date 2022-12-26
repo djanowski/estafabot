@@ -13,7 +13,10 @@ async function main() {
 
   const brands = await Brand.find({
     name: { $not: /ypf|fr.vega/i },
-    lastUserSearchAt: { $lt: subHours(new Date(), 6) },
+    $or: [
+      { lastUserSearchAt: { $exists: false } },
+      { lastUserSearchAt: { $lt: subHours(new Date(), 6) } },
+    ],
   });
 
   await Bluebird.resolve(brands).map(brand => processBrand({ brand }), {
