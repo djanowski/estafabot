@@ -39,3 +39,11 @@ export async function notifyScammer({ scammer, brand }) {
     `Found new scammer [${username}](https://twitter.com/${username}) (${created}) for ${brand.name}`
   );
 }
+
+export async function notifyError(error) {
+  console.error(error);
+  const codeBlock = '```';
+  await notify(
+    `${codeBlock}\nError: ${error.stack || error.message}\n${codeBlock}`
+  );
+}
