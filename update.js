@@ -105,8 +105,6 @@ async function processScammer(scammer, cutoff) {
       continue;
     }
 
-    notifyAlert({ scammer, victim, tweetURL });
-
     if (!dryRun) {
       const alertTweet = await postAlert({
         brand: scammer.brand,
@@ -114,7 +112,10 @@ async function processScammer(scammer, cutoff) {
         victim,
         tweet,
       });
+
       if (alertTweet.id !== 'duplicate') {
+        notifyAlert({ scammer, victim, tweetURL });
+
         await Alert.create({
           scammer,
           id: alertTweet.id,
@@ -134,6 +135,10 @@ async function processScammer(scammer, cutoff) {
         });
       }
       await Bluebird.delay(10000);
+    } else {
+      console.log(
+        `Would have alerted ${victim.username} about ${scammer.username} ${tweetURL}`
+      );
     }
   }
 
