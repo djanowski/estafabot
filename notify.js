@@ -25,6 +25,10 @@ export async function notifyAlert({ victim, scammer, tweetURL }) {
   const followers = victim.public_metrics.followers_count;
   const following = victim.public_metrics.following_count;
 
+  const isRelevant = followers > 7000 && following < 2000;
+
+  if (!isRelevant) return;
+
   await notify(
     `Alerted [${victim.username}](https://twitter.com/${victim.username}) (${following}/${followers}) about [${scammer.username}](${tweetURL})`
   );
