@@ -7,13 +7,27 @@ const updateInterval = '1m';
 
 console.log('Checking every', updateInterval);
 
-update()
-  .catch(notifyError)
-  .then(() => {
-    setIntervalAsync(async () => {
-      await update().catch(notifyError);
-      fetch(
-        'https://cronitor.link/p/d0f88a8c67c94502beefda7035fc8c48/rWwpwY'
-      ).catch(console.error);
-    }, ms(updateInterval));
-  });
+async function run() {
+  try {
+    await update();
+  } catch (error) {
+    const isOverQuota = error.errors?.[0]?.code === 185;
+    if (isOverQuota) {
+      notifyError(error.message);
+      await new Promise(resolve => {
+        setTimeout(resolve, ms('10m'));
+      });
+    } else {
+      notifyError(error);
+    }
+  }
+}
+
+run().then(() => {
+  setIntervalAsync(async () => {
+    await run();
+    fetch(
+      'https://cronitor.link/p/d0f88a8c67c94502beefda7035fc8c48/rWwpwY'
+    ).catch(console.error);
+  }, ms(updateInterval));
+});
