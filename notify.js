@@ -48,6 +48,8 @@ export async function notifyError(error) {
   console.error(error);
   const codeBlock = '```';
   await notify(
-    `${codeBlock}\nError: ${error.stack || error.message}\n${codeBlock}`
+    `${codeBlock}\nError: ${
+      error.stack || error.message || error.toString()
+    }\n${codeBlock}`
   );
 }

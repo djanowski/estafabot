@@ -12,43 +12,47 @@ const dryRun = !!process.env.DRY_RUN;
 const lastStatusID = new Map();
 
 export default async function update() {
-  await connect();
-
-  const cutoff = sub(startOfHour(new Date()), { hours: 1 });
   const progress = new cliProgress.SingleBar({
     format: `Checking scammers... |{bar}| {percentage}% || {value}/{total} scammers`,
     barCompleteChar: '\u2588',
     barIncompleteChar: '\u2591',
   });
 
-  console.log('Cutoff time is', format(cutoff, 'yyyy-MM-dd HH:mm:ss'));
+  try {
+    await connect();
 
-  const scammers = process.env.SCAMMER
-    ? await Scammer.find({ username: process.env.SCAMMER }).populate('brand')
-    : await Scammer.find({ isActive: true }).populate('brand');
+    const cutoff = sub(startOfHour(new Date()), { hours: 1 });
 
-  progress.start(scammers.length, 0);
+    console.log('Cutoff time is', format(cutoff, 'yyyy-MM-dd HH:mm:ss'));
 
-  const shuffledScammers = scammers.sort(() => Math.random() - 0.5);
-  const batches = batchArray(shuffledScammers, 100);
+    const scammers = process.env.SCAMMER
+      ? await Scammer.find({ username: process.env.SCAMMER }).populate('brand')
+      : await Scammer.find({ isActive: true }).populate('brand');
 
-  for (const batch of batches) {
-    const users = await appClient.v1.users({ user_id: batch.map(s => s.id) });
+    progress.start(scammers.length, 0);
 
-    for (const user of users) {
-      const hasChanged = lastStatusID.get(user.id_str) !== user.status?.id_str;
+    const shuffledScammers = scammers.sort(() => Math.random() - 0.5);
+    const batches = batchArray(shuffledScammers, 100);
 
-      if (hasChanged) {
-        const scammer = batch.find(s => s.id === user.id_str);
-        await processScammer(scammer, cutoff);
-        lastStatusID.set(user.id_str, user.status?.id_str);
+    for (const batch of batches) {
+      const users = await appClient.v1.users({ user_id: batch.map(s => s.id) });
+
+      for (const user of users) {
+        const hasChanged =
+          lastStatusID.get(user.id_str) !== user.status?.id_str;
+
+        if (hasChanged) {
+          const scammer = batch.find(s => s.id === user.id_str);
+          await processScammer(scammer, cutoff);
+          lastStatusID.set(user.id_str, user.status?.id_str);
+        }
+
+        progress.increment();
       }
-
-      progress.increment();
     }
+  } finally {
+    progress.stop();
   }
-
-  progress.stop();
 }
 
 function batchArray(array, size) {
