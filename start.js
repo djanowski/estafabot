@@ -13,7 +13,7 @@ async function run() {
   } catch (error) {
     const isOverQuota = error.errors?.[0]?.code === 185;
     if (isOverQuota) {
-      notifyError(error.message);
+      notifyError(`Error: ${error.errors?.[0]?.message}`);
       await new Promise(resolve => {
         setTimeout(resolve, ms('10m'));
       });
