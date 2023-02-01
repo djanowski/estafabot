@@ -9,7 +9,7 @@ import Scammer from './scammer.js';
 import connect from './db.js';
 import { notifyScammer } from './notify.js';
 
-async function main() {
+export default async function main({ progress }) {
   await connect();
 
   const brands = await Brand.find({
@@ -20,9 +20,17 @@ async function main() {
     ],
   });
 
-  await Bluebird.resolve(brands).map(brand => processBrand({ brand }), {
-    concurrency: 2,
-  });
+  progress.start(brands.length, 0);
+
+  await Bluebird.resolve(brands).map(
+    async brand => {
+      await processBrand({ brand });
+      progress.increment();
+    },
+    {
+      concurrency: 2,
+    }
+  );
 
   const scammers = await Scammer.find({ isActive: true });
   const batches = batch(scammers, 100);
@@ -239,9 +247,7 @@ async function analyzeTweet({ brand, user, tweet }) {
   }
 }
 
-main()
-  .then(() => process.exit(0))
-  .catch(error => {
-    console.error(error);
-    process.exit(1);
-  });
+export const heartbeatURL =
+  'https://cronitor.link/p/d0f88a8c67c94502beefda7035fc8c48/wU7C3M';
+
+export const interval = '30m';

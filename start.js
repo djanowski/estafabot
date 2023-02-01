@@ -1,15 +1,23 @@
 import { setIntervalAsync } from 'set-interval-async';
 import ms from 'ms';
-import update from './update.js';
+import cliProgress from 'cli-progress';
 import { notifyError } from './notify.js';
 
-const updateInterval = '1m';
-
-console.log('Checking every', updateInterval);
+const jobName = process.argv[2];
+const jobPromise = import(`./${jobName}.js`);
 
 async function run() {
+  const { default: fn, heartbeatURL } = await jobPromise;
+
+  const progress = new cliProgress.SingleBar({
+    format: `${jobName} |{bar}| {percentage}% || {value}/{total}`,
+    barCompleteChar: '\u2588',
+    barIncompleteChar: '\u2591',
+  });
+
   try {
-    await update();
+    await fn({ progress });
+    fetch(heartbeatURL).catch(console.error);
   } catch (error) {
     const firstError = error.errors?.[0];
     const isOverQuota = firstError?.code === 185;
@@ -21,14 +29,15 @@ async function run() {
     } else {
       notifyError(error);
     }
+  } finally {
+    progress.stop();
   }
 }
 
-run().then(() => {
-  setIntervalAsync(async () => {
-    await run();
-    fetch(
-      'https://cronitor.link/p/d0f88a8c67c94502beefda7035fc8c48/rWwpwY'
-    ).catch(console.error);
-  }, ms(updateInterval));
+jobPromise.then(({ interval }) => {
+  console.log('Running every', interval);
+
+  run().then(() => {
+    setIntervalAsync(run, ms(interval));
+  });
 });

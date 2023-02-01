@@ -1,6 +1,5 @@
 import Bluebird from 'bluebird';
 import { format, startOfHour, sub } from 'date-fns';
-import cliProgress from 'cli-progress';
 import { appClient, writeClient } from './clients.js';
 import Scammer from './scammer.js';
 import Alert from './alert.js';
@@ -11,47 +10,36 @@ const dryRun = !!process.env.DRY_RUN;
 
 const lastStatusID = new Map();
 
-export default async function update() {
-  const progress = new cliProgress.SingleBar({
-    format: `Checking scammers... |{bar}| {percentage}% || {value}/{total} scammers`,
-    barCompleteChar: '\u2588',
-    barIncompleteChar: '\u2591',
-  });
+export default async function update({ progress }) {
+  await connect();
 
-  try {
-    await connect();
+  const cutoff = sub(startOfHour(new Date()), { hours: 1 });
 
-    const cutoff = sub(startOfHour(new Date()), { hours: 1 });
+  console.log('Cutoff time is', format(cutoff, 'yyyy-MM-dd HH:mm:ss'));
 
-    console.log('Cutoff time is', format(cutoff, 'yyyy-MM-dd HH:mm:ss'));
+  const scammers = process.env.SCAMMER
+    ? await Scammer.find({ username: process.env.SCAMMER }).populate('brand')
+    : await Scammer.find({ isActive: true }).populate('brand');
 
-    const scammers = process.env.SCAMMER
-      ? await Scammer.find({ username: process.env.SCAMMER }).populate('brand')
-      : await Scammer.find({ isActive: true }).populate('brand');
+  progress.start(scammers.length, 0);
 
-    progress.start(scammers.length, 0);
+  const shuffledScammers = scammers.sort(() => Math.random() - 0.5);
+  const batches = batchArray(shuffledScammers, 100);
 
-    const shuffledScammers = scammers.sort(() => Math.random() - 0.5);
-    const batches = batchArray(shuffledScammers, 100);
+  for (const batch of batches) {
+    const users = await appClient.v1.users({ user_id: batch.map(s => s.id) });
 
-    for (const batch of batches) {
-      const users = await appClient.v1.users({ user_id: batch.map(s => s.id) });
+    for (const user of users) {
+      const hasChanged = lastStatusID.get(user.id_str) !== user.status?.id_str;
 
-      for (const user of users) {
-        const hasChanged =
-          lastStatusID.get(user.id_str) !== user.status?.id_str;
-
-        if (hasChanged) {
-          const scammer = batch.find(s => s.id === user.id_str);
-          await processScammer(scammer, cutoff);
-          lastStatusID.set(user.id_str, user.status?.id_str);
-        }
-
-        progress.increment();
+      if (hasChanged) {
+        const scammer = batch.find(s => s.id === user.id_str);
+        await processScammer(scammer, cutoff);
+        lastStatusID.set(user.id_str, user.status?.id_str);
       }
+
+      progress.increment();
     }
-  } finally {
-    progress.stop();
   }
 }
 
@@ -216,3 +204,8 @@ async function toArray(iterator) {
   }
   return result;
 }
+
+export const heartbeatURL =
+  'https://cronitor.link/p/d0f88a8c67c94502beefda7035fc8c48/rWwpwY';
+
+export const interval = '1m';
