@@ -88,6 +88,11 @@ async function processScammer(scammer, cutoff) {
       { 'user.fields': ['created_at', 'public_metrics'] }
     );
 
+    if (!victim) {
+      console.log('Could not find victim', tweet.in_reply_to_user_id);
+      continue;
+    }
+
     const tweetURL = `https://twitter.com/${scammer.username}/status/${tweet.id}`;
 
     if (await alreadyAlerted({ scammer, victim })) {
