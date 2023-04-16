@@ -1,6 +1,6 @@
 import { compareTwoStrings } from 'string-similarity';
+import { pipeline } from 'node:stream/promises';
 import Bluebird from 'bluebird';
-import { Readable } from 'node:stream';
 import strom from 'stromjs';
 import { subHours } from 'date-fns';
 import { appClient } from './clients.js';
@@ -16,7 +16,7 @@ export default async function main({ progress }) {
     name: { $not: /ypf|fr.vega/i },
     $or: [
       { lastUserSearchAt: { $exists: false } },
-      { lastUserSearchAt: { $lt: subHours(new Date(), 6) } },
+      { lastUserSearchAt: { $lt: subHours(new Date(), 1) } },
     ],
   });
 
@@ -38,27 +38,22 @@ async function processBrand({ brand }) {
     (await Scammer.find().select('id').lean()).map(s => s.id)
   );
 
-  await new Promise((resolve, reject) => {
-    Readable.from(findUsers(brand.name))
-      .on('error', reject)
-      .pipe(uniqueBy(user => user.id_str))
-      .pipe(strom.filter(user => !knownScammerIDs.has(user.id_str)))
-      .pipe(strom.map(user => analyzeUserResult({ brand, user })))
-      .pipe(strom.filter(Boolean))
-      .pipe(
-        strom.map(async ({ scammer }) => {
-          notifyScammer({ scammer: scammer.user, brand });
-          await Scammer.create({
-            id: scammer.user.id_str,
-            username: scammer.user.screen_name,
-            createdAt: scammer.user.created_at,
-            brand,
-          });
-        })
-      )
-      .on('error', reject)
-      .on('end', resolve);
-  });
+  await pipeline(
+    findUsers(brand.name),
+    uniqueBy(user => user.id_str),
+    strom.filter(user => !knownScammerIDs.has(user.id_str)),
+    strom.map(user => analyzeUserResult({ brand, user })),
+    strom.filter(Boolean),
+    strom.map(async ({ scammer }) => {
+      notifyScammer({ scammer: scammer.user, brand });
+      await Scammer.create({
+        id: scammer.user.id_str,
+        username: scammer.user.screen_name,
+        createdAt: scammer.user.created_at,
+        brand,
+      });
+    })
+  );
 
   await Brand.updateOne(
     {
