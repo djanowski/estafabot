@@ -21,10 +21,18 @@ async function run() {
   } catch (error) {
     const firstError = error.errors?.[0];
     const isOverQuota = firstError?.code === 185;
+    const isRateLimited = firstError?.code === 88;
     if (isOverQuota) {
       notifyError(`Error: ${firstError.message} (${firstError.code})`);
       await new Promise(resolve => {
         setTimeout(resolve, ms('10m'));
+      });
+    } else if (isRateLimited) {
+      const { reset } = firstError;
+      const delay = reset * 1000 - Date.now();
+      notifyError(`Rate limited for ${ms(delay, { long: true })}}`);
+      await new Promise(resolve => {
+        setTimeout(resolve, delay);
       });
     } else {
       notifyError(error);
